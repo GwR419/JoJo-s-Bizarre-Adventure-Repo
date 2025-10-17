@@ -1,5 +1,5 @@
 # JoJo-s-Bizarre-Adventure-Repo
-This is a project where we will look at the end/final battle of JoJo's Bizarre Aventure part 5: Golden Wind. 
+This is a project where we will look at the end/final battle of JoJo's Bizarre Aventure part 5: Golden Wind manga that came out in 1999, and compare it to the animated series that came out in October of 2018. 
 
 
 
