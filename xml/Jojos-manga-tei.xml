@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -20,46 +20,64 @@
       <body>
          <div>
             <pb n="1"/>
-            <cbml:panel n="1"><cbml:balloon type="speech" who="diavolo" panel="3">
-               <p>WHA...</p>
-            </cbml:balloon></cbml:panel>
-            <cbml:panel n="2"><cbml:balloon type="speech" who="mista" panel="4">
-               <p>GI...</p>
-            </cbml:balloon></cbml:panel>
-            <cbml:panel n="3"><cbml:balloon type="speech" who="mista" panel="5">
-               <p>GIORNO !?</p>
-            </cbml:balloon>
-            <cbml:balloon type="speech" who="trish" panel="5">
-               <p>W... WAIT, MISTA!</p>
-            </cbml:balloon>
-            <cbml:balloon type="speech" who="trish" panel="5">
-               <p>THERE'S SOMETHING PEEKING OUT FROM THE CRACKS! IS THAT...</p>
-            </cbml:balloon></cbml:panel>
-            <cbml:panel n="4"><cbml:balloon type="speech" who="trish">
-               <p>COULD IT!?</p>
-            </cbml:balloon></cbml:panel>
+            <cbml:panel n="1" characters="#ger"/>
+            <cbml:panel n="2" characters="#ger #king_crimson #diavolo">
+               <cbml:caption>GOLD EXPERIENCE REQUIEM PART 1</cbml:caption>
+            </cbml:panel>
+            <cbml:panel n="3" characters="#diavolo">
+               <cbml:balloon type="speech" who="#diavolo">
+                  <p>WHA...</p>
+               </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4" characters="#mista">
+               <cbml:balloon type="speech" who="#mista">
+                  <emph rendition="#b">GI...</emph>
+               </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="5" characters="#mista #trish">
+               <cbml:balloon type="speech" who="#mista">
+                  <emph rendition="#b">GIORNO !?</emph>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="#trish">
+                  <p>W... WAIT, MISTA!</p>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="#trish">
+                  <p>THERE'S SOMETHING PEEKING OUT FROM THE CRACKS! IS THAT...</p>
+               </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="6" characters="#trish">
+               <cbml:balloon type="speech" who="#trish">
+                  <p>COULD IT BE!?</p>
+               </cbml:balloon>
+            </cbml:panel>
             <pb n="2"/>
-            <cbml:panel n="4"><cbml:balloon type="speech" who="diavolo" panel="4">
-               <p>WHAT AM I LOOKING AT? I SMASHED HIS HEAD OPEN! SHOULDN'T HIS BRIANS BE SPLATTRED
-                  ACROSS THE GROUND!/</p>
-            </cbml:balloon>
-            <cbml:balloon type="speech" who="diavolo" panel="4">
-               <p>THAT THING INSIDE... THAT'S NOT HIS BRAIN... I... IMPOSSIBLE! AND THE ARROW'S
-                  BEING SUCKED INTO HIS ARM, TOO!</p>
-            </cbml:balloon></cbml:panel>
+            <cbml:panel n="4">
+               <cbml:balloon type="speech" who="#diavolo">
+                  <p>WHAT AM I LOOKING AT? I SMASHED HIS HEAD OPEN! SHOULDN'T HIS BRIANS BE
+                     SPLATTRED ACROSS THE GROUND!/</p>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="diavolo">
+                  <p>THAT THING INSIDE... THAT'S NOT HIS BRAIN... I... IMPOSSIBLE! AND THE ARROW'S
+                     BEING SUCKED INTO HIS ARM, TOO!</p>
+               </cbml:balloon>
+            </cbml:panel>
             <pb n="3"/>
-            <cbml:panel n="2"><cbml:balloon type="speech" who="diavolo" panel="2">
-               <p>THE ARROW!?</p>
-            </cbml:balloon>
-            <cbml:balloon type="speech" who="diavolo" panel="2">
-               <p>THE ARROW'S-!</p>
-            </cbml:balloon></cbml:panel>
-            <cbml:panel n="4"><cbml:balloon type="speech" who="diavolo" panel="4">
-               <p>D... DAMN!</p>
-            </cbml:balloon>
-            <cbml:balloon type="speech" who="diavolo" panel="4">
-               <p>YOU'RE FINISHED GIORNO GIOVANNA!</p>
-            </cbml:balloon></cbml:panel>
+            <cbml:panel n="2">
+               <cbml:balloon type="speech" who="diavolo">
+                  <p>THE ARROW!?</p>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="diavolo">
+                  <p>THE ARROW'S-!</p>
+               </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4">
+               <cbml:balloon type="speech" who="diavolo">
+                  <p>D... DAMN!</p>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="diavolo">
+                  <p>YOU'RE FINISHED GIORNO GIOVANNA!</p>
+               </cbml:balloon>
+            </cbml:panel>
          </div>
       </body>
    </text>
