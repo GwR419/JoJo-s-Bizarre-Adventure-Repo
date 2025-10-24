@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>JoJo's Bizarre Adventure Part 5: Golden Wind</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <page num="1"><div>
+                <pb n="1"/>
+                <cbml:panel n="1"><cbml:balloon type="speech" who="diavolo">
+                        <p>WHAT...</p>
+                </cbml:balloon></cbml:panel>
+                <cbml:balloon type="speech" who="diavolo">
+                        <p>...DID HE DO TO ME!</p>
+                </cbml:balloon>
+                <cbml:panel n="2"><cbml:balloon type="speech" who="diavolo">
+                        <p>WHAT DID HE DO!</p>
+                </cbml:balloon>
+                    <cbml:balloon type="speech" who="diavolo">
+                        <p>HE BROKE SOMETHING <strong>BEHIND</strong> HIS OWN HEAD!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="trish">
+                        <p>THERE'S SOMETHING PEEKING OUT FROM THE CRACKS! IS THAT...</p>
+                    </cbml:balloon></cbml:panel>
+                <cbml:balloon type="speech" who="diavolo">
+                        <p>WHAT WAS THAT?!</p>
+                </cbml:balloon>
+                
+                <cbml:panel n="3"><cbml:balloon type="speech" who="diavolo">
+                        <p>THESE ANTIS-!?/</p>
+                </cbml:balloon></cbml:panel>
+                    <cbml:panel n="4"><cbml:balloon type="speech" who="trish">
+                        <p>BEHIND ...</p>
+                    </cbml:balloon></cbml:panel>
+                <pb n="3"/>
+                <cbml:panel n="5"><cbml:balloon type="speech" who="trish">
+                        <p>WHAT DID HE DO TO REQUIEM!?</p>
+                </cbml:balloon></cbml:panel>
+                    <pb n="2"/>
+                    </div>
+            </page>
+            <page num="2">
+                <div>
+                    <pb n="4"/>
+                <cbml:panel n="1"><cbml:balloon type="speech" who="diavolo">
+                </cbml:balloon>
+                        <p>HE WAS ABLE TO TOUCH IT!</p>
+                        <pb n="1"/>
+                <cbml:balloon type="speech" who="trish">
+                </cbml:balloon>
+                        <p>WE CAN TOUCH THE <strong>ARROW!</strong></p>
+                    <cbml:balloon type="speech" who="trish">
+                        <p>HE <strong>BROKE REQUIEM!</strong></p>
+                    </cbml:balloon>
+                        <cbml:balloon type="speech" who="trish">
+                            <p>THE BUGS CRAWLING ON THE <strong>ARROW</strong> ARE GIORNO'S LIFE ENGERY!</p>
+                </cbml:balloon></cbml:panel>
+                </div>
+            </page>
+        </body>
+    </text>
+</TEI>
