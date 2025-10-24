@@ -21,41 +21,74 @@
         <body>
             <div>
                 <pb n="1"/>
-                <cbml:panel n="1" characters="#silver-chrariot #trish # # ">
+                <cbml:panel n="1" characters="#silver-chrariot #Bird # # ">
                     <cbml:caption>DIAVOLO EMERGES PART 1</cbml:caption>
-                        <cbml:balloon type="speech" who="#bird">
+                        <cbml:balloon type="speech" who="#narrator">
                             <emph rendition="#b">SOME-THING ELSE...</emph>   
                             <sound>OOH HHH</sound>
                         </cbml:balloon> 
-                    <cbml:balloon type="speech" who="#bird">
+                    <cbml:balloon type="speech" who="#narrator">
                         <p>THE HISTORY OF LIFE ON OUR PLANET SPANS 4.5 BILLIONS YEARS...</p> 
                     </cbml:balloon>  
-                    <cbml:balloon type="speech" who="#bird">
+                    <cbml:balloon type="speech" who="#narrator">
                         <p>BUT IN JUST A FEW HOURS...</p>
                         <sound>GAA AHH</sound>
                     </cbml:balloon> 
-                    <cbml:balloon type="speech" who="#bird">
+                    <cbml:balloon type="speech" who="#narrator">
                         <p>IT'LL ALL BE TRANSFORMED INTO <emph rendition="#b">SOME-THING ELSE!</emph> EVERY LAST BIT OF IT!</p> 
                         <sound>SUPPA AAAA</sound>
                     </cbml:balloon>
              </cbml:panel>
              
+             <pb n="2"/>
              <cbml:panel n="1" characters="#silver-chrariot">
-                 <p>Weird symbols</p>
+                 <p>Symbols</p>
              </cbml:panel>
-                <cbml:panel n="2" characters="#silver-chrariot #trish #guy on ground">
-                    <cbml:balloon type="speech" who="#trish">
+                
+             <cbml:panel n="2" characters="#silver-chrariot #trish #guy on ground">
+                <cbml:balloon type="speech" who="#trish">
                     <p>WHAT THE HELL IS GOING ON!?</p>     
                 </cbml:balloon>
-                    <cbml:balloon type="speech" who="#trish">
+                <cbml:balloon type="speech" who="#trish">
                     <p>WH...</p>     
                 </cbml:balloon>
                 <cbml:balloon type="speech" who="#trish">
                     <p>Y... YOU MEAN ...!</p>     
                 </cbml:balloon>
              </cbml:panel> 
-             <cbml:panel n="2" characters="#"/>
-      
+                
+             <cbml:panel n="3" characters="#diavolo #trish #guido-mista #giorno">
+                <cbml:balloon type="speech" who="trish">
+                    <p>WHAT'S HAPPENING TO THE CITY!? W... WAIT A MINUTE, IS THIS <emph rendition="#b">ABILITY</emph> AFFECTING THE ENTIRE WORLD</p>
+                </cbml:balloon>    
+                <cbml:balloon type="speech" who="guido-mista">
+                    <p>THEY'RE NOT DYING... IT DOESN'T LOOK LIKE THEY'RE FEELING ANY PAIN, EITHER... EVERYONE'S JUST GOT THESE BLANK LOOKS ON THEIR FACES.</p>
+                </cbml:balloon>    
+             </cbml:panel>
+                
+             <cbml:panel n="4" characters="guido-mista">
+                <cbml:balloon type="speech" who="guido-mista">    
+                    <p>BUT...</p>
+                </cbml:balloon>
+                </cbml:panel>
+                
+             <cbml:panel n="5" characters="guido-mista">
+                <cbml:balloon type="speech" who="guido-mista">
+                    <p>I'M AFRAID OF MY MIND TURNING INTO <emph rendition="#b">SOME-THING ELSE.</emph></p>
+                </cbml:balloon>
+                <cbml:balloon type="speech" who="guido-mista">
+                    <p>THAT<emph rendition="#b">FEAR...</emph></p>
+                </cbml:balloon>
+                <cbml:balloon type="speech" who="guido-mista">
+                    <p>...STILL EXISTS</p>
+                </cbml:balloon>
+                <cbml:balloon type="speech" who="guido-mista">
+                    <p>THEY FEAR THAT MY<emph rendition="#b"> BODY</emph> AND<emph rendition="#b"> SOUL...</emph></p>
+                </cbml:balloon>
+                <cbml:balloon type="speech" who="guido-mista">
+                    <p>...WILL DISAPPEAR, LITTLE BY LITTLE...</p>
+                </cbml:balloon>
+             </cbml:panel>
                 
             </div>
         </body>
