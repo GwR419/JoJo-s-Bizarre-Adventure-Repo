@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>JoJo's Bizarre Adventure Part 5: Golden Wind</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text> 
+        <body>
+            <div>
+                <pb n="1"/>
+                <cbml:panel n="1" characters="#silver-chrariot #trish # # ">
+                    <cbml:caption>DIAVOLO EMERGES PART 1</cbml:caption>
+                        <cbml:balloon type="speech" who="#bird">
+                            <emph rendition="#b">SOME-THING ELSE...</emph>   
+                            <sound>OOH HHH</sound>
+                        </cbml:balloon> 
+                    <cbml:balloon type="speech" who="#bird">
+                        <p>THE HISTORY OF LIFE ON OUR PLANET SPANS 4.5 BILLIONS YEARS...</p> 
+                    </cbml:balloon>  
+                    <cbml:balloon type="speech" who="#bird">
+                        <p>BUT IN JUST A FEW HOURS...</p>
+                        <sound>GAA AHH</sound>
+                    </cbml:balloon> 
+                    <cbml:balloon type="speech" who="#bird">
+                        <p>IT'LL ALL BE TRANSFORMED INTO <emph rendition="#b">SOME-THING ELSE!</emph> EVERY LAST BIT OF IT!</p> 
+                        <sound>SUPPA AAAA</sound>
+                    </cbml:balloon>
+             </cbml:panel>
+             
+             <cbml:panel n="1" characters="#silver-chrariot">
+                 <p>Weird symbols</p>
+             </cbml:panel>
+                <cbml:panel n="2" characters="#silver-chrariot #trish #guy on ground">
+                    <cbml:balloon type="speech" who="#trish">
+                    <p>WHAT THE HELL IS GOING ON!?</p>     
+                </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish">
+                    <p>WH...</p>     
+                </cbml:balloon>
+                <cbml:balloon type="speech" who="#trish">
+                    <p>Y... YOU MEAN ...!</p>     
+                </cbml:balloon>
+             </cbml:panel> 
+             <cbml:panel n="2" characters="#"/>
+      
+                
+            </div>
+        </body>
+    </text>
+    
+    
+</TEI>
