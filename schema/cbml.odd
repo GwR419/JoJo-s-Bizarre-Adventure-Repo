@@ -21,11 +21,12 @@
       </fileDesc>
       <revisionDesc>
          <change when="2025-10-20">
-           <list> <item>Removed Relax NG from content models.</item>
-              <item>Removed unused divGen and updated ODD
-               elements to current tagdocs specs.</item>
-               <item>Removed <gi>xenoData</gi> from teiheader module due to strange error with conflicting ids in generated Relax NG.</item>
-           </list>
+            <list>
+               <item>Removed Relax NG from content models.</item>
+               <item>Removed unused divGen and updated ODD elements to current tagdocs specs.</item>
+               <item>Removed <gi>xenoData</gi> from teiheader module due to strange error with
+                  conflicting ids in generated Relax NG.</item>
+            </list>
          </change>
          <change when="2018-06-07">
             <list>
@@ -64,8 +65,8 @@
             </moduleSpec>
 
             <!-- panel -->
-            <elementSpec ident="panel" mode="add" ns="http://www.cbml.org/ns/1.0"
-              module="cbml" prefix="cbml_">
+            <elementSpec ident="panel" mode="add" ns="http://www.cbml.org/ns/1.0" module="cbml"
+               prefix="cbml_">
                <desc> Contains a single comic book panel. </desc>
                <classes mode="replace">
                   <memberOf key="model.divLike"/>
@@ -102,39 +103,62 @@
                   </sequence>
                </content>
                <attList>
-                  <attDef ident="characters" usage="opt">
+                  <attDef ident="characters" usage="req">
                      <desc>Pointers to characters appearing in the panel.</desc>
                      <datatype minOccurs="1" maxOccurs="unbounded">
                         <dataRef key="teidata.pointer"/>
                      </datatype>
+                     <valList type="semi" mode="change">
+                        <valItem mode="add" ident="Giorno"/>
+                        <valItem mode="add" ident="Trish"/>
+
+                     </valList>
                   </attDef>
                </attList>
                <exemplum>
                   <p>
                      <figure>
-                        <head>The fifth panel of page 6, from Captain America #193 (January
-                           1976), edited, written, and drawn by Jack Kirby.</head>
+                        <head>The fifth panel of page 6, from Captain America #193 (January 1976),
+                           edited, written, and drawn by Jack Kirby.</head>
                         <graphic url="images/eg_panel_01.png"/>
                      </figure>
                   </p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <cbml:panel n="5" characters="#cap #anon_man" ana="#action-to-action"
                         xml:id="eg_000">
-                        <cbml:caption> Cap acts quickly to tranquilize the gun-happy
-                           pedestrian... </cbml:caption>
-                        <cbml:balloon xml:id="eg_007" type="speech" who="#cap"> A little
-                           <emph rendition="#b">sleep</emph> will do wonders for you! </cbml:balloon>
+                        <cbml:caption> Cap acts quickly to tranquilize the gun-happy pedestrian... </cbml:caption>
+                        <cbml:balloon xml:id="eg_007" type="speech" who="#cap"> A little <emph
+                              rendition="#b">sleep</emph> will do wonders for you! </cbml:balloon>
                         <sound>SPLAT!</sound>
                         <cbml:balloon type="speech" who="#anon_man"> Ugh! </cbml:balloon>
                      </cbml:panel>
                   </egXML>
                </exemplum>
             </elementSpec>
+
+            <!--     <elementSpec ident="sp" mode="change">
+               <attList>
+                  <attDef ident="who" mode="change" usage="req">
+                     <valList type="semi" mode="change">
+                        <valItem mode="add" ident="Emma"/>
+                        <valItem mode="add" ident="BullyA"/>
+                        <valItem mode="add" ident="Momo"/>
+                        <valItem mode="add" ident="Muko"/>
+                        <valItem mode="add" ident="Miko"/>
+                        <valItem mode="add" ident="Extra"/>
+                        <valItem mode="add" ident="Ken"/>
+                        <valItem mode="add" ident="turboGranny"/>
+                        <valItem mode="add" ident="Rokuro"/>
+                        <valItem mode="add" ident="Seiko"/>
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>-->
             <!-- balloon -->
-            <elementSpec ident="balloon" mode="add" ns="http://www.cbml.org/ns/1.0"
-               module="cbml" prefix="cbml_">
-               <desc> A single speech, thought, or other type of balloon, commonly found in
-                  comics, comic books, and graphic novels. </desc>
+            <elementSpec ident="balloon" mode="add" ns="http://www.cbml.org/ns/1.0" module="cbml"
+               prefix="cbml_">
+               <desc> A single speech, thought, or other type of balloon, commonly found in comics,
+                  comic books, and graphic novels. </desc>
                <classes>
                   <memberOf key="model.inter"/>
                   <memberOf key="att.global"/>
@@ -159,15 +183,22 @@
                            <desc>thought balloon.</desc>
                         </valItem>
                         <valItem ident="audio">
-                           <desc>a balloon emanating from an audio device, e.g., television
-                              or radio speaker, telephone, walkie-talkie, etc.</desc>
+                           <desc>a balloon emanating from an audio device, e.g., television or radio
+                              speaker, telephone, walkie-talkie, etc.</desc>
                         </valItem>
                         <valItem ident="telepathy">
                            <desc>a <soCalled>telepathic</soCalled> balloon, i.e., a balloon
                               representing language that telepathically transmitted from
-                              <soCalled>speaker</soCalled> to
+                                 <soCalled>speaker</soCalled> to
                               <soCalled>listener.</soCalled></desc>
                         </valItem>
+                     </valList>
+                  </attDef>
+                  <attDef ident="who" mode="change" usage="req">
+                     <valList type="semi" mode="change">
+                        <valItem mode="add" ident="Giorno"/>
+                        <valItem mode="add" ident="Trish"/>
+
                      </valList>
                   </attDef>
                </attList>
@@ -175,45 +206,42 @@
                   <p>
                      <figure>
                         <head>A panel from a Stardust story, by Fletcher Hanks, from
-                           <title>Fantastic Comics</title> #15 (February 1941).</head>
+                              <title>Fantastic Comics</title> #15 (February 1941).</head>
                         <graphic url="images/eg_balloon_01.png"/>
                      </figure>
                   </p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <cbml:panel characters="#stardust">
-                        <cbml:caption> The next instant, Stardust swoops out of the
-                           heavens........ </cbml:caption>
-                        <cbml:balloon type="speech" who="#stardust"> We must take no more
-                           risk! </cbml:balloon>
-                     </cbml:panel>
-                  </egXML>
-               </exemplum>
-               <exemplum>
-                      <p> 
-                         <figure>
-                        <head>An panel from The Amazing Spider-Man #5 (October 1963) by Stan
-                           Lee and Steve Ditko.</head>
-                        <graphic url="images/eg_balloon_02.png"/>
-                     </figure>
-                      </p>
-                  <egXML xmlns="http://www.tei-c.org/ns/Examples">
-                     <cbml:panel characters="#spidey #jjj" n="3" xml:id="eg_ae1">
-                        <cbml:balloon xml:id="eg_006" who="#jjj" type="audio"
-                           subtype="telecast" rendition="#uc"> My name is J. Jonah Jameson,
-                           publisher of <title rendition="#b">Now</title> magazine and the
-                           <title rendition="#b">Daily Bugle</title><emph
-                              rendition="#b">!</emph> I am sponsoring this program in the
-                           public interest, to expose <emph rendition="#b"
-                              >Spider-Man</emph> to the pubic as the menace he is!
+                        <cbml:caption> The next instant, Stardust swoops out of the heavens........ </cbml:caption>
+                        <cbml:balloon type="speech" who="#stardust"> We must take no more risk!
                         </cbml:balloon>
                      </cbml:panel>
                   </egXML>
                </exemplum>
+               <exemplum>
+                  <p>
+                     <figure>
+                        <head>An panel from The Amazing Spider-Man #5 (October 1963) by Stan Lee and
+                           Steve Ditko.</head>
+                        <graphic url="images/eg_balloon_02.png"/>
+                     </figure>
+                  </p>
+                  <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                     <cbml:panel characters="#spidey #jjj" n="3" xml:id="eg_ae1">
+                        <cbml:balloon xml:id="eg_006" who="#jjj" type="audio" subtype="telecast"
+                           rendition="#uc"> My name is J. Jonah Jameson, publisher of <title
+                              rendition="#b">Now</title> magazine and the <title rendition="#b"
+                              >Daily Bugle</title><emph rendition="#b">!</emph> I am sponsoring this
+                           program in the public interest, to expose <emph rendition="#b"
+                              >Spider-Man</emph> to the pubic as the menace he is! </cbml:balloon>
+                     </cbml:panel>
+                  </egXML>
+               </exemplum>
             </elementSpec>
-            
+
             <!-- caption -->
-            <elementSpec ident="caption" mode="add" module="cbml"
-               ns="http://www.cbml.org/ns/1.0" prefix="cbml_">
+            <elementSpec ident="caption" mode="add" module="cbml" ns="http://www.cbml.org/ns/1.0"
+               prefix="cbml_">
                <desc> A narrative caption from a comic book panel. </desc>
                <classes mode="replace">
                   <memberOf key="model.inter"/>
@@ -224,41 +252,38 @@
                <content>
                   <macroRef key="macro.specialPara"/>
                </content>
-               
+
                <exemplum>
                   <p>
                      <figure>
-                        <head>A panel from a Dr. Strange story by Stan Lee and Steve Ditko
-                           from126 <title>Strange Tales</title> #126 (November
-                           1964).</head>
+                        <head>A panel from a Dr. Strange story by Stan Lee and Steve Ditko from126
+                              <title>Strange Tales</title> #126 (November 1964).</head>
                         <graphic url="images/eg_caption_01.png"/>
                      </figure>
                   </p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <cbml:panel>
                         <cbml:caption rendition="#uc">
-                           <hi rendition="#b">S</hi>lowly the mists begin to clear, as a
-                           strange, startling world takes form! A world in which the
-                           impossible is believable, and the incredible is commonplace--the
-                           world of the dark domain--the world of the dread <emph
-                              rendition="#b">Dormammu!</emph>
+                           <hi rendition="#b">S</hi>lowly the mists begin to clear, as a strange,
+                           startling world takes form! A world in which the impossible is
+                           believable, and the incredible is commonplace--the world of the dark
+                           domain--the world of the dread <emph rendition="#b">Dormammu!</emph>
                         </cbml:caption>
-                        <cbml:balloon type="speech" who="#drstrange"> The journey is over!
-                           But, judging by the unspeakable menace I see before me, the
-                           <emph rendition="#b">battle</emph> is just begun!
-                        </cbml:balloon>
+                        <cbml:balloon type="speech" who="#drstrange"> The journey is over! But,
+                           judging by the unspeakable menace I see before me, the <emph
+                              rendition="#b">battle</emph> is just begun! </cbml:balloon>
                      </cbml:panel>
                   </egXML>
                </exemplum>
             </elementSpec>
-            
+
             <!-- indicia -->
-            <elementSpec ident="indicia" mode="add" module="cbml" ns="http://www.cbml.org/ns/1.0" prefix="cbml_">
+            <elementSpec ident="indicia" mode="add" module="cbml" ns="http://www.cbml.org/ns/1.0"
+               prefix="cbml_">
                <desc>Contains the <soCalled>small print</soCalled> bibliographic and legal
-                  information, traditionally found at the bottom of the first recto after the cover of
-                  a comic book, more recently some of the major comic book publishers have
-                  moved this information to the bottom of the final verso before the back
-                  cover.</desc>
+                  information, traditionally found at the bottom of the first recto after the cover
+                  of a comic book, more recently some of the major comic book publishers have moved
+                  this information to the bottom of the final verso before the back cover.</desc>
                <classes mode="replace">
                   <memberOf key="att.global"/>
                   <memberOf key="model.divLike"/>
@@ -273,45 +298,42 @@
                <exemplum>
                   <p>
                      <figure>
-                        <head>The title page from a Samson story in <title>Fantastic
-                              Comics</title> #15 (February 1941). In the example below,
-                           after the title panel, a TEI <gi>div</gi> element is used to
-                           indicate a panel group
-                           (<att>type</att><code>="panelGrp"</code>).</head>
+                        <head>The title page from a Samson story in <title>Fantastic Comics</title>
+                           #15 (February 1941). In the example below, after the title panel, a TEI
+                              <gi>div</gi> element is used to indicate a panel group
+                              (<att>type</att><code>="panelGrp"</code>).</head>
                         <graphic url="images/eg_panelGrp_01.jpg"/>
                      </figure>
                   </p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <cbml:panel type="title">
                         <head>Samson and David</head>
-                        <cbml:caption rendition="#uc"> Out of the mists of history comes the
-                           mighty Samson-- like his famous ancestor, Samson pits his
-                           temendous strength against the forces of evil and injustice--Mu…
-                           high priest of evil, plots against civilization… </cbml:caption>
+                        <cbml:caption rendition="#uc"> Out of the mists of history comes the mighty
+                           Samson-- like his famous ancestor, Samson pits his temendous strength
+                           against the forces of evil and injustice--Mu… high priest of evil, plots
+                           against civilization… </cbml:caption>
                         <bibl> By— <author>Alex Boon</author>
                         </bibl>
                      </cbml:panel>
                      <div type="panelGrp" xml:id="eg_002">
                         <cbml:panel n="1" characters="#david #samson">
-                           <cbml:balloon who="#david" type="speech"> What a funny looking
-                              truck outside here… Never saw one like it before! </cbml:balloon>
-                           <cbml:balloon who="#samson" type="speech"> That’s strange!
-                              What’s it look like? </cbml:balloon>
+                           <cbml:balloon who="#david" type="speech"> What a funny looking truck
+                              outside here… Never saw one like it before! </cbml:balloon>
+                           <cbml:balloon who="#samson" type="speech"> That’s strange! What’s it look
+                              like? </cbml:balloon>
                         </cbml:panel>
                         <cbml:panel n="2" characters="#samson #david">
-                           <cbml:balloon type="speech" who="#samson"> You’re right--I never
-                              saw one like this before! </cbml:balloon>
-                           <cbml:balloon type="speech" who="#david"> Wonder what it’s doing
-                              here? </cbml:balloon>
+                           <cbml:balloon type="speech" who="#samson"> You’re right--I never saw one
+                              like this before! </cbml:balloon>
+                           <cbml:balloon type="speech" who="#david"> Wonder what it’s doing here?
+                           </cbml:balloon>
                         </cbml:panel>
                         <cbml:panel n="3" characters="#samson #david">
                            <cbml:balloon type="speech" who="#samson"> What the--! </cbml:balloon>
-                           <cbml:balloon type="speech" who="#david"> Gas---Help!
-                           </cbml:balloon>
+                           <cbml:balloon type="speech" who="#david"> Gas---Help! </cbml:balloon>
                         </cbml:panel>
                         <cbml:panel n="4" characters="#samson #david">
-                           <cbml:balloon type="speech" who="#samson"> No time to look for
-                              doors now! </cbml:balloon>
+                           <cbml:balloon type="speech" who="#samson"> No time to look for doors now! </cbml:balloon>
                            <sound>Crash!</sound>
                            <fw type="pageNum" place="lower-left">1</fw>
                         </cbml:panel>
@@ -321,8 +343,7 @@
                <exemplum>
                   <p>
                      <figure>
-                        <head>A small advertisement in Fantastic Four #65 (August
-                           1967).</head>
+                        <head>A small advertisement in Fantastic Four #65 (August 1967).</head>
                         <graphic url="images/eg_advert_01.jpg"/>
                      </figure>
                   </p>
@@ -330,41 +351,38 @@
                      <div type="advert" xml:id="eg_003">
                         <head rend="background-color:black; color:white;"
                            rendition="#x-large #center #uc"> Poems Wanted </head>
-                        <ab type="floatingHead" rendition="#center #uc">To Be Set to
-                           Music</ab>
-                        <p> Send one or more of your best poems today for <emph
-                              rendition="#uc">free examination</emph>. Any subject.
-                           Immediate Consideration. </p>
-                        <ab type="floatingHead" rendition="#center #uc">Phonograph Records
-                           Made</ab>
+                        <ab type="floatingHead" rendition="#center #uc">To Be Set to Music</ab>
+                        <p> Send one or more of your best poems today for <emph rendition="#uc">free
+                              examination</emph>. Any subject. Immediate Consideration. </p>
+                        <ab type="floatingHead" rendition="#center #uc">Phonograph Records Made</ab>
                         <ab>
                            <address>
                               <addrLine rendition="#uc #large #center">
                                  <orgName>Crown Music Co</orgName>
                               </addrLine>
-                              <addrLine rendition="#center"> 49 W. 32 St., Studio 11, New
-                                 York 1 </addrLine>
+                              <addrLine rendition="#center"> 49 W. 32 St., Studio 11, New York 1
+                              </addrLine>
                            </address>
                         </ab>
                      </div>
                   </egXML>
                </exemplum>
             </elementSpec>
-            
+
             <elementSpec ident="sound" module="drama" mode="change">
                <exemplum>
                   <p>
                      <figure>
-                        <head>A panel from <title>Captain America</title> #193 (January
-                           1976) by Jack Kirby.</head>
+                        <head>A panel from <title>Captain America</title> #193 (January 1976) by
+                           Jack Kirby.</head>
                         <graphic url="images/eg_sound_01.jpg"/>
                      </figure>
                   </p>
                   <egXML xmlns="http://www.tei-c.org/ns/Examples">
                      <cbml:panel n="2" characters="#cap #anon_man">
-                        <cbml:balloon who="#cap" type="thought" rendition="#uc"> That man
-                           firing the pistol--I'll have to <emph rendition="#b">stop</emph>
-                           him before someone stops a <emph rendition="#b">bullet!</emph>
+                        <cbml:balloon who="#cap" type="thought" rendition="#uc"> That man firing the
+                           pistol--I'll have to <emph rendition="#b">stop</emph> him before someone
+                           stops a <emph rendition="#b">bullet!</emph>
                         </cbml:balloon>
                         <sound> POW! </sound>
                      </cbml:panel>
