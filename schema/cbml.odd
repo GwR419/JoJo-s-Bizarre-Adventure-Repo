@@ -109,9 +109,23 @@
                         <dataRef key="teidata.pointer"/>
                      </datatype>
                      <valList type="semi" mode="change">
-                        <valItem mode="add" ident="Giorno"/>
-                        <valItem mode="add" ident="Trish"/>
-
+                        <valItem mode="add" ident="#giorno"/>
+                        <valItem mode="add" ident="#trish"/>
+                        <valItem mode="add" ident="#mista"/>
+                        <valItem mode="add" ident="#diavolo"/>
+                        <valItem mode="add" ident="#king_crimson"/>
+                        <valItem mode="add" ident="#sex_pistols"/>
+                        <valItem mode="add" ident="#gold_experience_requiem"/>
+                        <valItem mode="add" ident="#monica"/>
+                        <valItem mode="add" ident="#fugo"/>
+                        <valItem mode="add" ident="#narancia"/>
+                        <valItem mode="add" ident="#abbacchio"/>
+                        <valItem mode="add" ident="#bucciarati"/>
+                        <valItem mode="add" ident="#chariot_requiem"/>
+                        <valItem mode="add" ident="#spice_girl"/>
+                        <valItem mode="add" ident="#sticky_fingers"/>
+                        <valItem mode="add" ident="#polnareff"/>
+                        <valItem mode="add" ident="#gold_experience"/>
                      </valList>
                   </attDef>
                </attList>
@@ -140,16 +154,23 @@
                <attList>
                   <attDef ident="who" mode="change" usage="req">
                      <valList type="semi" mode="change">
-                        <valItem mode="add" ident="Emma"/>
-                        <valItem mode="add" ident="BullyA"/>
-                        <valItem mode="add" ident="Momo"/>
-                        <valItem mode="add" ident="Muko"/>
-                        <valItem mode="add" ident="Miko"/>
-                        <valItem mode="add" ident="Extra"/>
-                        <valItem mode="add" ident="Ken"/>
-                        <valItem mode="add" ident="turboGranny"/>
-                        <valItem mode="add" ident="Rokuro"/>
-                        <valItem mode="add" ident="Seiko"/>
+                       <valItem mode="add" ident="#giorno"/>
+                        <valItem mode="add" ident="#trish"/>
+                        <valItem mode="add" ident="#mista"/>
+                        <valItem mode="add" ident="#diavolo"/>
+                        <valItem mode="add" ident="#king_crimson"/>
+                        <valItem mode="add" ident="#sex_pistols"/>
+                        <valItem mode="add" ident="#gold_experience_requiem"/>
+                        <valItem mode="add" ident="#monica"/>
+                        <valItem mode="add" ident="#fugo"/>
+                        <valItem mode="add" ident="#narancia"/>
+                        <valItem mode="add" ident="#abbacchio"/>
+                        <valItem mode="add" ident="#bucciarati"/>
+                        <valItem mode="add" ident="#chariot_requiem"/>
+                        <valItem mode="add" ident="#spice_girl"/>
+                        <valItem mode="add" ident="#sticky_fingers"/>
+                        <valItem mode="add" ident="#polnareff"/>
+                        <valItem mode="add" ident="#gold_experience"/>
                      </valList>
                   </attDef>
                </attList>
@@ -196,9 +217,23 @@
                   </attDef>
                   <attDef ident="who" mode="change" usage="req">
                      <valList type="semi" mode="change">
-                        <valItem mode="add" ident="Giorno"/>
-                        <valItem mode="add" ident="Trish"/>
-
+                        <valItem mode="add" ident="#giorno"/>
+                        <valItem mode="add" ident="#trish"/>
+                        <valItem mode="add" ident="#mista"/>
+                        <valItem mode="add" ident="#diavolo"/>
+                        <valItem mode="add" ident="#king_crimson"/>
+                        <valItem mode="add" ident="#sex_pistols"/>
+                        <valItem mode="add" ident="#gold_experience_requiem"/>
+                        <valItem mode="add" ident="#monica"/>
+                        <valItem mode="add" ident="#fugo"/>
+                        <valItem mode="add" ident="#narancia"/>
+                        <valItem mode="add" ident="#abbacchio"/>
+                        <valItem mode="add" ident="#bucciarati"/>
+                        <valItem mode="add" ident="#chariot_requiem"/>
+                        <valItem mode="add" ident="#spice_girl"/>
+                        <valItem mode="add" ident="#sticky_fingers"/>
+                        <valItem mode="add" ident="#polnareff"/>
+                        <valItem mode="add" ident="#gold_experience"/>
                      </valList>
                   </attDef>
                </attList>
