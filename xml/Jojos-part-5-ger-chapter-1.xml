@@ -252,15 +252,77 @@
                   POWER-UP!</p></cbml:balloon>
             </cbml:panel>
             <cbml:panel n="4" characters="#diavolo #giorno #gold_experience_requiem">
-               <cbml:balloon n="1" type="speech" who="#diavolo"><p>IT IS A THREAT, BUT IT IS NOTHING THAT I CANNOT OVERCOME WITH MY ABILITY TO<emph rendition="b">FORECAST!</emph></p></cbml:balloon>
-               <cbml:balloon n="2" type="speech" who="#diavolo"><p>FATE HAS CHOSEN FOR THE <emph rendition="b">APEX!</emph></p></cbml:balloon>
-               <cbml:balloon n="3" type="speech" who="#diavolo"><p>I, DIAVOLO AM THE <emph rendition="b">EMPEROR</emph>WHO HAS OVERCOME EVERY CRISIS THAT I HAVE FACED!</p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>IT IS A THREAT, BUT IT IS NOTHING
+                     THAT I CANNOT OVERCOME WITH MY ABILITY TO<emph rendition="b"
+                     >FORECAST!</emph></p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo"><p>FATE HAS CHOSEN FOR THE <emph
+                        rendition="b">APEX!</emph></p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#diavolo"><p>I, DIAVOLO AM THE <emph
+                        rendition="b">EMPEROR</emph>WHO HAS OVERCOME EVERY CRISIS THAT I HAVE
+                     FACED!</p></cbml:balloon>
             </cbml:panel>
             <pb n="13"/>
-            <cbml:panel n="1" characters="#diavolo"><cbml:balloon n="1" type="speech" who="#diavolo"><p></p></cbml:balloon></cbml:panel>
-            <cbml:panel n="2" characters="#giorno #gold_experience_requiem"></cbml:panel>
-            <cbml:panel n="3" characters="#mista"></cbml:panel>
-            <cbml:panel n="4" characters="#diavolo"><cbml:balloon n="1" type="speech" who="#diavolo"><emph rendition="b">KING CRIMSON!</emph></cbml:balloon></cbml:panel>
+            <cbml:panel n="1" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>DON'T LECTURE ME YOU COCKY
+                     BRAT!</p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>GIORNO GIOVANNA! I WILL NOT EVEN
+                     ALLOW YOU THE TIME...</p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>TO LAMENT YOUR OWN
+                  DEATH!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#giorno #gold_experience_requiem"/>
+            <cbml:panel n="3" characters="#mista"/>
+            <cbml:panel n="4" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><emph rendition="b">KING
+                     CRIMSON!</emph></cbml:balloon>
+            </cbml:panel>
+            <pb n="14"/>
+            <cbml:panel n="1" characters="#diavolo #king_crimson #giorno #gold_experience_requiem"/>
+            <cbml:panel n="2" characters=" #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">TIME SHALL BE
+                        ERASED FROM EVERYONE BUT MYSELF!</emph></p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3" characters="#gold_experience_requiem"/>
+            <cbml:panel n="4" characters="#gold_experience_requiem"/>
+            <cbml:panel n="5" characters="#king_crimson">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p>I SEE
+                  IT.</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="6" characters="#king_crimson #giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p>I SEE HIS STAND'S
+                     ACTIONS!</p></cbml:balloon>
+            </cbml:panel>
+            <pb n="15"/>
+            <cbml:panel n="1" characters="#king_crimson">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p>EVERY-THING HE'S
+                     TRYING TO DO!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#king_crimson"/>
+            <cbml:panel n="3" characters="#king_crimson #giorno #gold_experience_requiem #mista">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p>I CAN <emph
+                        rendition="b">PREDICT</emph>IT ALL!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4" characters="#king_crimson"/>
+            <cbml:panel n="5" characters="#king_crimson">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p>EVERYTHING THIS
+                     FILTH DOES!</p></cbml:balloon>
+            </cbml:panel>
+            <pb n="16"/>
+            <cbml:panel n="1" characters="#giorno"/>
+            <cbml:panel n="2" characters="#giorno #gold_experience_requiem #king_crimson">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p>NOW I'VE COMPLETELY
+                     BLOCKED OFF <emph rendition="b">GOLD EXPERIENCE'S</emph>
+                  ATTACKS!</p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo #king_crimson"><p>EVEN AFTER TIME
+                     RESUMES IN A FEW SECONDS...</p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#diavolo #king_crimson"><p>YOUR EYES WILL
+                     NEVER LOOK UPON EITHER ME, DIAVOLO, OR <emph rendition="b">KING CRIMSON</emph>
+                     EVER AGAIN!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3" characters="#giorno #gold_experience_requiem #king_crimson">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p><emph rendition="b"
+                        >MY ABILITY STANDS UPON THE APEX OF REALITY!!</emph></p></cbml:balloon>
+            </cbml:panel>
          </div>
       </body>
    </text>
