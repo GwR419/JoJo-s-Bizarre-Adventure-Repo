@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>JoJo's Bizarre Adventure Part 5: Golden Wind - DIAVOLO EMERGES PART 2</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text> 
+        <body>
+            <div>
+                <pb n="1"/>
+                <cbml:panel n="1" characters="#Giorno #diavolo->buccellati #Trish->mista #guido-mista->Trish">
+                        <cbml:balloon type="speech" who="#Giorno">
+                            <p>AT ANY RATE, HE'S HIDING INSIDE ONE OF US!</p>
+                        </cbml:balloon>
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>HOWEVER, WE DO HAVE ONE <emph rendition="#b">ADVANTAGE!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>THAT IS THE FACE THAT WHILE DIAVOLO CAN SUMMON <emph rendition="#b"> KING CRIMSON</emph> FROM<emph rendition="#b"> THE BODY HE'S POSSESSING...</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>HE IS UNABLE TO COMPLETELY <emph rendition="#b"> DOMINATE</emph> THE<emph rendition="#b"> BODY HE'S HIDING IN</emph> RIGHT NOW!</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#king-crimson">
+                    <cbml:caption>DIAVOLO EMERGES PART 2</cbml:caption>
+                </cbml:panel>
+                
+                <pb n="2"/>
+                
+                <cbml:panel n="1" characters="#chariot-requiem #mista #trish #giorno #diavolo">
+                    <cbml:caption>DIAVOLO EMERGES PART 2</cbml:caption>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>THE REASON HE HASN'T <emph rendition="#b">KILLED</emph> US IS BECAUSE HE CAN'T JUST TAKE CONTROL SO EASILY!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>THEN HE WOULDN'T HAVE STAYED HIDDEN THIS WHOLE TIME!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>IF HE COULD FREELY CONTROL <emph rendition="#b">THE BODY HE'S POSSESSING.</emph></p>
+                    </cbml:balloon>
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#chariot-requiem #mista #trish #giorno #polnareff">
+                    <cbml:balloon type="speech" who="#trish">
+                        <p>THE TURTLE!</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                
+            </div>
+        </body>
+    </text>
+    
+    
+</TEI>
