@@ -356,7 +356,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="6" characters="#silver-chariot #trish #guido-mista">
+                <cbml:panel n="6" characters="#silver-chariot #trish #mista">
                     <cbml:balloon type="speech" who="#trish">
                         <p><emph rendition="#b">OUR BODIES ARE GONNA DISAP-PEAR!</emph></p>
                     </cbml:balloon>
@@ -401,19 +401,19 @@
                     <cbml:balloon type="thought" who="#giorno">
                         <p>THE PISTOLS WERE INSIDE THE BULLETS! IF THEY SAY IT'S METAL FATIGUE, THEN IT'S METAL FATIGUE! I'VE ALREADY GOT A NEW BERATTA, ANYWAY!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->Mista">
+                    <cbml:balloon type="speech" who="#trish->Mista">
                         <p>REQUIEM'S GETTING AWAY, GODDMAN IT!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->Mista">
+                    <cbml:balloon type="speech" who="#trish->Mista">
                         <p>GET TO THE POINT, ALREADY GIORNO!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->Mista">
+                    <cbml:balloon type="speech" who="#trish->Mista">
                         <p><emph rendition="#b">WHAT ELSE COULD HAVE HAPPENED, HUH!?</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->Mista">
+                    <cbml:balloon type="speech" who="#trish->Mista">
                         <p><emph rendition="#b">THE SURFACES DON'T LINE UP BECAUSE SOME OTHER BITS FELL OFF!</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->Mista">
+                    <cbml:balloon type="speech" who="#trish->Mista">
                         <p><emph rendition="#b">WHAT ELSE COULD HAVE HAPPENED, HUH!?</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -423,7 +423,7 @@
                         <p>STEP AWAY FROM EACH OTHER.</p></cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="4" characters="#giorno #diavolo->buccellati #guido-mista->trish">
+                <cbml:panel n="4" characters="#giorno #diavolo->buccellati #mista->trish">
                     <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">I NOW WE DON'T HAVE ANY TIME, BUT I WANT YOU TO STAY STILL TOO TRISH!</emph></p>
                     </cbml:balloon>
@@ -509,13 +509,13 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="5" characters="#guido-mista->trish">
+                <cbml:panel n="5" characters="#mista->trish">
                 </cbml:panel>
                 
                 <cbml:panel n="6" characters="#diavolo->buccellati">
                 </cbml:panel>
                 
-                <cbml:panel n="7" characters="#Trish->mista">
+                <cbml:panel n="7" characters="#trish->mista">
                 </cbml:panel>
                 
                 <cbml:panel n="4" characters="#mole">
@@ -547,28 +547,28 @@
                 <cbml:panel n="3" characters="#giorno #mole">
                 </cbml:panel>
                 
-                <cbml:panel n="4" characters="#Trish->mista">
-                    <cbml:balloon type="speech" who="#Trish->mista">
+                <cbml:panel n="4" characters="#trish->mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
                         <p>ARE YOU SAYING SOMEONE WAS STRONG ENOUGH TO TWIST THE GUN APART!?</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
                         <p>H-HEY WAIT A MINUTE!</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
                 <cbml:panel n="4" characters="#giorno">
-                    <cbml:balloon type="speech" who="#Trish->mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
                         <p>Weird Symbol</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
                 <pb n="13"/>
                 
-                <cbml:panel n="1" characters="#giorno #Trish->mista #diavolo->buccellati #guido-mista->trish">
+                <cbml:panel n="1" characters="#giorno #trish->mista #diavolo->buccellati #mista->trish">
                     <cbml:balloon type="speech" who="#Trish->mista">
                         <p>LEMME TELL YA! THERE'S SOMETHING THAT ME AND MY PISTOLS ARE 100% SURE ABOUT!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
                         <p>AND THAT'S THE FACT THAT NOBODY EVER APPROACHED US IN THIS PLAZA!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#giorno">
@@ -585,11 +585,11 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#guido-mista->trish">
-                    <cbml:balloon type="speech" who="#guido-mista->trish">
+                <cbml:panel n="2" characters="#mista->trish">
+                    <cbml:balloon type="speech" who="#mista->trish">
                         <p>G...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
                         <p>GIORNO, YOU DON'T...</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -606,7 +606,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="5" characters="#spice-girl #Trish->mista">
+                <cbml:panel n="5" characters="#spice-girl #trish->mista">
                     <cbml:balloon type="speech" who="#diavolo->buccellati">
                         <p><emph rendition="#b">HUH...?</emph></p>
                     </cbml:balloon>
@@ -614,7 +614,7 @@
                 
                 <pb n="14"/>
                 
-                <cbml:panel n="1" characters="#Trish->mista #diavolo->buccellati #turtle->polnareff #guido-mista->Trisha #giorno">
+                <cbml:panel n="1" characters="#trish->mista #diavolo->buccellati #turtle->polnareff #mista->trisha #giorno">
                     <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">NOBODY EVER APPROACHED NARANCIA WHEN HE DIED, EITHER!</emph></p>
                     </cbml:balloon>
@@ -627,7 +627,7 @@
                     <cbml:balloon type="speech" who="#giorno">
                         <p>IF YOUR THEORY IS RIGHT AND THE BOSS DOES HAVE<emph rendition="#b"> TWO PERSONALITES...</emph>THEN HIS SOUL IS FREE TO<emph rendition="#b"> COME AND GO!</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#guido-mista->Trisha">
+                    <cbml:balloon type="speech" who="#mista->trisha">
                         <p>PERHAPS WE MIGHT CALL THAT A TALENT OF HIS!</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -640,7 +640,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#Trisha->mista">
+                <cbml:panel n="2" characters="#trisha->mista">
                     <cbml:balloon type="speech" who="#giorno">
                         <p>WHA-!?</p>
                     </cbml:balloon>
@@ -658,18 +658,18 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="5" characters="#guido-mista->Trisha">
-                    <cbml:balloon type="speech" who="#guido-mista->Trisha">
+                <cbml:panel n="5" characters="#mista->trisha">
+                    <cbml:balloon type="speech" who="#mista->trisha">
                         <p>AND THE REASON WHY HE'S HIDING HIS<emph rendition="#b"> PERSONALITY</emph> RIGHT NOW IS BECAUSE HE'S WAITING FOR THE PERFECT CHANCE TO TAKE THE ARROW.</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#guido-mista->Trisha">
+                    <cbml:balloon type="speech" who="#mista->trisha">
                         <p>WHEN HE'S HIDING, TRISH CAN'T SENSE HIS PRESENCE.</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
                 <pb n="15"/>
                 
-                <cbml:panel n="1" characters="#giorno #diavolo->buccellati #guido-mista->Trisha #Trisha->mista">
+                <cbml:panel n="1" characters="#giorno #diavolo->buccellati #mista->trisha #Trisha->mista">
                     <cbml:balloon type="symbols" who="#symbols">
                         <p>Weird Symbols</p>
                     </cbml:balloon>
