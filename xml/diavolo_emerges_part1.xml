@@ -303,17 +303,18 @@
                 </cbml:panel>
                 
                 <pb n="8"/>
-                <cbml:panel n="1" characters="#silver-chariot #Giorno #trish #diavolo #guido-mista">
-                    <cbml:balloon type="speech" who="#Giorno">
+                
+                <cbml:panel n="1" characters="#silver-chariot #giorno #trish #diavolo #guido-mista">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">TRISH, BUCCELLATI, YOU NEED TO STOP, TOO!</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">RIGHT THERE!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#silver-chariot #Giorno #trish #diavolo #guido-mista">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="2" characters="#silver-chariot #giorno #trish #diavolo #guido-mista">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">DON'T MOVE!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -337,20 +338,20 @@
                 <cbml:panel n="3" characters="#diavolo">
                 </cbml:panel>
                 
-                <cbml:panel n="4" characters="#silver-chariot #trish #Giorno">
+                <cbml:panel n="4" characters="#silver-chariot #trish #giorno">
                     <cbml:balloon type="thought" who="#trish or #guido-mista">
                         <p>WE CAN CATCH UP TO REQUIEM RIGHT AFTER THIS!</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="5" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="5" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>THE ONE YOU SAID THAT WAS BROKEN...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>I PICKED UP YOUR REVOLVER...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>YOUR<emph rendition="#b">REVOLVER...!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -372,8 +373,8 @@
                 
                 <pb n="10"/>
                 
-                <cbml:panel n="1" characters="#Giorno #buccellati #trish #mista #polnareff">
-                    <cbml:caption>Soul and Body:Giorno</cbml:caption>
+                <cbml:panel n="1" characters="#giorno #buccellati #trish #mista #polnareff">
+                    <cbml:caption>Soul and Body:giorno</cbml:caption>
                     
                     <cbml:caption>Soul: Buccellati</cbml:caption>
                     <cbml:balloon type="thought" who="#buccellati">
@@ -396,8 +397,8 @@
                     </cbml:balloon> 
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#Trish #silver-chariot #spice-girl">
-                    <cbml:balloon type="thought" who="#Giorno">
+                <cbml:panel n="2" characters="#trish #silver-chariot #spice-girl">
+                    <cbml:balloon type="thought" who="#giorno">
                         <p>THE PISTOLS WERE INSIDE THE BULLETS! IF THEY SAY IT'S METAL FATIGUE, THEN IT'S METAL FATIGUE! I'VE ALREADY GOT A NEW BERATTA, ANYWAY!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#Trish->Mista">
@@ -417,28 +418,28 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#Giorno">
-                    <cbml:balloon type="thought" who="#Giorno">
+                <cbml:panel n="3" characters="#giorno">
+                    <cbml:balloon type="thought" who="#giorno">
                         <p>STEP AWAY FROM EACH OTHER.</p></cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="4" characters="#Giorno #diavolo->buccellati #guido-mista->trish">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="4" characters="#giorno #diavolo->buccellati #guido-mista->trish">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">I NOW WE DON'T HAVE ANY TIME, BUT I WANT YOU TO STAY STILL TOO TRISH!</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>ALL OF YOU...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">BUCCELLATI, STAY RIGHT THERE!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="5" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="5" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>IT IF BROKE FROM METAL FATIGUE, THEN THE SURFACES SHOULD LINE UP.</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>IT JUST DOESN'T FIT TOGETHER...</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -455,31 +456,31 @@
                 <cbml:panel n="7" characters="#trish->mista">
                 </cbml:panel>
                 
-                <cbml:panel n="8" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="8" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>THE<emph rendition="#b">SURFACE</emph> WHERE IT BROKE OFF...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>IT DOESN'T LINE UP...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>THE PART WHERE THE CYLINDER CONNECTS TO THE REST OF THE GUN...</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
                 <pb n="11"/>
                 
-                <cbml:panel n="1" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="1" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>YOU MIGHT BE RIGHT...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>BUT THERE MIGHT BE MORE TO IT.</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>WE'LL KNOW AS SOON AS WE SEE THEM.</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>AS SOON AS WE SEE THE<emph rendition="#b">MISSING PIECES!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -490,7 +491,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#Giorno #mole">
+                <cbml:panel n="3" characters="#giorno #mole">
                     <cbml:balloon type="speech" who="#mole">
                         <p><emph rendition="#b">SCRITCH</emph></p>
                     </cbml:balloon>
@@ -528,11 +529,11 @@
                 
                 <pb n="12"/>
                 
-                <cbml:panel n="1" characters="#Giorno #gold-experience #mole">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="1" characters="#giorno #gold-experience #mole">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>I GAVE LIFE TO THE GUN AND SET IT LOOSE!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>MOLES HAVE BARELY ANY EYESIGHT, BUT THEIR SENSE OF SMELL IS INCREDIBLY SHARP... LOOKS LIKE IT'S COME BACK AND BROUGHT THE MISSING PIECE WITH IT.</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#gold-experience">
@@ -543,7 +544,7 @@
                 <cbml:panel n="2" characters="#revolver-piece">
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#Giorno #mole">
+                <cbml:panel n="3" characters="#giorno #mole">
                 </cbml:panel>
                 
                 <cbml:panel n="4" characters="#Trish->mista">
@@ -555,7 +556,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="4" characters="#Giorno">
+                <cbml:panel n="4" characters="#giorno">
                     <cbml:balloon type="speech" who="#Trish->mista">
                         <p>Weird Symbol</p>
                     </cbml:balloon>
@@ -563,23 +564,23 @@
                 
                 <pb n="13"/>
                 
-                <cbml:panel n="1" characters="#Giorno #Trish->mista #diavolo->buccellati #guido-mista->trish">
+                <cbml:panel n="1" characters="#giorno #Trish->mista #diavolo->buccellati #guido-mista->trish">
                     <cbml:balloon type="speech" who="#Trish->mista">
                         <p>LEMME TELL YA! THERE'S SOMETHING THAT ME AND MY PISTOLS ARE 100% SURE ABOUT!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#Trish->mista">
                         <p>AND THAT'S THE FACT THAT NOBODY EVER APPROACHED US IN THIS PLAZA!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>YOU'RE RIGHT MISTA...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>NOBODY HAS EVER APPROACHED US!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>THAT'S WHY WE NEED TO SPLIT APART! FIVE METERS! THE GUN WAS TWIST APART!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>BECAUSE HIS RANGE IS A FEW METERS!</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -613,17 +614,17 @@
                 
                 <pb n="14"/>
                 
-                <cbml:panel n="1" characters="#Trish->mista #diavolo->buccellati #turtle->polnareff #guido-mista->Trisha #Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="1" characters="#Trish->mista #diavolo->buccellati #turtle->polnareff #guido-mista->Trisha #giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">NOBODY EVER APPROACHED NARANCIA WHEN HE DIED, EITHER!</emph></p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#turtle->polnareff">
                         <p><emph rendition="#b">NOBODY AT ALL, OTHER THAN US!</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>POLNAREFF, IS IT SAFE TO CALL THIS <emph rendition="#b"> "POSSESSION"!?</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>IF YOUR THEORY IS RIGHT AND THE BOSS DOES HAVE<emph rendition="#b"> TWO PERSONALITES...</emph>THEN HIS SOUL IS FREE TO<emph rendition="#b"> COME AND GO!</emph></p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#guido-mista->Trisha">
@@ -633,14 +634,14 @@
                 
                 <pb n="15"/>
                 
-                <cbml:panel n="1" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="1" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p><emph rendition="#b">DIAVOLO HAS POSSESSED ONE OF US!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
                 
                 <cbml:panel n="2" characters="#Trisha->mista">
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>WHA-!?</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -668,17 +669,17 @@
                 
                 <pb n="15"/>
                 
-                <cbml:panel n="1" characters="#Giorno #diavolo->buccellati #guido-mista->Trisha #Trisha->mista">
+                <cbml:panel n="1" characters="#giorno #diavolo->buccellati #guido-mista->Trisha #Trisha->mista">
                     <cbml:balloon type="symbols" who="#symbols">
                         <p>Weird Symbols</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#Giorno #Trisha->mista">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="2" characters="#giorno #Trisha->mista">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>SORRY TO REPEAT MYSELF, BUT STAY AWAY FROM ME, MISTA!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>STAY FIVE METERS AWAY!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#Trish->mista">
@@ -692,14 +693,14 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="3" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>WE ALL AGREE ON THAT.</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>DIDN'T ALL OF US?</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>AND BESIDES, NOBODY'S CLOSER TO YOUR OWN GUN THAN YOUR OWN SELF.</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -730,8 +731,8 @@
                 <cbml:panel n="2" characters="#Trish->mista">
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="3" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>WE CAN'T KEEP ON CHASING<emph rendition="#b"> REQUIEM</emph> LIKE THIS...</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="#Trish->mista">
@@ -774,11 +775,11 @@
                 <cbml:panel n="1" characters="#silver-chariot">
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#Giorno">
-                    <cbml:balloon type="speech" who="#Giorno">
+                <cbml:panel n="2" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>I'LL HAVE TO DO IT...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Giorno">
+                    <cbml:balloon type="speech" who="#giorno">
                         <p>. . . . . . . . . . . . . . . . . .</p>
                     </cbml:balloon>
                 </cbml:panel>
