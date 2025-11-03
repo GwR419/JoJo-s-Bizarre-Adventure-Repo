@@ -11,11 +11,6 @@ body {
 /* NAVIGATION ==================================================================================================================== */
 
 
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
 nav {
   float: left;
   width: 15%;
@@ -43,9 +38,6 @@ h1 {
 }
 
 
-ul {
-    list-style: none;
-}
 nav {
     font-size: 3ex;
 }
