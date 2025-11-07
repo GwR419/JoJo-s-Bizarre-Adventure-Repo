@@ -220,7 +220,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="6" characters="#trisha->mista">
+                <cbml:panel n="6" characters="#trish->mista">
                 </cbml:panel>
                 
                 <cbml:panel n="7" characters="#giorno">
@@ -246,7 +246,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#diavolo->">
+                <cbml:panel n="2" characters="#diavolo->buccellati">
                     <cbml:balloon type="speech" who="#diavolo->buccellati">
                         <p>BUT GIORNO...</p>
                     </cbml:balloon>
@@ -425,7 +425,7 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#diavolo->buccellati #giorno #mista->trisha #trish->mista">
+                <cbml:panel n="2" characters="#diavolo->buccellati #giorno #mista->trish #trish->mista">
                     <cbml:balloon type="speech" who="#trish->mista">
                         <p><emph rendition="#b">I'M TELLING YOU, MAN! IT'S NOT ME!</emph></p>
                     </cbml:balloon>
