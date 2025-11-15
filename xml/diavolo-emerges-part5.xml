@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>JoJo's Bizarre Adventure Part 5: Golden Wind</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1"/>
+                <cbml:panel n="1" characters="#sex_pistols">
+                    <cbml:balloon type="speech" who="sex_pistol">
+                        <p>AND NOW HE'S FLYING TO THE ARROW WITH IT!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="sex_pistol">
+                        <p>HE PUNCHED THOUGH TRISH'S SOUL... </p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#sex_pistols">
+                    <cbml:balloon type="speech" who="sex_pistols">
+                        <p>HE JUST-</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="sex_pistols">
+                        <p>WHAT!?</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p>I'M DONE .../</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p>DONE WITH THIS BODY ...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p>AND DONE WITH YOU ...</p>
+                    </cbml:balloon>
+                    <cbml:caption>DIAVOLO EMERGES PART 5</cbml:caption>
+                </cbml:panel>
+                <cbml:panel n="5" characters="#trish->mista">
+                    <cbml:balloon type="speech" who="trish->mista">
+                        <p>TRISH...</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="6" characters="#giorno">
+                    <cbml:balloon type="speech" who="giorno">
+                        <p>IT'S FLYING AWAY ...</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="7" characters="#diavolo->buccellati">
+                    <cbml:balloon type="speech" who="diavolo->buccellati">
+                        <p>H...HER SOUL...</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <pb n="2"/>
+                <cbml:panel n="1" characters="#trish->mista">
+                    <cbml:balloon type="speech" who="trish->mista">
+                        <p>TRISH'S SOUL IS DISAPPEAR-ING INTO THE SKY!</p>
+                    </cbml:balloon>
+                    <cbml:caption>DIAVOLO EMERGES PART 5</cbml:caption>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#diavolo->buccellati">
+                    <cbml:balloon type="speech" who="diavolo->buccellati">
+                        <p>OOOOOOOOOOOOOOOOOOOOOOHHHHHHHHHH!</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <pb n="3"/>
+                <cbml:panel n="1" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p>THE <emph rendition="b">ARROW</emph> IS MINE!</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <pb n="4"/>
+                <cbml:panel n="1" characters="#king_crimson #trish->mista #giorno">
+                    <!-- In these panels King Crimson smooshes the arrow tip into is palm to get higher powers. Both Mista and Giorno are worried. -->
+                </cbml:panel>
+                <pb n="5"/>
+                <cbml:panel n="1" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p>NOW TAKE MY KING CRIMSON TO THE APEX OF THE WORLD...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p>THE POWER OF THIS ARROW! THIS GIFT FROM FATE!</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p> IT PIERCED ME!</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="king_crimson">
+                        <p><abbr>CRACK!</abbr><abbr>CRACK!</abbr><abbr>CRACK!</abbr></p>
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+        </body>
+    </text>
+</TEI>
