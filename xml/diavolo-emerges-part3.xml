@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>JoJo's Bizarre Adventure Part 5: Golden Wind - DIAVOLO EMERGES PART 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text> 
+        <body>
+            <div>
+                
+                <pb n="1"/>
+                
+                <cbml:panel n="1" characters="#polnareff #enya #king_crimson #giorno #polpo">
+                    <cbml:caption>Meteorite strikes Greenland</cbml:caption>
+                </cbml:panel>
+             
+               <pb n="2"/>
+                
+                <cbml:panel n="1" characters="#giorno #diavolo #trish #polnareff #king-crimson #mista #spice_girl">
+                    <cbml:balloon type="speech" who="#diavolo">
+                        <p>TRISH"S SOUL WAS BEING POSSESSED!</p>
+                    </cbml:balloon>
+                    <cbml:caption>Mista</cbml:caption>
+                    <cbml:caption>Turtle is Polnareff</cbml:caption>
+                    <cbml:caption>Giorno is Giorno</cbml:caption>
+                    <cbml:caption>Bueccellati's Soul</cbml:caption>
+                    <cbml:caption>Meteorite strikes Greenland</cbml:caption>
+                    <cbml:caption>Diavolo's Soul (King Crimson)</cbml:caption>
+                    <cbml:caption>Trish's Soul (Spice Girl)</cbml:caption>
+                    <cbml:balloon type="speech" who="#spice_girl">
+                        <p>UAAHH...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#spice_girl">
+                        <p>KOH... KUH...</p>
+                    </cbml:balloon>
+                    <cbml:caption><emph rendition="#b">DIAVOLO EMERGES PART 3</emph></cbml:caption>
+                </cbml:panel>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
