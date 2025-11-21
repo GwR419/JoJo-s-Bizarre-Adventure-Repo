@@ -1,67 +1,113 @@
+
+/* 1. PAGE LAYOUT*/
 body {
-   background-image: url("");
-  font-size: 25px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: LightSteelBlue;
-    font-family: Comic-sans, Arial, Helvetica, sans-serif;
-    margin-left:5em;
-    margin-right:5em;
-    margin-top:3em;
-    margin-bottom:3em;
-/* NAVIGATION ==================================================================================================================== */
+   
+    background-image: url('images/CharOverlay2024.png');
+    
 
-nav {
-  float: left;
-  width: 15%;
-  height: 300px;
-  background: #ccc;
-  padding: 20px;
+    background-attachment: fixed;
+    
+
+    background-size: cover; 
+    
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+    
+    /* Set a default font for the whole page */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    /* Removes default browser margins */
+    margin: 0;
+    padding: 0;
 }
 
-nav ul {
-  list-style-type: none;
-  padding: 0;
+/* This is the main, scrollable white box*/
+.main-content {
+   
+    width: 1050px; 
+    
+    /* This centers the block on the page */
+    margin: 40px auto;
+    
+    /* This is the white background */
+    background-color: #ffffff;
+    
+    /* Adds spacing inside the white box */
+    padding: 30px;
+    
+    /* Adds a slight shadow */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    
+    /* Rounds the corners */
+    border-radius: 8px;
+}
+
+/* For mobile phones */
+@media (max-width: 768px) {
+    .main-content {
+        width: 90%; 
+    }
 }
 
 
 
+
+
+/* --- Navigation Styles --- */
+/* These styles will apply to the <div class="nav"> */
+.nav {
+    font-size: 3ex;
+}
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* --- Container Styles --- */
 .container {
-  display: flex;
-  background-color: rgb(77, 93, 109);
+    display: flex;
+    background-color: rgb(77, 93, 109);
 }
 
 .container div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 30px;
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
 }
 
+/* --- Text & Image Styles --- */
 h1 {
     font-size: 5ex;
-    text-align: center
-
+    text-align: center;
 }
-
 
 ul {
     list-style: none;
 }
-nav {
-    font-size: 3ex;
-}
+
 img {
-    width: 59%;
+    /* This makes the image responsive. 
+      width: 59% might be a bit random, 
+      so I changed it to 'width: 100%' 
+    */
+    width: 100%; 
     max-width: 500px;
+    height: auto; 
 }
 
 figcaption {
     font-size: smaller;
     font-style: italic;
 }
+
+/* --- Flex & Layout Styles --- */
 div.side-by-side {
     display: flex;
-    margin: 1em auto
+    margin: 1em auto;
 }
 
 .flex-item {
@@ -73,22 +119,12 @@ div.side-by-side {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    
 }
 
 figure {
     background-color: grey;
     padding: 20px;
     width: 50%;
-    
-}
-
-.box {
-  border: 5px solid black;
-}
-
-.align {
-    text-align: center
 }
 
 figure.lock {
@@ -96,7 +132,14 @@ figure.lock {
     background-color: #FFBF00;
 }
 
+.box {
+    border: 5px solid black;
+}
+
+.align {
+    text-align: center;
+}
+
 .featureBlock {
     background-color: #FF7F50;
-    }
-
+}
