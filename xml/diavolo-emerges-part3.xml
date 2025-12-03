@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>JoJo's Bizarre Adventure Part 5: Golden Wind - DIAVOLO EMERGES PART 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text> 
+        <body>
+            <div>
+                
+                <pb n="1"/>
+                
+                <cbml:panel n="1" characters="#polnareff #enya #king_crimson #giorno #polpo">
+                    <cbml:caption>Meteorite strikes Greenland</cbml:caption>
+                </cbml:panel>
+             
+               <pb n="2"/>
+                
+                <cbml:panel n="1" characters="#giorno #diavolo #trish #polnareff #king-crimson #mista #spice_girl">
+                    <cbml:balloon type="speech" who="#diavolo">
+                        <p>TRISH"S SOUL WAS BEING POSSESSED!</p>
+                    </cbml:balloon>
+                    <cbml:caption>Mista</cbml:caption>
+                    <cbml:caption>Turtle is Polnareff</cbml:caption>
+                    <cbml:caption>Giorno is Giorno</cbml:caption>
+                    <cbml:caption>Bueccellati's Soul</cbml:caption>
+                    <cbml:caption>Meteorite strikes Greenland</cbml:caption>
+                    <cbml:caption>Diavolo's Soul (King Crimson)</cbml:caption>
+                    <cbml:caption>Trish's Soul (Spice Girl)</cbml:caption>
+                    <cbml:balloon type="speech" who="#spice_girl">
+                        <p>UAAHH...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#spice_girl">
+                        <p>KOH... KUH...</p>
+                    </cbml:balloon>
+                    <cbml:caption><emph rendition="#b">DIAVOLO EMERGES PART 3</emph></cbml:caption>
+                </cbml:panel>
+                
+                <pb n="3"/>
+                
+                <cbml:panel n="1" characters="#mista #king_crimson #spice_girl">
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#mista">
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#mista #king_crimson #spice_girl">
+                    <cbml:balloon type="thought" who="#mista->trish">
+                        <p>NOW, I HAVE ENOUGH CONTROL TO MAKE THE BODY RUN...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#mista->trish">
+                        <p>IF I GRAB THE STAND, I CAN MOVE THE BODY, TOO...</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                
+                <cbml:panel n="4" characters="#diavolo">
+                </cbml:panel>
+                
+                <cbml:panel n="5" characters="#trish">
+                </cbml:panel>
+                
+                <cbml:panel n="6" characters="#polnareff">
+                </cbml:panel>
+                
+                <cbml:panel n="7" characters="#giorno">
+                </cbml:panel>               
+                
+                <cbml:panel n="8" characters="#mista">
+                    <cbml:balloon type="speech" who="#mista->trish">
+                        <p>UAGH...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#mista->trish">
+                        <p>KUH......</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                
+                <cbml:panel n="9" characters="#spice_girl #king_crimson">
+                </cbml:panel> 
+                
+                <cbml:panel n="10" characters="#mista #king_crimson #diavolo #sticky_fingers">
+                </cbml:panel> 
+                
+                <cbml:panel n="11" characters="#sticky_fingers">
+                    <cbml:balloon type="speech" who="#mista->trish">
+                        <p><emph rendition="#b">STICKY FINGERS!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <pb n="4"/>
+                
+                <cbml:panel n="1" characters="#king_crimson #mista #spice_girl">
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p>MY DAUGHTER, IF YOU HADN'T BROUGHT OUT YOUR<emph rendition="#b"> STAND,</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p>GIORNO MIGHT HAVE DISCOVERED ME, AND THEN YOU WOULD HAVE HAD ME CORNERED.</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#trish #mista #diavolo #giorno">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p>HE'S GONNA ATTACK, MISTA!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p>EVERYONE, GET TOGETHER! IF WE SPLIT UP, HE'S GONNA ERASE TIME AND-</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#trish">
+                </cbml:panel> 
+                
+                <cbml:panel n="4" characters="#trish">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>. . . . . . . . . . . . . . . . . .</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="5" characters="#trish">
+                </cbml:panel> 
+                
+                <pb n="5"/>
+                
+                <cbml:panel n="1" characters="#trish">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>HUH!?</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#diavolo #trish">
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#diavolo #giorno">
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>WHAT DID HE-!?</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo">
+                        <p>WH...</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="4" characters="#giorno">
+                </cbml:panel> 
+                
+                <cbml:panel n="5" characters="#mista #diavolo #trish">
+                </cbml:panel> 
+                
+                <pb n="6"/>
+                
+                <cbml:panel n="1" characters="#mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>WHA-!?</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="trish->mista">
+                        <p>WHY IS HE TURNING HIS BACK TO US!?</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#trish #diavolo">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>H... HE'S NOT ATTACKING US!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="trish->mista">
+                        <p>WH... WHY!?</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>WHY IS HE RUNNING AWAY WITHOUT ATTACKING!?</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#polnareff">
+                    <cbml:balloon type="speech" who="#turtle->polnareff">
+                        <p><emph rendition="#b">N...</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#turtle->polnareff">
+                        <p><emph rendition="#b">NO WAY!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="4" characters="#diavolo">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p>HE KNOWS THE <emph rendition="#b">METHOD...</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#turtle->polnareff">
+                        <p>...TO GET THE <emph rendition="#b">ARROW!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="5" characters="#trish">
+                <cbml:balloon type="speech" who="#trish->mista">
+                    <p>...EH?</p>
+                </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="6" characters="#mista">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p>THE METHOD TO TAKE THE <emph rendition="#b">ARROW</emph> FROM REQUIEM!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p>THE BOSS HAS ALREADY OBSERVED US AND DISCOVERED IT! LOOK AT HOW HE'S RUNNING!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <pb n="7"/>
+                
+                <cbml:panel n="1" characters="#mista">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">WE DON'T HAVE TIME! THAT TAKES PRIORITY!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p>HE KNOWS THE METHOD! MISTA, SHOOT!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#diavolo #trish">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">HE KNOWS THE METHOD! MISTA, SHOOT!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">WE CAN'T LET HIM GET THERE FIRST!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#trish">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p><emph rendition="#b">. . . . . . . . . . . . . .</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">WE CAN'T LET HIM GET THERE FIRST!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="4" characters="#diavolo">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">DON'T WASTE ANY MORE TIME!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">IT'S YOUR OWN BODY, BUT YOU HAVE TO SHOOT!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="5" characters="#trish">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>I'VE ALREADY...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>THAT'S NOT IT... I ALREADY FIRED BUC-CELLATI...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>...FIRED SIX SHOTS, IT SEEMS...</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <pb n="8"/>
+                
+                <cbml:panel n="1" characters="#diavolo #silver_chariot #mista">
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#trish">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p><emph rendition="#b">TIME</emph> IS SKIPPING!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>HE'S ERASING TIME AS HE'S RUNNING!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p><emph rendition="#b">KING CRIMSON </emph>HAS FORCASTED THE TRAJECTORIES OF THE BULLETS!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#civillians #silver_chariot #mista">
+                </cbml:panel> 
+                
+                <pb n="9"/>
+                
+                <cbml:panel n="1" characters="#diavolo #trish">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">YOU HAVE TO STOP HIM, MISTA!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">I DON'T CARE WHAT IT TAKES! IF HE CATCHES UP TO REQUIEM, THEN WE LOSE!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#civillians #silver_chariot #mista">
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#mista">
+                </cbml:panel>
+                
+                <pb n="10"/>
+                
+                <cbml:panel n="1" characters="#mista">
+                </cbml:panel>
+                
+                
+                <cbml:panel n="2" characters="#mista">
+                </cbml:panel>
+                
+                
+                <cbml:panel n="3" characters="#mista">
+                </cbml:panel>
+                
+                
+                <cbml:panel n="4" characters="#mista">
+                </cbml:panel>
+                
+                
+                <cbml:panel n="5" characters="#mista">
+                </cbml:panel>
+                
+                <pb n="11"/>
+                
+                <cbml:panel n="1" characters="#mista">
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#mista">
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#mista #silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="4" characters="#diavolo">
+                </cbml:panel>
+                
+                <cbml:panel n="5" characters="#polnareff">
+                </cbml:panel>
+                
+                <cbml:panel n="6" characters="#diavolo #trish">
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>H... HE KNOWS EVERY LAST DETAIL...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>HE'S FORECASTED EVERY LAST <emph rendition="#b">MOVEMENT!</emph> HE EVEN KNEW WHERE THE STEEL PIPE WOULD FALL!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#trish->mista">
+                        <p>I... I DON'T KNOWN WHAT I SHOULD DO! HE KNOWS EVERY <emph rendition="#b">MOVE</emph> THE PISTOLS WILL MAKE!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="7" characters="#diavolo">
+                </cbml:panel>
+                
+                <cbml:panel n="8" characters="#polnareff">
+                </cbml:panel>
+                
+                <pb n="12"/>
+                
+                <cbml:panel n="1" characters="#giorno">
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#mista #silver_chariot #diavolo #trish">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">RUN, MISTA! WE CAN STILL MAKE IT! CHASE HIM DOWN!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <pb n="13"/>
+                
+                <cbml:panel n="1" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="4" characters="#mista #silver_chariot">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>IT'S THAT<emph rendition="#b"> SHADOW!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>THAT'S REQUIEM'S<emph rendition="#b"> SECRET!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="5" characters="#mista #king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>IT'S IN THAT<emph rendition="#b"> SHADOW!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>WHY CAN'T ANYONE TOUCH THE<emph rendition="#b"> ARROW!?</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>THE SECRET BEHIND THAT IS WITHIN THE SHADOW! AS LONG AS I'M NOT WRONG...</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="6" characters="#mista #silver_chariot">
+                </cbml:panel>
+                
+                <pb n="14"/>
+                
+                <cbml:panel n="1" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="4" characters="#mista #silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="5" characters="#mista #king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>WHEN I'M MOVING REQUIEM'S<emph rendition="#b"> SHADOW IS...</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>...ALWAYS OPPOSITE FROM ME!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>IT MOVES WITHOUT ANY RELATION TO THE SUN! IF I LOOK FROM THE RIGHT, IT MOVES TO THE LEFT!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>IF I LOOK FROM THE FRONT IT MOVES TO THE BACK!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>AND THAT MEANS...!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <pb n="15"/>
+                
+                <cbml:panel n="1" characters="#civillians #silver_chariot">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>WHEN THOSE MEN ON THE GROUND LOOK AT REQUIEM'S<emph rendition="#b"> SHADOW...!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#civillians #silver_chariot #mista">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>THAT MAN SHOULD SEE THE SHADOW POINTING TOWARDS ME!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#diavolo #trish #silver_chariot">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>AND BUCCELLATI SHOULD SEE THE SHADOW...</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="4" characters="#silver_chariot #mista">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>...POINTING IN FRONT OF REQUIEM!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="5" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="6" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <pb n="16"/>
+                
+                <cbml:panel n="1" characters="#king_crimson #silver_chariot">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>AND WHAT THAT MEANS IS...!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p><emph rendition="#b">THIS SHADOW</emph> IS SOMETHING EACH INDI-VIDUAL HUMAN BEING SEES SEPARATELY!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>THIS IS THE RIDDLE OF REQUIEM! THIS IS WHY IT CAN CONTROL OUR <emph rendition="#b">SOULS!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#king_crimson #silver_chariot">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>IF THERE IS A SHADOW, THEN EVERY ONE OF US HAS OUR OWN PERSONAL<emph rendition="#b"> LIGHT</emph> SOMEWHERE!</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>THIS IS THE SHADOW OF OUR SOULS!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>THE<emph rendition="#b"> SHADOW</emph> CAST BY THE SOULS ITS CONTROLLING! BUT WHERE IS THE<emph rendition="#b"> LIGHT!?</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p>REQUIEM ITSELF IS THE <emph rendition="#b"> SHADOW OF MY SOUL!</emph> THAT IS WHY ATTACKING IT MEANT ATTACKING MYSELF! IF I REMOVE THE SHADOW, THEN I SHOULD BE ABLE TO OBTAIN THE<emph rendition="#b"> ARROW!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <pb n="17"/>
+                
+                <cbml:panel n="1" characters="#trish #diavolo">
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">HE HASN'T GRABBED THE ARROW, YET!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#diavolo->buccellati">
+                        <p><emph rendition="#b">WE'RE GOING IN, MISTA!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
+                        <p><emph rendition="#b">THE LIGHT </emph>IS BEHIND MY OWN SOUL!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <pb n="18"/>
+                
+                <cbml:panel n="1" characters="#king_crimson #silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#diavolo">
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#trish">
+                </cbml:panel>
+                
+                <pb n="19"/>
+                
+                <cbml:panel n="1" characters="#silver_chariot">
+                    <cbml:balloon type="speech" who="#silver_chariot">
+                        <p>OHHHHHHHHHHHHH</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#silver_chariot">
+                        <p>OHHHHHHH</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="3" characters="#silver_chariot">
+                </cbml:panel>
+                
+                <cbml:panel n="4" characters="#diavolo">
+                </cbml:panel>
+                
+                <cbml:panel n="5" characters="#trish">
+                </cbml:panel>
+                
+                <cbml:panel n="6" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p>I HAVE IT...</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="7" characters="#king_crimson">
+                </cbml:panel> 
+                
+                <cbml:panel n="8" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p><emph rendition="#b">THE ARROW!</emph></p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p>IT BELONGS TO DIAVOLO!</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <pb n="20"/>
+                
+                <cbml:panel n="1" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p><emph rendition="#b">IT IS MINE!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#giorno">
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>IF DIAVOLO HAS FOUND A <emph rendition="#b">METHOD</emph> TO OBTAIN THE <emph rendition="#b">ARROW...</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#polnareff #giorno">
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>WE CAN USE THAT, AS WELL.</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>WHEN HE CUT OFF MY HAND...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>THE BLOOD SPILLED FROM IT BECAME AN ORDINARY OBJECT...</p>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="#giorno">
+                        <p>RIGHT NOW, <emph rendition="#b">GOLD EXPERIENCE</emph> IS...</p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="4" characters="#giorno #polnareff">
+                </cbml:panel> 
+                
+                <pb n="21"/>
+                
+                <cbml:panel n="1" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p><emph rendition="#b">ACTIVATING!</emph></p>
+                    </cbml:balloon>
+                </cbml:panel> 
+                
+                <cbml:panel n="2" characters="#king_crimson">
+                </cbml:panel> 
+                
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon type="speech" who="#king_crimson">
+                        <p>WHA-!?</p>
+                    </cbml:balloon>
+                </cbml:panel>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

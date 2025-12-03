@@ -77,7 +77,7 @@
                     <p>I'M AFRAID OF MY MIND TURNING INTO <emph rendition="#b">SOME-THING ELSE.</emph></p>
                 </cbml:balloon>
                 <cbml:balloon type="speech" who="#guido-mista">
-                    <p>THAT<emph rendition="#b">FEAR...</emph></p>
+                    <p>THAT<emph rendition="#b"> FEAR...</emph></p>
                 </cbml:balloon>
                 <cbml:balloon type="speech" who="#guido-mista">
                     <p>...STILL EXISTS</p>
@@ -231,26 +231,26 @@
                 
                 <pb n="6"/>
                 
-                <cbml:panel n="1" characters="#silver-chariot #king-crimson">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                <cbml:panel n="1" characters="#silver-chariot #king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>AND THEN I, MY <emph rendition="#b">KING CRIMSON,</emph>SHALL SNATCH THE ARROW OUT OF ITS HANDS!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>IF YOU GET EVEN CLOSER,</p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>I WILL BE ABLE TO SEE EVERYTHING ABOUT REQUIEM's SECRET FROM WHERE I AM!</p>
                     </cbml:balloon> 
                 </cbml:panel>
                 
                 <cbml:panel n="2" characters="#silver-chariot">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>IT'S THAT SHADOW!</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#king-crimson">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>THAT<emph rendition="#b">SHADOW</emph>COMING FROM REQUIEM'S FEET AS IT WALKS!</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -258,46 +258,46 @@
                <pb n="7"/>
                 
                 <cbml:panel n="1" characters="#diavolo #trish #guido-mista #silver-chariot #civilians">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>NO MATTER WHERE I GO, THE SHADOW ALWAYS POINTS THE SAME DIRECTION FOR SOME REASON!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>EVEN THOUGH THE SUN IS RISING TO THE<emph rendition="#b">EAST...</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>REQUIEM'S<emph rendition="#b">ARROW</emph>AND IT<emph rendition="#b">S SECRET!</emph> I SEE HOW TO STEAL THE ARROW</p>
                     </cbml:balloon> 
                 </cbml:panel>
                 
-                <cbml:panel n="2" characters="#king-crimson">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                <cbml:panel n="2" characters="#king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>I WILL BE ABLE TO DEFEAT IT FOR CERTAIN!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>IF I GET CLOSER-</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#king-crimson">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>GOOD!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">YES!</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>THAT'S RIGHT! GET CLOSER!</p>
                     </cbml:balloon>
                 </cbml:panel>
                 
                 <cbml:panel n="4" characters="#trish, #diavolo #guido-mista">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>KNOCK THE<emph rendition="#b">ARROW</emph> OUT OF ITS HANDS AND FIND A WAY TO PICK IT UP!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>WERE DOING IT AGAIN!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>SURROUND<emph rendition="#b">REQUIEM!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -319,13 +319,13 @@
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="3" characters="#king-crimson">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">!?</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="4" characters="#king-crimson">
+                <cbml:panel n="4" characters="#king_crimson">
                 </cbml:panel>
                 
                 <pb n="9"/>
@@ -735,10 +735,10 @@
                     <cbml:balloon type="speech" who="#giorno">
                         <p>WE CAN'T KEEP ON CHASING<emph rendition="#b"> REQUIEM</emph> LIKE THIS...</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="#Trish->mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
                         <p>Y-YEAH... WHEN NARANCIA GOT ATTACKED, I WAS THE FARTHEST AWAY!</p>
                     </cbml:balloon>
-                    <cbml:balloon type="speech" who="T#rish->mista">
+                    <cbml:balloon type="speech" who="#trish->mista">
                         <p>AND THE CLOSEST ONE WAS...</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -785,32 +785,32 @@
                 </cbml:panel>
                 
                 <cbml:panel n="3" characters="#chariot-requiem">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">DAMN IT...</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">REQUIEM IS...</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">...GETTING AWAY...</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
                 
-                <cbml:panel n="4" characters="#king-crimson">
-                    <cbml:balloon type="thought" who="#king-crimson">
+                <cbml:panel n="4" characters="#king_crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">THE NEWCOMER... I SHOULD HAVE KNOWN...</emph></p>
                     </cbml:balloon>
                     
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">I ALWAYS THOUGHT HE WOULD BE MY GREATEST OBSTACLE...</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">GIORNO GIOVANNA...</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p><emph rendition="#b">WHAT SHOULD I DO? THERE'S NO TIME...</emph></p>
                     </cbml:balloon>
-                    <cbml:balloon type="thought" who="#king-crimson">
+                    <cbml:balloon type="thought" who="#king_crimson">
                         <p>I HAVE TO DO SOMETHING... I NEED TO COMPLETELY CONTROL THIS<emph rendition="#b"> BODY</emph> AND APPROACH REQUIEM!</p>
                     </cbml:balloon>
                 </cbml:panel>
