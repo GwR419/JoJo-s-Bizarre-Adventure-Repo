@@ -225,6 +225,11 @@
                <cbml:balloon n="1" type="speech" who="#diavolo"><p>M… MY FORECASTS…</p></cbml:balloon>
                <cbml:balloon n="2" type="speech" who="#diavolo"><p>…ARE A REALITY THAT IS GUARANTEED TO OCCUR!</p></cbml:balloon>
                <cbml:balloon n="3" type="speech" who="#diavolo"><p>MY INVINCIBLE <emph rendition="b">KING CRIMSON</emph> WAS MEANT TO ACHIEVE VICTORY!</p></cbml:balloon></cbml:panel>
+            <cbml:panel n="2" characters="#diavolo"></cbml:panel>
+            <cbml:panel n="3" characters="#diavolo #giorno #gold_experience_requiem #king_crimson #trish #mista"><cbml:balloon n="1" type="speech" who="#giorno #gold_experience_requiem"><p><emph rendition="b">MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA MUDA!!!!!!</emph></p></cbml:balloon>
+            <cbml:balloon n="2" type="speech" who="#trish"><p>H...</p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#trish"><p>HE DID IT!</p></cbml:balloon>
+            </cbml:panel>
             
          </div>
       </body>

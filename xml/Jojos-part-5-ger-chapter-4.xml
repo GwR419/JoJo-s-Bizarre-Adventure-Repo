@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<?xml version="1.0" encoding="UTF-8"?>
-
-
 <?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
@@ -23,7 +20,84 @@
     </teiHeader>
     <text>
         <body>
-            
+            <div>
+                <pb n="1"/>
+                <cbml:panel n="1" characters="#diavolo #gold_experience_requiem">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"
+                        ><p>BUGAGAOOOOOOOHH!!</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#giorno #gold_experience_requiem">
+                    <cbml:balloon n="1" type="speech" who="#giorno #gold_experience_requiem"><p>YOU
+                            WILL...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#giorno #gold_experience_requiem"
+                            ><p>NEVER GO...</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#giorno #gold_experience_requiem"
+                            ><p>ANY-WHERE...</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#giorno #gold_experience_requiem"
+                            ><p>ESPECIALLY NOT...</p></cbml:balloon>
+                    <cbml:balloon n="5" type="speech" who="#giorno #gold_experience_requiem"
+                                ><p><emph rendition="b">REALITY</emph>EVER!</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#king_crimson">
+                    <cbml:balloon n="1" type="speech" who="#king_crimson #diavolo"><p><emph
+                                rendition="b">YOU...</emph></p></cbml:balloon>
+                    <cbml:balloon n="1" type="speech" who="#king_crimson #diavolo"><p><emph
+                                rendition="b">GODDAMN KID!!</emph></p></cbml:balloon>
+                </cbml:panel>
+                <pb n="2"/>
+                <cbml:panel n="1" characters="#giorno #gold_experience_requiem #diavolo">
+                    <cbml:balloon n="1" type="speech" who="#giorno #gold_experience_requiem"
+                                ><p><emph rendition="b">MUDAA!!</emph></p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#giorno #gold_experience_requiem"
+                                ><p><emph rendition="b">MUDA MUDA MUDA MUDA
+                        MUDA</emph></p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#giorno #gold_experience_requiem #diavolo">
+                    <cbml:balloon n="1" type="speech" who="#giorno #gold_experience_requiem"
+                                ><p><emph rendition="b">MUDAAAAA!!!</emph></p></cbml:balloon>
+                </cbml:panel>
+
+                <pb n="3"/>
+                <cbml:panel n="1" characters="#diavolo"/>
+                <cbml:panel n="2" characters="#diavolo"/>
+                <cbml:panel n="3" characters="#diavolo"/>
+                <cbml:panel n="4" characters="#diavolo"/>
+                <cbml:panel n="5" characters="#diavolo"/>
+                <cbml:panel n="6" characters="#diavolo"/>
+                <cbml:panel n="7" characters="#giorno #gold_experience_requiem #trish #mista">
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>Y...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#mista"><p>YOU DID IT! AT
+                        LAST!</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#giorno"
+                        ><p>............</p></cbml:balloon>
+                </cbml:panel>
+                <pb n="4"/>
+                <cbml:panel n="1" characters="#giorno #mista #trish">
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>YOUR <emph rendition="b">GOLD EXPERIENCE</emph> EVOLVED THROUGH THE <emph rendition="b">ARROW</emph>!</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#mista"><p>I DIDN’T REALLY SEE IT OR UNDERSTAND WHAT IT JUST DID, BUT EITHER WAY…!</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#mista"><p>THE BOSS’S <emph rendition="b">KING CRIMSON</emph> WAS HELPLESS AGAINST IT!</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#mista"><p>YOU’VE FINALLY DEFEATED HIM!</p></cbml:balloon>
+                </cbml:panel>
+                
+                <cbml:panel n="2" characters="#mista #trish">
+                    <cbml:balloon n="1" type="speech" who="#trish"><p>BUT…</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#trish"><p>WAIT A MINUTE…</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#trish"><p>IS HE FLOATING UP ANYWHERE!?</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#mista #trish"><cbml:balloon n="1" type="speech" who="#trish #mista"><p>WELL!?</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#trish #mista"><p>WHERE!?</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#trish #mista"><p>IS HE FLOATING UP?</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#trish #mista"><p>WHERE IS HE!?</p></cbml:balloon>
+                    <cbml:balloon n="5" type="speech" who="#trish #mista"><p>WHERE’S THE CORPSE?</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#giorno #mista #trish"><cbml:balloon n="1" type="speech" who="#giorno"><p>....................</p></cbml:balloon></cbml:panel>
+                <cbml:panel n="5" characters="#giorno #mista #trish"><cbml:balloon n="1" type="speech" who="#giorno"><p>....................</p></cbml:balloon></cbml:panel>
+                <pb n="5"/>
+                <cbml:panel n="1" characters="#trish #mista #giorno #gold_experience_requiem"><cbml:balloon n="1" type="speech" who="#mista"><p><emph rendition="b">WHERE!? FIND HIM, GIORNO</emph></p></cbml:balloon><cbml:balloon n="2" type="speech" who="#mista"><p><emph rendition="b">WHERE IS HE!?</emph></p></cbml:balloon></cbml:panel>
+                
+
+            </div>
+
         </body>
     </text>
 </TEI>
