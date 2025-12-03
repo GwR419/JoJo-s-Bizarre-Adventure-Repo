@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<?xml version="1.0" encoding="UTF-8"?>
-
-
 <?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
@@ -23,7 +20,213 @@
    </teiHeader>
    <text>
       <body>
-         
+         <div>
+            <pb n="1"/>
+            <cbml:panel n="1" characters="#giorno #diavolo #king_crimson #gold_experience_requiem"> </cbml:panel>
+            <pb n="2"/>
+            <cbml:panel n="1" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>I DID IT! I
+                  WON!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#diavolo #gold_experience_requiem #giorno #king_crimson">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p>I WAS A MOMENT
+                     FASTER! MY <emph rendition="b">FORECAST</emph> SHOWS ME
+                  PUNCHING...</p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo #king_crimson"><p>... STRAIGHT
+                     THROUGH HIS HEART!</p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#diavolo #king_crimson"><p>THE FUTURE HAS
+                     CHOSEN THE ACTIONS OF MY <emph rendition="b">KING
+                  CRIMSON!</emph></p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3" characters="#king_crimson #giorno">
+               <cbml:balloon n="1" type="speech" who="#diavolo #king_crimson"><p><emph>IT'S
+                        OVER!</emph></p></cbml:balloon>
+            </cbml:panel>
+            <pb n="3"/>
+            <cbml:panel n="1" characters="#king_crimson #giorno #bee"/>
+            <cbml:panel n="2" characters="#diavolo #bee"/>
+            <cbml:panel n="3" characters="#bee"/>
+            <cbml:panel n="4" characters="#diavolo"/>
+            <cbml:panel n="5" characters="#diavolo"/>
+            <cbml:panel n="6" characters="#diavolo"/>
+            <cbml:panel n="7" characters="#diavolo"/>
+            <cbml:panel n="8" characters="#diavolo"/>
+            <cbml:panel n="9" characters="#diavolo"/>
+            <cbml:panel n="10" characters="#king_crimson #diavolo #giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>WHA-!?</p></cbml:balloon>
+            </cbml:panel>
+            <pb n="4"/>
+            <cbml:panel n="1" characters="#giorno"/>
+            <cbml:panel n="2" characters="#giorno #diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>WHAT!?</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"
+                  ><p>.........................</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4" characters="#diavolo"/>
+            <pb n="5"/>
+            <cbml:panel n="1" characters="#diavolo #giorno #gold_experience_requiem"/>
+            <cbml:panel n="1" characters="#diavolo"/>
+            <cbml:panel n="1" characters="#diavolo #king_crimson"/>
+            <cbml:panel n="4" characters="#mista"/>
+            <cbml:panel n="4" characters="#mista"/>
+            <pb n="6"/>
+            <cbml:panel n="1" characters="#NA"/>
+            <cbml:panel n="2" characters="#mista"/>
+            <cbml:panel n="3" characters="#mista"/>
+            <cbml:panel n="4" characters="#mista #trish"/>
+            <cbml:panel n="5" characters="#diavolo #giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>NO!
+                  IMPOS-SIBLE</p></cbml:balloon>
+            </cbml:panel>
+            <pb n="7"/>
+            <cbml:panel n="1" characters="#diavolo"/>
+            <cbml:panel n="1" characters="#diavolo #king_crimson #giorno #gold_experience_requiem"/>
+            <pb n="8"/>
+            <cbml:panel n="1" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">THE ERASED
+                        TIME IS REVERSING!?</emph></p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo"><p><emph rendition="b">IS THIS
+                        REQUIEM!?</emph></p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#diavolo #king_crimson #giorno #gold_experience_requiem"/>
+            <cbml:panel n="3" characters="#NA"/>
+            <cbml:panel n="4" characters="#NA"/>
+            <cbml:panel n="5" characters="#birds">
+               <cbml:balloon n="1" type="speech" who="#birds"><p>CAAW!</p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#birds"><p>CAAAWW!</p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#birds"><p>CAAWW!</p></cbml:balloon>
+               <cbml:balloon n="4" type="speech" who="#birds"><p>AAAWWWK!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="6" characters="#diavolo"/>
+            <cbml:panel n="7" characters="#diavolo"/>
+            <cbml:panel n="8" characters="#diavolo #giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b"
+                     >D...</emph></p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">DAMN
+                        IT!</emph></p></cbml:balloon>
+            </cbml:panel>
+            <pb n="9"/>
+            <cbml:panel n="1" characters="#diavolo #king_crimson #giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">BUT, THE
+                        FORECAST HAS STILL CHOSEN ME, DIAVOLO!</emph></p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo"><p><emph rendition="b">TAKE
+                        THIS!</emph></p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#diavolo"><p><emph rendition="b">GIORNO
+                        GIO-VANNA!</emph></p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#king_crimson"/>
+            <cbml:panel n="3" characters="#diavolo #king_crimson #giorno #gold_experience_requiem"/>
+            <pb n="10"/>
+            <cbml:panel n="1" characters="#diavolo"/>
+            <cbml:panel n="2" characters="#diavolo #king_crimson #giorno #gold_experience_requiem"/>
+            <cbml:panel n="3" characters="#king_crimson"/>
+            <cbml:panel n="4" characters="#diavolo #king_crimson #giorno"/>
+            <cbml:panel n="5"
+               characters="#giorno #gold_experience_requiem #diavolo #gold_experience_requiem">
+               <cbml:balloon n="1" type="telepathy" who="#diavolo"><p><emph rendition="b"
+                        >SWIR</emph></p></cbml:balloon>
+               <cbml:balloon n="2" type="telepathy" who="#diavolo"><p><emph rendition="b"
+                        >SWIR</emph></p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="6" characters="#diavolo"/>
+            <pb n="11"/>
+            <cbml:panel n="1" characters="#diavolo #king_crimson #gold_experience_requiem #giorno">
+               <cbml:balloon n="1" type="telepathy" who="#diavolo"><p><emph rendition="b"
+                        >SWIR</emph></p></cbml:balloon>
+               <cbml:balloon n="2" type="telepathy" who="#diavolo"><p><emph rendition="b"
+                        >SWIR</emph></p></cbml:balloon>
+               <cbml:balloon n="3" type="telepathy" who="#diavolo"><p><emph rendition="b"
+                        >SWIR</emph></p></cbml:balloon>
+               <cbml:balloon n="4" type="telepathy" who="#diavolo"><p><emph rendition="b"
+                        >SWIR</emph></p></cbml:balloon>
+               <cbml:balloon n="5" type="telepathy" who="#diavolo"><p><emph rendition="b"
+                        >SWIR</emph></p></cbml:balloon>
+               <cbml:balloon n="6" type="speech" who="#diavolo"><p>OH!</p></cbml:balloon>
+               <cbml:balloon n="7" type="speech" who="#diavolo"><p>OH!</p></cbml:balloon>
+               <cbml:balloon n="8" type="speech" who="#diavolo"><p>UOOOHH!!</p></cbml:balloon>
+               <cbml:balloon n="9" type="speech" who="#diavolo"><p><emph rendition="b"
+                     >WH...</emph></p></cbml:balloon>
+               <cbml:balloon n="10" type="speech" who="#diavolo"><p>WHAT IS
+                  THIS!?</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b"
+                     >W...</emph></p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo"><p><emph rendition="b">WHAT AM I
+                        LOOKING AT!!?</emph></p></cbml:balloon>
+            </cbml:panel>
+            <pb n="12"/>
+            <cbml:panel n="1" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>IS THIS A
+                  DREAM!?</p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>OR IS THIS AN
+                  ILLUSION!?</p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>NO THAT'S
+                  IMPOS-SIBLE</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>NONE BUT I, DIAVOLO SHOULD BE
+                     ABLE TO MOVE <emph rendition="b">WITHIN ERASED TIME!</emph></p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3" characters="#gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#gold_experience_requiem"><p>THIS IS
+                     WHAT...</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4" characters="#diavolo"/>
+            <cbml:panel n="5" characters="#giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#gold_experience_requiem"
+                  ><p>REQUIEM...</p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#gold_experience_requiem"
+                  ><p>...IS!</p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#gold_experience_requiem"><p>YES, WHAT YOU SEE
+                     IS INDEED <emph rendition="b">REALITY</emph></p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#gold_experience_requiem"><p>YOUR ABILITY
+                     INDEED SEENS THE <emph rendition="b">ACTIONS</emph>THAT WE WILL ACUALLY
+                     PERFORM.</p></cbml:balloon>
+               <cbml:balloon n="1" type="speech" who="#gold_experience_requiem"
+                  ><p>HOWEVER</p></cbml:balloon>
+            </cbml:panel>
+            <pb n="13"/>
+            <cbml:panel n="1" characters="#diavolo #king_crimson #giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#gold_experience_requiem"><p>YOU WILL NEVER
+                     ARRIVE AT THE <emph rendition="b">REALITY</emph> THAT WILL
+                  OCCUR!</p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#gold_experience_requiem"><p>NONE WHO STAND
+                     BEFORE ME SHALL EVER DO SO,</p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#gold_experience_requiem"><p>NO MATTER WHAT
+                     ABILITIES THEY MAY WIELD!</p></cbml:balloon>
+               <cbml:balloon n="4" type="speech" who="#gold_experience_requiem"><p>THIS
+                  IS…</p></cbml:balloon>
+               <cbml:balloon n="5" type="speech" who="#gold_experience_requiem"><p><emph
+                        rendition="b">GOLD EXPERIENCE REQUIEM!</emph></p></cbml:balloon>
+               <cbml:balloon n="6" type="speech" who="#gold_experience_requiem"><p>NOT EVEN MY
+                     MASTER, GIORNO GIOVANNA, KNOWS OF THIS.</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#diavolo #mista #trish">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>AH!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3" characters="#mista"/>
+            <cbml:panel n="4" characters="#mista"/>
+            <pb n="14"/>
+            <cbml:panel n="1" characters="#giorno #diavolo">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>GIORNO GIOVANNA! I SHALL NOT EVEN ALLOW YOU TIME…</p></cbml:balloon>
+               <cbml:balloon n="2" type="thought" who="#diavolo"><p>W… WHAT AM I SAYING!?</p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#diavolo"><p>TO LAMENT YOUR OWN DEATH!</p></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2" characters="#giorno #gold_experience_requiem"></cbml:panel>
+            <cbml:panel n="3" characters="#mista"></cbml:panel>
+            <cbml:panel n="4" characters="#diavolo"><cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">I…!</emph></p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo"><p><emph rendition="b">I…</emph></p></cbml:balloon></cbml:panel>
+            <cbml:panel n="5" characters="#diavolo #gold_experience_requiem #giorno"><cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">I HAVEN’T MOVED AN INCH FROM WHERE I STARTED!</emph></p></cbml:balloon></cbml:panel>
+            <pb n="15"/>
+            <cbml:panel n="1" characters="#diavolo #king_crimson #giorno #gold_experience_requiem">
+               <cbml:balloon n="1" type="speech" who="#diavolo"><p>M… MY FORECASTS…</p></cbml:balloon>
+               <cbml:balloon n="2" type="speech" who="#diavolo"><p>…ARE A REALITY THAT IS GUARANTEED TO OCCUR!</p></cbml:balloon>
+               <cbml:balloon n="3" type="speech" who="#diavolo"><p>MY INVINCIBLE <emph rendition="b">KING CRIMSON</emph> WAS MEANT TO ACHIEVE VICTORY!</p></cbml:balloon></cbml:panel>
+            
+         </div>
       </body>
    </text>
 </TEI>
