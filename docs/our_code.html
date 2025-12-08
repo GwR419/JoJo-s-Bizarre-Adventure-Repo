@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chapters</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="jojo.css" />
+    </head>
+    
+    <body>
+        
+        <main class="main-content">
+            
+            <div class="nav">
+                <div style="text-align: center">
+                    <h1 style="text-align: center;">JoJo's Bizarre Adventure: Golden Wind</h1>
+                    <a href="index.html">Home</a> | <a href="our_code.html">Our Code</a> | <a href="stands.html">Stands</a> | <a href="chapters.html">Chapters</a> | <a href="character.html">Characters</a>
+                </div>
+            </div>
+            
+            <div>
+                <h2>Our Code</h2>
+                <p>For our code, we used CBML to convert our source documents into TEI. For example, when a character is speaking in a speach bubble, it is notated as below. </p>
+                
+                <pre class="code-block-long ">
+                    <code>
+&lt;cbml:balloon type="speech" who="#narrator"&gt;
+    &lt;p&gt;THE HISTORY OF LIFE ON OUR PLANET SPANS 4.5 BILLIONS YEARS...&lt;p&gt;
+&lt;/cbml:balloon&gt;
+                    </code>
+                </pre>
+                
+            </div>
+            
+            <div>
+               
+                <p>Below to the left is a page out of Diavolo Emerges Part 1, and on the right is that page but converted into CBML.</p>
+            </div>
+            
+            <div class="side-by-side">
+                <img src="images/Diavolo%20Emerges%20Part%201.png" class="manga-img" alt="diavolo emerges part 1">
+                
+                <pre class="code-block-side">
+                    <code>
+&lt;pb n="4"/&gt;
+&lt;cbml:panel n="1" characters="#trish"&gt;
+    &lt;cbml:balloon type="speech" who="#trish"&gt;
+        &lt;p&gt;TH... THE&lt;emph rendition="#b"&gt;POWER&lt;/emph&gt; TO DEFEAT THE BOSS!? YEAH, RIGHT!&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#guido-mista #trish->mista"&gt;
+        &lt;p&gt;IT'S BECAUSE YOU BROUGHT THE&lt;emph rendition="#b"&gt;ARROW&lt;/emph&gt;...&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+&lt;/cbml:panel&gt;
+
+&lt;cbml:panel n="2" characters="#trish #turtle->polnareff"&gt;
+    &lt;cbml:balloon type="speech" who="#trish"&gt;
+        &lt;p&gt;P...&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#trish"&gt;
+        &lt;p&gt;POLNA-REFF, YOU PIECE OF SHIT!&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#turtle->polnareff"&gt;
+        &lt;p&gt;IT'LL HAPPEN AT DIFFERENT RATES FOR ALL OF US, BUT IT WILL HAPPEN!&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#turtle->polnareff"&gt;
+        &lt;p&gt;IT'S FINALLY TIME TO BEGIN...&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+&lt;/cbml:panel&gt;
+
+&lt;cbml:panel n="3" characters="#guido-mista #diavolo #trish #turtle"&gt;
+    &lt;cbml:balloon type="speech" who="#trish"&gt;
+        &lt;p&gt;&lt;emph rendition="#b"&gt;ALL YOU"VE DONE IS TIE A KNOT AROUND ALL OUR NECKS!&lt;/emph&gt;&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#diavolo"&gt;
+        &lt;p&gt;STOP IT, MISTA!&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#diavolo"&gt;
+        &lt;p&gt;NOBODY COULD HAVE PREDICTED THIS WOULD HAPPEN! WE'D ABE ALL DEAD IF IT WEREN'T FOR THE&lt;emph rendition="#b"&gt;ARROW&lt;/emph&gt;&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#turtle->polnareff"&gt;
+        &lt;p&gt;AND THE SAME THING WOULD HAVE HAPPENED ALREADY, AS SOON AS ANYONE ELSE FOUND THE&lt;emph rendition="#b"&gt;ARROW!&lt;/emph&gt;&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+&lt;/cbml:panel&gt;
+
+&lt;cbml:panel n="4" characters="#turtle"&gt;
+    &lt;cbml:balloon type="speech" who="#trish"&gt;
+        &lt;p&gt;. . . . . . . . . . . . . . . . . .&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+&lt;/cbml:panel&gt;
+
+&lt;cbml:panel n="5" characters="#silver-chariot #guido-mista #trish #diavolo #giorno #turtle"&gt;
+    &lt;cbml:balloon type="speech" who="#group"&gt;
+        &lt;p&gt;FIND A WAY TO DEFEAT REQUIEM!&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#group"&gt;
+        &lt;p&gt;WE HAVE TO GET THE&lt;emph rendition="#b"&gt;ARROW&lt;/emph&gt;SOMEHOW!&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+    &lt;cbml:balloon type="speech" who="#group"&gt;
+        &lt;p&gt;&lt;emph rendition="#b"&gt;THE BOSS&lt;/emph&gt;IS GONNA MAKE HIS MOVE, TOO, WHEREVER HE IS!&lt;/p&gt;
+    &lt;/cbml:balloon&gt;
+&lt;/cbml:panel&gt;
+</code></pre>
+                
+            </div>
+            
+            
+            
+        </main>
+        
+    </body>
+</html>

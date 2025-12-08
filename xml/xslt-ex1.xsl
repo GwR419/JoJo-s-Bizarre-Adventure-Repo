@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
+    xmlns:cbml="http://www.cbml.org/ns/1.0"
+    xmlns="http://www.w3.org/1999/xhtml"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
@@ -13,11 +16,17 @@
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="div[@type='chapter']">
-        <h1><xsl:apply-templates select="head"/></h1>
-        <ul>
-            <xsl:apply-templates select=".//placeName"/>
-        </ul>
+    <xsl:template match="div">
+        
+        <div>
+            <xsl:apply-templates select=".//cbml:panel"/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="cbml:panel">
+        <section class="panel">
+            <xsl:apply-templates/>
+        </section>
     </xsl:template>
     
     <xsl:template match="placeName">
