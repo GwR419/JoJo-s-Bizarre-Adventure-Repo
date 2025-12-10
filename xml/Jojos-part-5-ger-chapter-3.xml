@@ -306,29 +306,29 @@
                     <cbml:balloon n="5" type="speech" who="#diavolo"><p>DID I PASS
                         OUT?</p></cbml:balloon>
                 </cbml:panel>
-                <cbml:panel n="2" characters="#diavolo #female_nurse">
-                    <cbml:balloon n="1" type="speech" who="#female_nurse"><p>FILE NO. 68, HEADED BY
-                            MYSELF,</p></cbml:balloon>
-                    <cbml:balloon n="2" type="speech" who="#female_nurse"><p> DOCTOR MONICA
+                <cbml:panel n="2" characters="#diavolo #female_pathologist">
+                    <cbml:balloon n="1" type="speech" who="#female_pathologist"><p>FILE NO. 68,
+                            HEADED BY MYSELF,</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#female_pathologist"><p> DOCTOR MONICA
                             ULTERRO.</p></cbml:balloon>
-                    <cbml:balloon n="3" type="speech" who="#female_nurse"><p>HM, THE DATE IS THE
-                            25TH... 11:20 AM,</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#female_pathologist"><p>HM, THE DATE IS
+                            THE 25TH... 11:20 AM,</p></cbml:balloon>
                     <cbml:balloon n="4" type="thought" who="#diavolo"><p>!?</p></cbml:balloon>
                 </cbml:panel>
-                <cbml:panel n="3" characters="#diavolo #female_nurse">
-                    <cbml:balloon n="1" type="speech" who="#female_nurse"><p>ADULT MALE, ESTIMATED
-                            AGE...</p></cbml:balloon>
-                    <cbml:balloon n="2" type="speech" who="#female_nurse"><p>30-40 YEARS, IDENTITY
-                            UNKNOWN.</p></cbml:balloon>
+                <cbml:panel n="3" characters="#diavolo #female_pathologist">
+                    <cbml:balloon n="1" type="speech" who="#female_pathologist"><p>ADULT MALE,
+                            ESTIMATED AGE...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#female_pathologist"><p>30-40 YEARS,
+                            IDENTITY UNKNOWN.</p></cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4" characters="#diavolo">
                     <cbml:balloon n="1" type="speech" who="#diavolo"
                         ><p>..................</p></cbml:balloon>
                 </cbml:panel>
-                <cbml:panel n="5" characters="#diavolo #female_nurse">
-                    <cbml:balloon n="1" type="speech" who="#female_nurse"><p>NOW PERFORMING THE
-                            LEGALLY-MANDATED NECROPSY.</p></cbml:balloon>
-                    <cbml:balloon n="2" type="speech" who="#female_nurse"><p>JUDGING BY THE
+                <cbml:panel n="5" characters="#diavolo #female_pathologist">
+                    <cbml:balloon n="1" type="speech" who="#female_pathologist"><p>NOW PERFORMING
+                            THE LEGALLY-MANDATED NECROPSY.</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#female_pathologist"><p>JUDGING BY THE
                             CONDITION OF HIS SKIN, HE IS ESTIMATED TO HAVE DIED 48-54 HOURS
                         AGO.</p></cbml:balloon>
                 </cbml:panel>
@@ -341,7 +341,61 @@
                     <cbml:balloon n="3" type="speech" who="#diavolo"><p>WHAT IS THIS PLACE? WHY AM I
                             HERE!?</p></cbml:balloon>
                 </cbml:panel>
-                <pb n="12"/>
+                <pb n="13"/>
+                <cbml:panel n="1" characters="#diavolo #female_pathologist">
+                    <cbml:balloon n="1" type="speech" who="#female_pathologist"><p>ACCORDING TO THE
+                            REPORT,</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#female_pathologist"><p>THE BODY WAS
+                            FOUND NEAR THE MOUTH OF THE RIVER, BUT HE HAS INHALED LITTLE WATER, SO
+                            DROWNING IS NOT BELIEVED TO BE THE CAUSE OF DEATH.</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#diavolo"><p>UGH!</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#diavolo"><p>UGH--</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#diavolo">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p>I CAN’T
+                        MOVE!</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#diavolo"><p>NOT MY
+                        FINGERS--!</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#diavolo"><p>N… NOT EVEN MY ENTIRE <emph
+                                rendition="b">BODY</emph>! WHAT IS THIS!?</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#diavolo #female_pathologist">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p>YOU, WOMAN! WHO ARE YOU, AND
+                            WHAT ARE YOU DOING!? WHY CAN’T I MOVE MY BODY!?</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#diavolo"><p>A… AND WHAT IS THIS
+                            PAIN!?</p>
+                    </cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="female_pathologist"><p>CAUSE OF DEATH HAS
+                            BEEN DETERMINED TO BE A LACERATION EXTENDING TO THE
+                        LIVER.</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="female_pathologist"><p>AS THERE ARE NO
+                            WOUNDS FROM FAILED ATTEMPTS, THAT ELIMINATES THE POSSIBILITY OF
+                            SUICIDE.</p></cbml:balloon>
+                    <cbml:balloon n="5" type="speech" who="female_pathologist"><p>NOW OPENING AND
+                            INSPECTING THE CONTENTS OF THE STOMACH TO MAKE SURE.</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#diavolo #female_pathologist"/>
+                <cbml:panel n="5" characters="#female_pathologist">
+                    <cbml:balloon n="1" type="speech" who="#female_pathologist"><p>THAT’S A HEALTHY
+                            LIVER. VERY GOOD COLOR.</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="6" characters="#diavolo #female_pathologist"/>
+                <pb n="14"/>
+                <cbml:panel n="1" characters="#diavolo"><cbml:caption><emph rendition="b">GUA AAHHH</emph></cbml:caption></cbml:panel>
+                <cbml:panel n="2" characters="#diavolo"><cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">AH!</emph></p></cbml:balloon></cbml:panel>
+                <cbml:panel n="3" characters="#diavolo">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">PANT</emph></p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#diavolo"><p><emph rendition="b">PANT</emph></p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#diavolo"><p><emph rendition="b">PANT</emph></p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#diavolo">
+                    
+                <cbml:panel n="5" characters="#diavolo"></cbml:panel>
+                <cbml:panel n="6" characters="#diavolo"></cbml:panel>
+                    <cbml:balloon n="1" type="speech" who="#diavolo"></cbml:balloon></cbml:panel>
+                <cbml:panel n="7" characters="#diavolo"></cbml:panel>
+
+
 
             </div>
 
