@@ -443,26 +443,92 @@
                     <cbml:balloon n="1" type="speech" who="#old_man_1"><p>ARE YOU FEELING OKAY? WHAT
                             ARE YOU DOING ON THE GROUND? ARE YOU SICK?</p></cbml:balloon>
                 </cbml:panel>
-                <cbml:panel n="1" characters="#diavolo"/>
-                <cbml:panel n="1" characters="#diavolo #old_man_1 #old_mans_dog">
+                <cbml:panel n="2" characters="#diavolo"/>
+                <cbml:panel n="3" characters="#diavolo #old_man_1 #old_mans_dog">
                     <cbml:balloon n="1" type="speech" who="#old_man_1"><p>AH!</p></cbml:balloon>
                     <cbml:balloon n="1" type="speech" who="#old_man_1"><p>HEY,
                         STOP!</p></cbml:balloon>
                 </cbml:panel>
-                <cbml:panel n="1" characters="#diavolo">
+                <cbml:panel n="4" characters="#diavolo">
                     <cbml:balloon n="1" type="speech" who="#diavolo"><p>HUH?</p></cbml:balloon>
                 </cbml:panel>
-                <cbml:panel n="1" characters="#diavolo"/>
-                <cbml:panel n="1" characters="#diavolo">
+                <cbml:panel n="5" characters="#diavolo"/>
+                <cbml:panel n="6" characters="#diavolo">
                     <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b"
                                 >HUH?</emph></p></cbml:balloon>
                 </cbml:panel>
-
-
-
-
+                <cbml:panel n="6" characters="#diavolo">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b"
+                                >WHA-!?</emph></p></cbml:balloon>
+                </cbml:panel>
+                <pb n="16"/>
+                <cbml:panel n="1" characters="#diavolo">
+                    <cbml:caption><emph rendition="b">!?</emph></cbml:caption>
+                    <cbml:caption><p>WHAT IS THIS!? SOMETHING'S BEEN STRANGE THIS ENTIRE TIME...
+                            THIS CAN'T BE! NOT LIKE THIS!</p></cbml:caption>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#diavolo">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p><emph rendition="b">THIS IS
+                                THAT GOLD EXPERIENCE REQUIEM'S...</emph></p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#giorno #mista #trish">
+                    <cbml:balloon n="1" type="speech" who="#trish"><p>F... FIND HIM, GIORNO! WE HAVE
+                            TO FIND HIM!</p></cbml:balloon>
+                    <cbml:balloon n="1" type="speech" who="#trish"><p>I CAN STILL SENSE THAT HE'S
+                            ALIVE! WE CAN'T REST EASY UNTIL WE'RE SURE!</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#giorno">
+                    <cbml:balloon n="1" type="speech" who="#giorno"><p>NO...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#giorno"><p>WE DON'T NEED TO
+                        LOOK...</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#giorno"><p>EVERYTHING IS ALREADY
+                            OVER...</p></cbml:balloon>
+                </cbml:panel>
+                <pb n="16"/>
+                <cbml:panel n="1" characters="#giorno #gold_experience_requiem">
+                    <cbml:balloon n="1" type="speech" who="#giorno"><p>ALTHOUGH, I DIDN'T GET A
+                            CLEAR LOOK AT REQUIEM'S ABILITY, EITHER.</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#giorno"><p>FOR SOME REASON, I KNOW IT IN
+                            MY HEART.</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#giorno"><p><emph rendition="b"> HE NO
+                                LONGER HAS ANYWHERE TO GO.</emph></p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#giorno"><p>ESPECIALLY NOT <emph
+                                rendition="b"> REALITY</emph>... NEVER AGAIN...</p></cbml:balloon>
+                    <cbml:balloon n="5" type="speech" who="#giorno"><p>HE WILL NEVER EVEN ARRIVE AT
+                            THE REALITY OF <emph rendition="b">DEATH</emph>... <emph rendition="b"
+                                >INFINITELY</emph>...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#trish #mista">
+                    <cbml:balloon n="1" type="speech" who="#mista #trish"><p>B... BUT HE'S STILL
+                            ALI...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#giorno">
+                    <cbml:balloon n="1" type="speech" who="#giorno"><p>THE ENDING IS SOMETHING WHICH
+                            HAS NO ENDING.</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#giorno"><p>THAT IS <emph rendition="b"
+                                >GOLD EXPERIENCE REQUIEM</emph>.</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#small_girl_1">
+                    <cbml:balloon n="1" type="speech" who="#small_girl_1"><p>WHAT ARE YOU DOING ON
+                            THE GROUND, MISTER?</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#small_girl_1"><p>DOES YOUR TUMMY
+                            HURT?</p></cbml:balloon>
+                </cbml:panel>
+                <pb n="17"/>
+                <cbml:panel n="1" characters="#diavolo"><cbml:caption><emph rendition="b">TWITCH!</emph></cbml:caption></cbml:panel>
+                <cbml:panel n="2" characters="#diavolo #small_girl_1">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p>KUH...</p></cbml:balloon>
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p>KUH... HAAH... HAAH...</p></cbml:balloon>
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p>HAAH...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#diavolo">
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p>H... HOW MANY MORE TIMES WILL I DIE!? WHERE WILL IT COME FROM NEXT...?</p></cbml:balloon>
+                    <cbml:balloon n="1" type="speech" who="#diavolo"><p>WH... WHEN WILL IT STRIKE NEXT!? I... I...!</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#diavolo">
+                    <cbml:caption><emph rendition="b">STAY AWAY FROM ME!!!</emph></cbml:caption>
+                </cbml:panel>
             </div>
-
         </body>
     </text>
 </TEI>
