@@ -61,6 +61,12 @@ body {
     font-size: 3ex;
 }
 
+.nav a {
+    color: #007bff;
+    text-decoration: none;
+    padding: 0 8px;
+}
+
 .nav ul {
     list-style-type: none;
     padding: 0;
