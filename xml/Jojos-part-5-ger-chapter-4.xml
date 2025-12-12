@@ -22,8 +22,132 @@
         <body>
             <div>
                 <pb n="1"/>
+                <cbml:panel n="1" characters="#giorno #gold_experience_requiem">
+                    <cbml:caption>GOLD EXPERIENCE REQUIEM PART 4</cbml:caption>
+                </cbml:panel>
+                <cbml:panel n="1" characters="#mista">
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>HEY GUYS, HEY
+                        GUYS!</p></cbml:balloon>
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>JUST LISTEN TO ME
+                        HERE!</p></cbml:balloon>
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>I WAS THINKING ABOUT THIS LAST
+                            NIGHT.</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#mista #abbacchio #narancia #fugo">
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>SO, HUMAN
+                        FLESH...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#mista"><p>IF YOU ATE IT, WOULD IT <emph
+                                rendition="b">TASTE GOOD</emph>, OR WOULD IT <emph rendition="b"
+                                >TASTE BAD</emph>?</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#narancia"><p>WHAT THE
+                        HELL!?</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#narancia"><p>WHY ARE YOU BRINGING THAT
+                            UP OUTTA NOWHERE, BUGGER OFF AND GO EAT BY YOURSELF!</p></cbml:balloon>
+                    <cbml:balloon n="5" type="speech" who="#fugo"><p><emph rendition="b">STOP
+                                TALKING ABOUT THAT, MISTA!</emph></p></cbml:balloon>
+                    <cbml:balloon n="6" type="speech" who="#fugo"><p><emph rendition="b">WE'RE
+                                TRYING TO EAT HERE!</emph></p></cbml:balloon>
+                </cbml:panel>
+                <pb n="2"/>
+                <cbml:panel n="1" characters="#giorno">
+                    <cbml:balloon n="1" type="speech" who="#giorno"><p>AT LAST...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#giorno">
+                    <cbml:balloon n="1" type="speech" who="#giorno"><p>AT LAST...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#giorno"><p>WE'VE DONE
+                        IT...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="1" characters="#birds"/>
+                <cbml:panel n="1" characters="#birds"/>
+                <cbml:panel n="1" characters="#female_1 #male_1">
+                    <cbml:balloon n="1" type="speech" who="#female_1"><p>UGH...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#male_1"><p>UGH...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="1" characters="#male_2 #female_2 #male_3 #dog">
+                    <cbml:balloon n="1" type="speech" who="#male_2"
+                        ><p>..................</p></cbml:balloon>
+                </cbml:panel>
+                <pb n="3"/>
+                <cbml:panel n="1" characters="#trish">
+                    <cbml:balloon n="1" type="speech" who="#trish"><p><emph>AT
+                        LAST!</emph></p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#trish"><p><emph>WE'RE THE VICTORS,
+                                RIGHT!?</emph></p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#trish #mista #giorno">
+                    <cbml:balloon n="1" type="speech" who="#trish"><p>HEY!</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#trish"><p>LET'S GET GOING
+                        ALREADY.</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#trish"><p>BACK TO THE
+                        COLISEUM!</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3" characters="#trish #mista #giorno">
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>BUCCELLATI'S SOUL IS BACK, BUT
+                            HIS BODY'S STILL HURT!</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#mista"><p>HE'S PROBABLY STILL IN THE
+                            COLISEUM, WONDERING WHAT'S HAPPENED TO US!</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#giorno"/>
+                <cbml:panel n="5" characters="#giorno">
+                    <cbml:balloon n="1" type="speech" who="#mista"
+                        ><p>..................</p></cbml:balloon>
+                </cbml:panel>
+                <pb n="4"/>
+                <cbml:panel n="1" characters="#trish #mista #giorno #bucciarati">
+                    <cbml:balloon n="1" type="speech" who="#mista"><p>LET'S GO,
+                        GIORNO!</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#mista"><p>COME ON! TO THE
+                        COLISEUM!</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#mista"><p>LET'S GET BUCCELLATI HEALED
+                            AND GO HOME!</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#giorno"/>
+                <cbml:panel n="3" characters="#giorno"/>
+                <cbml:panel n="4" characters="#trish #mista #giorno">
+                    <cbml:balloon n="1" type="speech" who="#giorno"><p>YEAH...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#giorno"><p>LET'S
+                        GO...</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#giorno"><p>I'LL...</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#giorno"><p>BE RIGHT
+                        THERE...</p></cbml:balloon>
+                    <cbml:balloon n="5" type="speech" who="#giorno"
+                        ><p>..................</p></cbml:balloon>
+                    <cbml:balloon n="6" type="speech" who="#bucciarati"
+                        ><p>GIORNO...</p></cbml:balloon>
+                    <cbml:balloon n="7" type="speech" who="#bucciarati"><p>THIS IS
+                        FINE...</p></cbml:balloon>
+                    <cbml:balloon n="8" type="speech" who="#bucciarati"><p>DON'T WORRY,
+                            GIORNO...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5" characters="#giorno #bucciarati">
+                    <cbml:balloon n="1" type="speech" who="#bucciarati"><p>AND,
+                        GIORNO...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="6" characters="#giorno">
+                    <cbml:balloon n="1" type="speech" who="#giorno"
+                        ><p>..................</p></cbml:balloon>
+                </cbml:panel>
+                <pb n="5"/>
+                <cbml:panel n="1" characters="#giorno #bucciarati #abbacchio #narancia">
+                    <cbml:balloon n="1" type="speech" who="#bucciarati"><p>THE FACT THAT WE MADE IT
+                            HERE IS A COMPLETE VICTORY...</p></cbml:balloon>
+                    <cbml:balloon n="2" type="speech" who="#bucciarati"><p>THIS IS GOOD...
+                            EVERYTHING... WILL BE FINE...</p></cbml:balloon>
+                    <cbml:balloon n="3" type="speech" who="#bucciarati"><p>FATE IS A <emph
+                                rendition="b">SLEEPING SLAVE</emph>...</p></cbml:balloon>
+                    <cbml:balloon n="4" type="speech" who="#bucciarati"><p>WE HAVE SET IT
+                            FREE...</p></cbml:balloon>
+                    <cbml:balloon n="5" type="speech" who="#bucciarati"><p>THAT IS
+                        VICTORY...</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2" characters="#giorno"/>
+                <cbml:panel n="3" characters="#giorno">
+                    <cbml:balloon n="1" type="speech" who="#giorno"
+                        ><p>............</p></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4" characters="#requiem_arrow"/>
+                <cbml:panel n="5" characters="#requiem_arrow"/>
             </div>
-
         </body>
     </text>
 </TEI>
