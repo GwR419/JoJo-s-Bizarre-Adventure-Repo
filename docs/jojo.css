@@ -1,3 +1,22 @@
+#main-title {
+
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    font-size: 4.5rem; 
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0.5em 0; 
+
+background-image: linear-gradient(180deg, #00c6ff 0%, #00396c 100%);
+    color: transparent;
+    -webkit-background-clip: text; 
+    background-clip: text; 
+
+
+}
+
+
+
 
 /* 1. PAGE LAYOUT*/
 body {
