@@ -96,13 +96,13 @@ input[type = checkbox]
 
 input[type = checkbox]:checked ~ label > img
 {
-    transform: scale(2.5);
+    transform: scale(1.5);
     cursor: zoom-out;
     border: 5px solid skyblue;
 }
 
 .container img {
-    margin: 100px;
+    margin: 50px;
     cursor: zoom-in;
     transition: transform 2s ease;
     background-color: #FFDBBB;
