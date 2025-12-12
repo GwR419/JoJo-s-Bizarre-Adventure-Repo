@@ -80,3 +80,31 @@ h1 {
     color: #555; 
     font-family: 'Courier New', Courier, monospace;
 }
+
+figure {
+    background-color: #D4AF37;
+    margin: 50px auto;
+    padding: 10px;
+    width: 45%;
+    text-align: center
+}
+
+input[type = checkbox]
+{
+    display: none
+}
+
+input[type = checkbox]:checked ~ label > img
+{
+    transform: scale(2.5);
+    cursor: zoom-out;
+    border: 5px solid skyblue;
+}
+
+.container img {
+    margin: 100px;
+    cursor: zoom-in;
+    transition: transform 2s ease;
+    background-color: #FFDBBB;
+    
+}
