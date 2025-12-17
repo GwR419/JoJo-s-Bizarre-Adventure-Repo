@@ -1,28 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Golden Wind</title>
-        <link rel="icon" type="image/x-iron" href="images/web-log.png" />
+        <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Golden Wind | Digital Humanities Project</title>
+        <link rel="icon" type="image/x-icon" href="images/web-log.png" />
         <link rel="stylesheet" type="text/css" href="jojo.css" />
     </head>
     <body>
         <main class="main-content">
             <div class="nav">
                 <div style="text-align: center">
-
                     <h1 id="main-title" style="text-align: center;">JoJo's Bizarre Adventure: Golden Wind</h1>
+                    
                     <a href="index.html">Home</a> | <a href="our_code.html">Our Code</a> | <a href="chapters.html">Chapters</a> | <a href="character.html">Characters</a>
                 </div>
             </div>
-            <div>
+            
+            <hr>
+            
+            <section id="about">
                 <h2>About Our Project</h2>
-                <p>For our project, we looked at the manga series JoJo's Bizzare Adventure: Golden
-                    Wind. We did in total 9 chapters, converting each into TEI using <a
-                        href="https://github.com/jawalsh/cbml">CBML</a>. This let us visualize our code in many ways, converting
-                    it into HTML using XSLT. </p>
-            </div>
-           
+                <p>
+                    For our project, we explored the manga series <strong>JoJo's Bizarre Adventure: Golden Wind</strong>. 
+                    Our goal was to to graphic narrative. We encoded 9 total chapters 
+                    into <strong>TEI (Text Encoding Initiative)</strong> using the <strong>CBML (Comic Book Markup Language)</strong> 
+                    framework. This allows for deep structural analysis and various visualizations using <strong>XSLT</strong> 
+                    to transform our XML data into the HTML pages you see here.
+                </p>
+            </section>
+            
+            <section id="team">
+                <h2>The Team</h2>
+                <div class="team-grid">
+                    <div class="member">
+                        <h3>Micaiah Ross</h3>
+                        
+                        <p>Hey, my name is Micaiah and I am a sophmore! This project was interesting to me because I've never read magna before, or even watched an anime series. This one specifcally just happen to stand out to me, and I liked the team. Learning CBML and reading the magna was fun, and I learned a lot about the series as well as text encoding. Overall, I had a lot of fun with this project!</p>
+                    </div>
+                    <div class="member">
+                        <h3>Brady</h3>
+                        
+                        <p>Description</p>
+                    </div>
+                    <div class="member">
+                        <h3>Gavin</h3>
+                        
+                        <p>Description</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="methodology">
+                <h2>Methodology</h2>
+                <ul>
+                    <li><strong>Source Material:</strong> Vento Aureo (Golden Wind) Chapters 1-9.</li>
+                    <li><strong>Schema:</strong> <a href="https://github.com/jawalsh/cbml" target="_blank">CBML</a> for manga-specific semantics.</li>
+                    <li><strong>Transformation:</strong> Custom XSLT sheets for responsive web output.</li>
+                </ul>
+            </section>
+            
+            <footer>
+                <p>&copy; 2025 Digital Doubles Project | Powered by TEI & CBML</p>
+            </footer>
         </main>
     </body>
 </html>
