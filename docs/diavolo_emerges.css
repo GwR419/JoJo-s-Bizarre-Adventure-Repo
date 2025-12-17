@@ -14,7 +14,11 @@ body {
     margin: 0; 
 }
 
-
+img {
+    width: 45%;
+    max-width: 500px;
+    height: auto; 
+}
 
 .main-content {
 
@@ -61,6 +65,7 @@ h1 {
 }
 
 
+
 .main-content ul {
     list-style-type: none; 
     padding: 0;
@@ -84,7 +89,7 @@ h1 {
 figure {
     background-color: #D4AF37;
     margin: 50px auto;
-    padding: 10px;
+    padding: 5px;
     width: 45%;
     text-align: center
 }
@@ -96,9 +101,14 @@ input[type = checkbox]
 
 input[type = checkbox]:checked ~ label > img
 {
-    transform: scale(1.5);
+    transform: scale(2.5);
     cursor: zoom-out;
     border: 5px solid skyblue;
+}
+
+div.side-by-side {
+    display: flex;
+    margin: 1em auto
 }
 
 .container img {
@@ -107,4 +117,8 @@ input[type = checkbox]:checked ~ label > img
     transition: transform 2s ease;
     background-color: #FFDBBB;
     
+}
+
+.lined {
+  text-decoration: underline;
 }
