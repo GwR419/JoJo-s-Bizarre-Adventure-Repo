@@ -176,10 +176,14 @@ div.side-by-side {
 }
 
 figure {
-    background-color: grey;
-    padding: 20px;
-    width: 50%;
+    background-color: #D4AF37;
+    margin: 50px auto;
+    padding: 5px;
+    width: 45%;
+    text-align: center
 }
+
+
 
 figure.lock {
     flex: 1;
@@ -199,8 +203,13 @@ figure.lock {
 }
 
 
-
-
+container img {
+    margin: 100px;
+    cursor: zoom-in;
+    transition: transform 2s ease;
+    background-color: #FFDBBB;
+    
+}
 
 
 
@@ -242,4 +251,17 @@ figure.lock {
     border: 1px solid #ddd;
     margin-top: 20px;
     max-width: 50%;
+}
+
+
+input[type = checkbox]
+{
+    display: none
+}
+
+input[type = checkbox]:checked ~ label > img
+{
+    transform: scale(1.5);
+    cursor: zoom-out;
+    border: 5px solid skyblue;
 }
