@@ -95,6 +95,57 @@
 &lt;/cbml:panel&gt;
 </code></pre>
             </div>
+            <div>
+                <h2 class="small-title">Our XSLT</h2>
+                <p>Down below is the XSLT we used to convert chapters from CBML to HTML. </p>
+                <pre class="code-block-long ">
+<code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
+    xmlns:cbml="http://www.cbml.org/ns/1.0"
+    xmlns="http://www.w3.org/1999/xhtml"
+    version="3.0"&gt;
+    
+    &lt;xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
+        include-content-type="no" indent="yes"/&gt;
+    
+    &lt;xsl:template match="/"&gt;
+        &lt;html&gt;
+            &lt;head&gt;
+                &lt;title&gt;Diavolo Emerges Part 1&lt;/title&gt;
+            &lt;/head&gt;
+            &lt;body&gt;
+                &lt;h1&gt;All Dialogue&lt;/h1&gt;
+                &lt;ul&gt;
+                    &lt;xsl:apply-templates select="//cbml:balloon"/&gt;
+                &lt;/ul&gt; 
+            &lt;/body&gt; 
+            
+        &lt;/html&gt;
+    &lt;/xsl:template&gt;
+    
+    &lt;xsl:template match="cbml:balloon"&gt;
+        &lt;li&gt;
+            &lt;b&gt;&lt;xsl:value-of select="@who"/&gt;: &lt;/b&gt;
+            &lt;xsl:apply-templates/&gt;
+        &lt;/li&gt;
+    &lt;/xsl:template&gt;
+  
+    &lt;xsl:template match="p"&gt;
+        &lt;xsl:apply-templates/&gt;
+    &lt;/xsl:template&gt;
+  
+    &lt;xsl:template match="emph"&gt;
+        &lt;b&gt;&lt;xsl:apply-templates/&gt;&lt;/b&gt;
+    &lt;/xsl:template&gt;
+    
+    &lt;xsl:template match="sound"&gt;
+        &lt;i&gt;(&lt;xsl:apply-templates/&gt;)&lt;/i&gt;
+    &lt;/xsl:template&gt;
+    
+&lt;/xsl:stylesheet&gt;</code>
+    </pre>
+            </div>
         </main>
     </body>
 </html>
