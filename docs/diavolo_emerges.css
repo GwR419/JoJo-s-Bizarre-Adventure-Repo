@@ -15,7 +15,7 @@ body {
 }
 
 img {
-    width: 45%;
+    width: 55%;
     max-width: 500px;
     height: auto; 
 }
@@ -90,8 +90,10 @@ figure {
     background-color: #D4AF37;
     margin: 50px auto;
     padding: 5px;
-    width: 45%;
-    text-align: center
+    width: 60%;
+    text-align: center;
+    border: double;
+    
 }
 
 input[type = checkbox]
@@ -103,7 +105,7 @@ input[type = checkbox]:checked ~ label > img
 {
     transform: scale(2.5);
     cursor: zoom-out;
-    border: 5px solid skyblue;
+    border: 5px solid #9B30FF;
 }
 
 div.side-by-side {
@@ -116,6 +118,10 @@ div.side-by-side {
     cursor: zoom-in;
     transition: transform 2s ease;
     background-color: #FFDBBB;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: solid #9B30FF;
+    /* Rounds the corners */
+    border-radius: 8px;
     
 }
 
