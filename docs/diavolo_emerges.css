@@ -125,6 +125,23 @@ div.side-by-side {
     
 }
 
+.small-title {
+
+    font-family: 'Impact', 'Arial Black', sans-serif;
+
+    font-weight: 900;
+    font-size: 2.5rem; 
+    text-transform: uppercase;
+    margin: 0.5em 0; 
+    
+    font-style: italic;
+
+background-image: linear-gradient(180deg, #00c6ff 0%, #00396c 100%);
+    color: transparent;
+    -webkit-background-clip: text; 
+    background-clip: text ;  
+    }
+
 .lined {
   text-decoration: underline;
 }
