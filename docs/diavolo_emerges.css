@@ -128,3 +128,7 @@ div.side-by-side {
 .lined {
   text-decoration: underline;
 }
+
+.align-right {
+  float: right;
+  }
