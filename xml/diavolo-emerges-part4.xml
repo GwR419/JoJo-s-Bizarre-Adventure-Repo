@@ -37,7 +37,7 @@
                         <p>WHAT DID HE DO!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="diavolo">
-                        <p>HE BROKE SOMETHING <emph rendition="b">BEHIND</emph> HIS OWN HEAD!</p>
+                        <p>HE BROKE SOMETHING <emph rendition="#b">BEHIND</emph> HIS OWN HEAD!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="trish">
                         <p>THERE'S SOMETHING PEEKING OUT FROM THE CRACKS! IS THAT...</p>
@@ -67,13 +67,13 @@
                         <p>HE WAS ABLE TO TOUCH IT!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="trish">
-                        <p>WE CAN TOUCH THE <emph rendition="b">ARROW!</emph></p>
+                        <p>WE CAN TOUCH THE <emph rendition="#b">ARROW!</emph></p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="trish">
-                        <p>HE <emph rendition="b">BROKE REQUIEM!</emph></p>
+                        <p>HE <emph rendition="#b">BROKE REQUIEM!</emph></p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="trish">
-                        <p>THE BUGS CRAWLING ON THE <emph rendition="b">ARROW</emph> ARE GIORNO'S
+                        <p>THE BUGS CRAWLING ON THE <emph rendition="#b">ARROW</emph> ARE GIORNO'S
                             LIFE ENGERY!</p>
                     </cbml:balloon>
                 </cbml:panel>
@@ -91,7 +91,7 @@
                 <pb n="3"/>
                 <cbml:panel n="1" characters="#Giorno">
                     <cbml:balloon type="speech" who="giorno">
-                        <p>WE HAVE TO MAKE IT TO THE <emph rendition="b">ARROW!</emph></p>
+                        <p>WE HAVE TO MAKE IT TO THE <emph rendition="#b">ARROW!</emph></p>
                     </cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2" characters="#Trish">
@@ -114,7 +114,7 @@
                         <p>GOTCHA!</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="trish">
-                        <p><emph rendition="b">KING CRIMSON</emph> MAY BE ABLE TO PERFECTLY FORECAST
+                        <p><emph rendition="#b">KING CRIMSON</emph> MAY BE ABLE TO PERFECTLY FORECAST
                             THE PATHS OF MY BULLETS...</p>
                     </cbml:balloon>
                     <cbml:balloon type="speech" who="trish">
@@ -124,7 +124,7 @@
                 <pb n="6"/>
                 <cbml:panel n="1" characters="#Trish">
                     <cbml:balloon type="speech" who="trish">
-                        <p>USE THE REAMINING BULLETS TO KNOCK THAT <emph rendition="b">ARROW</emph>
+                        <p>USE THE REAMINING BULLETS TO KNOCK THAT <emph rendition="#b">ARROW</emph>
                             BACK TO ME, PISTOLS!</p>
                     </cbml:balloon>
                 </cbml:panel>
