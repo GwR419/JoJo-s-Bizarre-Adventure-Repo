@@ -179,8 +179,8 @@ figure {
     background-color: #D4AF37;
     margin: 50px auto;
     padding: 5px;
-    width: 45%;
-    text-align: center
+    width: 100%;
+    text-align: center;
 }
 
 
@@ -201,16 +201,6 @@ figure.lock {
 .featureBlock {
     background-color: #FF7F50;
 }
-
-
-container img {
-    margin: 100px;
-    cursor: zoom-in;
-    transition: transform 2s ease;
-    background-color: #FFDBBB;
-    
-}
-
 
 
 /* "Our Code" Page CSS */
