@@ -1,0 +1,230 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "a9027e17-bbf6-4136-8077-ef6f3c4c303f",
+   "metadata": {},
+   "source": [
+    "## Retrieving Episode Files with Beautiful Soup\n",
+    "\n",
+    "This scraper is designed to retrieve transcripts of Spy X Family from <https://transcripts.foreverdreaming.org/viewforum.php?f=1524>. Dr. B started this scraper file to help stand in for a missing member of the student project team.\n",
+    "\n",
+    "**Caution:** The DIGIT Code Mentors / Battletesters team found all 38 scripts from Seasons 1 and 2 (as of Spring 2026) on this site,\n",
+    "but they are NOT formatted all the same. There are two different kinds of formatting we saw:\n",
+    "1. **Season 1, Episodes 1 – 12** provides speaker names followed by their spoken text.\n",
+    "2. **Season 1 Episodes 1+ and all of Season 2** are NOT providing character names.\n",
+    "\n",
+    "That said, all of this transcript material may be useful. Season 1 episodes 1–12, if converted to XML, could be processed with a network to show which speakers show up together in the episodes. And you could extract JUST the dialogue text from those files to make a complete uniform corpus of all episodes.\n",
+    "\n",
+    "This notebook requires that you complete the following installations in your activated virtual environment for Beautiful Soup 4, playwright, and chromium (installed with playwright).\n",
+    "* `pip install bs4`.\n",
+    "* `pip install playwright`\n",
+    "* `playwright install chromium`\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "303faa09-ecf1-43a8-96cc-6b163e3fbeed",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import bs4\n",
+    "import requests\n",
+    "import re  # this lets us do regex replacements\n",
+    "import os\n",
+    "import asyncio\n",
+    "from playwright.async_api import async_playwright\n",
+    "from bs4 import BeautifulSoup"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f020b400-e70e-4345-8355-7f33d5f7571d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "archive_url = \"https://transcripts.foreverdreaming.org/viewforum.php?f=1524\"   \n",
+    "output_folder = \"../transcriptFiles\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "89c4b2d5-8b38-40cf-9d14-9fc968f7e480",
+   "metadata": {},
+   "source": [
+    "#### Getting around 403 and security errors\n",
+    "Our first attempt to pull from the archive_url led to 403 errors. \n",
+    "Read about how to avoid these by sending a requests header (see <https://scrape.do/blog/python-requests-403-forbidden/>).\n",
+    "This site is guarded against bots by a system called Anubis. In the next couple of cells, we're assuring the site that we're not malicious, \n",
+    "and we're checking to make sure we're not being redirected (and we're not). \n",
+    "\n",
+    "We found we had to work with asyncio and the playwright library to help deliver requests from the archive site."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7755503a-bca1-4676-adc1-236aee27da35",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "headers = {\n",
+    "    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',\n",
+    "    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n",
+    "    'Accept-Language': 'en-US,en;q=0.5',\n",
+    "    'Accept-Encoding': 'gzip, deflate',\n",
+    "    'Connection': 'keep-alive',\n",
+    "}\n",
+    "# headers = {\n",
+    "#     \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n",
+    "# }\n",
+    "\n",
+    "response = requests.get(archive_url, headers=headers)\n",
+    "print(response.status_code)  # Returns 200 if successful"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d0e08a0f-b5e5-4dc1-bcf3-e50862da2bdf",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# print(response.status_code)   # Should be 200\n",
+    "# print(len(response.text))     # Compare to the page size you see in browser DevTools > Network tab\n",
+    "# print(response.text[:2000])\n",
+    "print(response.text)\n",
+    "# print(response.url)       # Did you end up somewhere different than you requested?\n",
+    "# print(response.history)   # Were there any redirects along the way?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "314af164-1740-47c3-8215-82945f4aaecf",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# DIAGNOSTIC TO MAKE SURE WE'RE SEEING LINKS AND LINK TEXT WHERE WE EXPECT\n",
+    "\n",
+    "# In a Jupyter/IPython environment, you can run this directly in a cell:\n",
+    "async with async_playwright() as p:\n",
+    "    browser = await p.chromium.launch(headless=True)\n",
+    "    page = await browser.new_page()\n",
+    "    \n",
+    "    # Replace with your actual URL\n",
+    "    await page.goto(archive_url)\n",
+    "    \n",
+    "    # Wait for the specific selector to ensure the page is loaded\n",
+    "    await page.wait_for_selector(\"a.topictitle\", timeout=15000)\n",
+    "    \n",
+    "    html = await page.content()\n",
+    "    await browser.close()\n",
+    "\n",
+    "# Now you can parse with BeautifulSoup as usual\n",
+    "soup = BeautifulSoup(html, \"html.parser\")\n",
+    "links = soup.find_all(\"a\", class_=\"topictitle\")\n",
+    "\n",
+    "for link in links:\n",
+    "    print(link.get_text(), link.get('href'))\n",
+    "\n",
+    "# ebb: NOTE: we pick up one extra link that isn't an episode transcript: 2026 ~ Secrets of the Board. We'll just manually remove it. \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5dc28c6f-f0d4-4e10-9a0a-ab8146b55011",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Scraping Episodes\n",
+    "async def get_transcript_text(browser, url):\n",
+    "    page = await browser.new_page()\n",
+    "    await page.goto(url)\n",
+    "    \n",
+    "    # Wait for the main post body to load (Forever Dreaming uses .postbody)\n",
+    "    await page.wait_for_selector(\".postbody\", timeout=10000)\n",
+    "    \n",
+    "    html = await page.content()\n",
+    "    await page.close() # Close the tab, but keep the browser open\n",
+    "    \n",
+    "    soup = BeautifulSoup(html, \"html.parser\")\n",
+    "    # Forever Dreaming transcript text is inside div.content\n",
+    "    content = soup.find(\"div\", class_=\"content\")\n",
+    "    return content.get_text(separator=\"\\n\") if content else \"\"\n",
+    "\n",
+    "# Launch the Scraper\n",
+    "async def corpus_build(archive_url, output_folder):\n",
+    "    if not os.path.exists(output_folder):\n",
+    "        os.makedirs(output_folder)\n",
+    "\n",
+    "    async with async_playwright() as p:\n",
+    "        browser = await p.chromium.launch(headless=True)\n",
+    "        page = await browser.new_page()\n",
+    "        \n",
+    "        print(f\"Fetching index page: {archive_url}\")\n",
+    "        await page.goto(archive_url)\n",
+    "        await page.wait_for_selector(\"a.topictitle\")\n",
+    "        \n",
+    "        html = await page.content()\n",
+    "        soup = BeautifulSoup(html, \"html.parser\")\n",
+    "        \n",
+    "        # Find all transcript links\n",
+    "        links = soup.find_all(\"a\", class_=\"topictitle\")\n",
+    "        \n",
+    "        for index, link in enumerate(links):\n",
+    "            raw_title = link.get_text().strip().replace(\"/\", \"-\") # Here we replace `/` that could be a path separator \n",
+    "            title = re.sub(r'[^\\w\\-]', '_', raw_title)   # We're cleaning up the title with a regex, \n",
+    "             # anything that isn't alphanumeric gets converted to an underscore.\n",
+    "            relative_url = link.get('href').lstrip('.')\n",
+    "            full_url = f\"https://transcripts.foreverdreaming.org{relative_url}\"\n",
+    "            \n",
+    "            print(f\"Scraping ({index+1}/{len(links)}): {title}\")\n",
+    "            \n",
+    "            try:\n",
+    "                text = await get_transcript_text(browser, full_url)\n",
+    "                \n",
+    "                # Write to file\n",
+    "                file_path = os.path.join(output_folder, f\"{title}.txt\")\n",
+    "                with open(file_path, \"w\", encoding=\"utf-8\") as f:\n",
+    "                    f.write(text)\n",
+    "            except Exception as e:\n",
+    "                print(f\"Failed to scrape {title}: {e}\")\n",
+    "\n",
+    "        await browser.close()\n",
+    "        print(\"Finished! Corpus saved.\")\n",
+    "\n",
+    "# Initiate the process by running corpus_build()\n",
+    "\n",
+    "await corpus_build(\n",
+    "    archive_url, \n",
+    "    output_folder\n",
+    ")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
