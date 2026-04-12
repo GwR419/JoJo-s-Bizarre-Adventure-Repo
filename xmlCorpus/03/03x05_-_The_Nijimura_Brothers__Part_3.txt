@@ -1,0 +1,1281 @@
+josu: My plan is already finished.
+
+
+
+kei: What?!
+
+
+
+josu: Okuyasu's big bro was a pretty great danger.
+
+
+
+josu: Koichi, let's get the heck out of this house.
+
+
+
+koichi: Huh?
+
+
+
+koichi: Wh-What about the bow and arrow that sh-shot me?
+
+
+
+josu: The bow and arrow?
+
+
+
+main: ,Looks like Okuyasu's big bro hid them somewhere.
+
+
+
+josu: Are we going to look for them?
+
+
+
+koi: Y-Yeah...
+
+
+
+josu: You know, I could swear they mentioned having a dad around.
+
+
+
+josu: I took some pretty major damage,so let's just leave for today.
+
+
+
+koichi: W-We can't!
+
+
+
+koi: I-I'm alive because you healed my wounds for me, but...
+
+
+
+koi: If someone else is shot with that bow and arrow again,
+
+
+
+main: ,they might actually die!
+
+
+
+koi: Here in this town!
+
+
+
+koi: S-Stay here. I-I'll go look for them myself!
+
+
+
+koi: N-Not to mention, I don't think their dad is here right now.
+
+
+
+koi: I-If he was, I'm s-sure he would have shown himself by now.
+
+
+
+josu: He's a lot braver than he looks.
+
+
+
+josu: He can be tough when it counts...Or maybe just reckless.
+
+
+
+josu: But right now, we should really hurry up and get out of this house.
+
+
+
+josu: Hey...
+
+
+
+koi: Wh-What? D-Don't try to stop me.
+
+
+
+josu: I won't.
+
+
+
+josu: Let's hurry up, snap that bow and arrow in half,
+
+
+
+main: ,and get outta here together,
+
+
+
+josu: Koichi.
+
+
+
+sign: Jojo's Bizarre Adventure
+
+
+
+sign: Diamond is Unbreakable
+
+
+
+sign: Episode   The Nijimura Brothers, Part 
+
+
+
+koichi: They have an attic. Maybe the bow and arrow are up here.
+
+
+
+koi: Th-There they are!
+
+
+
+koi: The bow and arrow!
+
+
+
+main: ,They're hanging on the far wall!
+
+
+
+josu: Hey, I think this was a bad idea.There's something in there.
+
+
+
+josu: Is something chained up in there?
+
+
+
+koi: I-Is it a dog?
+
+
+
+main: ,Those sounds can't be from a human...
+
+
+
+koi: I-It sounds like an animal.
+
+
+
+koi: No, I'm scared! What should we do?!
+
+
+
+josu: What should we do?
+
+
+
+main: ,It was you who insisted on going!
+
+
+
+koi: Yeah, but...
+
+
+
+josu: We're just gonna have to do this.
+
+
+
+josu: Listen up, Koichi.
+
+
+
+main: ,You're gonna kick in the door as hard as you can on the count of three.
+
+
+
+josu: We're gonna scare it.
+
+
+
+josu: Then, I'm gonna run over andsnap the bow and arrow in half.
+
+
+
+josu: Got it?
+
+
+
+koi: Yeah.
+
+
+
+josu: Here we go.
+
+
+
+josu: One...
+
+
+
+josu: Two...
+
+
+
+josu: Three!
+
+
+
+Glob,SFX: Grab
+
+
+
+josu: What is that?!
+
+
+
+josu: Koichi!
+
+
+
+koi: Help!
+
+
+
+josu: That hand doesn't belong to a Stand. It's real!
+
+
+
+josu: That's a real body!
+
+
+
+koi: H-Help me!
+
+
+
+koi: Bleh...
+
+
+
+josu: I didn't mean to chop it off...
+
+
+
+josu: Wh-What the heck is that creature?
+
+
+
+josu: I can't believe that thing's been living near my house...
+
+
+
+koi: Bleh...
+
+
+
+kei: Looks like you finally saw the thing you weren't supposed to see.
+
+
+
+josu: You...
+
+
+
+kei: That thing right there... is our dad.
+
+
+
+kei: My dad needs these.
+
+
+
+koi: Th-The bow and arrow...
+
+
+
+kei: I want to find a Stand user for my dad's sake.
+
+
+
+kei: That's why I can't let anyone else
+
+
+
+kei: have this bow and arrow or destroy them,
+
+
+
+kei: no matter what!
+
+
+
+josu: Is it some kind of disease?
+
+
+
+kei: Disease? No.
+
+
+
+main: ,My dad's perfectly healthy,
+
+
+
+kei: and he's got an appetite.
+
+
+
+kei: But he just keeps moaning, and he doesn't recognize me as his son.
+
+
+
+josu: So you were looking for a Stand user to fix your dad.
+
+
+
+kei: Fix?
+
+
+
+main: ,You gonna fix him for me? That's not it, either.
+
+
+
+kei: It's the opposite.
+
+
+
+kei: I'm looking for a Stand user who'll k*ll my dad.
+
+
+
+kei: Dad won't die, no matter what.
+
+
+
+kei: Whether you smash his head in,
+
+
+
+main: ,or grind up his body, or rip things off, nothing works!
+
+
+
+kei: I just want to let him die normally.
+
+
+
+kei: I swore when I was a kid that I'd do anything to make that happen.
+
+
+
+kei: And to do that, I need this bow and arrow.
+
+
+
+kei: Otherwise, my dad will probably live like this forever.
+
+
+
+kei: Because my dad had some guy named Dio's cells
+
+
+
+main: ,implanted in his head,so he ended up like this!
+
+
+
+josu: Dio? Did you just say Dio?
+
+
+
+josu: That's the guy Jotaro talked about.
+
+
+
+kei: Let me tell you a bit about the past,
+
+
+
+main: ,Josuke Higashikata.
+
+
+
+kei: After all, you're not completely uninvolved.
+
+
+
+kei: Everything happened eleven years ago, in .
+
+
+
+kei: At the time, I was seven, and Okuyasu was four.
+
+
+
+kei: We lived in Tokyo.
+
+
+
+kei: The world was carefree,thanks to the bubble economy,
+
+
+
+kei: but at the time, my dad had no luck.
+
+
+
+kei: Our mom died of an illness,
+
+
+
+kei: the business that my dad was running went under,
+
+
+
+Luxury_Houses_Ni,sign: Luxury HousesNijimura Land
+
+
+
+kei: and he was in massive debt.
+
+
+
+kei: He would hit us for no reason all the time.
+
+
+
+kei: Our dad was a total loser.
+
+
+
+kei: But then, suddenly,
+
+
+
+kei: money started rolling in to my dad.
+
+
+
+kei: Even jewels and precious metals, too, sometimes.
+
+
+
+kei: He wasn't even really working.
+
+
+
+kei: I found out later when I did some research
+
+
+
+kei: that my dad had apparently already sold his soul to Dio.
+
+
+
+kei: He became one of his minions in exchange for money.
+
+
+
+kei: It seems that Dio was looking for anyone with Stand potential back then.
+
+
+
+kei: Somehow, he found out that my dad had the potential,
+
+
+
+kei: though I have no idea now what his Stand was like.
+
+
+
+kei: But one day... Even though it was ten years ago, I still remember it vividly.
+
+
+
+kei: When I got home from school, around : PM...
+
+
+
+kei: Okuyasu!
+
+
+
+kei: Did Dad hit you again? That scum!
+
+
+
+oku: N-No!
+
+
+
+kei: Huh?
+
+
+
+dad: Dio...
+
+
+
+dad: Dio's dead...
+
+
+
+flashback: ,That has to be why!
+
+
+
+kei: Dad?
+
+
+
+kei: Dad, let's call an ambulance.
+
+
+
+dad: It's no use! This isn't an illness!
+
+
+
+flashback: ,The flesh bud has gone berserk!
+
+
+
+dad: I'm done for!
+
+
+
+fboverlap,kei: Dad!
+
+
+
+kei: About a year after that, he becamea glob of flesh that can't even tell
+
+
+
+main: ,that we're his sons anymore.
+
+
+
+kei: Dio would implant his own cells into the heads of those he couldn't trust,
+
+
+
+kei: and order them around whenhe wanted to control them.
+
+
+
+kei: Dad had one of those flesh buds implanted in his head.
+
+
+
+kei: I spent ten years researching everything.
+
+
+
+kei: About Stands, about Jotaro...
+
+
+
+main: ,Then I found out about the old woman named Enyaba,
+
+
+
+main: ,and obtained the bow and arrow.
+
+
+
+kei: But as I learned all of this,
+
+
+
+main: ,I also had to accept that my dad would never recover.
+
+
+
+kei: Because Dio's immortal cells had become one with him.
+
+
+
+kei: This is all he does, all day long.
+
+
+
+kei: Every single day...
+
+
+
+kei: Day after day, for ten years,
+
+
+
+kei: he uselessly scratches around that box of junk.
+
+
+
+kei: If I take the box away from him, he just cries for days.
+
+
+
+kei: It pisses me off.
+
+
+
+main: ,Watching him just makes me hate the idea of living.
+
+
+
+kei: How many times have I told you not to make a mess?
+
+
+
+kei: He can be obedient if I discipline him,
+
+
+
+kei: but he never stops digging around in that box!
+
+
+
+main: ,Bleh...
+
+
+
+josu: Hey! You're the one who needs to stop!
+
+
+
+josu: He's your dad!
+
+
+
+kei: Yeah, that's right.
+
+
+
+kei: He's my father by blood.
+
+
+
+kei: But right now, he's as much my father as he's not.
+
+
+
+kei: He's a man who sold his soul to Dio,and got what he deserved.
+
+
+
+kei: Yet, on the other hand,
+
+
+
+main: ,do you know how it feels, not being able to finish him off because he's your dad?
+
+
+
+kei: That's exactly why I want him to die normally.
+
+
+
+kei: Once he's finally dead,my life can actually begin!
+
+
+
+kei: ! I told you to stop that!
+
+
+
+main: ,It pisses me off!
+
+
+
+josu: Hey!
+
+
+
+josu: That's enough!
+
+
+
+kei: I can't let you have this bow and arrow.
+
+
+
+kei: No matter what!
+
+
+
+josu: Don't get the wrong idea!
+
+
+
+main: ,I'll worry about the bow and arrow later.
+
+
+
+josu: Right now, that box has my attention!
+
+
+
+Gion,sfx: Dogyaa
+
+
+
+Gion,sfx: Do
+
+
+
+koi: Th-The box?
+
+
+
+Gion - Copy,sfx: gyaa
+
+
+
+josu: I saw him grabbing at some paper scraps,
+
+
+
+main: ,so I was curious about what it was.
+
+
+
+josu: I see now.
+
+
+
+koi: A family photo...
+
+
+
+koi: S-So there was a reason.
+
+
+
+main: ,There was a reason for thebehavior he repeated for ten years.
+
+
+
+koi: He was looking for the photo of his sons at the time.
+
+
+
+koi: He might not understand what's going on right now,
+
+
+
+koi: but deep down inside,he still has his memories!
+
+
+
+koi: Memories of the past!
+
+
+
+signtop: The
+
+
+
+signtop: The Ha
+
+
+
+signtop: The Han
+
+
+
+signtop: The Hand
+
+
+
+signbot: Oku
+
+
+
+signbot: Okuyasu
+
+
+
+signbot: Okuyasu Niji
+
+
+
+signbot: Okuyasu Nijimura
+
+
+
+josu: Instead of looking for a Stand to k*ll him,
+
+
+
+josu: if you'll try to find one that can cure him,
+
+
+
+josu: I don't mind helping you out.
+
+
+
+josu: But hand over that bow and arrow.
+
+
+
+main: ,I'm gonna snap them in half.
+
+
+
+josu: You planning to run?
+
+
+
+oku: Big Bro, let's stop this.
+
+
+
+kei: Okuyasu!
+
+
+
+oku: Come on, let's stop all of this, okay?
+
+
+
+josu: You were still here?
+
+
+
+oku: Dad might get cured, right?
+
+
+
+oku: Even if his body doesn't go back to normal,
+
+
+
+oku: maybe his mind and his memories will go back to how he used to be.
+
+
+
+main: ,Right?
+
+
+
+kei: Okuyasu! What do you think you're holding?
+
+
+
+oku: Big Bro...
+
+
+
+kei: Out of the way, Okuyasu!
+
+
+
+main: ,I can't turn back anymore, no matter what happens!
+
+
+
+kei: I've already k*lled so many people in this city with this bow and arrow!
+
+
+
+kei: Besides, I don't even think of you as my little brother anymore.
+
+
+
+kei: Since you're not my little brother, I can k*ll you without hesitation!
+
+
+
+oku: B-Big Bro...
+
+
+
+josu: You guys...
+
+
+
+josu: Do you have any relatives here besides your dad?
+
+
+
+oku: Relatives? There's only the three of us.
+
+
+
+oku: Th-That's...
+
+
+
+josu: It came out of the electrical outlet...
+
+
+
+kei: Okuyasu! Stop spacing out, you foolishass!
+
+
+
+oku: Big Bro!
+
+
+
+bird: I'm taking this bow and arrow, Keicho Nijimura!
+
+
+
+bird: I, who got shot by this bow and arrow, and had my Stand ability awakened!
+
+
+
+kei: You think...
+
+
+
+main: ,someone like you can handle this bow and arrow?
+
+
+
+bird: Keicho Nijimura!
+
+
+
+main: ,You said Stands depend on one's mentality, didn't you?
+
+
+
+bird: Well, I've grown!
+
+
+
+bird: How else do you think my Stand,Chili Pepper, grew this much?
+
+
+
+kei: Worse Company!
+
+
+
+bird: Shut up!
+
+
+
+josu: Th-That's...
+
+
+
+koi: Electricity!
+
+
+
+main: ,Okuyasu's big brother is being turned into electricity,
+
+
+
+main: ,along with the bow and arrow!
+
+
+
+oku: Big Bro!
+
+
+
+kei: Don't touch me!
+
+
+
+kei: You'll be dragged in, too!
+
+
+
+oku: Big Bro...
+
+
+
+kei: D-! It's taking the bow and arrow!
+
+
+
+kei: Okuyasu...
+
+
+
+kei: You were always holding me back!
+
+
+
+oku: Big Bro!
+
+
+
+koi: Josuke!
+
+
+
+josu: I could have sworn I just saw someone who looked like
+
+
+
+josu: the user looking in through that window.
+
+
+
+josu: Do you know anything about that Stand we just saw, Okuyasu?
+
+
+
+oku: N-No. My big bro found a lot of Stand users I didn't know about.
+
+
+
+oku: J-Josuke! Th-That's...
+
+
+
+josu: Okuyasu...
+
+
+
+oku: My big bro... deserved to end up like that.
+
+
+
+oku: There's no way he could have lived a decent life.
+
+
+
+oku: That was his fate.
+
+
+
+oku: But you know...
+
+
+
+main: ,In the end, my big bro...
+
+
+
+oku: In the very end, my big bro defended me, didn't he?
+
+
+
+oku: Josuke, you saw it, right?
+
+
+
+josu: Yeah. I definitely saw it.
+
+
+
+josu: Your big bro defended you.
+
+
+
+guy: Is this Jotaro Kujo?
+
+
+
+jojo: I don't recognize your voice.
+
+
+
+main: ,Who are you?
+
+
+
+guy: That doesn't matter.
+
+
+
+guy: Jotaro Kujo, I'm asking you to leave Morioh City.
+
+
+
+jojo: I don't think I'll listen to someone
+
+
+
+main: ,I don't know suddenly telling me to leave.
+
+
+
+jojo: Would you leave, no questions asked,if you were in my shoes?
+
+
+
+guy: I'm the one who has the bow and arrow.
+
+
+
+guy: I got it after I k*lled Keicho Nijimura.
+
+
+
+guy: I don't mind k*lling you either,Jotaro, but I hear that
+
+
+
+announcer: ,you have the ability to stop time for a second or two.
+
+
+
+guy: You sound like a tough opponent,
+
+
+
+announcer: ,so I thought I'd give you a call and warn you first.
+
+
+
+jojo: Are you also Stand user?
+
+
+
+main: ,What do you plan to do with the bow and arrow?
+
+
+
+guy: I don't plan on giving you any trouble.
+
+
+
+guy: And as long as Josuke Higashikata doesn't try anything,
+
+
+
+Unavailable_Numb,sign: Unavailable Number  Public Phone
+
+
+
+announcer: ,I won't do anything to him, either.
+
+
+
+guy: I just received this Stand ability.
+
+
+
+announcer: ,I just want to have a little fun.
+
+
+
+guy: I'm fed up with my annoying life of entrance exams and getting a job.
+
+
+
+jojo: Are you a student?
+
+
+
+guy: What difference does that make?!
+
+
+
+guy: Listen! If you overstay your welcome in my city,
+
+
+
+announcer: ,I'm gonna k*ll you and Josuke, too! Got it?!
+
+
+
+jojo: How many other Stand users are in this city?
+
+
+
+jojo: Good grief...
+
+
+
+nar: Keicho Nijimura was buried in Kunimi Peak Cemetery,
+
+
+
+internal/narrator: ,which is west of Morioh City.
+
+
+
+nar: The stolen bow and arrow remain missing.
+
+
+
+Nijimura_Family,sign: Nijimura Family
+
+
+
+nar: Okuyasu Nijimura decided to settle down
+
+
+
+internal/narrator: ,with his father in Morioh City for a while.
+
+
+
+nar: And...
+
+
+
+mom: Josuke, would you get that?
+
+
+
+josu: Yes?
+
+
+
+oku: Hey, Josuke! Let's go to school.
+
+
+
+josu: Huh?
+
+
+
+oku: I'll be going to the same school as you starting today.
+
+
+
+josu: Even so, you don't have to come and get me.
+
+
+
+main: ,We're not in grade school.
+
+
+
+oku: Man, I had no idea your house was, like, right in front of mine!
+
+
+
+josu: Yeah, you could call that a shocking truth...
+
+
+
+oku: Come on. Let's hurry up and go.
+
+
+
+mom: Oh, is that a friend of yours, Josuke?
+
+
+
+oku: Hi! I'm Okuyasu Nijimura!
+
+
+
+mom: Come on in and have a cup of coffee while he finishes getting ready.
+
+
+
+oku: Really? Thank you very much!
+
+
+
+oku: Your mom is totally hot.
+
+
+
+oku: Pardon the intrusion!
+
+
+
+josu: This is just great... and heavy...
