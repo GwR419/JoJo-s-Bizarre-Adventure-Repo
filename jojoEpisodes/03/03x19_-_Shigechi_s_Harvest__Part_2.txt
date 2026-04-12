@@ -1,0 +1,1521 @@
+Sign: Budogaoka Bank
+
+
+
+Sign: Great Year-End Lottery
+
+
+
+Guy: Congratulations on your entry.
+
+
+
+Guy: You've come just before the expiration date,
+
+
+
+Guy: but you've indeed won the  third place prize, five million yen.
+
+
+
+Guy: Now, then... Here you go.
+
+
+
+Guy: This is the promissory note  for five million yen.
+
+
+
+Sign: Morioh Station Branch
+
+
+
+Guy: As it states on the paperwork,  you'll be able to cash it in three days.
+
+
+
+Sign: Promissory Note
+
+
+
+Sign: Budogaoka Bank   Morioh Station Branch
+
+
+
+Total,Sign: Total
+
+
+
+Sign: Please pay the amount stated above in exchange for this promissory note.
+
+
+
+Oku: One, ten, hundred, thousand...
+
+
+
+Josu: Th-There are six zeros...
+
+
+
+Guy: Now, I do have one question...
+
+
+
+Reception_Office,Sign: Reception Office
+
+
+
+Guy: From which vendor did you  gentlemen purchase this ticket?
+
+
+
+Sniff, sniff.
+
+
+
+Josu: Wh-Which?
+
+
+
+Josu: Wh-Why do you want to know that?
+
+
+
+Guy: Oh, it's just a formality.
+
+
+
+Guy: You stupid little brats.
+
+
+
+You won five million yen? That's too fishy.
+
+
+
+Guy: I'm a very capable bank associate,  and I smell something rotten here.
+
+
+
+Guy: Or perhaps
+
+
+
+Guy: there's a reason you'd rather  not answer that question?
+
+
+
+Guy: W-Well, of course we bought it in Morioh.
+
+
+
+Guy: Oh? Well, that's bizarre...
+
+
+
+Guy: There isn't a single lottery vendor in Morioh.
+
+
+
+Josu: O-Oh, right...
+
+
+
+Josu: It must have been when we went to S City.
+
+
+
+Josu: We bought all kinds of things,  so I don't remember that well...
+
+
+
+Oku: I-I-I-I-I-It was a while back, too...
+
+
+
+Guy: I just realized something bizarre...
+
+
+
+Guy: On the other side of the lottery ticket,
+
+
+
+Guy: there's a place to write your name  and telephone number, and...
+
+
+
+Ichiro_Morishita,Sign: Ichiro Morishita
+
+
+
+Guy: Ichiro Morishita...
+
+
+
+Guy: The name written here doesn't  match any of your names.
+
+
+
+Josu: N-Name?!
+
+
+
+Oku: Phone number?!
+
+
+
+Shige: That was written on the back?!
+
+
+
+Josu: E-Er...
+
+
+
+Guy: Well, well, well, well, this is truly bizarre.
+
+
+
+Guy: This is your lottery ticket, isn't it?
+
+
+
+Josu: Oh, yeah! Now I remember!
+
+
+
+Josu: I wrote down my friend's number  on that instead of a memo pad!
+
+
+
+Guy: Oh! Is that so?
+
+
+
+Guy: Then how about we give  Mr. Ichiro Morishita a call?
+
+
+
+Guy: We can also tell where
+
+
+
+lottery tickets are purchased  with the serial number here.
+
+
+
+Guy: If Mr. Ichiro Morishita was the  one who purchased this ticket
+
+
+
+and remembers exactly where he bought it,
+
+
+
+Guy: we'll then have to check this signature, too...
+
+
+
+Guy: To see who this ticket belongs to.
+
+
+
+Guy: Depending on the situation, we may  have to turn it over to the police.
+
+
+
+All: The police?!
+
+
+
+Mori: Hello? This is Morishita.
+
+
+
+Guy: Hello, I'm calling on behalf of Budogaoka Bank.
+
+
+
+Guy: I wanted to inquire if Mr. Ichiro Morishita
+
+
+
+had purchased the Great  Year-End Lottery ticket.
+
+
+
+Guy: Oh, I'm Ichiro Morishita,  and yes, I bought one.
+
+
+
+Mori: Yeah, I'm sure I bought one.
+
+
+
+Guy: Yes! You stupid little brats!
+
+
+
+My sense of smell was correct!
+
+
+
+Guy: There's no way God would grant  brats like you the winning ticket!
+
+
+
+Morishita,Sign: Morishita
+
+
+
+Guy: So you did! You bought a lottery ticket.
+
+
+
+Mori: Yeah, I did.
+
+
+
+Morishita_Ichiro,Sign: Morishita Ichiro
+
+
+
+: But I bought like, ten, and  none of them were winners.
+
+
+
+Josu: I'm going to change just part of the signature...
+
+
+
+Kinoshita_Ichiro,Sign: Kinoshita Ichiro
+
+
+
+Guy: You see, Mr. Kinoshita, your lottery ticket...
+
+
+
+Mori: Kinoshita? My name's Morishita.
+
+
+
+Guy: Huh? But it said "Mori"!  What? How strange...
+
+
+
+Gu: Your phone number is     -    ,  correct, Mr. Kinoshita?
+
+
+
+Mori: I told you my name's not  Kinoshita, you foolishass!
+
+
+
+Mori: It's Morishita!
+
+
+
+Mr: Why are you wasting my time with this?
+
+
+
+Mori: I threw them all away.
+
+
+
+: Why don't you sell some  winning tickets sometime?
+
+
+
+Guy: P-Pardon me...
+
+
+
+Gy: J-Just wait, you!
+
+
+
+Phone: The number you are trying to  reach is currently not in use.
+
+
+
+Phone: Please confirm the number and try again...
+
+
+
+Oku: A-Are you satisfied?
+
+
+
+Guy: I-I-I'm terribly sorry for my rudeness.
+
+
+
+Shige: Yay! It's my money!
+
+
+
+Shige: I won this five million yen!
+
+
+
+Oku: Hey, you promised that half  of it would be ours, Shigechi!
+
+
+
+Shige: Did I say that?
+
+
+
+Oku: You're doing that again?!
+
+
+
+Okku: Hey, Josuke! Why are you stopping me?!
+
+
+
+Oku: You're not gonna let him get  away with it again, are you?
+
+
+
+Josu: No... This time, I'm not backing down, either!
+
+
+
+Josu: There's no way you're getting away with this!
+
+
+
+Oku: Well said, Josuke!
+
+
+
+Of course you wouldn't back down!
+
+
+
+It's only logical!
+
+
+
+Josu: So now you don't want to  split the money, Shigechi?
+
+
+
+Josu: You realize this amount is way too  much for that to fly, don't you?
+
+
+
+Shige: Here.
+
+
+
+Shige: This should be enough for you guys.
+
+
+
+Shige: You didn't really do anything, after all.
+
+
+
+Shige: I'll take pity on you  because you're my friends.
+
+
+
+Crush,Sfx: Crush
+
+
+
+Oku: Why, you—
+
+
+
+Josu: Hey, Okuyasu!
+
+
+
+Oku: Give us the money, you foolishass!
+
+
+
+Oku: You promised us half,  so you're going to give us half!
+
+
+
+Oku: Stop being greedy, you idiot!
+
+
+
+Josu: You're always so quick to hit. Don't be rash.
+
+
+
+Ku: When foolishasses don't get what you're saying,  this is how you make them understand!
+
+
+
+Josu: Are you hurt?
+
+
+
+Josu: I'm sorry Okuyasu suddenly hit you.
+
+
+
+Josu: But, Shigechi, let's not cause any trouble.
+
+
+
+Josu: We're gonna hold onto the promissory  note for the five million.
+
+
+
+Josu: In three days, when it becomes cash,
+
+
+
+Josu: let's split it evenly in half, like we discussed.
+
+
+
+Oku: But, man, he's ridiculous.
+
+
+
+Oku: I'm done hanging out with him.
+
+
+
+Josu: But you know,
+
+
+
+Josu: I think we should reflect on the fact that we thought about using him
+
+
+
+to get some pocket money, too.
+
+
+
+Oku: You dummy.
+
+
+
+Josu: Huh?
+
+
+
+Oku: I'm not gonna think of it like that.
+
+
+
+Oku: The only reason he was able to get  the five million was because of us.
+
+
+
+Oku: If it was him alone, he could only  get maybe tens of thousands.
+
+
+
+Oku: But he's getting  .  million on his own.
+
+
+
+Both:  .  million!
+
+
+
+Both: Yes, yes, yes, yes, yes, yes, yes, yes,
+
+
+
+Both: yes, yes, yes, yes!
+
+
+
+Harv: Like I'll give it to you.
+
+
+
+Harv: Like I'll give it to you!
+
+
+
+Harv: I heard everything, !
+
+
+
+Harv: I won't give you guys even one yen!
+
+
+
+Harv: We got that five million  because of my Harvest!
+
+
+
+Shige: You're no match for my Harvest!
+
+
+
+Shiige: You wanna see proof?
+
+
+
+You want to see some solid proof?
+
+
+
+Shige: I'll show you!
+
+
+
+Ow!
+
+
+
+Oku: villain!
+
+
+
+JoJo-overlap,Josu: No! The promissory note for the five million!
+
+
+
+Oku: You're underestimating us, you little punk!
+
+
+
+Shige: If you keep chasing me,
+
+
+
+Shige: I'll k*ll you.
+
+
+
+Josu: Shigechi...
+
+
+
+Okku: You're gonna k*ll us, you backstabbing villain?
+
+
+
+Oku: You'd better be prepared to die if you're  gonna bring out your Stand against us!
+
+
+
+Oku: W-Wait, Josuke...
+
+
+
+Josu: What's wrong?
+
+
+
+Oku: What's this sensation?
+
+
+
+Oku: M-My legs...
+
+
+
+Oku: are itching really bad.
+
+
+
+Josu: Itching? At a time like this?
+
+
+
+Oku: They itch really bad!
+
+
+
+Oku: My whole body itches!
+
+
+
+Oku: Wh-What is this?!
+
+
+
+Josu: Lift up your pants, Okuyasu! Hurry!
+
+
+
+Oku: What?!
+
+
+
+Oku: They're inside my pants!
+
+
+
+Josu: I-It's no use!
+
+
+
+Knocking off two or three of  them won't damage him at all!
+
+
+
+Oku: !
+
+
+
+Oku: He's running away!
+
+
+
+Josu: I-I'm starting to get really annoyed.
+
+
+
+Oku: I've already been super annoyed!
+
+
+
+Josu: We're not letting you get away, five million!
+
+
+
+Oku: Now he's totally made enemies of the Okuyasu-Josuke duo!
+
+
+
+Sign bot: Shi
+
+
+
+Sign bot: Shin
+
+
+
+Sign bot: Shinin
+
+
+
+Sign bot: Shining
+
+
+
+Sign bot: Shining D
+
+
+
+Sign bot: Shining Di
+
+
+
+Sign bot: Shining Dia
+
+
+
+Sign bot: Shining Diamo
+
+
+
+Sign bot: Shining Diamon
+
+
+
+Sign bot: Shining Diamond
+
+
+
+Sign top: Jo
+
+
+
+Sign top: Josuke
+
+
+
+Sign top: Josuke Higashi
+
+
+
+Sign top: Josuke Higashikata
+
+
+
+Oku: ! How dare he make a  fool of the great Okuyasu?!
+
+
+
+I'm gonna beat him to death!
+
+
+
+Josu: He must be really foolish to be greedy enough
+
+
+
+to take the whole five million.
+
+
+
+Oku: You stupid fatty!
+
+
+
+You think you can run with a body like that?!
+
+
+
+Oku: See? That's what you get, moron!
+
+
+
+Oku: H-He keeps summoning Harvests under  him like a caterpillar track,
+
+
+
+Oku: or like a bucket relay!
+
+
+
+Jojsu: What? He's ridiculously fast!
+
+
+
+Oku: He may be a simpleton, but he's pretty clever.
+
+
+
+Oku: Are they like his natural instincts?
+
+
+
+Oku: Crap! We're gonna lose him!
+
+
+
+Josu: Calm down.
+
+
+
+Josu: We just need to
+
+
+
+Josu: have our Stands lift our bodies in  the same way he is, and climb up!
+
+
+
+Ooku: I get it!
+
+
+
+Shige: My five million...
+
+
+
+Josu: You actually think you can  get away from us, Shigechi?
+
+
+
+Oku: Bring it on!
+
+
+
+Oku: I'll carefully pop your Harvests, one by one!
+
+
+
+Shige: My Harvest is amazing.
+
+
+
+Shige: It'll gather anything!
+
+
+
+Shige: Even screws holding pipes together.
+
+
+
+Shige: Even bolts!
+
+
+
+Josu: If you want to talk about amazing,  there's also my Shining Diamond!
+
+
+
+Josu: Heya.
+
+
+
+Oku: I'm still super annoyed, but right now,  I'm still willing to forgive you.
+
+
+
+Oku: I'll just hit you two or three times!
+
+
+
+Josu: Come on, give us the promissory note  for the five million, Shigechi.
+
+
+
+Shige: I told you...
+
+
+
+Shige: If you came after me,
+
+
+
+I'd k*ll you.
+
+
+
+Josu: Wh-What?
+
+
+
+Josu: My hands...
+
+
+
+That hurt...
+
+
+
+Josu: I can't stand! Okuyasu, be careful!
+
+
+
+Josu: He did something to me!
+
+
+
+Josu: O-Okuyasu, you too?
+
+
+
+Shige: You still haven't figured it out?
+
+
+
+You guys are drunk!
+
+
+
+Josu: A-Alcohol?!
+
+
+
+Liquor,Sign: Liquor
+
+
+
+Shige: My harvest gathers anything!
+
+
+
+Shige: It brought some alcohol  from the liquor store earlier,
+
+
+
+Shige: then injected it into your bodies!
+
+
+
+Shige: Right into your veins!
+
+
+
+Josu: Wh-What?!
+
+
+
+Both: You!
+
+
+
+Shige: When you inject alcohol into your veins,
+
+
+
+even a tiny amount will get you really drunk!
+
+
+
+Josu: C-Come to think of it,
+
+
+
+I've heard that alcohol is in the  same group as anesthetics...
+
+
+
+Josu: Th-That one... m-might be pretty smart...
+
+
+
+Josu: Or it might be his natural instincts.
+
+
+
+Oku: I-I'm gonna m*rder him!
+
+
+
+Oku: There's no way we're gonna lose  just because we're drunk!
+
+
+
+Oku: M-My eye!
+
+
+
+Oku: Josuke, hurry and fix it!
+
+
+
+Josu: W-Wait, Okuyasu!
+
+
+
+Shige: You guys had the nerve to
+
+
+
+call me unreasonable and other  things earlier, didn't you?
+
+
+
+Shige: I'll show you what happens  when you underestimate me!
+
+
+
+Josu: D-!
+
+
+
+Josu: You have the nerve to get c*ck after  you're the one who broke your promise?
+
+
+
+Josu: I'm seriously going to get annoyed!
+
+
+
+Josu: There's no telling what I'll do then!
+
+
+
+Shige: Shut your stupid mouth, Josuke!
+
+
+
+Shige: Your Stands' powers are nothing!
+
+
+
+Shiige: You guys are useless!
+
+
+
+Shige: Make demands once you have  even half of Harvest's power!
+
+
+
+Oku: Josuke, close your eyes!
+
+
+
+Oku: Josuke!
+
+
+
+Shige: , so close!
+
+
+
+Shige: But it's no use closing your eyes.
+
+
+
+Shige: Harvest can get anything!
+
+
+
+Shige: It can rip off your eyelids  and pry out your eyeballs!
+
+
+
+Oku: All right, Shigechi, stop!
+
+
+
+Forgive us already! It was all our fault.
+
+
+
+Shige: Oh? You're apologizing?
+
+
+
+Josu:  it, you little punk!
+
+
+
+Shige: Oh? Okuyasu, it doesn't seem  like Josuke feels that way.
+
+
+
+Oku: I-I'll give him a talking-to!
+
+
+
+Oku: Just let us off the hook with this!
+
+
+
+Okku: This is the   ,    yen you gave  me and the rest of my money.
+
+
+
+Oku: Let us off the hook with this.
+
+
+
+Oku: Who's going to fix my eye if Josuke gets k*lled?
+
+
+
+Josu: O-Okuyasu...
+
+
+
+Shige: Oh, yeah! I just remembered!
+
+
+
+Shige: I felt really bad for you guys,  and gave you more than   ,    yen!
+
+
+
+Oku: Here, take this, and please forgive us.
+
+
+
+Josu: I get it, Okuyasu!
+
+
+
+Josu: Just like baiting a tanuki  with food and catching it,
+
+
+
+Josu: you're trying to lure him  over with cash to defeat him!
+
+
+
+Josu: I totally got what you're thinking!
+
+
+
+Shige: Okuyasu, being honest like that  is very favorable with me.
+
+
+
+Shie: There, there.
+
+
+
+Shige: Hey, wait a sec.
+
+
+
+Shige: Okuyasu, you aren't trying  to trick me by luring me
+
+
+
+closer with money so you can attack  me with your Stand, are you?
+
+
+
+Shige: Ah! So you are!
+
+
+
+Shige: Did you really think I'd fall for that?
+
+
+
+Shige: You really thought I was that stupid?
+
+
+
+I won't forgive you anymore!
+
+
+
+Oku: That's fine, if you don't forgive us.
+
+
+
+Oku: But it's too late.
+
+
+
+Don't you realize that you're  already in The Hand's range?
+
+
+
+Oku: I'm going to scrape away space
+
+
+
+Oku: and make it
+
+
+
+Oku: teleport!
+
+
+
+Josu: We got it back.
+
+
+
+Shigee: Got it back?
+
+
+
+Wh-What are you talking about?
+
+
+
+Shige: I'll just easily take it back...
+
+
+
+Josu: You don't seem to realize, Shigechi,
+
+
+
+Josu: that you have no chance of winning now.
+
+
+
+Shige: The five million!
+
+
+
+Shige: What are you doing?!
+
+
+
+Shige: Inconceivable! Inconceivable!
+
+
+
+Shige: Stop!
+
+
+
+Shige: Why would you do that?!
+
+
+
+Shig: Inconceivable! Inconceivable!  Inconceivable! Inconceivable!
+
+
+
+Shige: That's five million yen!
+
+
+
+Josu: Basically, just try and injure or k*ll us.
+
+
+
+Josu: The only one that can fix this  note is my Shining Diamond...
+
+
+
+Josu: So there's no way you can win.
+
+
+
+Shige: Oh... I-I see! Conceivable!
+
+
+
+Josu: And what happens next certifies your loss.
+
+
+
+Shige: H-Huh? Again, inconceivable! Inconceivable!  Inconceivable! Inconceivable!
+
+
+
+Shie: What are you doing?!
+
+
+
+Shige: Pick them all up, Harvest!
+
+
+
+Josu: Looks like you don't realize that
+
+
+
+Josu: the fact that you're having  Harvest go pick them up
+
+
+
+means that you've lost.
+
+
+
+Ku: So now who's going to protect you  from these two drunks right here?
+
+
+
+Shige: Oh, conceivable...
+
+
+
+Smash,Sfx: Smash
+
+
+
+Oku: We did it.
+
+
+
+Josu: Now, Shigechi...
+
+
+
+Josu: Why don't we review something very simple?
+
+
+
+Josu: The one that collects all  the pieces is your Harvest,
+
+
+
+Josu: and whose Stand is the one that will put them back together?
+
+
+
+Hm?
+
+
+
+Josu: Who is it?
+
+
+
+Who's going to fix it with  their Shining Diamond?
+
+
+
+Shige: J-Josuke...
+
+
+
+Whack_Whack,Sfx: Whack Whack
+
+
+
+Josu: Josuke? Did you just address me so casually?
+
+
+
+Shige: M-Mr. Josuke!
+
+
+
+Josu: That's right, it's Mr. Josuke.
+
+
+
+Josu: But who was the one who just took  back the promissory note from you?
+
+
+
+Say his name.
+
+
+
+Shige: O-Okuyasu...
+
+
+
+Shige: Mr. Okuyasu!
+
+
+
+Josu: Well done. That's a good boy.
+
+
+
+Josu: All right, next, let's do a little calculation.
+
+
+
+Josu: How should we split the five million?
+
+
+
+Josu: How would we split it so  that no one feels slighted?
+
+
+
+Shige: H-Half is fine...
+
+
+
+Josu: In half?
+
+
+
+You realize now that there are  three of us here, don't you?
+
+
+
+Josu: So isn't half a bit off?
+
+
+
+Josu: That doesn't really add up at all.
+
+
+
+Both: Hello?
+
+
+
+Shige: I-It'd be a third...
+
+
+
+Shige: Th-That's right...
+
+
+
+If it was just me, I'd only be able to gather.
+
+
+
+Shige: I-I was wrong.
+
+
+
+Shige: We all found this lottery ticket.
+
+
+
+Shige: We wouldn't have gotten it  without the three of us.
+
+
+
+Shige: I...
+
+
+
+I realize that now. I was blinded by greed.
+
+
+
+Shige: Let's split it up evenly,  so no one is slighted.
+
+
+
+Bam,Sfx: B{\c&H    D &}a{\c&H BC F &}m
+
+
+
+Josu: Yes!
+
+
+
+Shige: B-Bills!
+
+
+
+Oku: I-It's five million yen!
+
+
+
+Guy: Please consider depositing it into our  Budogaoka Bank for peace of mind.
+
+
+
+Josu: Of course!
+
+
+
+Oku: We finally did it! It's like a dream!
+
+
+
+Shige: Wait... Splitting it up evenly  so no one is slighted, huh?
+
+
+
+Shige: Huh? This is weird.
+
+
+
+If we're going to split it up evenly,
+
+
+
+isn't it unfair if we don't include  the number of Stands we have?
+
+
+
+Shige: If we consider that my Stand,  Harvest, is about    ,
+
+
+
+Shige: then we should split it     to   and  .
+
+
+
+Shige: Don't you think so?
+
+
+
+Josu: You little villain!
+
+
+
+Oku: You're seriously going to  argue about this again?
+
+
+
+It's never going to end, you foolishass!
+
+
+
+Shige: O-One third is fine!
+
+
+
+Josuke_Higashika,Sign: Josuke Higashikata – Money Currently in Possession –  ,   ,    yen
+
+
+
+Nar: It's a bit unforgivable for first-years  in high school to have this much, but...
+
+
+
+Nar: To be continued!

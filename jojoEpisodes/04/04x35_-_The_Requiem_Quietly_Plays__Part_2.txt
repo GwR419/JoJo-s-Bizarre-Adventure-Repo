@@ -1,0 +1,1293 @@
+Gio: Could it be that while we were sleeping, Giorno and I, and Mista and Trish...
+
+
+
+Gio: Each pair's minds have been swapped?!
+
+
+
+Turtle: Don't attack just yet!
+
+
+
+Mista: That Stand!
+
+
+
+Nara: It's Zipper Man!
+
+
+
+Gio: It's Bucciarati's...
+
+
+
+Gio: soul!
+
+
+
+No_one_can_escap,Op subs: No one can escape the fate that was chosen for them.
+
+
+
+No_one_can_escap,Op subs: All that remains is the end, where you will all perish.
+
+
+
+No_one_can_escap,Op subs: Eternal greatness exists only within myself.
+
+
+
+No_one_can_escap,Op subs: Sing a song of sorrow in a world where time has vanished.
+
+
+
+JoJo-EpTitle,Sign: Episodio  The Requiem Quietly Plays, Part 
+
+
+
+Gio: Yes! Bucciarati's okay!
+
+
+
+Gio: And he was going after the arrow before the boss was!
+
+
+
+Dia: The way you're talking...
+
+
+
+Dia: Sounds like it's Narancia who's inside you.
+
+
+
+Dia: Am I correct?
+
+
+
+Gio: Yeah!
+
+
+
+Dia: And you two...
+
+
+
+Nara: I'm Giorno.
+
+
+
+Mista: I-It's me, Trish.
+
+
+
+Turtle: Well done, Bucciarati.
+
+
+
+Turtle: You've already figured out this bizarre situation.
+
+
+
+Dia: That voice... Are you the man we were supposed to meet earlier?
+
+
+
+Turtle: Indeed. My name is Jean Pierre Polnareff.
+
+
+
+Crunch,Sfx: {\c&HFC&\c&HBAD&}Stab
+
+
+
+Turtle: I was k*lled by Diavolo.
+
+
+
+Turtle: But I swapped souls with this turtle,
+
+
+
+Turtle: so I'm just barely clinging to this world, basically as a ghost.
+
+
+
+Turtle: And that is my Stand.
+
+
+
+Turtle: The arrow's power caused it to go berserk, and it is now Chariot Requiem.
+
+
+
+Turtle: That's the reason your souls have all been swapped.
+
+
+
+Dia: Wait. If our souls have been swapped,
+
+
+
+Dia: then the one in my body is—
+
+
+
+Trish: He hasn't woken up yet.
+
+
+
+Trish: He's still out cold.
+
+
+
+Dia: Are you... Mista?
+
+
+
+Trish: Yeah. Glad you're safe, Bucciarati.
+
+
+
+Trish: The boss, Diavolo, who swapped minds with you,
+
+
+
+Trish: is being watched by Number Seven of the b*ll*ts.
+
+
+
+Trish: He hasn't moved an inch. He's completely out.
+
+
+
+Nara: Bucciarati!
+
+
+
+JoJo-main: ,Requiem's getting up!
+
+
+
+Nara: We already know how to use the arrow.
+
+
+
+Nara: If we take control of that arrow,
+
+
+
+Nara: everything will be over!
+
+
+
+Crunch,Sfx: {\c&HCF&\c&HED&}Rumble
+
+
+
+Crunch,Sfx: {\c&HCE&\c&HE&}Gwooooar
+
+
+
+Dia: Zipper Man... What in the world...
+
+
+
+Nara: Pick up the arrow!
+
+
+
+Nara: Requiem's charging at you!
+
+
+
+Crunch,Sfx: {\c&HAE&\c&H&\pos(.,.)}Boom
+
+
+
+Crunch,Sfx: {\c&HAE&\c&H&\pos(.,)}Boom
+
+
+
+Crunch,Sfx: {\c&HAE&\c&H&\pos(.,.)}Boom
+
+
+
+Crunch,Sfx: {\c&HAE&\c&H&\pos(.,.)}Boom
+
+
+
+Crunch,Sfx: {\c&HAEF&\c&H&\fad(,)}Stop
+
+
+
+Trish: I'm gonna knock the arrow away!
+
+
+
+Trish: Hurry and pick it up!
+
+
+
+Dia: Something's wrong!
+
+
+
+Dia: Don't tell me that was...
+
+
+
+b*llet: Take this!
+
+
+
+b*llet: I'll put a hole in your brain!
+
+
+
+Dia: The pillar next to you!
+
+
+
+Dia: Mista, duck!
+
+
+
+Crunch,Sfx: {\fad(,)\c&HFB&\c&H&}Boom
+
+
+
+Mista: Spicy Lady!
+
+
+
+Crunch,Sfx: {\c&HFFFE&\c&HBB&}Smack
+
+
+
+Crunch,Sfx: {\c&HCA&\c&HBCD&}Blam
+
+
+
+b*llet: I'll splatter your brains on the ground!
+
+
+
+b*llet: On the ground!
+
+
+
+b*llet: Let the ants swarm around you! The flies swarm around you!
+
+
+
+Trish: What the... Number One? Where the hell did you come from? Hey, stop!
+
+
+
+Three: Cut it out!
+
+
+
+One: Huh?
+
+
+
+One: What's wrong, guys?
+
+
+
+Nara: What...
+
+
+
+Turtle: It can't be...
+
+
+
+Trish: H-Hey!
+
+
+
+Trish: It's going to pick up the arrow!
+
+
+
+Trish: It's going to pick it up!
+
+
+
+Trish: What the hell?
+
+
+
+JoJo-main: ,What the hell just happened?!
+
+
+
+Turtle: I think this is
+
+
+
+Turtle: Requiem's Stand ability when it's in berserk mode.
+
+
+
+JoJo-main: ,This is the first time I'm witnessing it, as well!
+
+
+
+Turtle: Now that Requiem has gone berserk, it has carried on my wish
+
+
+
+JoJo-main: ,and has become a defensive Stand.
+
+
+
+Turtle: All to make sure it doesn't let anyone else have the arrow!
+
+
+
+Dia: Anyone who tries to touch the arrow gets stopped by their own Stand!
+
+
+
+Nara: The arrow has the ability to control your mind...
+
+
+
+JoJo-main: ,Are you saying this is a part of that?
+
+
+
+Gio: So then, what the heck are we supposed to do?
+
+
+
+Gio: Our Stands have powered up.
+
+
+
+Gio: B-But, I mean...
+
+
+
+JoJo-main: ,If we try to get the arrow with that power...
+
+
+
+Dog: S-Stop that,
+
+
+
+JoJo-main: ,Benedict!
+
+
+
+Baby: There, there... It'll be okay.
+
+
+
+Five: Mista! Number Seven, the onekeeping watch, is freaking out!
+
+
+
+b*llet: Bucciarati's body...
+
+
+
+JoJo-main: ,is awake!
+
+
+
+Mista: Diavolo? No way!
+
+
+
+Dia: We'll have to go after the arrow later!
+
+
+
+Dia: Position yourselves where you can see his body!
+
+
+
+Dia: Mista! Shoot him now!
+
+
+
+Dia: What are you doing?! Hurry up and shoot him!
+
+
+
+Trish: B-But that body is yours, Bucciarati!
+
+
+
+Nara: b*llet wounds...
+
+
+
+Nara: are wounds my Golden Wind can fully heal.
+
+
+
+Nara: We need to make sure he can no longer move.
+
+
+
+Nara: That's what you're saying... Right, Bucciarati?
+
+
+
+Seven: He stood up! He's starting to walk!
+
+
+
+Crunch,Sfx: {\c&HCCD&\c&H&\pos(.,.)\fad(,)}Boom
+
+
+
+Crunch,Sfx: {\c&HCCD&\c&H&\pos(.,.)\fad(,)}Boom
+
+
+
+Seven: He's convulsing!
+
+
+
+JoJo-main: ,He won't be able to come at us anymore!
+
+
+
+Gio: No one else is showing up on my radar.
+
+
+
+Gio: No one's coming to save him!
+
+
+
+Gio: We did it.
+
+
+
+Gio: Now, once we get the arrow back... it'll all be over.
+
+
+
+Gio: Once we get back to Naples, I'm gonna go to school!
+
+
+
+Gio: I wanna eat some piping-hot pizza, too!
+
+
+
+Gio: Authentic margherita from back home, where it's baked over an oak wood fire!
+
+
+
+Gio: I'll get some porcini mushrooms on it, too!
+
+
+
+Gio: And then...
+
+
+
+Nara: If I ever see Fugo again...
+
+
+
+JoJo-main: ,Maybe I wouldn't mind him calling me dumb.
+
+
+
+Nara: Too bad Abbacchio's gone now, though...
+
+
+
+Gio: Trish!
+
+
+
+Gio: I'm going to protect you until the end!
+
+
+
+Gio: We all will!
+
+
+
+Mista: Narancia...
+
+
+
+Dia: Mista.
+
+
+
+Dia: Just in case, shoot both of his legs, too.
+
+
+
+Trish: R-Right!
+
+
+
+Trish: Trish, you have my b*ll*ts.
+
+
+
+Trish: Give them all to me.
+
+
+
+Trish: They're inside my boot.
+
+
+
+Mista: S-Sure...
+
+
+
+Trish: Hurry up, would you?
+
+
+
+Trish: Come on, hand over the b*ll*ts!
+
+
+
+Mista: M-Mista...
+
+
+
+Nara: Time just skipped ahead a few seconds!
+
+
+
+Turtle: Yeah! There are b*ll*ts on the ground, but I don't remember hearing them fall!
+
+
+
+Dia: But that's impossible! I didn't see it at all!
+
+
+
+Dia: Not him bringing out Emperor Crimson or making it disappear, either!
+
+
+
+Dia: And why?
+
+
+
+Dia: He hasn't moved an inch from that spot!
+
+
+
+Trish: Trish, drop one more b*llet from my hand.
+
+
+
+Trish: Hurry it up!
+
+
+
+Trish: The number of b*ll*ts on the ground is four!
+
+
+
+Trish: I can't deal with the number four!
+
+
+
+JoJo-main: ,Four is the number I just can't have around me!
+
+
+
+Trish: If it fell when you handed them to me, then you have to drop another one!
+
+
+
+Nara: Is he actually Diavolo?
+
+
+
+Nara: Trish, when we woke up, you mentioned that
+
+
+
+JoJo-main: ,you couldn't sense the boss's presence from that body at all, right?
+
+
+
+Nara: What about now?
+
+
+
+Nara: Do you sense the boss nearby?
+
+
+
+Turtle: But that's not possible!
+
+
+
+Turtle: You swapped with Narancia, and Mista swapped with Trish.
+
+
+
+Turtle: That means Bucciarati switched with Diavolo!
+
+
+
+Turtle: That's Requiem's ability, once it's gone berserk!
+
+
+
+Nara: I don't really get what's going on,
+
+
+
+Nara: but if time just skipped ahead,
+
+
+
+JoJo-main: ,then it's a fact that that body isn't the one controlling Emperor Crimson!
+
+
+
+Dia: Narancia, what's going on in the area?
+
+
+
+Dia: Is there anyone else trying to come near here?
+
+
+
+Dia: Narancia?
+
+
+
+Trish: Trish, please...
+
+
+
+Trish: You need to drop... drop one more b*llet from my hand... please...
+
+
+
+Mista: I don't know...
+
+
+
+Mista: I don't know why I can't sense the boss.
+
+
+
+Mista: I have no idea why!
+
+
+
+Narancia: Move. Move!
+
+
+
+Mista: I can't sense him anywhere...
+
+
+
+Nara: Let me through! Please!
+
+
+
+Narancia: Please! Move out of my way!
+
+
+
+Turtle: Impossible! There's no way this should've happened!
+
+
+
+Dia: Keep an eye on our surroundings, Mista!
+
+
+
+Dia: Watch our backs!
+
+
+
+Trish: Narancia!
+
+
+
+Trish: Cut the iron bars, Bucciarati!
+
+
+
+Trish: We need to hurry up and get Narancia down!
+
+
+
+Nara: Leave it to me, Mista! Leave this to me!
+
+
+
+Dia: You need to load your g*n, Mista!
+
+
+
+Dia: He'll do it again! His attack had already begun!
+
+
+
+Dia: Zipper Man!
+
+
+
+Trish: Now heal him!
+
+
+
+Trish: Hurry up and get the iron bars out of him!
+
+
+
+Trish: The civilians outside the Colosseum are starting to wake up.
+
+
+
+Trish: Where is he? I didn't sense any trace of the boss at all!
+
+
+
+Trish: I don't get why his presence seems to disappear and then reappear anymore...
+
+
+
+Dia: Emperor Crimson's range is two to three meters, at most.
+
+
+
+Dia: So then how did he... from over there?
+
+
+
+Trish: H-Hey! You did it!
+
+
+
+Trish: Narancia's awake now!
+
+
+
+Trish: Yes!
+
+
+
+Trish: Th-That was a close one...
+
+
+
+Gio: No... Mista.
+
+
+
+Gio: This is... an empty... shell.
+
+
+
+Gio: It's an empty shell.
+
+
+
+Gio: The wounds he received...
+
+
+
+JoJo-main: ,have already been healed by my Golden Wind.
+
+
+
+Gio: But... he's already gone.
+
+
+
+Gio: Narancia...
+
+
+
+JoJo-main: ,isn't...
+
+
+
+Gio: It's... completely empty.
+
+
+
+Gio: His soul...
+
+
+
+Gio: It's gone.
+
+
+
+Gio: He's gone now.
+
+
+
+Gio: There's nothing I can do...
+
+
+
+Gio: I didn't make it in time...
+
+
+
+Gio: It's so empty that I could slip right back in... I could coexist in both bodies...
+
+
+
+Gio: That's just how...
+
+
+
+Gio: empty this body is.
+
+
+
+Trish: Narancia!
+
+
+
+Gio: This is too sudden...
+
+
+
+Sign: {\shad\fad(,)}Jean Pierre Polnareff
+
+
+
+Sign: {\shad\fad(,)}Silver Chariot
+
+
+
+Turtle: Where is he?
+
+
+
+Turtle: Where could he be?
+
+
+
+Turtle: This is inconceivable!
+
+
+
+Turtle: This can't be possible unless there are two Diavolos!
+
+
+
+Turtle: Two of them...
+
+
+
+JoJo-main: ,That kid and Diavolo...
+
+
+
+Turtle: Don't tell me there are actually two of them...
+
+
+
+Crunch,Trish: {\c&H&\c&HC&}Rumble
+
+
+
+Turtle: There's only one body, but two minds!
+
+
+
+Turtle: Bucciarati! I figured it out!
+
+
+
+Turtle: Diavolo has two personalities!
+
+
+
+Turtle: That's the only possible way!
+
+
+
+Turtle: The one in that body right now is the kid that I encountered.
+
+
+
+Turtle: The kid and Diavolo have the same body, but their minds are separate!
+
+
+
+Turtle: At times, people's minds
+
+
+
+JoJo-main: ,can be scarred and split due to a traumatic experience during childhood.
+
+
+
+Turtle: As they grow older, that split can develop into a separate personality.
+
+
+
+Turtle: That split personality starts to appear much more distinctly as they reach adulthood,
+
+
+
+Turtle: and one personality will be dominant over the other.
+
+
+
+Turtle: That's the multiple personality disorder theory!
+
+
+
+Turtle: Listen carefully. What I just said isn't a hypothesis.
+
+
+
+Turtle: I've even heard of reports from Germany and England
+
+
+
+JoJo-main: ,where the individual's physical features change depending on the personality.
+
+
+
+Turtle: Requiem's ability tore his soul away from his body.
+
+
+
+Turtle: One of them, the kid, ended up in Bucciarati's body,
+
+
+
+Turtle: but the other one...
+
+
+
+JoJo-main: ,And it could be coincidental, but they ended up in someone else's body.
+
+
+
+Turtle: That's who Diavolo is!
+
+
+
+Turtle: Emperor Crimson attacked from their body!
+
+
+
+Trish: What are you talking about?
+
+
+
+Gio: Two personalities?
+
+
+
+Mista: That's who the boss really is?
+
+
+
+Turtle: Slowly but surely, people are waking up outside.
+
+
+
+Turtle: So I don't know where he's hiding.
+
+
+
+Turtle: But he will come again!
+
+
+
+Turtle: He'll attack again, and soon!
+
+
+
+Dia: That's possible...
+
+
+
+Dia: But he could've already left the area.
+
+
+
+Dia: Diavolo is also after the arrow.
+
+
+
+JoJo-main: ,That's why he attacked Narancia first.
+
+
+
+Dia: He got rid of our radar first.
+
+
+
+Dia: So we wouldn't be able to tell that he was going after the arrow.
+
+
+
+Dia: That's why he took down Li'l Bomber.
+
+
+
+Turtle: This just means you'll have to obtain the arrow's power after all.
+
+
+
+Turtle: Either way, if you're going to destroy Emperor Crimson,
+
+
+
+Turtle: you need to find the arrow before he does, and get it away from Chariot somehow.
+
+
+
+Dia: Which way did Requiem go?
+
+
+
+Turtle: To the left.
+
+
+
+Turtle: It looks like people are starting to wake up in the direction he's headed.
+
+
+
+Mista: Find it? But your body is...
+
+
+
+Mista: What about your body, Bucciarati?
+
+
+
+Trish: I missed all his vital points.
+
+
+
+Trish: But he won't be able to stand up and move.
+
+
+
+Trish: I made sure of that.
+
+
+
+Gio: We're going to have to leave you behind here.
+
+
+
+Gio: So that no one
+
+
+
+JoJo-main: ,can hurt you anymore...
+
+
+
+Gio: Ever again.
+
+
+
+Gio: But I promise
+
+
+
+JoJo-main: ,that I will take you back home.
+
+
+
+Crunch,Sfx: {\c&HDA&\c&H&}Rumble
+
+
+
+Dia: Watch out for anyone coming near us!
+
+
+
+Dia: Let's go!
+
+
+
+Trish: Trish! What are you doing? Stay close!
+
+
+
+JoJo-main: ,R-Right.
+
+
+
+Guy: Hey, the woman running over there! You're under arrest!
+
+
+
+Guy: You're going to accompany me to the station!
+
+
+
+Crunch,Sfx: {\c&HFBC&\c&HCFC&\fad(,)}Kablam
+
+
+
+Mista: I-Is something wrong, Mista?
+
+
+
+Trish: Nope! Everything's fine!
+
+
+
+Trish: They got close, so I thought it might've been the boss,
+
+
+
+Trish: but it was just some cop.
+
+
+
+Dia: It does indeed seem that Requiem
+
+
+
+JoJo-main: ,doesn't have a destination in mind, nor any emotions.
+
+
+
+Dia: It hasn't even looked at me or the direction its heading.
+
+
+
+Dia: It does look like a living creature,
+
+
+
+JoJo-main: ,but it also looks like something resembling black plastic.
+
+
+
+Dia: It hasn't even recognized me as an enemy.
+
+
+
+Dia: It seems to be slow and even weak.
+
+
+
+Dia: And it's a fully physically formed Stand.
+
+
+
+Dia: Civilians can see and touch it.
+
+
+
+Crunch,Sfx: {\c&H&\c&HF&}R{\c&HF&}i{\c&H&}p
+
+
+
+Crunch,Sfx: {\c&HB&\c&HABF&\pos(.,.)}Drag...
+
+
+
+Crunch,Sfx: {\c&HC&\c&HBDA&}Drag
+
+
+
+Gio: It's no use... It's not letting us get close.
+
+
+
+Gio: It's not just our Stands.
+
+
+
+JoJo-main: ,If we try to touch it with something, it'll come flying back at us.
+
+
+
+Gio: This arrow might truly be invincible.
+
+
+
+Gio: The more difficult this becomes, the more I'm convinced that it has
+
+
+
+JoJo-main: ,some kind of isolation power that repels everyone.
+
+
+
+Dia: It's getting up again.
+
+
+
+Mista: How can we pick up the arrow?
+
+
+
+Mista: It's right in front of us!
+
+
+
+Turtle: Hey.
+
+
+
+Turtle: Requiem won't allow Stand users to pick up the arrow.
+
+
+
+Turtle: But what if someone who's not a Stand user tried to pick up the arrow?
+
+
+
+Turtle: Well, what do you think will happen?
+
+
+
+Trish: Why are you asking me that? How the hell would I—
+
+
+
+Crunch,Sfx: Rumble
+
+
+
+Trish: H-Hey, guys!
+
+
+
+Turtle: My soul is holding on for dear life within this turtle.
+
+
+
+Turtle: I'm no longer a Stand user...
+
+
+
+Turtle: so I was able to touch it!
+
+
+
+Turtle: Mista! Hurry up and pierce your Stand with this arrow!

@@ -1,0 +1,1509 @@
+Oku: Man, I'm hungry.
+
+
+
+Oku: After we visit Big Bro's grave, let's get something to eat, Josuke.
+
+
+
+Josu: I'm not hungry.
+
+
+
+Italian_Cuisine_,Sign: Italian CuisineTrendy Meters to the Left
+
+
+
+Oku: There's a new Italian restaurant. Apparently it's just ahead.
+
+
+
+Josu: Just ahead is the cemetery.
+
+
+
+main: ,No one would come to eat at a restaurant in a place like this.
+
+
+
+Oku: Josuke, I think that might actually be what brings people in.
+
+
+
+Oku: The flavor must be like,"Oh, man! I can't stop drooling!"
+
+
+
+Oku: Let's go! Let's go!
+
+
+
+Josu: Is this it?
+
+
+
+Trendy,Sign: Trendy
+
+
+
+Josu: I thought this was an empty building...
+
+
+
+Oku: Maybe they remodeled it. It looks nice.
+
+
+
+Josu: What? "Depends on the customer"?
+
+
+
+Today_s_Course__,Sign: Today's CourseDepends on the CustomerWith Coffee & DessertFrom , yen
+
+
+
+Oku: The inside looks nice, too!
+
+
+
+Tonio: Welcome.
+
+
+
+Title: Episode   Let's Go Eat Some Italian Food
+
+
+
+Tonoi: Two of you?
+
+
+
+Tonio: Come, have a seat.
+
+
+
+Oku: Uh... Thanks...
+
+
+
+Tonio: Please.
+
+
+
+Josu: R-Right...
+
+
+
+Oku: Um, are you a foreigner?
+
+
+
+Tonio: Si, Signore. I'm Italian.
+
+
+
+Tonio: My name is Tonio Trendy. Please call me Tonio.
+
+
+
+Oku: Well, this is great! We get to eat authentic Italian food!
+
+
+
+Tonio: I have traveled the world.
+
+
+
+Tonio: I've studied various cuisines to better the cuisine of my motherland.
+
+
+
+Tonio: Then I came to Japan hoping to get my chance.
+
+
+
+Tonio: Morioh is a wonderful place.
+
+
+
+Tonio: There are plenty of farms where you can get fresh produce,
+
+
+
+main: ,and the seafood is wonderful, as well.
+
+
+
+Tonio: I love it very much.
+
+
+
+Tonio: Using the ingredients that Morioh has to offer,
+
+
+
+main: ,I will bring you food that will make you feel your best.
+
+
+
+Oku: Nice! I wonder what I should get.
+
+
+
+main: ,Could we hurry up and get the menu?
+
+
+
+Tonio: Menu?
+
+
+
+Tonio: We don't have a menu here.
+
+
+
+Oku: What do you mean you don't have a menu?
+
+
+
+Tonio: Because what I serve depends on the customer.
+
+
+
+Oku: So show me the menu.
+
+
+
+Tonio: No, no! It means that I will determine the dishes by looking at the customers.
+
+
+
+Oku: What?
+
+
+
+main: ,You mean you're not going to let the customer eat what they want? Huh?
+
+
+
+Tonio: You had diarrhea last night, didn't you?
+
+
+
+main: ,Your intestinal walls are inflamed.
+
+
+
+main: ,And you didn't sleep enough. You only slept about four hours, didn't you?
+
+
+
+Tonio: No wonder your eyes are so puffy.
+
+
+
+Tonio: Let me see your left hand, too.
+
+
+
+main: ,Yes, yes... You have athlete's foot on your right foot.
+
+
+
+main: ,You have two cavities and your left shoulder is stiff, right?
+
+
+
+Oku: H-How do you know all that?!
+
+
+
+main: ,That's all correct!
+
+
+
+Tonio: By looking at both of your hands, I know everything about your health.
+
+
+
+Tonio: Oh, I'm sorry!
+
+
+
+Tonio: What about you, signore?
+
+
+
+Josu: Yeah, I'm not really hungry, so just coffee is fine.
+
+
+
+Josu: I'll have a cappuccino.
+
+
+
+Tonio: Ho capito.
+
+
+
+Josu: Healthy food that concentrates too much on being healthy
+
+
+
+main: ,usually doesn't taste good.
+
+
+
+Josu: If it tastes even a little bad,we don't have to pay.
+
+
+
+main: ,We can complain and leave.
+
+
+
+Oku: Right.
+
+
+
+Oku: J-Josuke...
+
+
+
+Oku: This water... No, is this mineral water?
+
+
+
+Josu: What's up?
+
+
+
+Oku: I-I've never had water this delicious before!
+
+
+
+Oku: It's like... water filled with elegance...
+
+
+
+main: ,It's like the water a princess in the Alps playing a harp would drink, perhaps.
+
+
+
+Oku: It's so soothing.
+
+
+
+Oku: Like the first water you drink after wandering in the desert for three days.
+
+
+
+Josu: Y-You're right! This is great!
+
+
+
+Oku: So good!
+
+
+
+Whew,Sfx: Whew
+
+
+
+Josu: You're right. This is delicious.
+
+
+
+main: ,What brand of water is this?
+
+
+
+Oku: Th-This water is so delicious that I'm about to cry.
+
+
+
+Josu: Hey, you don't have to cry just from drinking some water.
+
+
+
+Oku: Maybe it's because it's so pure.
+
+
+
+main: ,Do you have a handkerchief? The tears won't stop.
+
+
+
+Oku: The tears just keep flowing! It won't stop!
+
+
+
+Josu: O-Okuyasu! Hey, there's something wrong with you.
+
+
+
+main: ,Are you okay?
+
+
+
+Gush,Sfx: Gush
+
+
+
+Josu: O-Okuyasu!
+
+
+
+Gush: ,Gush
+
+
+
+Oku: Wh-What's with these tears?!
+
+
+
+main: ,They just keep flowing!
+
+
+
+Josu: Okuyasu, y-your eyes, your eyeballs, the white part...
+
+
+
+Josu: It's all shriveled up and squishy!
+
+
+
+Tonio: Momento! Please do not panic.
+
+
+
+Josu: Y-You! What did you make Okuyasu drink?
+
+
+
+Tonio: Please, calm down! His eyeballs will only be shriveled up momentarily.
+
+
+
+Tonio: That mineral water is from snow on Kilimanjaro in Africa
+
+
+
+main: ,that melted , years ago.
+
+
+
+Tonio: It's water that flushes out the inside of the eyeball,
+
+
+
+main: ,along with any dirt,and helps relieve insomnia.
+
+
+
+Tonio: The reason you didn't start crying when you drank it
+
+
+
+main: ,is because you got plenty of sleep last night.
+
+
+
+Oku: Josuke!
+
+
+
+Oku: I'm not sleepy at all now!
+
+
+
+main: ,I feel refreshed! Like I slept a full ten hours!
+
+
+
+Josu: Seriously? O-Okuyasu, are you sure there's nothing wrong with your eyes?
+
+
+
+Oku: Josuke, when you drink water this good for the first time,
+
+
+
+Oku: trust me, you're bound to cry.
+
+
+
+Oku: I cried even more when I watched the movie Champ on video.
+
+
+
+Josu: Really?
+
+
+
+Oku: Yeah!
+
+
+
+Tonio: Here's your cappuccino.
+
+
+
+Josu: R-Right...
+
+
+
+Tonio: Now, shall we continue with the meal?
+
+
+
+Oku: Hey, that looks really good.
+
+
+
+Ingredients_____,Sign: {\u\fs}Ingredients{\u}• Mozzarella cheese ( thin slices)• Tomatoes ( thin slices){\u\fs}Tonio's Special Dressing{\u}•  Anchovy • Seaweed • Olive oil• White wine vinegar • Lemon juice • Salt • Pepper • Etc.• Balsamic vinegar (just a splash) • Toast • Lettuce (for garnish)(Best eaten within  minutes of preparation)
+
+
+
+Tonio: For the antipasto, we have a salad with mozzarella cheese and tomatoes.
+
+
+
+Oku: M-M-Mozzaza?
+
+
+
+Tonio: Mozzarella cheese is a soft, fresh cheese whose fat has been taken out.
+
+
+
+Tonio: Everyone in Italy loves to eat it.
+
+
+
+Tonio: The first people to use tomatoes in cooking were the Italians.
+
+
+
+main: ,Nothing can compare to the way an Italian prepares tomatoes.
+
+
+
+Tonio: This is not bragging. It's merely pride.
+
+
+
+Tonio: Please, help yourselves.
+
+
+
+Oku: Heck, yeah!
+
+
+
+Oku: Yeah, that's pretty good.
+
+
+
+Oku: It's good. Pretty good.
+
+
+
+Oku: But... I'm not sure what it is, but this cheese doesn't have much flavor.
+
+
+
+Tonio: No! No!
+
+
+
+Tonio: You need to put it in your mouth with the tomato.
+
+
+
+Tonio: What? With the tomato?
+
+
+
+main: ,Well, most foreign dishes don't suit Japanese tastes.
+
+
+
+Oku: So good!
+
+
+
+Josu: Huh?!
+
+
+
+Oku: The juicy part of the tomatoeswraps around the mild cheese!
+
+
+
+Oku: The cheese brings out the tomato,and the tomato brings out the cheese!
+
+
+
+Oku: It's like harmony, or like a harmony of tastes!
+
+
+
+Oku: It's kind of like a Simon and Garfunkel duet!
+
+
+
+main: ,Ucchan with Nanchan!
+
+
+
+Oku: Asao Takamori's original Ashita no Joe
+
+
+
+main: ,with the Ashita no Joe thatTetsuya Chiba directed!
+
+
+
+Tonio: Grazie! I couldn't be happier that you enjoyed it.
+
+
+
+Josu: H-Hey, Okuyasu. Let me try a little.
+
+
+
+Oku: No way.
+
+
+
+Okku: You should just order some yourself!
+
+
+
+main: ,There's no way you're getting mine.
+
+
+
+Oku: I wouldn't give you any even if you were about to die of hunger.
+
+
+
+Oku: It's so good! I'm so glad I was born, Mom!
+
+
+
+Josu: ! I knew you were cheap, but I didn't know it was this bad!
+
+
+
+Josu: Fine. I'll order a plate myself.
+
+
+
+Tonio: Ho capito.
+
+
+
+Tonio: However, the only one who will have his stiff shoulder cured is the
+
+
+
+main: ,customer right there,who has the stiff shoulder.
+
+
+
+Oku: Huh? Stiff shoulder?
+
+
+
+Oku: C-Come to think of it, my neck feels a bit hot.
+
+
+
+main: ,It's oddly sweaty.
+
+
+
+Tonio: Sir, I recommend that you take off your jacket.
+
+
+
+Oku: S-Suddenly...
+
+
+
+Oku: I-I-I'm getting really itchy!
+
+
+
+Oku: S-Something slimy is stuck to my fingers!
+
+
+
+Tonio: That would be dead skin.
+
+
+
+Oku: Dead skin?!
+
+
+
+Tonio: It's proof that your metabolism has improved and blood is circulating well.
+
+
+
+Tonio: The calcium, vitamins, and minerals in the antipasto that you just ate
+
+
+
+Tonio: have stimulated the thyroid gland in your throat that controls your metabolism.
+
+
+
+Tonio: All of your bad cells are coming out as dead skin.
+
+
+
+main: ,Keep scratching, and get all of the dead skin off!
+
+
+
+Josu: Okuyasu, stop scratching! It's as big as a softball now!
+
+
+
+Josu: You're starting to dig at the muscle in your shoulder!
+
+
+
+Oku: N-No! You're wrong, Josuke!
+
+
+
+Oku: It's light!
+
+
+
+Oku: My shoulder feels so stupidly light!
+
+
+
+main: ,I feel like there's a balloon on my shoulder now, it's so light!
+
+
+
+Oku: Look! My shoulder's so much more flexible!
+
+
+
+main: ,I've never been able to do this before!
+
+
+
+Oku: My shoulder isn't stiff anymore!
+
+
+
+Tonio: Now, if you'll excuse me for a bit.
+
+
+
+main: ,I have to make sure the pasta boils properly.
+
+
+
+Oku: Holy crap! That Chef Tonio guy is a genius!
+
+
+
+Josu: N-No...
+
+
+
+internal/narrator: ,Something's definitely wrong here!
+
+
+
+internal/narrator: ,There's definitely somethingstrange about his cooking!
+
+
+
+Morioh_City_Land,Sign: Morioh Landmark "Italian Restaurant Trendy"How to get there:  minute on foot after getting off the bus headed towardMorioh's Kunimi Mountain Pass CemeteryAn unusual restaurant with no set menu. The chef will decide the menu based on how the customer is feeling that day.Because seating is limited, it isrecommended that youmake a reservation.
+
+
+
+Tonio: Now, let's continue with the meal, shall we?
+
+
+
+Tonio: Next is the primo piatto.
+
+
+
+main: ,This will be your pasta course.
+
+
+
+Tonio: I call it... harlot spaghetti!
+
+
+
+Ingredients_____,Sign: {\u\fs}Ingredients{\u}• Spaghetti • Pitted black olives• Olive oil • Anchovies • Garlic • Red peppers• Cherry tomatoes•Misc: Parsley, salt, pepper, etc•Parmesan cheese(Best eaten while still hot)
+
+
+
+Nar: Apparently the name of this dish came from
+
+
+
+topinternal: ,hard-working ladies of the night making something random
+
+
+
+topinternal: ,that happened to be good.
+
+
+
+Nar: Usually, you don't put cheese on pasta with garlic,
+
+
+
+internal/narrator: ,but this pasta is an exception.
+
+
+
+Oku: Are there red peppers in this spaghetti?
+
+
+
+Tonio: Yes, there are.
+
+
+
+Rome,Map: Rome
+
+
+
+Naples,Map: Naples
+
+
+
+Tonio: The harlot's spaghetti uses a pasta sauce that is one of the oldest in Italian cuisine.
+
+
+
+Spaghetti,Sign: Spaghetti
+
+
+
+Spaghetti,Sign: Tagliatelle
+
+
+
+Spaghetti,Sign: Linguine
+
+
+
+Spaghetti,Sign: Fusilli
+
+
+
+Spaghetti,Sign: Penne
+
+
+
+Spaghetti,Sign: Farfalle
+
+
+
+Tonio: It was born in my hometown of Naples.
+
+
+
+Spaghetti,Sign: Lasagna
+
+
+
+Spaghetti,Sign: Conchiglie
+
+
+
+Spaghetti,Sign: Tubetti
+
+
+
+Tonio: That is why I recommend this dish.
+
+
+
+Oku: Oh, well... I can't eat spicy things.
+
+
+
+Oku: I can't even eat curry rice unless it's
+
+
+
+main: ,Vermont Curry's mild flavor with the apples and honey.
+
+
+
+main: ,I can't eat sushi with wasabi in it, either.
+
+
+
+Oku: I can't! It's super spicy!
+
+
+
+Oku: This is way too spicy!
+
+
+
+Josu: If you can't eat spicy food, Okuyasu,
+
+
+
+Josu: then don't eat it.
+
+
+
+Tonio: If you can't eat it, don't worry.
+
+
+
+Tonio: I'm perfectly fine with not charging for that pasta.
+
+
+
+Tonio: I will go make the secondo piatto, the main dish.
+
+
+
+Tonio: However, my spaghetti is made such that even people who
+
+
+
+main: ,do not like spicy things can eat it.
+
+
+
+Oku: Even if I don't like spicy things?
+
+
+
+Oku: Hot!
+
+
+
+Ou: I totally admit that you're a talented chef, Tonio!
+
+
+
+Oku: That guy's definitely a genius!
+
+
+
+Oku: But this was a miss.
+
+
+
+Josu: No, maybe you were lucky that you couldn't eat it.
+
+
+
+Josu: Don't you think this food and that water are way too weird?
+
+
+
+main: ,It's too suspicious!
+
+
+
+Oku: Suspicious? What is?
+
+
+
+Oku: So hot!
+
+
+
+Josu: You lost a softball's worth of dead skin, and you cried your eyes out!
+
+
+
+Oku: You think so?
+
+
+
+main: ,When I went to Shirabu Hot Springs in Yamagata,
+
+
+
+Oku: I lost even more dead skin, and my back pain went away!
+
+
+
+Oku: That much is totally normal.
+
+
+
+Oku: Hot!
+
+
+
+Josu: Listen! I just remembered what that Toshikazu Hazamada said.
+
+
+
+Haza: Stand users, for some reason, seem to be unknowingly...
+
+
+
+Josu: Stand users are drawn to each other!
+
+
+
+Oku: Josuke!
+
+
+
+Oku: Are you saying that Tonio is a Stand user, too?
+
+
+
+Josu: Shh! We don't know yet!That's why I'm saying he's suspicious!
+
+
+
+Oku: Suspicious, eh?
+
+
+
+Oku: Hot! I can't eat this!
+
+
+
+Josu: If you can't eat spicy food, stop licking it!
+
+
+
+Oku: Th-That's right. I can't eat spicy food, but you know...
+
+
+
+Oku: I just want to keep licking this spaghetti sauce.
+
+
+
+Josu: Why are you eating it?!
+
+
+
+Oku: I-I know! I shouldn't be able to eat something this spicy...
+
+
+
+Oku: But...
+
+
+
+main: ,I can't help myself. Once I tasted it,I was sucked in by the spiciness.
+
+
+
+Oku: It's like when you eat your age in beans at the Setsubun Festival,
+
+
+
+Oku: and you don't even really like them, but before you know it,
+
+
+
+Oku: you've eaten a whole bag!
+
+
+
+Josu: Hey, I told you to stop eating that!
+
+
+
+Oku: M-My stomach's opening up!
+
+
+
+main: ,The more I eat, the more I want to eat!
+
+
+
+Oku: It's so good!
+
+
+
+Josu: Okuyasu, you idiot!
+
+
+
+Josu: Your tooth! Your tooth just flew out!
+
+
+
+Oku: That's my cavity! My rotten tooth fell out!
+
+
+
+Oku: C-Come to think of it, I had a cavity on my lower jaw, too...
+
+
+
+Oku: That's a cavity, too!
+
+
+
+Josu: Your tooth! A molar is growing in at that speed?!
+
+
+
+Josu: This settles it. I don't know what he's plotting, but...
+
+
+
+Josu: Shining Diamond!
+
+
+
+Oku: But I wanted to eat more...
+
+
+
+Josu: I'm going to revert that spaghetti back to its original ingredients!
+
+
+
+Oku: What were those little things just now?
+
+
+
+Josu: A Stand!
+
+
+
+Josu: Tonio Trendy was a Stand user after all!
+
+
+
+Josu: Are you all right, Okuyasu?
+
+
+
+Oku: My sleepiness is gone.
+
+
+
+Oku: My shoulder stiffness disappeared, and new teeth replaced my cavities, but...
+
+
+
+Oku: M-My stomach hurts!My stomach's hurting so bad!
+
+
+
+Josu: Wait there!
+
+
+
+Josu: Tonio! Just what are you plotting?!
+
+
+
+Josu: Where is he?
+
+
+
+Josu: So the main course is finished...
+
+
+
+Tonio: Good, good... You're eating that right up.
+
+
+
+main: ,Looks like the main dish,lamb in apple sauce, is a success.
+
+
+
+Josu: What?!
+
+
+
+Tonio: What are you doing there?
+
+
+
+Tonio: You saw, didn't you?!
+
+
+
+Tonio: So you came in here to spy on me?!
+
+
+
+Tonio: You will pay for this! Prepare yourself!
+
+
+
+Josu: Why do I have to listen to youthreatening to make me pay?
+
+
+
+Josu: That's my line!
+
+
+
+main: ,What are you trying to do with your cooking?!
+
+
+
+Josu: Okuyasu!
+
+
+
+Josu: Why are you eating?!
+
+
+
+Oku: I can't help it! My stomach hurts, but I can't help eating it!
+
+
+
+Oku: Every time the tanginess of the apple sauce
+
+
+
+main: ,and the juice from the lamb goes down my throat, I feel happiness!
+
+
+
+Oku: To think a flavor like this existed in this world!
+
+
+
+Josu: Don't eat that meat, Okuyasu!
+
+
+
+Oku: I'm so happy! It's like happiness over and over!
+
+
+
+Oku: It's so good!
+
+
+
+Oku: M-My innards...
+
+
+
+Oku: My stomach!
+
+
+
+Josu: Okuyasu!
+
+
+
+Tonio: You'll pay for this!
+
+
+
+Josu: You!
+
+
+
+Tonio: Wash your hands with soap right now!
+
+
+
+Medicinal: ,Medicinal
+
+
+
+Medicinal,Sign: Medicinal
+
+
+
+Josu: Huh?!
+
+
+
+Tonio: It's unforgivable!
+
+
+
+Tonio: Entering the kitchen without permission is unforgivable!
+
+
+
+Tonio: You! The kitchen must stay clean!
+
+
+
+Josu: S-Soap? Are you telling me to wash my hands?
+
+
+
+Oku: Hey, Josuke!
+
+
+
+Oku: My guts suddenly feel way better!I feel really full, too.
+
+
+
+Oku: I feel totally satisfied.
+
+
+
+Josu: Huh?!
+
+
+
+Oku: My diarrhea tummy's all better!
+
+
+
+Josu: What?!
+
+
+
+Tonio: Good for you.
+
+
+
+main: ,Nothing brings me more joy and happiness than a customer who
+
+
+
+main: ,enjoys my cooking and becomes healthy.
+
+
+
+Josu: The puppy...
+
+
+
+Tonio: This dish was a little iffy,so I was having him taste it first.
+
+
+
+Tonio: His tummy was a little upset, too.
+
+
+
+Josu: Y-You... seriously only wanted to feed Okuyasu good food?
+
+
+
+Tonio: What else could a chef ask for?
+
+
+
+Tonio: That is what I live for. That is all I hope for.
+
+
+
+Josu: You're a Stand user, aren't you?
+
+
+
+Josu: We are, too.
+
+
+
+Tonio: Oh, I cannot believe it!
+
+
+
+Tonio: When... When I went around the world
+
+
+
+main: ,looking for what my ideal cooking would be,that's when I realized my powers.
+
+
+
+Tonio: This is the first time I've met anyone else with similar powers.
+
+
+
+Tonio: But you! You lack common sense!
+
+
+
+Josu: Huh?
+
+
+
+Tonio: You touched things without washing your hands, didn't you?!
+
+
+
+Tonio: The number one enemy in a kitchen is germs!
+
+
+
+Tonio: That's why I got angry!
+
+
+
+Josu: H-Huh? I-I'm sorry! I didn't mean it!
+
+
+
+Tonio: You'd better prepare yourself!
+
+
+
+Toonio: Now, let us continue with the cooking.
+
+
+
+Oku: Dessert is... flan?
+
+
+
+Oku: But I'm a street punk!
+
+
+
+Oku: Hmph! Me eating flan is laughable.
+
+
+
+Oku: So good!
+
+
+
+Oku: You really are a genius!
+
+
+
+Oku: I'm so proud to live in Morioh, where a chef like you lives!
+
+
+
+Josu:  you, Okuyasu!
+
+
+
+Tonio: It appears that he's pleased.
+
+
+
+Tonio: You! Your hands aren't moving!
+
+
+
+Josu: This is so pathetic...
+
+
+
+Oku: Hey, my athlete's foot is all better!
+
+
+
+Tonio: Please come again. Grazie!
+
+
+
+Trendy,Sign: Trendy
+
+
+
+Signtop: P
+
+
+
+Signtop: Po
+
+
+
+Signtop: Pole
+
+
+
+Signtop: Pole J
+
+
+
+Signtop: Pole Ja
+
+
+
+Signtop: Pole Jam
+
+
+
+Signbot: To
+
+
+
+Signbot: Toni
+
+
+
+Signbot: Tonio
+
+
+
+Signbot: Tonio T
+
+
+
+Signbot: Tonio Tr
+
+
+
+Signbot: Tonio Tre
+
+
+
+Signbot: Tonio Tren
+
+
+
+Signbot: Tonio Trend
+
+
+
+Signbot: Tonio Trendy
+
+
+
+Guy: You're Jotaro Kujo, right?
+
+
+
+Guy: I'm with the Speedwagon Foundation.
+
+
+
+Guy: Apparently, anywhere near electrical wires is dangerous,
+
+
+
+main: ,including phone lines and power lines,
+
+
+
+Guy: so I came to deliver this message myself.
+
+
+
+Guy: "I should be arriving at Morioh's port tomorrow at noon.
+
+
+
+Guy: From Joseph Joestar."
