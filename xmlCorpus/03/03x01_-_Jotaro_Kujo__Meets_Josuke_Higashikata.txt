@@ -1,0 +1,1873 @@
+dj guy: Good morning! Greetings, all. This is Morioh Radio,
+
+
+
+dj guy: and your host, once again, is me, your neighbor, Kai Harada.
+
+
+
+kai: What a refreshing morning.
+
+
+
+announcer: ,And I have the perfect song here to start off the day.
+
+
+
+kai: Here's our first song of the morning.
+
+
+
+taxi: Oh, there we go.
+
+
+
+taxi: We usually get good reception when we pass that tower.
+
+
+
+taxi: Is this your first time in Morioh, sir?
+
+
+
+jojo: Yeah.
+
+
+
+jojo: What kind of place is it?
+
+
+
+taxi: Morioh? Hmm...
+
+
+
+taxi: Oh! The beef tongue cooked in miso is good.
+
+
+
+jojo: Anything strange about it? Any incidents?
+
+
+
+taxi: No idea.
+
+
+
+main: ,Sorry, I actually don't know that much about it.
+
+
+
+taxi: Oh, where was I supposed to drop you off again?
+
+
+
+jojoj: In front of the station is fine.
+
+
+
+taxi: Understood.
+
+
+
+jojo: Good grief...
+
+
+
+jojo: I just hope nothing annoying happens.
+
+
+
+sign: Jojo's Bizarre Adventure
+
+
+
+sign: Diamond is Unbreakable
+
+
+
+topinternal,koichi: In April of , on my very first dayof high school, I met two bizarre men.
+
+
+
+sign: Episode   Jotaro Kujo! Meets Josuke Higashikata
+
+
+
+koichi: I finally start high school today...I wonder what the people will be like.
+
+
+
+koi: My name's Koichi Hirose.
+
+
+
+internal/narrator: ,Though you don't really have to remember that.
+
+
+
+koi: I was so nervous on my first walk to my new school that I...
+
+
+
+Bam,sfx: Bam
+
+
+
+koi: Eh? H-Huh? That's strange. We just ran into each other,
+
+
+
+koi: and the things in my bag flew out...
+
+
+
+jota: Sorry I wasn't watching where I was going.
+
+
+
+koi: H-He's huge! He's over  centimeters!
+
+
+
+jota: I have a question.
+
+
+
+main: ,Do you know of a Higashikata household around here?
+
+
+
+koi: Higashikata? No...
+
+
+
+jota: Then how about this address?
+
+
+
+main: ,It's Johzenji -.
+
+
+
+Jotaro_Kujo,sign: JotaroKujo
+
+
+
+koi: Jotaro Kujo...
+
+
+
+koi: If you take the # bus, it'll get you to Johzenji.
+
+
+
+koi: If you wait a little while, it'll get here soon.
+
+
+
+jota: Thanks.
+
+
+
+koi: The first guy was this man, Jotaro Kujo.
+
+
+
+koi: I found this out later, but he's ,and he's a marine explorer.
+
+
+
+koi: He's famous in the scientific world for his ecological research.
+
+
+
+koi: He seems really wild, but intelligent... or cool, I guess.
+
+
+
+guy: Hey! Are you a new kid?
+
+
+
+guy: You better introduce yourself.
+
+
+
+koi: Y-Yes, sir! My name is Koichi Hirose,and I'm a new student.
+
+
+
+koi: Good morning, Senpai!
+
+
+
+guyb: All right. Well said.
+
+
+
+koi: S-So scary...
+
+
+
+koi: Oh, it's okay. They're getting on a different bus.
+
+
+
+guy: The hell are you doing, ?!
+
+
+
+guyb: Who do you think you are?
+
+
+
+josu: What am I doing? Well...
+
+
+
+josu: The turtle that lives in this pond woke up from hibernation, so I was watching it.
+
+
+
+josu: I don't handle turtles really well. I'm scared to even touch them.
+
+
+
+josu: So I was thinking it's about time I got over my fear...
+
+
+
+guy: That's not what I asked!
+
+
+
+guyb: Stand up, foolishass!
+
+
+
+guy: You're pretty tall for a first-year.
+
+
+
+guy: But before you have the nerve to dress like that...
+
+
+
+guyb: You foolish ! Who said you could wear that?
+
+
+
+guy: You need to talk to us first!
+
+
+
+jojo: W-Wait... I'm not a fan of reptiles.
+
+
+
+josu: They scare me...
+
+
+
+Slap,sfx: Slap
+
+
+
+guy: What are you smiling at?
+
+
+
+josu: I'm sorry. I had no idea, Senpai.
+
+
+
+guy: There are a lot of guys
+
+
+
+main: ,I last saw in a hospital after they said they didn't know and were sorry.
+
+
+
+guy: You wanna end up
+
+
+
+main: ,like this turtle?! Huh?!
+
+
+
+koi: Th-They're awful...
+
+
+
+guy: I'll let you off the hook this time.
+
+
+
+guy: Take off that jacket and the pants, and leave them here.
+
+
+
+guy: With your cash!
+
+
+
+josu: Yes, sir! I'm very sorry!
+
+
+
+jojo: That just means if you don't want them after you, don't dress like that.
+
+
+
+jojo: What pisses me off more is that
+
+
+
+main: ,he isn't even mad after what they did to that turtle.
+
+
+
+guy: Hey, wimp. Why don't you tell me your name?
+
+
+
+josu: Yes, sir.
+
+
+
+josu: Josuke Higashikata, from Class -B.
+
+
+
+jojo: What? Josuke Higashikata?
+
+
+
+ID,sign: Student ID Name: Josuke Higashikata
+
+
+
+guy: "Jo" and "Jo," eh?
+
+
+
+guy: Josuke, we're gonna call you "Jojo" from now on!
+
+
+
+josu: Okay... Thank you very much.
+
+
+
+guy: Hurry up and take off that uniform.
+
+
+
+guy: The damn bus is here.
+
+
+
+guy: If you don't hurry it up, I'm gonna shave off that Astro Boy hair, too.
+
+
+
+guy: Well, what are you waiting for? Hurry it up!
+
+
+
+josu: Hey, Senpai...
+
+
+
+josu: What did you just say about my hair?
+
+
+
+jojo: What? A Stand?!
+
+
+
+guy: My nose... My nose!
+
+
+
+josu: I won't let anyone get away with making fun of my hair, no matter who it is!
+
+
+
+josu: Did you say my hair looked like Sazae-san?
+
+
+
+guy: Huh?! No one said that...
+
+
+
+josu: I heard you, damn it!
+
+
+
+koi: What the heck? That punk just went flying.
+
+
+
+jojo: Some kind of Stand just appeared from behind him.
+
+
+
+koi: Huh? That turtle's wounds are...
+
+
+
+guy: What the heck?
+
+
+
+main: ,Where you got punched is going back to normal!
+
+
+
+guy: Hey, he's all better!
+
+
+
+guy: But does it look like it healed all weird?
+
+
+
+guy: His face looks kinda different.
+
+
+
+guy: Huh?
+
+
+
+guy: No way! What does it look like? Hey!
+
+
+
+josu: I had to touch that turtle,
+
+
+
+main: ,even though I didn't want to, thanks to you.
+
+
+
+josu: What are you gonna do about that, huh?!
+
+
+
+guy: Wait! My nose! What's it look like? Huh?
+
+
+
+jojo: Good grief. So he's...
+
+
+
+josu: Gah! That scared me!
+
+
+
+josu: Oh, it's just the turtle again.
+
+
+
+koi: I was right. That turtle's all better.
+
+
+
+jojo: Josuke Higashikata...
+
+
+
+jojo: Born in .
+
+
+
+main: ,Your mother's name is Tomoko.
+
+
+
+main: ,She was  at the time,and was going to college in Tokyo.
+
+
+
+jojo: You've lived here ever since you were born.
+
+
+
+jojo: In , when you were four, you came down with a fever due to an unknown cause,
+
+
+
+jojo: and for the next  days, no one knew if you'd survive or not.
+
+
+
+jojo: Your father's name is...
+
+
+
+jojo: Good grief. This is such a rotten role to play.
+
+
+
+jojo: Your father's name is Joseph Joestar.
+
+
+
+jojo: He's currently .
+
+
+
+main: ,He's the founder of Joestar Realty.
+
+
+
+koi: I've heard of him before.
+
+
+
+internal/narrator: ,Apparently he's a huge real estate mogul in the US.
+
+
+
+jojo: He's still doing all right,
+
+
+
+main: ,but when I was looking into howto split up his inheritance,
+
+
+
+jojo: I found out that he had a son in Japan, which would be you.
+
+
+
+jojo: He didn't even know about it himself.
+
+
+
+jojo: That old piece of ..
+
+
+
+main: ,Going on about how he'd only ever love his wife,
+
+
+
+jojo: yet I just found his son who wasborn when he was  years old
+
+
+
+main: ,as a result of an affair.
+
+
+
+jojo: Whoops. I guess I shouldn't have said that.
+
+
+
+jojo: My name's Jotaro Kujo.
+
+
+
+main: ,I guess, technically, I'm your nephew.
+
+
+
+jojo: How bizarre.
+
+
+
+josu: Nephew? Oh, uh... Nice to meet you.
+
+
+
+jojo: Let's talk while we walk.
+
+
+
+jojo: And so, eventually, you're gonna get a third of the old man's inheritance.
+
+
+
+jojo: I came here to tell you that.
+
+
+
+main: ,The whole Joestar household is in chaos since the old man's affair came to light.
+
+
+
+josu: It's in chaos?
+
+
+
+jojo: Yeah... My grandma, Suzie Q,is the angriest she's ever been
+
+
+
+main: ,in their  years of marriage.
+
+
+
+josu: I-I'm so sorry! I'm so sorry I've caused such a fuss!
+
+
+
+jojo: Hey, now. Hold up.
+
+
+
+jojo: Why are you suddenly apologizing?
+
+
+
+josu: Well, I mean, causing trouble in a family is no good.
+
+
+
+josu: My mother has told me that she was in love when she gave birth to me.
+
+
+
+josu: I accept that, too.
+
+
+
+josu: Could you tell, uh, my dad, um... Mr. Joestar, I mean,
+
+
+
+main: ,that he doesn't have to worry about us?
+
+
+
+josu: That's all.
+
+
+
+jojo: What's with this kid?
+
+
+
+jojo: I came here prepared to takea punch intended for the old man,
+
+
+
+jojo: and instead, he's actually apologizing?
+
+
+
+girl: Hey, it's Josuke!
+
+
+
+girl: Oh, it is!
+
+
+
+girl: Josuke!
+
+
+
+girl: How are you?
+
+
+
+girl: Talk about a coincidence!
+
+
+
+girl: Let's go to school together.
+
+
+
+girl: Your hair looks as cool as ever.
+
+
+
+girl: You're looking sharp.
+
+
+
+girl: You're so different from the other guys.
+
+
+
+josu: Um... I'm actually in the middle of something important right now...
+
+
+
+girl: Huh? What the heck?
+
+
+
+girl: If you don't hurry, we're going to be late.
+
+
+
+girl: You can talk later.
+
+
+
+jojo: Hey, Josuke.
+
+
+
+main: ,I'm not done talking to you yet.Run these girls off.
+
+
+
+girl: What's his problem?
+
+
+
+jojo: Hey, have your stupid talk about hair later.
+
+
+
+girl: H-He actually said it.
+
+
+
+girl: He talked about his hair!
+
+
+
+josu: You...
+
+
+
+josu: What were you saying about my hair, huh?!
+
+
+
+girl: This isn't good.
+
+
+
+girl: Don't blame me!
+
+
+
+girl: Josuke hates people insultinghis hair more than anything else.
+
+
+
+koi: It's just like what happened earlier!
+
+
+
+jojo: Hold it, Josuke.
+
+
+
+main: ,I wasn't insulting you...
+
+
+
+jojo: ! Here it comes!
+
+
+
+Missing: ,Bash
+
+
+
+girl: Josuke!
+
+
+
+girl: There's blood!
+
+
+
+jojo: Did you see it, Josuke?
+
+
+
+main: ,This is called a Stand.
+
+
+
+jojo: It's the physical manifestation of your psychological energy.
+
+
+
+jojo: Joseph Joestar has one, too.
+
+
+
+jojo: Stands can only be seen by other Stand users.
+
+
+
+josu: It pisses me off when someonetalks bad about my awesome hair.
+
+
+
+josu: I can't even help it!
+
+
+
+jojo: So this is Josuke's Stand!
+
+
+
+jojo: Th-This power...
+
+
+
+josu: You're wide open from your chin down!
+
+
+
+jojo: villain!
+
+
+
+josu: What?!
+
+
+
+koi: Huh?
+
+
+
+girls: When did that happen?
+
+
+
+girls: What's going on?
+
+
+
+josu: When did y—
+
+
+
+girl: Josuke!
+
+
+
+girl: No!
+
+
+
+girl: Josuke!
+
+
+
+jojo: Shut up!
+
+
+
+main: ,It pisses me off when girls freak out!Get out of here!
+
+
+
+girl: Fine...
+
+
+
+girl: It seems like they know each other.
+
+
+
+girl: Besides, he's scary.
+
+
+
+girl: But he's kind of hot...
+
+
+
+koi: I don't get it...
+
+
+
+koi: I have no idea what's going on!
+
+
+
+koi: But something is definitely happening!
+
+
+
+jojo: It's been a while...
+
+
+
+jojo: Actually, it's been ten years.
+
+
+
+jojo: But I was able to stop time for half a second.
+
+
+
+jojo: If I hadn't stopped time...I doubt we would've been k*lled,
+
+
+
+jojo: but one of us would've been badly injured.
+
+
+
+jojo: Here, Josuke.
+
+
+
+josu: Ah, uh... No. It's okay.
+
+
+
+jojo: I see.
+
+
+
+jojo: There's actually another reason I came to see you.
+
+
+
+jojo: The other reason is this picture.
+
+
+
+jojo: Something is hiding in this town.
+
+
+
+jojo: Something very dangerous is approaching.
+
+
+
+jojo: When Old Man Joseph tried to get a spirit photo of you,
+
+
+
+jojo: this is what he got instead.
+
+
+
+jojo: We're not sure why...
+
+
+
+jojo: But he's probably a Stand user.
+
+
+
+jojo: This doesn't concern you, but I wanted to at least show you the picture.
+
+
+
+jojo: You've been warned.
+
+
+
+ojo: Koichi-kun...
+
+
+
+jojo: If you happen to see him, don't go anywhere near him.
+
+
+
+jojo: Calling the police won't help.
+
+
+
+jojo: Just run.
+
+
+
+jojo: Josuke...
+
+
+
+main: ,Don't lose your temper and go after him, either.
+
+
+
+jojo: You'll get hurt, just like a moment ago.
+
+
+
+koi: Oh! The entrance ceremony!
+
+
+
+josu: Ack! Look at the time!
+
+
+
+josu: Aw, ..
+
+
+
+main: ,Who knows what my mom'll do to me if I'm late on the first day?!
+
+
+
+josu: Hey, I'll listen to everything you've got to say after school.
+
+
+
+josu: Hey, Koichi, was it? Let's go!
+
+
+
+koi: Huh?
+
+
+
+josu: Hurry!
+
+
+
+koi: Right!
+
+
+
+koi: The other bizarre guy I happened to meet is Josuke Higashikata.
+
+
+
+koi: He unpredictable and can go right from goofy to annoyed.
+
+
+
+koi: I guess his family situation is complicated.
+
+
+
+koi: And we only just met...
+
+
+
+jojo: Josuke Higashikata... What a weird guy.
+
+
+
+jojo: And his Stand...
+
+
+
+jojoj: This hat... It's back together?
+
+
+
+jojo: So his Stand reforms things into a different shape after they're broken?
+
+
+
+jojo: If it had been my face or head...
+
+
+
+jojo: Talk about creepy.
+
+
+
+internal/narrator: ,But if I think about him as a potential ally, he should be reliable.
+
+
+
+jojo: If you overlook his ridiculous personality, anyway.
+
+
+
+jojo: I just hope this has nothing to do with Josuke.
+
+
+
+signbot: Shi
+
+
+
+signbot: Shini
+
+
+
+signbot: Shinin
+
+
+
+signbot: Shining
+
+
+
+signbot: Shining D
+
+
+
+signbot: Shining Di
+
+
+
+signbot: Shining Dia
+
+
+
+signbot: Shining Diamo
+
+
+
+signbot: Shining Diamon
+
+
+
+signbot: Shining Diamond
+
+
+
+signtop: Jo
+
+
+
+signtop: Josuke
+
+
+
+signtop: Josuke Higashi
+
+
+
+signtop: Josuke Higashikata
+
+
+
+guy: Hey, girl!
+
+
+
+guy: Where are you headed? I'll give you a ride.
+
+
+
+guy: Hey, don't be so cold!
+
+
+
+guy: C'mon! C'mon!
+
+
+
+guy: Ooh, v-very pretty!
+
+
+
+tomo: You'll go wherever I want?
+
+
+
+guy: Hell yeah! I'd go anywhere with you.
+
+
+
+tomo: Then you can go straight to Hell!
+
+
+
+guy: Huh?
+
+
+
+sfx: Crush
+
+
+
+ryo: Hey, you okay?
+
+
+
+guy: Officer!
+
+
+
+guy: G-Go get that crazy b*tch!
+
+
+
+main: ,She injured me! That's a crime!
+
+
+
+ryo: Nah, I can't do that.
+
+
+
+guy: What?!
+
+
+
+ryo: That's my daughter.
+
+
+
+guy: Huh?
+
+
+
+ryo: Well, you know. You caused trouble for others,
+
+
+
+main: ,then you called my daughter a crazy b*tch.
+
+
+
+ryo: I'll let it go this time,but be more careful in the future.
+
+
+
+ryo: You okay, Old Lady Murakami?
+
+
+
+ryo: Come on. Grab your bag.
+
+
+
+ryo: Hey, Tomoko!
+
+
+
+tomo: Dad.
+
+
+
+ryo: You headed home?
+
+
+
+tomo: Yeah.
+
+
+
+ryo: Let's go home together. I'm done for the day.
+
+
+
+ryo: How's Josuke?
+
+
+
+main: ,Today was his entrance ceremony, right?
+
+
+
+ryo: He'd better not be up to any trouble.
+
+
+
+tomo: Hmph. Who knows?
+
+
+
+main: ,That idiot can seem calm, then get annoyed outta nowhere.
+
+
+
+tomo: I wonder who he took after.
+
+
+
+ryo: Hey, now...
+
+
+
+tomo: But...
+
+
+
+tomo: Deep down, in the bottom of his heart, he's kind.
+
+
+
+main: ,No need to worry about him.
+
+
+
+ryo: Oh, yeah.
+
+
+
+main: ,Why don't we celebrate him starting high school tonight?
+
+
+
+too: Yeah, I'm planning to.
+
+
+
+tomo: But I wonder if he'll come home early.
+
+
+
+main: ,He'll probably stop somewhere again.
+
+
+
+ryo: No doubt.
+
+
+
+girl: Hey, I want to stop by Kameyu.
+
+
+
+guy: Huh? I just bought you an expensive bag the other day.
+
+
+
+girl: I want to look at, like, clothes today.
+
+
+
+guy: Watch it, foolishass!
+
+
+
+guy: Pay attention to where you're walking, moron.
+
+
+
+girl: He's super creepy.
+
+
+
+guy: He's not even gonna apologize after running into someone?
+
+
+
+girl: Forget him. Come on.
+
+
+
+guy: I know. You just wanna go to Kameyu, right?
+
+
+
+guy: Huh?
+
+
+
+jojo: Anjuro Katagiri, a.k.a. Angelo.
+
+
+
+jojo: Born in Morioh in .
+
+
+
+main: ,His IQ is .
+
+
+
+jojo: He was sent to juvie for robbery and r*pe when he was just .
+
+
+
+main: ,Since he committed that first crime,
+
+
+
+jojo: he's become the most awful
+
+
+
+jojo: and disgusting criminal in Japan's history.
+
+
+
+jojo: He spent most of his youth in jail for his crimes,
+
+
+
+jojo: a total of  years by the time he'd turned .
+
+
+
+jojo: His last crime was so vile, it'd makeeven a rat in the bathroom puke.
+
+
+
+jojo: He was eventually arrested, and the sentence they gave him
+
+
+
+jojo: was death.
+
+
+
+jojo: But, somehow, the execution failed to k*ll him.
+
+
+
+jojo: Shortly after, Angelo escaped.
+
+
+
+jojo: He most likely became a Stand user right before his execution.
+
+
+
+jojo: I'm not sure why,
+
+
+
+jojo: but he's hiding out in this quiet town...
+
+
+
+main: ,Somewhere.
+
+
+
+josu: Koichi, you heading home?
+
+
+
+koi: Oh... Yeah.
+
+
+
+josu: We're in the same class.
+
+
+
+koi: Yeah... Talk about coincidences.
+
+
+
+josu: Well, see you tomorrow.
+
+
+
+koi: Ah... Hey! J-Josuke!
+
+
+
+josu: Huh?
+
+
+
+josu: Oh, you want to hear what that Jotaro guy has to say?
+
+
+
+koi: It's been bugging me,and it has to do with this town.
+
+
+
+josu: You're amazing. I'm gonna pass.
+
+
+
+koi: Why?
+
+
+
+josu: I'm sort of curious,but when I thought it through,
+
+
+
+josu: I don't think getting involved with beingsome guy's lovechild is a good idea.
+
+
+
+koi: Why?
+
+
+
+josu: Well, I mean...
+
+
+
+josu: Things are just fine as they are right now.
+
+
+
+koi: I see...
+
+
+
+koi: I wonder what that is.
+
+
+
+josu: Maybe an accident or something?
+
+
+
+josu: Wanna go after it?
+
+
+
+koi: Yeah.
+
+
+
+person: What? Are they shooting a drama?
+
+
+
+person: It's dangerous, so step back. Step back!
+
+
+
+koi: Talk about a huge commotion.
+
+
+
+old: A man robbing that convenience storetook a female employee hostage inside.
+
+
+
+both: Huh?
+
+
+
+guy: Look! There he is!
+
+
+
+cop: Don't move! Drop the knife!
+
+
+
+cop: Let the girl go!
+
+
+
+guy: Shut up! Get back!
+
+
+
+koi: Th-That lady has rung me up before!
+
+
+
+josu: His eyes are messed up.He'll totally k*ll her if he loses it.
+
+
+
+guy: All of you, get outta the way!I'm getting into the car!
+
+
+
+koi: This isn't good, Josuke! Get back! Back!
+
+
+
+josu: R-Right.
+
+
+
+guy: Hey, you with the stupid hair!
+
+
+
+guy: Sorry, let us step back—
+
+
+
+guy: I told you to get away from the car!
+
+
+
+main: ,I'll k*ll you!
+
+
+
+koi: I have...
+
+
+
+koi: a bad feeling about this.
+
+
+
+koi: I knew it!
+
+
+
+Missing: ,Loom
+
+
+
+koi: C-Crap! Here it comes!
+
+
+
+koi: At a time like this? In this situation?
+
+
+
+koi: After Mr. Jotaro warned him!
+
+
+
+cop: Who's that?
+
+
+
+gop: H-Hey! Stop!
+
+
+
+jos: What did you just say?
+
+
+
+guy: Wh-Who are you? Get away from me.
+
+
+
+guy: You don't care what happens to her?
+
+
+
+cop: Get back, you fool!
+
+
+
+cop: What are you going to do if he loses it?
+
+
+
+guy: I told you guys to stay back, too!
+
+
+
+guy: D-Damn it! You're pissing me off!
+
+
+
+guy: I've made up my mind! I'm gonna stab this girl!
+
+
+
+josu: Oh, really?
+
+
+
+koi: Th-There's a hole in his body!
+
+
+
+josu: I angry you off?
+
+
+
+josu: That's my line!
+
+
+
+girl: Huh? I-I'm fine?!
+
+
+
+koi: She's back to normal. It's happening again.
+
+
+
+guy: M-My army knife! It's inside my stomach!
+
+
+
+guy: H-How?!
+
+
+
+josu: You'd better get a surgeon to takethat out... in the prison hospital.
+
+
+
+cop: S-Seize him!
+
+
+
+cop: What's going on?
+
+
+
+koi: Josuke!
+
+
+
+josu: Hey, Koichi.
+
+
+
+koi: Are you okay?! That was...
+
+
+
+cop: What the...
+
+
+
+cop: What are you doing, opening your mouth?
+
+
+
+thing: Who would have thought
+
+
+
+top: ,I'd find another Stand user here?
+
+
+
+thig: I possessed this man and was having a blast with that robbery, and then...
+
+
+
+thig: How dare you get in my way?!
+
+
+
+osu: He's the guy from the picture!
+
+
+
+stand: I'll be watching you from now on.
+
+
+
+stand: I'll be watching you all the time.
+
+
+
+josu: What'd you say, ?!
+
+
+
+koi: Josuke!
+
+
+
+cop: You idiot! Get him!
+
+
+
+cop: What were you thinking?!
+
+
+
+josu: M-Mr. Officer! W-Wait a sec...
+
+
+
+koi: What Mr. Jotaro said was true.
+
+
+
+josu: Let me go! I didn't do anything!
+
+
+
+koi: There's something in this town...
+
+
+
+koi: I can feel the presence of something completely unknown.
+
+
+
+koi: Something bad is here in Morioh.
+
+
+
+tomo: Hey, Josuke! Answer the phone!
+
+
+
+tommo: Josuke! Answer the damn phone!
+
+
+
+josu: Yeah, yeah. One sec.
+
+
+
+josu: Hello?
+
+
+
+jojo: It's Jotaro.
+
+
+
+josu: Oh, hi.
+
+
+
+jojo: We didn't have a chance to actually talk yesterday.
+
+
+
+jojo: We need to talk about the guy hiding in this town.
+
+
+
+josu: Oh, I actually wanted to talk to you about that.
+
+
+
+josu: Mr. Jotaro, where are you right now?
+
+
+
+jojo: The Morioh Grand Hotel.
+
+
+
+jojo: What happened?
+
+
+
+josu: Well...
+
+
+
+tomo: Damn it, this pisses me off.
+
+
+
+tomo: Where did I put the shovel?
+
+
+
+ang: That little brat...
+
+
+
+ang: Looks like he's got a cozy little family.
+
+
+
+ang: Not to mention he's got himself a hot, young mother...
+
+
+
+ang: I'm jealous.
+
+
+
+ang: Josuke Higashikata, don't get c*ck, now.
+
+
+
+ang: I'm going to destroy your livelihood, your soul, and your life.

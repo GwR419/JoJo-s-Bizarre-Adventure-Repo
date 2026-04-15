@@ -1,0 +1,1641 @@
+Radio: This is Morioh City Radio.
+
+
+
+Radio: Your host, once again, is me, your neighbor, Kai Harada.
+
+
+
+Radio: Now, then...
+
+
+
+Koi: Look at those smooth spokesshining as they spin!
+
+
+
+announcertop,Radio: Last week's topic was, "The King of Terror is supposed to come from the sky this July.
+
+
+
+Koi: This mountain bike was a gift to celebrate me getting into high school.
+
+
+
+announcertop,Rdio: What are the citizens of Morioh City going to do?"
+
+
+
+Koi: Getting new stuff is always exciting.
+
+
+
+announcertop,Radio: All right, let's get to the replies.
+
+
+
+announcertop,Radio: This one's from "RIP Big Bro."
+
+
+
+Koi: I'm not gonna be able to take the bus to school for a while!
+
+
+
+announcertop,Radio: I wonder what happened to his big bro?
+
+
+
+Koi: O-Ow...
+
+
+
+Koi: Wh-What the heck?
+
+
+
+Koi: There's a bag in the middle of the road.
+
+
+
+Koi: I-It can't be! The thing in that bag was...
+
+
+
+Koi: Wh-What am I gonna do?! I ran it over!
+
+
+
+Koi: I-I couldn't help it!
+
+
+
+main: ,It was in the middle of the road!
+
+
+
+Koi: There was nothing I could've done!
+
+
+
+Tama: Precisely.
+
+
+
+Tama: You're not the one at fault here.
+
+
+
+Tama: That was just an unfortunate accident.
+
+
+
+Tama: The guy who put the kitten in a bag and left it in the road is at fault.
+
+
+
+Tama: Talk about a terrible thing to do.
+
+
+
+Koi: W-We have to treat its injuries!
+
+
+
+Tama: It's no use.
+
+
+
+Tama: You don't hear it crying, do you?
+
+
+
+Tama: It's dead.
+
+
+
+Tama: What's your name?
+
+
+
+Tama: My name's Tamami Kobayashi, and I graduated from
+
+
+
+main: ,your school two years ago.
+
+
+
+Tama: That's a nice bike.
+
+
+
+Tama: You a first-year?
+
+
+
+Koi: Y-Yes. My name's Koichi Hirose.
+
+
+
+Tama: Ah, high school, eh? Takes me back.
+
+
+
+Tama: Things were good back then.
+
+
+
+Tama: Well, have a seat, Hirose.
+
+
+
+Koi: Huh? B-But...
+
+
+
+Tama: Just shut up and sit down.
+
+
+
+Tama: So... I've got an idea.
+
+
+
+Tama: I'll bury that cat for you,
+
+
+
+Tama: so give me a little money. Okay?
+
+
+
+Tama: Hey! Are you listening?!
+
+
+
+Koi: Wh-What are you talking about?
+
+
+
+Tama: Hey, now. Quit messing around.
+
+
+
+Tama: It's true that this wasn't your fault,
+
+
+
+main: ,but are you planning to donothing about k*lling my cat?
+
+
+
+Koi: Did you say it was your cat?
+
+
+
+Tama: That's right.
+
+
+
+Koi: Y-You put the kitten o-over there?
+
+
+
+Tama: That's not the problem anymore.
+
+
+
+Tama: I'm asking you if you're really gonna do nothing about it and go.
+
+
+
+Tama: You're the one that k*lled it, bro.
+
+
+
+Title: Jojo's Bizarre Adventure
+
+
+
+Title: Diamond is Unbreakable
+
+
+
+Title: Episode   Koichi Hirose (Reverb)
+
+
+
+Tama: Hey, you're feeling guilty, right?
+
+
+
+Tama: If your heart could be freed
+
+
+
+main: ,from the shackles of guilt by paying some cash...
+
+
+
+Tama: Wouldn't it be better to just pay up?
+
+
+
+Tama: Right?
+
+
+
+Money,Sign: Money
+
+
+
+Koi: Wh-What's this lock-looking thing?!
+
+
+
+Koi: It's heavy!
+
+
+
+Tama: Huh? You can see that?
+
+
+
+Tama: Then this should go even faster, Hirose.
+
+
+
+Koi: Th-This is a Stand!
+
+
+
+Koi: A Stand's inside my body!
+
+
+
+Oku: Hey, Josuke.
+
+
+
+Oku: Isn't that Koichi standing over there?
+
+
+
+Josu: Yeah, that's definitely Koichi.
+
+
+
+Josu: That kid hangs out with shady-looking characters all the time.
+
+
+
+Oku: But he looks like he's having fun.
+
+
+
+Tama: I met a guy named Keicho Nijimura about four months ago,
+
+
+
+main: ,and obtained this ability.
+
+
+
+Tama: I had no idea what was going on,but man, I was happy.
+
+
+
+Tama: I figured that if I could use this ability properly,
+
+
+
+main: ,it could support me for the rest of my life.
+
+
+
+Tama: Now...
+
+
+
+Tama: Come on, cough it up.
+
+
+
+Tama: These shackles won't come off if you don't pay up.
+
+
+
+Koi: I-I don't...
+
+
+
+Koi: have any money.
+
+
+
+Tama: Huh... You looked away just now, didn't you?
+
+
+
+Koi: W-Well...
+
+
+
+Koi: I-It's heavy!
+
+
+
+Koi: I can't even stand anymore!
+
+
+
+Tama: Tsk, tsk, tsk.
+
+
+
+Tama: It's not nice to lie, you know.
+
+
+
+Tama: You felt bad about lying, didn't you?
+
+
+
+Tama: The more guilt you feel,the bigger the lock becomes.
+
+
+
+Tama: These shackles are the weight of your sins.
+
+
+
+main: ,It's automatic.
+
+
+
+Tama: Even if I'm sleeping, or if you try to run far away, it's never coming off.
+
+
+
+Tama: All right? If you get it, then show me your wallet.
+
+
+
+Tama: Come on.
+
+
+
+Tama: What the heck? You should have just given me this in the first place.
+
+
+
+Tama: You have , yen!
+
+
+
+Koi: Th-That's for buying sneakers for gym class today.
+
+
+
+Tama: Sneakers?
+
+
+
+Tama: Go barefoot!
+
+
+
+Josu: What are you doing over there?
+
+
+
+Koi: J-Josuke and Okuyasu!
+
+
+
+Josu: A grown man trying to threaten a high school kid for money?
+
+
+
+Josu: Try getting a job to earn your money.
+
+
+
+Tama: Now, look! You little boys stay out of this!
+
+
+
+Josu: Oh, we can't do that.
+
+
+
+Josu: Not when there's some smelly trash around, using some petty Stand.
+
+
+
+Josu: We've got to take out that trash properly.
+
+
+
+Tama: Hey...
+
+
+
+Oku: This seriously isn't coming off.
+
+
+
+Tama: Whoa, wait... You guys can see it, too?
+
+
+
+Tama: Just how many of you can see that?
+
+
+
+Josu: That's what I want to know.
+
+
+
+Josu: But right now, that doesn't matter.
+
+
+
+Josu: Would you kindly take that lock off of him?
+
+
+
+tama: Hey, you little brats! Don't underestimate me!
+
+
+
+Tama: I'm not playing games here!
+
+
+
+Tama: Sinners must pay for their sins. That's the rule of society.
+
+
+
+Tama: Or what? You're going to pay me instead of Koichi?
+
+
+
+Tama: Then I'll let you off the hook.
+
+
+
+Tama: Money's money to me.
+
+
+
+Oku: Oh? You're gonna try to get money from me?
+
+
+
+Ok: Just try it, !
+
+
+
+Koi: Wait! You just took , yen for me!
+
+
+
+Tama: That was the fee for lying to me!
+
+
+
+Koi: Huh?!
+
+
+
+Tama: You're trying to pay for that poor kitten's life with just , yen?
+
+
+
+Tama: That just won't do.
+
+
+
+Tama: I'll take about five hundred grand for that.
+
+
+
+Koi: Five hundred grand?!
+
+
+
+Tama: Come on, five hun—
+
+
+
+Oku: Shut up, you little !
+
+
+
+Koi: O-Okuyasu!
+
+
+
+Josu: Hey, don't push it.
+
+
+
+Oku: Shut yer trap, you foolishass.
+
+
+
+Oku: We told you to give his , yen back, so give it back, you dip!
+
+
+
+Glob,Sfx: Slip
+
+
+
+Tama: O-Ow! My front tooth!
+
+
+
+Oku: Wh-Why did you wobble around and fall over on your own?
+
+
+
+Tama: On my own? That's so cruel!
+
+
+
+Tama: How dare you say that after hitting me?!
+
+
+
+Tama: My front tooth's gone. You're so cruel!
+
+
+
+Oku: H-Hey, wait a sec... Are you okay?
+
+
+
+Koi: Wait, Okuyasu...
+
+
+
+Koi: Don't feel any guilt toward him!
+
+
+
+Koi: H-He did it on purpose!
+
+
+
+Tama: Front teeth are pretty expensive, you know...
+
+
+
+Tama: Since I don't have insurance.
+
+
+
+Oku: Wh-Why, you...
+
+
+
+Tama: Whoa, now! Don't try anything funny with me.
+
+
+
+Tama: If anyone who's got my lock on them tries to damage me in any way,
+
+
+
+Tama: it goes right back to that lock.
+
+
+
+Oku: Y-You...
+
+
+
+Josu: Hey. Is the kitten that you said Koichi ran over
+
+
+
+Josu: this thing?
+
+
+
+Koi: A s-stuffed animal?
+
+
+
+Josu: Here, let me see. I picked up your front tooth for you.
+
+
+
+Josu: It's all better.
+
+
+
+Oku: It's gone!
+
+
+
+Koi: Yay! My heart feels so much lighter now!
+
+
+
+Tama: Wh-Who are you?!
+
+
+
+Josu: Hey, aren't you forgetting the , yen?
+
+
+
+Tama: All right! I'll give it back.
+
+
+
+Oku: Once the money's down, hurry up and get out of here, foolishass!
+
+
+
+Koi: I-I'm saved... Ah!
+
+
+
+koi: Th-The bills... H-He took them!
+
+
+
+Koi: He took the big parts thatthe bank would exchange!
+
+
+
+Josu: Th-That one...
+
+
+
+Oku: Unforgivable! Even if it's not my money.
+
+
+
+Tama: . I was only able to get , yen.
+
+
+
+Tama: Don't think you're gonna get away with that.
+
+
+
+Tama: Just you wait.
+
+
+
+Koi: Aw, man...
+
+
+
+main: ,My day started off with something terrible, so I was down the whole day.
+
+
+
+Koi: I'm home, Police.
+
+
+
+Koi: Hey, you alive? Woof, woof.
+
+
+
+Koi: I'm home.
+
+
+
+Tama: I've heard all about you around town, ma'am.
+
+
+
+Tama: They say you're beautiful, kind, and so refined.
+
+
+
+Mom: You can't be serious.
+
+
+
+Tama: I wouldn't lie!
+
+
+
+Mom: Really?
+
+
+
+Tama: Of course!
+
+
+
+Koi: Wh-Why is he in my house rubbing my mom's shoulders?!
+
+
+
+Signtop: The
+
+
+
+Signtop: The Lock
+
+
+
+Signbot: Tama
+
+
+
+Signbot: Tamami
+
+
+
+Signbot: Tamami Koba
+
+
+
+Signbot: Tamami Kobayashi
+
+
+
+Koi: Y-You!
+
+
+
+Koi: What are you doing here?!
+
+
+
+Mom: Oh, Ko, you're back. Hi!
+
+
+
+Koi: I-I asked you wh-what you were doing here!
+
+
+
+Mom: This gentleman delivered the money you dropped.
+
+
+
+Koi: Huh?!
+
+
+
+Mom: Seven thousand yen.You must've been in a hurry.
+
+
+
+Koi: Th-This money... You told her you found it?
+
+
+
+Mom: That's right. You ran into Mr. Kobayashi on your bike today, didn't you?
+
+
+
+Koi: Wha...
+
+
+
+Tama: I made sure you got your money back, Koichi.
+
+
+
+Koi: A-And you should have!
+
+
+
+Mom: Ko, why are you so worked up?
+
+
+
+Tama: Ma'am, this is hard for me to say,
+
+
+
+Tama: but it appears that I dropped my wallet when we ran into each other, too.
+
+
+
+Tama: It looks just like this one.
+
+
+
+Tama: Which means our wallets got swapped.
+
+
+
+Tama: Do you understand what I'm saying, ma'am?
+
+
+
+Mom: Y-Yes, though that seems very unusual.
+
+
+
+Mom: But I guess it's possible.
+
+
+
+Tama: So I'd like you to tell Koichi to return my wallet to me.
+
+
+
+Tama: It had about five hundred thousand yen in it.
+
+
+
+Tama: Please tell him to give it back to me.
+
+
+
+Mom: What?!
+
+
+
+Koi: F-Five hundred thousand?!
+
+
+
+Koi: So that's it!
+
+
+
+Koi: I see your scheme now!
+
+
+
+Mom: K-Ko...
+
+
+
+Koi: Don't panic! He's a con artist!
+
+
+
+Koi: They're all lies!
+
+
+
+Tama: Oh, that's right.
+
+
+
+main: ,I can prove that our wallets got switched.
+
+
+
+tama: Last night, I had a hamburger combo at Jonny's.
+
+
+
+tama: And... Oh, yes. I added an order of onion gratin soup...
+
+
+
+tama: So I believe the total onthe receipt was , yen.
+
+
+
+tama: It should be tucked away in the wallet Koichi has.
+
+
+
+Mom: K-Ko!
+
+
+
+Koi: N-No! Mom, please believe me!
+
+
+
+Koi: This is a trick!
+
+
+
+Koi: You did this earlier, didn't you?!
+
+
+
+Koi: And then you went out of your way to buy a similar wallet!
+
+
+
+Tama: I hate to say this, but your son, thoughI'm sure it's just a phase, is pretty rotten.
+
+
+
+Tama: Don't you feel guilty as his mother
+
+
+
+Tama: for raising a son like that?
+
+
+
+Koi: Stop!
+
+
+
+Koi: M-Mom!
+
+
+
+Tama: I finally did it!
+
+
+
+Tama: Now the weight of her guilt won't allow her heart to be free.
+
+
+
+Tama: I'm gonna take you for everything you've got.
+
+
+
+Tama: First, I'll take this house's land, title, and seal.
+
+
+
+Tama: What a great house this is.
+
+
+
+Sis: Koichi,
+
+
+
+Sis: is something wrong?
+
+
+
+Koi: Sis!
+
+
+
+Koi: Wh-What?!
+
+
+
+Tama: Earlier, when she brought me tea,I made her spill some on my hand,
+
+
+
+Tama: and then acted like it really burned.She kept apologizing so much.
+
+
+
+Tama: She was so cute and sexy.
+
+
+
+Tama: So she's a third-year at a girls' school?
+
+
+
+Tama: R-Ripe for the picking.
+
+
+
+Tama: A-A-Awesome!
+
+
+
+Koi: How dare you?
+
+
+
+Koi: You won't get away with this! I won't let you!
+
+
+
+Tama: What?
+
+
+
+Tama: What's up with that puny egg thing?
+
+
+
+Tama: What is that?!
+
+
+
+Koi: Mom, Sis, please leave the room for a while.
+
+
+
+Mom: Ko, what's happening?
+
+
+
+Koi: Please, don't ask any questions now.
+
+
+
+Tama: Hey! K-Keep that thing away from me!
+
+
+
+Tama: Your mom and sister leaving the room
+
+
+
+main: ,doesn't change the fact that th-they're my hostages!
+
+
+
+Koi: I won't let you harm my mom or sister.
+
+
+
+Tama: J-Just try it, Koichi! Just try!
+
+
+
+Koi: Take the locks off of them!
+
+
+
+Tama: If your mom sees you beating the crap out of me,
+
+
+
+main: ,her guilt is just gonna grow more and more!
+
+
+
+Koi: I told you to take them off!
+
+
+
+Tama: Don't underestimate Tamami Kobayashi, you pissy little !
+
+
+
+Tama: L-Like hell I'll take them off!
+
+
+
+Gion,Sfx: Crack!
+
+
+
+Tama: Huh? What?
+
+
+
+Tama: That didn't hurt.
+
+
+
+Koi: Huh?
+
+
+
+Smack,Sfx: Smack!
+
+
+
+Tama: Whoa! What's this?
+
+
+
+main: ,The sound is impressive, but it's actually super weak!
+
+
+
+Tama: What is with your Stand?
+
+
+
+Tama: It doesn't have any speed or power at all!
+
+
+
+Tama: How dare you scare me like that, you foolishass?!
+
+
+
+Tama: I'll show you that a Stand's strength comes from how strong you are mentally!
+
+
+
+Gion - Copy (),Sfx: Crack!
+
+
+
+Tama: Which means your mental strength is zero!
+
+
+
+Tama: I'm gonna make sure you pay dearly for this!
+
+
+
+Ko: S-Something strange is going on with his cheek!
+
+
+
+Koi: "Cr-ack"?
+
+
+
+Koi: It looks like a manga sound effect.
+
+
+
+Gion,Sfx: Crack!
+
+
+
+Gion,Sfx: Crack!Crack!Crack!
+
+
+
+Tama: Wh-What the heck? I hear a weird ringing in my ears!
+
+
+
+Tama: Like the sound I heard when I got hit...
+
+
+
+Smack - Copy,Sfx: Smack
+
+
+
+Tama: What is this writing on my arm?!
+
+
+
+Tama: I-It won't come off!
+
+
+
+Smack - Copy (),Sfx: Smack!Smack!Smack!
+
+
+
+Gion,Sfx: Crack!Crack!Crack!
+
+
+
+Smack__Smack__Sm,Sfx: Smack!Smack!Smack!
+
+
+
+Crack__Crack__Cr,Sfx: Crack!Crack!Crack!
+
+
+
+Tama: W-Wait... Th-These sounds thatI hear coming from inside me...
+
+
+
+Tama: Your Stand did that?!
+
+
+
+Tama: ! Get rid of this sound!
+
+
+
+Crash,Sfx: Smack
+
+
+
+Crash,Sfx: Boom!
+
+
+
+Smack__Smack__Sm,SFX: Smack!
+
+
+
+Crack__Crack__Cr,SFX: Crack!
+
+
+
+_Boom_,SFX: Boom!
+
+
+
+Koi: It's the sound.
+
+
+
+main: ,My Stand makes the sound resonate from inside his body.
+
+
+
+Koi: C-Come to think of it, there was that famous Basho Matsuo poem I learned at school...
+
+
+
+So_quiet_and_sti,Sign: So quiet and stillThe shrill of the cicadasSeeps into the rocks
+
+
+
+Koi: "So quiet and still,
+
+
+
+Koi: the shrill of the cicadas
+
+
+
+Koi: seeps into the rocks."
+
+
+
+Smack__Smack__Sm,Sfx: Smack!
+
+
+
+Crack__Crack__Cr,Sfx: Crack!
+
+
+
+_Boom_,Sfx: Boom!
+
+
+
+Tama: ! I totally fell for it!
+
+
+
+Koi: If you take the locks off my mom and sister, I'll stop the sound.
+
+
+
+Koi: If you keep resisting,
+
+
+
+main: ,even I don't know what will happen to your body.
+
+
+
+Tama: Stop this sound!
+
+
+
+Gion - Copy,Sfx: Dogyaa
+
+
+
+Koi: Stop being stubborn and take off those locks!
+
+
+
+Tama: ! How dare you do this to me?!
+
+
+
+Smack__Smack__Sm,Sfx: Smack!
+
+
+
+Crack__Crack__Cr,Sfx: Crack!
+
+
+
+Boom_,Sfx: Boom!
+
+
+
+Dogyaa_,Sfx: Dogyaa!
+
+
+
+Tama: Like I could threaten and con if I was afraid of a little brat like you!
+
+
+
+Tama: The "Tama" in my name means "ballsy"! I'll show you just how ballsy I am!
+
+
+
+Koi: I'm not scared of some knife!
+
+
+
+Tama: Don't take me lightly!
+
+
+
+main: ,I'll show you how terrifying I can be!
+
+
+
+Tama: The true fear of the locks!
+
+
+
+Koi: Ow!
+
+
+
+Koi: What?!
+
+
+
+Tama: Ow, ow, ow, ow, ow, ow, ow, ow!
+
+
+
+Tama: Make the cut shallow, and scream like hell!
+
+
+
+Tama: Toss!
+
+
+
+Koi: "Toss"?
+
+
+
+Mom: What was that scream?
+
+
+
+Sis: What's wrong?
+
+
+
+Sis: Ko?!
+
+
+
+Koi: I-It's not what it looks like!
+
+
+
+Koi: C-Crap!
+
+
+
+Tama: Yes!
+
+
+
+Mom: K-Ko! How could you do something so terrifying?!
+
+
+
+Koi: No, Mom! t's not what it looks like!
+
+
+
+Sis: No!
+
+
+
+Koi: Sis!
+
+
+
+Tama: I win! You lose!
+
+
+
+Tama: Hurry up and stop this sound, Koichi!
+
+
+
+Tama: If you don't stop this sound,
+
+
+
+main: ,your mom won't be able to bear the weight of her guilt.
+
+
+
+Tama: When humans can't bear the weight of their sins anymore,
+
+
+
+main: ,they think they'd be better off dead.
+
+
+
+Mom: I-I can't... anymore!
+
+
+
+Koi: Mom!
+
+
+
+Mom: I can't live any longer!
+
+
+
+Tama: Stop acting tough!
+
+
+
+main: ,Hurry and stop this sound! Are yougonna let your mom k*ll herself?!
+
+
+
+Koi: No, I won't stop the sound.
+
+
+
+Koi: I'll do the opposite, and make more sound!
+
+
+
+Koi: Believe in me!
+
+
+
+Believe_in_me_,Sfx: Believe in me!
+
+
+
+Believe_in_me_: ,Believe in me!
+
+
+
+Tama: What?!
+
+
+
+_em_ni_eveileB_,Sfx: !em ni eveileB
+
+
+
+Koi: Believe in me, Mom!
+
+
+
+Believe_in_me_,Sfx: Believe in me!
+
+
+
+Koi: Believe!
+
+
+
+Koi: Mom!
+
+
+
+Koi: Believe in me!
+
+
+
+Believe_in_me_,Sfx: Believe in me!
+
+
+
+Tama: This is a matter of the soul! Like hell she'll believe you!
+
+
+
+Koi: Mom...
+
+
+
+Mom: He's right... If I, his own mother,won't believe in him,
+
+
+
+Mom: then who will?
+
+
+
+Mom: Koichi's always been a nice boy.
+
+
+
+Mom: He would never hurt anyone or take their money.
+
+
+
+Koi: Yes!
+
+
+
+Tama: Sh-!
+
+
+
+Koi: Mom!
+
+
+
+Tama: D-!
+
+
+
+Tama: Usually, they'd never believe...
+
+
+
+main: ,My parents would never believe in me!
+
+
+
+main: ,Gulp...
+
+
+
+Tama: It was just a joke!
+
+
+
+Tama: Ko, it was all just a joke!
+
+
+
+Koi: Take the lock off my sister, too.
+
+
+
+Tama: It's already off!
+
+
+
+Tama: We can't do anything to harm her beauty, right?
+
+
+
+Tama: I was only kidding about taking your house!
+
+
+
+Tama: I even gave back your , yen,didn't I? Right? Right?
+
+
+
+Tama: Please forgive me!I'll do anything, Master Koichi!
+
+
+
+Koi: What? You'll do anything?
+
+
+
+Tama: Yes, Master Koichi! Anything! I'll be your underling!
+
+
+
+Koi: All right, then...
+
+
+
+Koi: Make sure you bring me five hundred grand by tomorrow.
+
+
+
+Koi: It's a joke. It's only a little joke.
+
+
+
+Tama: Th-That didn't sound like a joke!
+
+
+
+Josu: H-Hey, Okuyasu! What the hell is going on here?
+
+
+
+Tama: Allow me to carry your bag to school!
+
+
+
+Koi: You're seriously going to carry it?
+
+
+
+Tama: But of course!
+
+
+
+Tama: Master Koichi! You're a true man among men!
+
+
+
+Koi: Oh, stop it.
+
+
+
+Josu: Hey, Okuyasu!
+
+
+
+Oku: Don't ask me! I'm not smart, remember?

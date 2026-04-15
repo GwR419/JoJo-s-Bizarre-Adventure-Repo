@@ -1,0 +1,1393 @@
+Giorno: We made it to Venice!
+
+
+
+Giorno: I'm diving into the canal!
+
+
+
+Gio: Mista! Please hurry up and get out of the car!
+
+
+
+Mista: G-Giorno! You... Your body's already...
+
+
+
+Gio: I'm sure you already know this, Mista,
+
+
+
+Gio: but our priority is to obtain the item.
+
+
+
+Gio: Getting that thing will lead to our victory.
+
+
+
+Mista: The disc is in there!
+
+
+
+Gio: We're surrounded by water, so it'll take a while for it to freeze.
+
+
+
+Gio: That's why I drove into the canal.
+
+
+
+Gio: Don't worry about me! Hurry and get out!
+
+
+
+Mista: Got it, Giorno. But I don't like your idea of victory!
+
+
+
+Mista: k*lling him, and the both of us living to retrieve that thing...
+
+
+
+Mista: That'll be our victory!
+
+
+
+Ghia: Like hell I'm gonna let you get away!
+
+
+
+Ghia: Just try and jump in, Mista!
+
+
+
+Ghia: I don't mind making a wager on whether or not you can swim faster than my ice!
+
+
+
+Gio: Sh-sh*t! Driving into the canal was a bad idea!
+
+
+
+Gio: This guy has no weak point when it comes to ice!
+
+
+
+JoJo-EpTitle,Sign: Episodio   White Ice
+
+
+
+Mista: Turn the car into a plant, Giorno!
+
+
+
+Mista: The hood of the car hasn't completely frozen over yet.
+
+
+
+Mista: Nurture a plant to life while you still can!
+
+
+
+Ghia: You're trying to grow vines to use them as ropes?
+
+
+
+Ghia: That's not happening!
+
+
+
+Gio: I-It's no use.
+
+
+
+JoJo-main: ,We need the right temperature to grow a plant like a vine
+
+
+
+JoJo-main: ,that'll grow fast enough to reach the bank.
+
+
+
+Gio: In this low temperature,
+
+
+
+JoJo-main: ,the only plant that'll grow is the short grass you'd find in a tundra!
+
+
+
+Mista: Who said anything about growing vines that reach the bank, Giorno?
+
+
+
+Mista: This is perfectly fine!
+
+
+
+JoJo-main: ,Short grass is exactly what I want!
+
+
+
+Mista: But I need more! More! More!
+
+
+
+Mista: If you don't want to die, get me more!
+
+
+
+Mista: If you don't grow more, we're gonna die, Giorno!
+
+
+
+Ghia: Gotcha! Too bad you couldn't grow it to the bank of the canal!
+
+
+
+Mista: Well done, Giorno! It froze over!
+
+
+
+JoJo-main: ,Now you won't die!
+
+
+
+Ghia: Th-That b*stard! He froze some short grass to create a sled?
+
+
+
+Ghia: N-No... A snowboard!
+
+
+
+Ghia: Damn it!
+
+
+
+Mista: He's not going to let me get away so easily.
+
+
+
+mistA: Of course not...
+
+
+
+ghia: White Ice! Undo the ice temporarily!
+
+
+
+Gio: Th-Th ice...
+
+
+
+Mista: ...melted!
+
+
+
+Gio: Mista!
+
+
+
+Ghia: An extremely low temperature is a world of life or death!
+
+
+
+Ghia: Nothing can move in extremely low temperatures!
+
+
+
+Ghia: They can stop everything!
+
+
+
+Ghia: That's what makes my White Ice perfect!
+
+
+
+Ghia: It can even stop the raging ocean if I want it to!
+
+
+
+Gio: Hurry and get up on the bank, Mista!
+
+
+
+Gio: Mista!
+
+
+
+Gio: Gather up the grass that's floating in the water!
+
+
+
+Gio: The grass you were using as a snowboard!
+
+
+
+Gio: While you can fire the g*n in your right hand!
+
+
+
+Ghia: Give it up, Mista!
+
+
+
+Ghia: Do you still not understand that attacking me is pointless?!
+
+
+
+Crunch,Sfx: {\c&HEAC&\c&HED&}Stab
+
+
+
+Mista: Gathering up grass... I see.
+
+
+
+Mista: Giorno, if you release your ability, the short grass turns back into car parts.
+
+
+
+Mista: Therefore, we can shoot them into you!
+
+
+
+Ghia: What?!
+
+
+
+Mista: D-Did that do it?
+
+
+
+Gio: No, it's shallow.
+
+
+
+JoJo-main: ,I think we can at least get away for now,
+
+
+
+Gio: but Mista, this just bought us some time!
+
+
+
+Gio: Let's get the thing quickly, then get out of here fast.
+
+
+
+Gio: That same strategy won't work again the next time he catches up.
+
+
+
+Gio: Please go, Mista!
+
+
+
+Mista: The disc will show up somewhere if we destroy the lion statue.
+
+
+
+Mista: I'll retrieve it, then hide somewhere in the city.
+
+
+
+Mista: If I have a few dozen seconds, I can do this.
+
+
+
+Mista: But will hiding be enough to get away from that guy?
+
+
+
+Mista: It might just work, but it might not.
+
+
+
+Mista: More importantly, this guy's way too dangerous.
+
+
+
+Mista: It'll be even worse if he ends up running into Bucciarati and the others.
+
+
+
+Mista: We need to end him now!
+
+
+
+Mista: This is our only chance!
+
+
+
+Gio: Wha— Mista! What are you doing?!
+
+
+
+Mista: Your ability is perfect? That's impossible!
+
+
+
+Mista: If you've completely encased yourself in ice, how are you able to breathe?
+
+
+
+Mista: There it is. I knew it.
+
+
+
+JoJo-internal/narrator: ,Air's leaking out.
+
+
+
+Mista: He's breathing from there, the back of his neck.
+
+
+
+Mista: Take your positions, Six b*ll*ts!
+
+
+
+Mista: Number One and Number Two, go around and flank him!
+
+
+
+five: Wah, he's looking over here!
+
+
+
+Six: He's gonna do another ice attack!
+
+
+
+Mista: No, first, he's probably going to go up for air.
+
+
+
+Mista: Once he rises to the surface, I'm gonna put a b*llet in his head!
+
+
+
+Seven: He's trying to go up to the surface!
+
+
+
+Mista: Let's go, b*ll*ts!
+
+
+
+JoJo-internal/narrator: ,We're aiming for the moment he takes a breath of air!
+
+
+
+Three: Mista!
+
+
+
+JoJo-main: ,Number One and Two are saying they can't see the hole!
+
+
+
+One: It must be due to his posture! He's facing up right now!
+
+
+
+JoJo-main: ,The hole's hidden!
+
+
+
+Two: Sh-sh*t! Let's scram!
+
+
+
+Mista: Oh, shut up!
+
+
+
+JoJo-internal/narrator: ,Stay in your positions, Number One and Number Two!
+
+
+
+Ghia: How dare you do that to my forehead?!
+
+
+
+Gio: Mista!
+
+
+
+Ghia: What the?!
+
+
+
+JoJo-main: ,You shot some fish that were swimming around?
+
+
+
+Ghia: What the hell are you trying to do?!
+
+
+
+One: He looked down! We can see it!
+
+
+
+Two: It's the hole! Now!
+
+
+
+One: Here it comes!
+
+
+
+One: We can do this!
+
+
+
+Crunch,Sfx:Gwooom
+
+
+
+Both: We did it! Bullseye!
+
+
+
+One: Th-That sound...
+
+
+
+Gio: That sound... It can't be!
+
+
+
+Ghia: So you found my breathing hole and went after that...
+
+
+
+Ghia: Mista!
+
+
+
+Ghia: But extremely low temperatures stop everything!
+
+
+
+Ghia: Gases turn to liquids, and liquids turn to solids!
+
+
+
+Ghia: Take a closer look. Can't you see the air that's stopped?
+
+
+
+Gio: The b*llet, Mista!
+
+
+
+JoJo-main: ,That's the sound of a ricocheting b*llet!
+
+
+
+Mista: What?!
+
+
+
+Ghia: White Ice... Gently Weeps!
+
+
+
+Gio: Mista!
+
+
+
+Ghia: I'd already created a wall of frozen air!
+
+
+
+Ghia: It uses up quite a bit of my Stand's power,
+
+
+
+JoJo-main: ,but now nothing can shoot a bolt into me!
+
+
+
+Ghia: Anything that comes near me will stop!
+
+
+
+Ghia: This is a lesson I learned from you, Mista!
+
+
+
+Mista: Giorno was right.
+
+
+
+Mista: This is all my fault... This is my responsibility.
+
+
+
+Mista: If only I'd prioritized getting that thing...
+
+
+
+Ghia: It's not under any trash cans or benches.
+
+
+
+JoJo-internal/narrator: ,I can't find anything of importance,
+
+
+
+JoJo-internal/narrator: ,and they wouldn't hide it out in the open, anyway.
+
+
+
+Ghia: But considering how much Mista is hurrying,
+
+
+
+JoJo-internal/narrator: ,I just realized it must be in the immediate area.
+
+
+
+Ghia: Where is it? This photo should be a hint...
+
+
+
+Gio: sh*t. This is the worst possible scenario.
+
+
+
+Gio: Mista's currently acting out of despair.
+
+
+
+Gio: He's decided to take responsibility for this, even if it costs him his life.
+
+
+
+Gio: But the only ones who can open up a path
+
+
+
+JoJo-internal/narrator: ,in the darkness are those with resolve.
+
+
+
+Gio: Things are getting interesting.
+
+
+
+Gio: We're going to have to make some sacrifices,
+
+
+
+Gio: but my resolve, as well as Mista's,
+
+
+
+Gio: will open up a path in the darkness!
+
+
+
+Sign: Ghiaccio
+
+
+
+Sign: White Ice
+
+
+
+Ghia: What the hell is this?
+
+
+
+JoJo-main: ,It was embedded in there?
+
+
+
+Ghia: In one of the cuts or gaps in the statue?
+
+
+
+Mista: Damn it! If I'm close enough,
+
+
+
+JoJo-main: ,I should be able to shoot into the hole in his neck again!
+
+
+
+Mista: If I can just get close enough to aim through the wall of air...
+
+
+
+Gio: Mista's getting reckless.
+
+
+
+JoJo-main: ,He's willing to take responsibility for this at the cost of his own life.
+
+
+
+Gio: But this isn't just determinationresulting from him being cornered.
+
+
+
+JoJo-main: ,It's resolve!
+
+
+
+Gio: We need resolve right now!
+
+
+
+Gio: Resolve doesn't mean sacrifice!
+
+
+
+Ghia: A computer disc!
+
+
+
+Ghia: I knew it! The thing you were trying to get was something to tell you
+
+
+
+JoJo-main: ,how to get to the boss!
+
+
+
+Ghia: I did it! Now we can find out who the boss really is!
+
+
+
+Ghia: All that's left now... is Trish!
+
+
+
+Ghia: Right after I finish you b*stards off!
+
+
+
+Ghia: Come at me with all your futile attempts!
+
+
+
+JoJo-main: ,Let me finish you off!
+
+
+
+Gio: Mista!
+
+
+
+Ghia: What the hell are you doing?!
+
+
+
+Gio: Having resolve is the ability to open up a path
+
+
+
+JoJo-main: ,we need to follow within the darkness!
+
+
+
+Nar: Guido Mista: arrested at  for m*rder.
+
+
+
+Nar: The result of the trial:
+
+
+
+Nar: they did not see his actions as self-defense,
+
+
+
+Nar: and he was sentenced to to  years in prison.
+
+
+
+Mista: My happy-go-lucky youth...
+
+
+
+JoJo-flashback: ,Is this really my fate?
+
+
+
+Nar: Mista always had an optimistic view of life,
+
+
+
+Nar: but in this moment,he didn't know what to do.
+
+
+
+Mista: Damn it.
+
+
+
+Guard: Get up. You're being released.
+
+
+
+Mista: You're the one who bailed me out?
+
+
+
+Bruno: Yes. I saw the incident on the news and decided you acted out of self-defense.
+
+
+
+Bruno: It means you are incredibly skilled with a p*stol and full of life.
+
+
+
+Bruno: But a guy like you probably wouldn't last two years in prison.
+
+
+
+Bruno: That's why...
+
+
+
+Mista: You pulled some strings.
+
+
+
+Mista: Do you belong to some organization?
+
+
+
+Bruno: Come with me.
+
+
+
+JoJo-flashback: ,There's an excellent ristorante nearby.
+
+
+
+Bruno: I like the way you eat.
+
+
+
+Bruno: The bruschetta here is great, too. Do you still have some room?
+
+
+
+Mista: Yeah.
+
+
+
+Bruno: Pardon me.
+
+
+
+Guy: Yes, sir?
+
+
+
+Bruno: Could I get some bruschetta for him... I should get some for them, too.
+
+
+
+Bruno: Could I get four orders of bruschetta?
+
+
+
+Bruno: No, make that five. I guess I'll get an order for myself.
+
+
+
+Guy: Right away, sir.
+
+
+
+Bruno: So, continuing our conversation...
+
+
+
+Mista: I'm in.
+
+
+
+Mista: I think you and I will get along great.
+
+
+
+Mista: So, I'm in.
+
+
+
+Mista: On one condition, though.
+
+
+
+Mista: Treat me to some dolce, too.
+
+
+
+Mista: Does this place have strawberry cake?
+
+
+
+Bruno: You sure are an odd one.
+
+
+
+Mista: I guess this must be fate, too.
+
+
+
+Mista: This isn't so bad. Everything worked out in the end.
+
+
+
+Nar: Mista learned that people have predetermined destinies.
+
+
+
+Nar: When they're young,
+
+
+
+Nar: people may find themselves at a standstill or taking the long way around at times,
+
+
+
+Nar: but they ultimately end up traveling the path they were destined to walk.
+
+
+
+Mista: I can see it! I can see the path perfectly!
+
+
+
+Mista: I can see it for sure this time!
+
+
+
+Mista: It's there, Giorno!
+
+
+
+JoJo-main: ,I see the path I need to take through the darkness!
+
+
+
+b*ll*ts: Yeehaw!
+
+
+
+Sfx: Batoom
+
+
+
+Sfx: Bam
+
+
+
+Sfx: Bam
+
+
+
+Sfx: Shank
+
+
+
+Sfx: Crack
+
+
+
+Sfx: Crack
+
+
+
+Ghia: You guys don't seem to understand.
+
+
+
+Ghia: The air is frozen because of the extremely low temperature.
+
+
+
+Ghia: Just like this.
+
+
+
+Ghia: If I put air that's been frozen solid in my suit and melt it,
+
+
+
+Ghia: the air turns back to normal!
+
+
+
+Ghia: If I take it in like this...
+
+
+
+Ghia: Just like a diver who has an air tank on their back,
+
+
+
+JoJo-main: ,I don't need a breathing hole anymore!
+
+
+
+Seven: The hole!
+
+
+
+Three: He deflected the b*ll*ts!
+
+
+
+Six: Six of them! O-Oh, no!
+
+
+
+Ghia: I hope you have the resolve for this, Mista!
+
+
+
+Ghia: It's over.
+
+
+
+Mista: Yeah, my resolve is there, Giorno.
+
+
+
+Mista: If you hadn't given me your resolve,
+
+
+
+JoJo-internal/narrator: ,I wouldn't have been able to see this path.
+
+
+
+Mista: The path toward the resolve to be willingly shot by my own b*ll*ts...
+
+
+
+Ghia: I-I can't see!
+
+
+
+JoJo-main: ,The blood's frozen to me and hardened...
+
+
+
+Mista: The path through the darkness
+
+
+
+JoJo-main: ,isn't the path for the b*ll*ts to get through your wall of ice.
+
+
+
+Mista: I-It was to splash your face with my blood!
+
+
+
+Ghia: sh*t! I can't get it off!
+
+
+
+One: Hey, the metal pole from earlier!
+
+
+
+Two: Mista, your b*llet carved it into a—
+
+
+
+Ghia: Ow! That hurts!
+
+
+
+Ghia: Something... Something... Something... Something lukewarm is—
+
+
+
+Mista: You asked me if I had the resolve for this...
+
+
+
+Mista: Well, let me show you!
+
+
+
+Mista: But you'll have to show me some resolve, too.
+
+
+
+Mista: The resolve to be filled with holes and depart for the next world!
+
+
+
+Ghia: Th-That b*stard's still standing!
+
+
+
+Ghia: He's hell-bent on shoving me back even farther!
+
+
+
+Ghia: Is he insane?! He's determined to finish this!
+
+
+
+Ghia: sh*t! I need to get this out of my neck!
+
+
+
+Six: You're crazy! The b*llet's gonna come flying back!
+
+
+
+One: You're not gonna last!
+
+
+
+Mista: I have to make it through.
+
+
+
+JoJo-main: ,Starting now, I'm showing my true resolve!
+
+
+
+Mista: Steel yourselves, b*ll*ts!
+
+
+
+Ghia: White Ice... Gently Weeps!
+
+
+
+One: Y-You can't take any more, Mista!
+
+
+
+Three: You're going to lose consciousness!
+
+
+
+Two: We're also...
+
+
+
+Six: ...going to disappear!
+
+
+
+Mista: N-Not yet!
+
+
+
+JoJo-main: ,I'm still conscious! I can still shoot him!
+
+
+
+Five: Y-You did it!
+
+
+
+Two: It went all the way in!
+
+
+
+Ghia: You're... wrong...
+
+
+
+Ghia: The one with stronger resolve... is me...
+
+
+
+Ghia: Guido Mista...
+
+
+
+Ghia: I'll commend you for... pushing me this far...
+
+
+
+Ghia: But the one who took better advantage of all the spurting blood... was me!
+
+
+
+Ghia: I froze the blood that spurted out of my neck to support me!
+
+
+
+Ghia: Now my neck won't get pushed farther onto the spike!
+
+
+
+JoJo-main: ,I'm totally secured!
+
+
+
+Ghia: The spike won't go any farther in!
+
+
+
+Ghia: Also... Haven't you forgotten something?
+
+
+
+Ghia: The b*llet you shot last is still...
+
+
+
+Ghia: Straight into your head!
+
+
+
+Ghia: I win!
+
+
+
+Ghia: There's no wound?!
+
+
+
+Ghia: Wha—
+
+
+
+Gio: Mista...
+
+
+
+Gio: Your resolve is shining upon the path,
+
+
+
+Gio: even brighter than this rising sun.
+
+
+
+Gio: And it's shining on the path...
+
+
+
+Gio: that we're meant to take!
+
+
+
+Ghia: What the hell?!
+
+
+
+Gold: Useless! Useless! Useless! Useless! Useless!
+
+
+
+Mista: Recently, I... started noticing...
+
+
+
+Mista: that despite Giorno Giovanna...
+
+
+
+Mista: being a newbie...
+
+
+
+Mista: things always seem...
+
+
+
+JoJo-internal/narrator: ,to play out exactly how he says.
+
+
+
+Mista: The resolve I showed just now was also partly Giorno's.
+
+
+
+Mista: It was making its way into my heart before I even realized it.
+
+
+
+Mista: It almost feels like he's my capo, even more so than Bucciarati,
+
+
+
+Mista: and he kept me moving.
+
+
+
+Mista: What the hell is his deal?
+
+
+
+Mista: Well, I guess that doesn't matter right now.
+
+
+
+Mista: It's not my style to think too much about stuff.
+
+
+
+Gio: Mista, we safely retrieved the disc, thanks to you.
+
+
+
+Mista: Hurry and fix me up. I-I can't breathe...
+
+
+
+Mista: I wouldn't have been able to show that resolve without your ability.
+
+
+
+Mista: Hurry and fix me up, before I actually die...
+
+
+
+Gio: Of course. But I'd like to clear something up first.
+
+
+
+Gio: Golden Wind doesn't exactly fix things.
+
+
+
+JoJo-main: ,It creates parts of your body.
+
+
+
+Gio: I'll give life to the b*ll*ts embedded in your body
+
+
+
+Gio: and plug up the arteries and other parts that were destroyed.
+
+
+
+Mista: Just shut up and do it already.
+
+
+
+Giorno: Since I'm not exactly healing you, your pain will remain.
+
+
+
+Gio: Please don't complain to me later.
+
+
+
+Mista: Ow!
+
+
+
+Mista: O-Ow! Be more gentle! Be more gentle, damn it, Giorno!
+
+
+
+Gio: I told you, I can't.
+
+
+
+Gio: You're a gangster, for crying out loud. Please quit fussing.
+
+
+
+Gio: There are about  more wounds,
+
+
+
+JoJo-main: ,so you'll have to remove some of your clothes for me to plug the rest.
+
+
+
+Nara: Bucciarati! I'm picking up two signals...
+
+
+
+JoJo-main: ,It doesn't look like there's anyone else.
+
+
+
+Bruno: Proceed, but carefully.
+
+
+
+Bruno: I'm assuming it's Mista and Giorno.
+
+
+
+Bruno: I'm sure they're bored out of their minds waiting for us since nothing's happening.
+
+
+
+Mista: Ack! Giorno!
+
+
+
+Nara: There they are! Hey, Mista! Gio—
+
+
+
+Mista: Be gentler! Gentler, damn it!
+
+
+
+Mista: Don't take off my clothes! I'll feel it more!
+
+
+
+Bruno: Well, Narancia? Did you find those two?
+
+
+
+Nara: Huh? W-Well, u-um...
+
+
+
+Nara: No! Huh?! Suddenly there's something in my eye?
+
+
+
+Mista: Giorno, no! Don't! N-No more! I-I can't!
+
+
+
+Nara: I can't see! I can't see them clearly!
+
+
+
+Mista: Be gentler, damn it!
+
+
+
+Risotto_s_wherea,Sign: Risotto's whereabouts are unknown.Currently searching airports, train stations,and the area around Naples.
+
+
+
+Boss: Curse you, Risotto...
+
+
+
+Boss: You must be heading to Venice.
+
+
+
+Boss: If Bucciarati and his crew put an end to you, that's fine.
+
+
+
+Boss: Regardless, I'm not worried.

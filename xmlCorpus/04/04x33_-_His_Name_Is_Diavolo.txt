@@ -1,0 +1,1361 @@
+Bruno: Wh-What? My body suddenly... All my strength is...
+
+
+
+Bruno: It can't be... My eyes are blurring, too...
+
+
+
+Bruno: Am I finally out of time?
+
+
+
+Bruno: I knew this moment would come...
+
+
+
+Bruno: But now?
+
+
+
+Bruno: I must go.
+
+
+
+Dopp: Go? Wait... I know Bucciarati and his crew have a goal.
+
+
+
+Dopp: Where is he trying to go?
+
+
+
+Dopp: I'm sure the boss wants to find that out.
+
+
+
+Dopp: Pardon me.
+
+
+
+Dopp: Can I lend you a hand?
+
+
+
+Dopp: It's totally up to you, though.
+
+
+
+Bruno: What? You're still here?
+
+
+
+Bruno: I'm fine.
+
+
+
+JoJo-main: ,Go run along somewhere.
+
+
+
+Dopp: But... and excuse me if I'm being presumptuous,
+
+
+
+JoJo-main: ,but I think it might be hard for you to cross that road alone.
+
+
+
+Dopp: I really don't mind lending you my shoulder.
+
+
+
+Dopp: I mean, if you don't mind...
+
+
+
+Bruno: Well...
+
+
+
+JoJo-main: ,That might not be such a bad idea.
+
+
+
+Dopp: How far would you like to go?
+
+
+
+Bruno: Um... Just to the entrance of the Colosseum.
+
+
+
+Dopp: The entrance of the Colosseum...
+
+
+
+JoJo-EpTitle,Sign: Episodio  His Name Is Diavolo
+
+
+
+Bruno: There's no time. Just to the other side of the road... Please...
+
+
+
+Dopp: Look out!
+
+
+
+Driver: You stupid-a*s drunk!
+
+
+
+Dopp: Are you okay?! Where were you look—
+
+
+
+Dopp: What? Why is Bucciarati so cold?
+
+
+
+Bruno: Sorry about that...
+
+
+
+JoJo-main: ,This is a guardrail?
+
+
+
+Bruno: Did I run into it?
+
+
+
+Dopp: Could it be that... Bucciarati can't see anything?
+
+
+
+Dopp: He also ignored that car hornwhen he tried to cross the road.
+
+
+
+Dopp: Does that mean he can't hear, either?
+
+
+
+Bruno: That wound on your throat...
+
+
+
+Bruno: Were you hurt during that scuffle earlier?
+
+
+
+Bruno: Actually, it looks like that wound is from this morning or last night.
+
+
+
+Bruno: It's not bleeding anymore.
+
+
+
+JoJo-main: ,That's a strange place to be wounded.
+
+
+
+Dopp: He can somehow see it clearly. But it's under my collar...
+
+
+
+Dopp: He's looking right at it!
+
+
+
+Dopp: At the wound that Risotto gave me!
+
+
+
+Bruno: Oh, you picked that up for me.
+
+
+
+JoJo-main: ,Thanks. I appreciate it.
+
+
+
+Dopp: Well... Ready to go?
+
+
+
+Bruno: Okay... Let's go.
+
+
+
+Dopp: He can hear me, too.
+
+
+
+Dopp: But something seems off, for just being hurt in a fight.
+
+
+
+Dopp: What's going on?
+
+
+
+Dopp: That's Guido Mista!
+
+
+
+Dopp: Damn! I took too much time.
+
+
+
+Dopp: Of course he'd show up.
+
+
+
+Bruno: Is something wrong?
+
+
+
+JoJo-main: ,We haven't finished crossing yet.
+
+
+
+Dopp: No, um...
+
+
+
+Dopp: Sorry, the cut on my neck started bleeding a little...
+
+
+
+Dopp: He's heading this way!
+
+
+
+Bruno: I apologize for being selfish, but I'm in a hurry.
+
+
+
+Bruno: I need to hurry up and cross.
+
+
+
+Dopp: No!
+
+
+
+Dopp: Don't stand up!
+
+
+
+Dopp: I mean... There's another car coming.
+
+
+
+Dopp: Let's cross once it passes.
+
+
+
+Bruno: No, that's on the other side of the road.
+
+
+
+JoJo-main: ,We can cross.
+
+
+
+Bruno: Come on.
+
+
+
+JoJo-main: ,Let me cross.
+
+
+
+Dopp: N-No... Mista's coming!
+
+
+
+Dopp: I'm just going to have to eliminate him right here...
+
+
+
+Dopp: Right now!
+
+
+
+Dopp: Bring, ring, ring, ring, ring...
+
+
+
+Dopp: I wonder what that sound was.
+
+
+
+Dopp: Bring, ring, ring, ring, ring, ring-a-ling-ring-a-ling-ding...
+
+
+
+Bruno: What the hell are you doing?
+
+
+
+JoJo-main: ,What did you just say?
+
+
+
+Dopp: Bring, ring, ring, ring, ring, ring-a-ling-ring-a-ling-ding...
+
+
+
+Dopp: Why am I getting a call right now?!
+
+
+
+JoJo-internal/narrator: ,He's going to figure out who I am!
+
+
+
+Bruno: You're...
+
+
+
+Dopp: Bring, ring, ring, ring, ring...
+
+
+
+Dopp: You friggin' dumbass!
+
+
+
+JoJo-main: ,Why the hell are you calling me right now?!
+
+
+
+JoJo-main: ,Do you want him to find out?!
+
+
+
+Gio: Trish!
+
+
+
+JoJo-main: ,Don't come outside yet!
+
+
+
+Gio: The danger's not fully gone. Get back in the turtle!
+
+
+
+Trish: You don't understand. He's here!
+
+
+
+Trish: I started getting that feeling again.
+
+
+
+Trish: The same thing I felt in Sardinia...
+
+
+
+Bruno: Who... are you?
+
+
+
+Bruno: The person in front of me...
+
+
+
+Bruno: You're...
+
+
+
+Crunch,Sfx: {\c&HD&\c&HCCE&}Rumble
+
+
+
+Bruno: Trish!
+
+
+
+Trish: I can feel him! He's nearby.
+
+
+
+Trish: The boss is nearby!
+
+
+
+Mista: He's nearby?
+
+
+
+Gio: You don't know exactly where, though?
+
+
+
+Trish: He just suddenly appeared...
+
+
+
+JoJo-main: ,But I don't know where.
+
+
+
+Bruno: Thank goodness. You're safe.
+
+
+
+Boss: Well done. You did excellent work.
+
+
+
+Boss: This is why you're my most trusted and number one subordinate.
+
+
+
+Boss: Don't worry.
+
+
+
+JoJo-internal/narrator: ,Bucciarati is looking at you right now, but he doesn't actually see you.
+
+
+
+Dopp: What do you mean?
+
+
+
+Boss: I don't know how this happened, but Bucciarati is already a corpse.
+
+
+
+Boss: His heartbeat has stopped, and he's not breathing properly.
+
+
+
+Boss: He can't see, and his eardrums ruptured in his battle with Secco.
+
+
+
+Boss: All he can see right now, Doppio, is the shape of your soul.
+
+
+
+Boss: All he can hear is the energy of your soul.
+
+
+
+Boss: He can't see objects like guardrails,
+
+
+
+Boss: and all he can see in cars are the souls of the drivers.
+
+
+
+Bruno: What's wrong, Trish?
+
+
+
+JoJo-main: ,Did something happen?
+
+
+
+Boss: My daughter's soul and mine have a similar scent.
+
+
+
+Boss: That's what I gave you just now.
+
+
+
+Boss: All Bucciarati sees is the form of my daughter!
+
+
+
+Boss: Get Bucciarati to lead you to whatever he was seeking.
+
+
+
+Boss: Have him take you there!
+
+
+
+Bruno: Trish...
+
+
+
+Dopp: Sorry... I'm tired, so I spaced out a bit.
+
+
+
+Dopp: But thank goodness you're safe, Bucciarati.
+
+
+
+Bruno: Yeah... More importantly, was there a young man nearby?
+
+
+
+Dopp: Oh, I saw him rush off somewhere in a hurry.
+
+
+
+Dopp: More importantly, Bucciarati, let's hurry to our destination.
+
+
+
+Bruno: You're right. I hate to bother you, but could you lend me a hand?
+
+
+
+Bruno: I can't seem to gather enough strength...
+
+
+
+Dopp: Yes,
+
+
+
+JoJo-main: ,of course.
+
+
+
+Sign: {\fad(,)\c&HFDFEEB&\c&HAF&}Diavolo
+
+
+
+Sign: {\fad(,)\c&HFDFEEB&\c&HAF&}Emperor Crimson
+
+
+
+Bruno: It's rather small, but Trish, I have a house in the suburbs of Naples.
+
+
+
+Bruno: Once all this is over... if you don't have anywhere to go...
+
+
+
+Bruno: You can live there.
+
+
+
+Bruno: There's a school nearby, as well as a great restaurant.
+
+
+
+Bruno: It's close to the beach, too.
+
+
+
+Bruno: You've had nothing but horrible things happen to you,
+
+
+
+JoJo-main: ,but you still have a chance to enjoy a new life.
+
+
+
+Dopp: Thanks. But more importantly right now, where should I head next?
+
+
+
+Bruno: Go up those stairs...
+
+
+
+Dopp: Upstairs?
+
+
+
+Boss: Don't turn your head, Doppio!
+
+
+
+Boss: Keep going as though you haven't noticed anything!
+
+
+
+Boss: There's someone here.
+
+
+
+Boss: Upstairs, behind one of the stone pillars.
+
+
+
+Boss: Someone is watching you!
+
+
+
+Boss: It appears that his goal was to meet with someone.
+
+
+
+Boss: But who could it possibly be? I haven't the slightest idea...
+
+
+
+Dopp: Boss, how do you know they're here?
+
+
+
+Dopp: And if I don't turn around and look, I won't be able to tell who they are.
+
+
+
+Boss: Look at Bucciarati's eyes. That should be enough.
+
+
+
+Boss: He's reflecting in Bucciarati's eyes right now.
+
+
+
+Pol: Don't move!
+
+
+
+Pol: Stop right there.
+
+
+
+Pol: Take even a step up those stairs, and our deal is off.
+
+
+
+Dopp: You're right! There's someone hidden behind one of the pillars!
+
+
+
+Bruno: My name is Bruno Bucciarati!
+
+
+
+Bruno: I came this far because I trusted you when you said
+
+
+
+JoJo-main: ,you had a way to defeat the boss!
+
+
+
+Pol: I know that.
+
+
+
+JoJo-main: ,But before we get to that, who's that next to you?
+
+
+
+Pol: There's nothing about them anywhere in my records!
+
+
+
+Bruno: And there shouldn't be!
+
+
+
+JoJo-main: ,Trish doesn't belong to the organization, and I only met her a few days ago.
+
+
+
+Bruno: But as you can see, she's one of us.
+
+
+
+Pol: Trish? That sounds like a girl's name.
+
+
+
+Bruno: Sounds like?
+
+
+
+Dopp: This isn't good... He's going to find us out, Boss!
+
+
+
+Boss: Calm down. Listen to me. This is what you're going to say:
+
+
+
+Boss: "Do you have a problem with me being a girl?" Go on, say it, Doppio!
+
+
+
+Dopp: Do you have a problem with me being a girl?!
+
+
+
+Pol: I guess I said something I shouldn't have.
+
+
+
+JoJo-main: ,It's a bit dark in here, so I couldn't see you well.
+
+
+
+Pol: Is she a Stand user?
+
+
+
+Bruno: Of course! But enough questions! What I want to know is, who are you?
+
+
+
+Bruno: Let's just get to the point of this meeting!
+
+
+
+Pol: No, not yet. I want to see her Stand.
+
+
+
+Pol: Trish! Move slowly.
+
+
+
+Pol: I have no data on you,
+
+
+
+JoJo-main: ,but if you show me your Stand from there, I'll trust you.
+
+
+
+Dopp: B-Boss...
+
+
+
+Boss: Who the hell is he?
+
+
+
+JoJo-internal/narrator: ,He's definitely got experience fighting.
+
+
+
+Boss: He's even thinking about a Stand's range...
+
+
+
+Boss: Who could he possibly be? I really have no idea...
+
+
+
+Pol: Well? Hurry and show me from that spot.
+
+
+
+Pol: Move slowly, as if you're lifting up your skirt.
+
+
+
+Boss: That's... It can't be!Why does he have that?
+
+
+
+Boss: That arrow... There's no doubt about it.
+
+
+
+Boss: That's the arrow from back then!
+
+
+
+pol: Wh-What's this ominous murderous intent I feel?
+
+
+
+Pol: It feels like someone's pointing a knife right at my heart...
+
+
+
+Pol: I've felt something like this before...
+
+
+
+Pol: Don't tell me—
+
+
+
+Boss: No, wait... That's right. There is one person I can think of.
+
+
+
+Boss: He used the arrow to track me down...
+
+
+
+Both: He's—
+
+
+
+Boss: In Egypt, I dug up the arrows that awaken Stand abilities within people.
+
+
+
+Boss: I knew the moment I saw them
+
+
+
+JoJo-internal/narrator: ,that these arrows had some mysterious power.
+
+
+
+Boss: An old woman named Enyaba who had two right hands
+
+
+
+JoJo-internal/narrator: ,told me she'd tell me how the arrows worked in return for shooting some.
+
+
+
+Boss: I figured one would be more than enough,
+
+
+
+JoJo-internal/narrator: ,so I sold the other five for a handsome sum.
+
+
+
+Boss: Come to think of it, that old woman said something rather bizarre...
+
+
+
+Boss: The arrow chooses people,
+
+
+
+JoJo-internal/narrator: ,and those people are attracted to one another like magnets.
+
+
+
+Pol: In the s, me and my old friend Jotaro Kujo were investigating
+
+
+
+JoJo-internal/narrator: ,these arrows that brought out one's Stand abilities.
+
+
+
+Pol: We heard about a young man who had dug up the other arrows,
+
+
+
+JoJo-internal/narrator: ,and we split up to be more efficient in searching for him.
+
+
+
+Pol: Jotaro went to America and Asia.
+
+
+
+Pol: I went to Europe and Africa.
+
+
+
+Pol: And I managed to find out that one of the arrows was
+
+
+
+JoJo-internal/narrator: ,in a region of Italy where drug-related crimes had suddenly skyrocketed.
+
+
+
+Pol: I investigated an unusual region where drug crimes
+
+
+
+JoJo-internal/narrator: ,involving young people and their victims had increased twenty times,
+
+
+
+Pol: and I knew I was finally close.
+
+
+
+JoJo-internal/narrator: ,But...
+
+
+
+Boss: My organization was nearing perfection after just a few years.
+
+
+
+Boss: My subordinates swore their loyalty to me.
+
+
+
+JoJo-internal/narrator: ,I had men hiding in all branches of society.
+
+
+
+Boss: I had a notion that someone was trying to track me down.
+
+
+
+Boss: In the end, I would finish them off myself.
+
+
+
+JoJo-internal/narrator: ,That's the most surefire way.
+
+
+
+Boss: I'd already decided that.
+
+
+
+Pol: But I ended up making two big mistakes.
+
+
+
+Pol: My first mistake was that this crime organization was already complete.
+
+
+
+Pol: Communications, the government, the press...
+
+
+
+Pol: Society itself had isolated me.
+
+
+
+Pol: And my second and greatest mistake...
+
+
+
+Pol: Silver Chariot!
+
+
+
+Boss: I guess I'll tell you, since you're going to die.
+
+
+
+Pol: The man who had unearthed the arrows
+
+
+
+JoJo-internal/narrator: ,had powers far more sinister than I could have ever imagined!
+
+
+
+Boss: The moment that anyone sees Emperor Crimson...
+
+
+
+Crunch,Sfx: Boom
+
+
+
+Pol: This ability...
+
+
+
+Pol: Time... It...
+
+
+
+Boss: ...they are no longer in this world.
+
+
+
+Pol: Is there no hope...?
+
+
+
+Boss: I'm certain that I k*lled him!
+
+
+
+Boss: To think that someone I had eliminated
+
+
+
+JoJo-internal/narrator: ,in the past would show up again with an arrow!
+
+
+
+Pol: Bucciarati! The one next to you is—
+
+
+
+Pol: Wh-What? Bucciarati!
+
+
+
+Pol: Where'd the person next to you go?!
+
+
+
+Pol: They disappeared! Don't tell me...
+
+
+
+Pol: Where did they go?!
+
+
+
+Pol: Where did the one you brought here go?!
+
+
+
+Bruno: T-Trish...
+
+
+
+Pol: I'm asking you who the hell that person next to you was!
+
+
+
+Pol: I didn't hear or see anything fall, but a piece is already behind me...
+
+
+
+Pol: No... These movements...
+
+
+
+Gio: Time just skipped!
+
+
+
+Gio: Just like what happened in Venice!
+
+
+
+Gio: We moved further up the stairs before we realized it!
+
+
+
+Gio: We're not gonna make it!
+
+
+
+JoJo-main: ,The man waiting for us at the Colosseum just entered the boss's range!
+
+
+
+Dopp: This is a test.
+
+
+
+Dopp: I've accepted this test to stand victorious against my past.
+
+
+
+Dia: A person grows once they are able to defeat their weaker self.
+
+
+
+Dia: Wouldn't you agree, Jean Pierre Polnareff?
+
+
+
+Pol: You're...
+
+
+
+Crunch,Sfx: {\c&H&\c&HCC&}Rumble
+
+
+
+Pol: Diavolo!
+
+
+
+Dia: It appears that no matter how much I tear apart the past,
+
+
+
+JoJo-main: ,it still manages to wriggle up like a worm from under a rock.
+
+
+
+Dia: This is surprising.
+
+
+
+JoJo-main: ,No wonder I couldn't think of anyone who opposed me.
+
+
+
+Pol: How did you get here?!
+
+
+
+Dia: But in the end,
+
+
+
+Dia: it doesn't matter how you survived after I scattered your remains in the ocean.
+
+
+
+Dia: What's important, Polnareff,
+
+
+
+JoJo-main: ,is what you were trying to tell Bucciarati and his men!
+
+
+
+Pol: Don't you dare set foot on those stairs!
+
+
+
+Pol: I'm up here! You're down there!
+
+
+
+Dia: Why won't you fight yourself, Polnareff?
+
+
+
+Dia: Because you no longer have the mental capacity for it?
+
+
+
+Dia: Or are you no longer physically able to fight?
+
+
+
+dia: What are you going to use that arrow for?
+
+
+
+Pol: This is impossible. I'm sure it was a kid down there!
+
+
+
+Pol: Diavolo... When did you get so close to me?
+
+
+
+Dia: You're the one below me, Polnareff!
+
+
+
+Dia: As long as you are below in Hell,
+
+
+
+JoJo-main: ,it doesn't matter what you plan to do with that arrow!
+
+
+
+Pol: There! Silver Chariot!
+
+
+
+Dia: I see your Stand ability hasn't lost any of its power.
+
+
+
+dia: And it seems you've learned...
+
+
+
+JoJo-main: ,You've figured out how to see when time has skipped by counting drops of blood.
+
+
+
+Dia: I see. In just a moment's difference in number...
+
+
+
+Dia: Your timing is genius, too.
+
+
+
+Dia: If I had been any closer, I would've been gravely injured.
+
+
+
+Pol: This is the worst...
+
+
+
+JoJo-internal/narrator: ,I can't believe the first person to get here was Diavolo...
+
+
+
+Pol: I won't have another chance. But I must...
+
+
+
+Pol: I must protect hope at all costs!
+
+
+
+Dia: You're already within my range!
+
+
+
+JoJo-main: ,You won't escape this time!
+
+
+
+Dia: Emperor Crimson!
+
+
+
+Dia: Now, once the passage of time resumes,
+
+
+
+JoJo-main: ,you won't be able to see how many drops of blood there are.
+
+
+
+Dia: I've just defeated my weakerself from the past!
+
+
+
+Dia: Take this! The passage of time will resume—
+
+
+
+Dia: Wh-What is this?
+
+
+
+Dia: The arrow... The Stand...
+
+
+
+Dia: I don't know what it's doing, but...
+
+
+
+Dia: Take this!
+
+
+
+Dia: This arrow... What is it doing to Chariot?!
+
+
+
+Dia: There's some kind of power behind this glow!
+
+
+
+Dia: Time, resume!
+
+
+
+Dia: Impossible! What did you do?
+
+
+
+JoJo-main: ,The arrow does more than just draw out Stand abilities?
+
+
+
+Pol: This is my gamble to keep the arrow from Diavolo.
+
+
+
+Pol: I didn't want to show him that,
+
+
+
+JoJo-internal/narrator: ,but I don't have the power to fully control the arrow any longer.
+
+
+
+Dia: You won't get away!
+
+
+
+Crunch,Sfx: {\c&HFC&\c&HBAD&}Stab
+
+
+
+Pol: That arrow is our hope...
+
+
+
+Pol: The one who can fully control that arrow will be the one to control the world.
+
+
+
+Gio: I-It happened again! It skipped! Time skipped again!
+
+
+
+Mista: Trish! Where's the boss?
+
+
+
+dia: You spent years uncovering some incredible secret about the arrow.
+
+
+
+dia: I guess you held out a pretty long time, Polnareff.
+
+
+
+dia: But unfortunately for you, I have the arrow now!
+
+
+
+Dia: It appears your heart has stopped.
+
+
+
+Dia: But the life you lived was not a complete waste,
+
+
+
+JoJo-main: ,Jean Pierre Polnareff.
+
+
+
+Dia: You have been ever so useful... to me.
+
+
+
+Trish: Giorno!
+
+
+
+JoJo-main: ,L-Look over there! It's Bucciarati!
+
+
+
+Mista: Hey, he looks really hurt!
+
+
+
+Gio: Bucciarati!
+
+
+
+Trish: Be careful! The boss is somewhere nearby.
+
+
+
+Dia: So you've come...
+
+
+
+Dia: What?
+
+
+
+Dia: Who are you?!
+
+
+
+Dia: How long have you been standing there?!
