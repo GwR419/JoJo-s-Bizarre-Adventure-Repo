@@ -118,7 +118,7 @@ Sco: I don't even know what a Stand is.
 
 
 
-sco: If you mean this ability...
+Sco: If you mean this ability...
 
 
 
@@ -358,7 +358,7 @@ Sco: I told you. There's nothing more I can do.
 
 
 
-mista: Bring it back here right now, God damn it!
+Mista: Bring it back here right now, God damn it!
 
 
 
@@ -426,11 +426,11 @@ Mista: Wh-What?!
 
 
 
-b*llet: It's a misfire, Mista!
+B*llet: It's a misfire, Mista!
 
 
 
-b*llet: That b*llet was a dud!
+B*llet: That b*llet was a dud!
 
 
 
@@ -438,7 +438,7 @@ Mista: That's impossible!
 
 
 
-b*llet: That b*llet is Number 's responsibility!
+B*llet: That b*llet is Number 's responsibility!
 
 
 
@@ -626,7 +626,7 @@ Sco: or change its shape, then...
 
 
 
-b*llet: We found him, Mista!
+B*llet: We found him, Mista!
 
 
 
@@ -642,7 +642,7 @@ Six: Bucciarati's on the seventh floor!
 
 
 
-b*llet: The stairs! Bucciarati used the stairs!
+B*llet: The stairs! Bucciarati used the stairs!
 
 
 
@@ -670,7 +670,7 @@ Mista: Tell him not to touch that rock!
 
 
 
-b*llet: It's no use, Mista!
+B*llet: It's no use, Mista!
 
 
 
@@ -682,7 +682,7 @@ Mista: Bucciarati!
 
 
 
-b*ll*ts: Yee-haw!
+B*ll*ts: Yee-haw!
 
 
 
@@ -690,23 +690,23 @@ Bruno: b*ll*ts?
 
 
 
-b*llet: We did it!
+B*llet: We did it!
 
 
 
-b*llet: That was close!
+B*llet: That was close!
 
 
 
-b*llet: Its shape is falling apart!
+B*llet: Its shape is falling apart!
 
 
 
-b*llet: That's great and all...
+B*llet: That's great and all...
 
 
 
-b*llet: B-But I have a feeling we might've made things worse...
+B*llet: B-But I have a feeling we might've made things worse...
 
 
 
@@ -722,7 +722,7 @@ Bruno: And its shape...
 
 
 
-b*llet: Run, Bucciarati!
+B*llet: Run, Bucciarati!
 
 
 
@@ -730,11 +730,11 @@ Bruno: Zipper Man!
 
 
 
-b*llet: Don't attack it!
+B*llet: Don't attack it!
 
 
 
-b*llet: It's bad news if you touch it!
+B*llet: It's bad news if you touch it!
 
 
 
@@ -922,15 +922,15 @@ Fugo: Explain it all in a more orderly fashion!
 
 
 
-mistA: That's just it, though...
+MistA: That's just it, though...
 
 
 
-mista: It's really, uh... hard to sort everything out in my head.
+Mista: It's really, uh... hard to sort everything out in my head.
 
 
 
-Msita: Simply put, we destroyed the rock, so everything's over now.
+Mista: Simply put, we destroyed the rock, so everything's over now.
 
 
 

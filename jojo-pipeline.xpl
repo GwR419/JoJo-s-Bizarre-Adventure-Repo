@@ -10,13 +10,12 @@
     <!-- ================================================================ -->
     <!-- THIS PIPELINE TAKES MULTIPLE INPUT FILES FROM A DIRECTORY AND RUNS THEM THROUGH INVISIBLE XML AND XSLT STEPS AS SCRIPTED. -->
     <!-- ================================================================ -->
-    <p:directory-list name="sourceColl" path="jojoEpisodes/04" include-filter=".*\.txt$" detailed="true"/>
+    <p:directory-list name="sourceColl" path="xmlCorpus/04" include-filter=".*\.txt$" detailed="true"/>
     <!-- This is the path to your collection directory and you will probably need to adjust this. 
         If you want to filter to include only certain kinds of filenames
     in that directory, you can apply something like: include-filter="vol-[0-9].txt"  or exclude-filter="something".
     Details: https://xprocref.org/3.1/p.directory-list.html 
     -->
-    <!--  2026-04-15 ebb: XPROC NOT WORKING.  -->
 
     <p:for-each>
         <!-- ================================================================ -->
@@ -27,7 +26,7 @@
         <!-- ebb: Don't worry. The above line is NOT a literal filepath. It's just XProc-speak for each individual file in the directory. -->
         <p:variable name="filename" as="xs:string"
             select="//c:file/@name ! substring-before(., '.txt')"/>
-        <p:load href="source/{//c:file/@name}"/>
+        <p:load href="xmlCorpus/04/{//c:file/@name}"/>
         <!--ebb: This is very weird in the land of XProc, but //c:file/@name 
             literally retrieves the filename you're currently processing.
             The p:load line ensures that we are importing each text file for processing. -->
