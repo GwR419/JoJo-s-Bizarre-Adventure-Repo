@@ -770,7 +770,7 @@ Boss: That's the arrow from back then!
 
 
 
-pol: Wh-What's this ominous murderous intent I feel?
+Pol: Wh-What's this ominous murderous intent I feel?
 
 
 
@@ -1130,7 +1130,7 @@ Dia: Or are you no longer physically able to fight?
 
 
 
-dia: What are you going to use that arrow for?
+Dia: What are you going to use that arrow for?
 
 
 
@@ -1162,7 +1162,7 @@ Dia: I see your Stand ability hasn't lost any of its power.
 
 
 
-dia: And it seems you've learned...
+Dia: And it seems you've learned...
 
 
 
@@ -1298,15 +1298,15 @@ Mista: Trish! Where's the boss?
 
 
 
-dia: You spent years uncovering some incredible secret about the arrow.
+Dia: You spent years uncovering some incredible secret about the arrow.
 
 
 
-dia: I guess you held out a pretty long time, Polnareff.
+Dia: I guess you held out a pretty long time, Polnareff.
 
 
 
-dia: But unfortunately for you, I have the arrow now!
+Dia: But unfortunately for you, I have the arrow now!
 
 
 
