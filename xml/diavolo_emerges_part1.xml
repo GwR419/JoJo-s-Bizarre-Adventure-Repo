@@ -7,13 +7,47 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>JoJo's Bizarre Adventure Part 5: Golden Wind - DIAVOLO EMERGES PART 2</title>
+                <title>JoJo's Bizarre Adventure Part 5: Golden Wind - DIAVOLO EMERGES PART 1</title>
+                <author>Hirohiko Araki</author>
+                <author role="artist">Hirohiko Araki</author>
+                <respStmt>
+                    <resp>translated by</resp>
+                    <persName>Mistal</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>encoded in CBML TEI by</resp>
+                    <persName>Gavin Redding</persName>
+                    <persName>Micaiah Ross</persName>
+                    <persName>Brady Urbanowicz</persName>
+                </respStmt>
+                
+                
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <publisher>Weekly Shonen Jump</publisher>
+                <pubPlace>Tokyo, Japan</pubPlace>
+                <date when="1995">1995</date>
+                <availability>
+                    <p>Originally published in Weekly Shōnen Jump. This digital version accessed via MangaDex for educational purposes; all rights belong to the original publisher and creator.</p>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>Information about the source</p>
+                <!-- See examples at https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html  -->
+                <bibl><!--Write up the bibl entry. --><ptr
+                        target="https://mangadex.org/title/fd917921-5e97-479f-b22c-5d7f00e1c830/jojo-s-bizarre-adventure-part-5-golden-wind"/>
+                    <note><!-- ebb: DESCRIBE YOUR SOURCE AND STORE A LINK TO IT HERE. COMMENT ON WHAT YOU KNOW ABOUT THE TRANSLATION TO ENGLISH. -->This
+                        source is a fan-hosted online manga reading page for JoJos Bizarre Adventure
+                        Part 5: Golden Wind, originally created by Hirohiko Araki. MangaDex is a
+                        community-driven platform that aggregates scanlations (fan translations)
+                        rather than official licensed translations. As such, the English text
+                        presented here is likely translated by fans and may vary in accuracy, tone,
+                        and wording compared to official releases published by companies such as VIZ
+                        Media. Fan translations often aim to preserve nuances of the original
+                        Japanese but can include inconsistencies or interpretive choices depending
+                        on the translation group. Link:
+                        https://mangadex.org/title/fd917921-5e97-479f-b22c-5d7f00e1c830/jojo-s-bizarre-adventure-part-5-golden-wind</note>
+                </bibl>
+                
             </sourceDesc>
         </fileDesc>
     </teiHeader>
