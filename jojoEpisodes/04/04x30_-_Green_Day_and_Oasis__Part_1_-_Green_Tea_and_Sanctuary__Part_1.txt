@@ -30,7 +30,7 @@ Crunch,Sfx: Booom
 
 
 
-b*ll*ts: Yee-haw!
+B*ll*ts: Yee-haw!
 
 
 
@@ -386,7 +386,7 @@ Mista: This must be a different Stand user than the one using the mold!
 
 
 
-bruno: There's another one after us!
+Bruno: There's another one after us!
 
 
 
@@ -430,7 +430,7 @@ Bruno: Mista! Climb onto the wall!
 
 
 
-bruno: Zipper Man!
+Bruno: Zipper Man!
 
 
 
@@ -438,11 +438,11 @@ Crunch,Sfx: {\c&HC&\c&HDA&}Zu{\c&HB&}bo{\c&HBA&}om
 
 
 
-bruno: He's fast... This guy is fast.
+Bruno: He's fast... This guy is fast.
 
 
 
-bruno: And this is strange...
+Bruno: And this is strange...
 
 
 
@@ -474,7 +474,7 @@ Mista: Come back to me!
 
 
 
-b*ll*ts: Yee-haw!
+B*ll*ts: Yee-haw!
 
 
 
@@ -1066,7 +1066,7 @@ Gio: There's no car following us.
 
 
 
-bruno: I hear it. It's getting closer.
+Bruno: I hear it. It's getting closer.
 
 
 
@@ -1234,7 +1234,7 @@ Mista: Go, Six b*ll*ts!
 
 
 
-b*ll*ts: Yee-haw!
+B*ll*ts: Yee-haw!
 
 
 

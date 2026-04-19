@@ -978,11 +978,11 @@ Nar: Also...
 
 
 
-cio: Your family hates you.
+Cio: Your family hates you.
 
 
 
-cio: No one's going to come visit you.
+Cio: No one's going to come visit you.
 
 
 
@@ -1482,7 +1482,7 @@ Crunch,Sfx:Bom
 
 
 
-b*ll*ts: Yee-haw!
+B*ll*ts: Yee-haw!
 
 
 

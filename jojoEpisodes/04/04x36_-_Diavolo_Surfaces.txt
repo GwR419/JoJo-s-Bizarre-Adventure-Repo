@@ -134,19 +134,19 @@ Five: M-Maybe the boss got close?
 
 
 
-b*llet: You dumbass! Think before you talk, Number Five!
+B*llet: You dumbass! Think before you talk, Number Five!
 
 
 
-b*llet: Are you saying you saw someone coming close to us in this big, open space?
+B*llet: Are you saying you saw someone coming close to us in this big, open space?
 
 
 
-b*llet: We didn't see anyone at the moment the revolver broke.
+B*llet: We didn't see anyone at the moment the revolver broke.
 
 
 
-b*llet: It's metal fatigue.
+B*llet: It's metal fatigue.
 
 
 
@@ -154,15 +154,15 @@ JoJo-main: ,It's because he's been overusing the g*n.
 
 
 
-b*llet: The axis of the cylinder broke.
+B*llet: The axis of the cylinder broke.
 
 
 
-b*llet: We haven't had a chance to doany maintenance or inspections!
+B*llet: We haven't had a chance to doany maintenance or inspections!
 
 
 
-b*llet: H-Hey!
+B*llet: H-Hey!
 
 
 
@@ -198,11 +198,11 @@ Mista: Reload, b*ll*ts! Reload the g*n!
 
 
 
-b*llet: This isn't a revolver! We need another cartridge!
+B*llet: This isn't a revolver! We need another cartridge!
 
 
 
-b*llet: It'll take time to reload it!
+B*llet: It'll take time to reload it!
 
 
 
@@ -502,7 +502,7 @@ Trish: I have a new Beretta, too!
 
 
 
-b*llet: The parts aren't matching up because a piece flew off!
+B*llet: The parts aren't matching up because a piece flew off!
 
 
 
@@ -1226,11 +1226,11 @@ Trish: The rest of you knock that arrow back and bring it to me, b*ll*ts!
 
 
 
-bull: H-He'd already thrown...
+Bull: H-He'd already thrown...
 
 
 
-bull: ...a civilian into the air!
+Bull: ...a civilian into the air!
 
 
 
@@ -1282,11 +1282,11 @@ Trish: I need a*mo, b*ll*ts!
 
 
 
-b*llet: We told you, Mista!
+B*llet: We told you, Mista!
 
 
 
-b*llet: It takes time to reload that cartridge!
+B*llet: It takes time to reload that cartridge!
 
 
 

@@ -770,11 +770,11 @@ JoJo-flashback: ,ever since what happened to Sorbet and Gelato.
 
 
 
-melone: I wonder who's guarding his daughter.
+Melone: I wonder who's guarding his daughter.
 
 
 
-melone: Pericolo's not a Stand user, so maybe it's Polpo.
+Melone: Pericolo's not a Stand user, so maybe it's Polpo.
 
 
 
@@ -1174,7 +1174,7 @@ Riso: I figured that's what you'd do.
 
 
 
-riso: Magnetism pulls at the iron.
+Riso: Magnetism pulls at the iron.
 
 
 

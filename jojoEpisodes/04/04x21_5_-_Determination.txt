@@ -718,7 +718,7 @@ Bruno: Stop!
 
 
 
-giorno: Because you're a good person.
+Giorno: Because you're a good person.
 
 
 
@@ -990,7 +990,7 @@ Ghiaccio: We deserve way better!
 
 
 
-melone: He suffocated?
+Melone: He suffocated?
 
 
 
@@ -1050,11 +1050,11 @@ Nar: He was likely cut into pieces by a very sharp knife, starting with his toes
 
 
 
-illuso: Do you think that Sorbet
+Illuso: Do you think that Sorbet
 
 
 
-illuso: was sliced up right in front of Gelato?
+Illuso: was sliced up right in front of Gelato?
 
 
 
@@ -1138,7 +1138,7 @@ Mista: But the ball suddenly started rolling as soon as this newbie Giorno joine
 
 
 
-mistA: Is he some kind of lucky boy or something?
+MistA: Is he some kind of lucky boy or something?
 
 
 

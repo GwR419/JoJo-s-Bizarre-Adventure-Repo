@@ -190,7 +190,7 @@ Mista: I mean, I'm fine, but I need to feed these little guys.
 
 
 
-b*ll*ts: Feed us!
+B*ll*ts: Feed us!
 
 
 
@@ -526,7 +526,7 @@ Nara: I found you! You're down in that drain!
 
 
 
-form: I-It can even find me underwater?!
+Form: I-It can even find me underwater?!
 
 
 
@@ -974,11 +974,11 @@ Nar: That day, the Hitman Team came to a new understanding.
 
 
 
-illuso: D-Do you think that Sorbet
+Illuso: D-Do you think that Sorbet
 
 
 
-illuso: was sliced up right in front of Gelato?
+Illuso: was sliced up right in front of Gelato?
 
 
 
