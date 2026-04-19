@@ -1,0 +1,203 @@
+===================================================
+MANGA SPEECH TRANSCRIPT — FOR ANIME COMPARISON
+Tagged for: @GwR419
+===================================================
+Title : JoJo's Bizarre Adventure Part 5: Golden Wind - DIAVOLO EMERGES PART 2
+Author: Hirohiko Araki
+Year  : 1995
+Source: fan scanlation via MangaDex (see teiHeader for notes)
+===================================================
+
+--- PAGE 1 ---
+  [Panel 1]
+    SPEECH  Giorno: "AT ANY RATE, HE'S HIDING INSIDE ONE OF US!"
+  [Panel 2]
+    SPEECH  giorno: "HOWEVER, WE DO HAVE ONE ADVANTAGE!"
+    SPEECH  giorno: "THAT IS THE FACE THAT WHILE DIAVOLO CAN SUMMON KING CRIMSON FROM THE BODY HE'S POSSESSING..."
+    SPEECH  giorno: "HE IS UNABLE TO COMPLETELY DOMINATE THE BODY HE'S HIDING IN RIGHT NOW!"
+
+--- PAGE 2 ---
+  [Panel 1]
+    SPEECH  giorno: "THE REASON HE HASN'T KILLED US IS BECAUSE HE CAN'T JUST TAKE CONTROL SO EASILY!"
+    SPEECH  giorno: "THEN HE WOULDN'T HAVE STAYED HIDDEN THIS WHOLE TIME!"
+    SPEECH  giorno: "IF HE COULD FREELY CONTROL THE BODY HE'S POSSESSING."
+  [Panel 2]
+    SPEECH  trish->mista: "THE TURTLE!"
+    SPEECH  mista->trish: "STAY BACK, GIORNO!"
+    SPEECH  mista->trish: "I REMEMBER NOW! IT'S THE TURTLE! POLNAREFF'S BEING POSSSSED"
+    SPEECH  mista->trish: "IN A SENSE, WE HAVE HIM CORNERED!"
+    SPEECH  mista->trish: "BECAUSE HE ISN'T FREE TO PURSUE THE ARROW!"
+  [Panel 3]
+    SPEECH  trish->mista: "GIORNO GIOVANNA!"
+
+--- PAGE 3 ---
+  [Panel 1]
+    SPEECH  trish->mista: "THE TURTLE WAS THE CLOSEST TO MY REVOL-VER!"
+    SPEECH  trish->mista: "AND THE BOSS ATTACKED POLNAREFF FIRST, IN THE COLISEUM! HE WAS THE CLOSEST ONE!"
+    SPEECH  giorno: "THAT'S NOT TRUE, MISTA!"
+  [Panel 2]
+    SPEECH  giorno: "POLNA-REFF ISN'T POS-SESSED!"
+    SPEECH  giorno: "REQUIEM NEARLY KILLED HIM!"
+    SPEECH  giorno: "AND THE BOSS PUT HIM IN EVEN GREATER DANGER BY BREAKING THE REVOLVER!"
+    SPEECH  giorno: "THE BOSS WOULD NEVER EXPOSE THE BODY WHERE HE'S HIDING TO ANY DANGER! HE CAN'T DO THAT!"
+  [Panel 4]
+    SPEECH  giorno: "I FEEL ONLY ONE SOURCE OF LFIE ENERGY!"
+    SPEECH  giorno: "THERE IS ONLY ONE SOUL INSIDE THIS TURTLE!"
+    SPEECH  giorno: "WHEN I TOUCH HIM WITH GOLD EXPER-IENCE..."
+  [Panel 5]
+    SPEECH  giorno: "AND..."
+
+--- PAGE 4 ---
+  [Panel 2]
+    SPEECH  mista->trish: ". . . . . . . . . . . . . . . . . ."
+  [Panel 3]
+    SPEECH  trish->mista: ". . . . . . . . . . . . . . . . . . . . . . . . . . ."
+  [Panel 4]
+    SPEECH  trish->mista: "THAT ELIMINATES POLNAREFF."
+    SPEECH  diavolo: "DETECTION..."
+    SPEECH  diavolo: "GIORNO, YOU CAN TELL WHO HAS TWO PERSON-ALITIES!?"
+    SPEECH  diavolo: "YOU CAN DO THAT!?"
+  [Panel 5]
+    SPEECH  giorno: ". . . . . . . . . . . ."
+  [Panel 6]
+    SPEECH  giorno: "I NEED TO GET CLOSE..."
+    SPEECH  giorno: "AND DIRECTLY TOUCH THEIR BODIES... BUT YES."
+
+--- PAGE 5 ---
+  [Panel 4]
+    SPEECH  trish->mista: "IF YOU'VE NEVER FELT THE DIFFER-ENCE, THEN HOW DO YOU KNOW YOU CAN DO IT!?"
+    SPEECH  trish->mista: "H... HOW CAN YOU KNOW IF YOU'RE RIGHT?"
+    SPEECH  trish->mista: "HAVE YOU WATCHED SOMEONE WITH MULTIPLE PERSONALITIES BEFORE, HUH!?"
+    SPEECH  giorno: "LIFE ENERGY EXISTS AS CLUSTERS. I CAN TELL HOW MANY THERE ARE THROUGH DIRECT CONTACT."
+  [Panel 5]
+    SPEECH  diavolo->buccellati: "IF WE FIND DIAVOLO, THEN EVERYONE ELSE CAN CHASE THE ARROW."
+    SPEECH  diavolo->buccellati: "THE REAL QUESTION IS HOW CAN WE GET THE ARROW BEFORE THE BOSS DOES?"
+    SPEECH  diavolo->buccellati: "AND IF JUST ONE OF US CAN GET THE ARROW, THEN EVERYTHING WILL GO BACK TO NORMAL!"
+  [Panel 8]
+    SPEECH  mista->trish: "WHAT IF YOU DO FIND HIM...?"
+    SPEECH  mista->trish: "WHAT HAPPENS TO WHOEVER'S BEING POS-SESSED?"
+
+--- PAGE 6 ---
+  [Panel 1]
+    SPEECH  giorno: "THERE'S ONLY ONE CHOICE..."
+    SPEECH  giorno: "I'LL CHECK EVERYONE, ONE BY ONE."
+  [Panel 2]
+    SPEECH  diavolo->buccellati: "BUT GIORNO..."
+    SPEECH  diavolo->buccellati: "HOW ARE YOU GOING TO DO THAT?"
+    SPEECH  diavolo->buccellati: "JUST A FEW METERS AND YOU'LL BE WITHIN RANGE OF KING CRIMSON!"
+  [Panel 3]
+    AUDIO  giorno: "CUT!"
+  [Panel 5]
+    SPEECH  turtle->polnareff: "IT'S A MATTER OF LUCK AS TO WHETHER OR NOT YOU CAN DEFEND AGAINST IT... I ONLY BARLEY DODGED IT ONCE."
+    SPEECH  turtle->polnareff: "HOW-EVER..."
+  [Panel 6]
+    SPEECH  giorno: "POLNAREFF TAUGHT ME HOW TO DETECT KING CRIMSON."
+    SPEECH  giorno: "WHEN THE NUMBER OF DROPLETS SUDDENLY INCREASES... DRIP DRIP DRIP"
+    SPEECH  giorno: "THAT'S THE MOMENT WHEN TIME HAS BEEN ERASED!"
+  [Panel 7]
+    AUDIO  sound: "DRIP DRIP"
+
+--- PAGE 7 ---
+  [Panel 1]
+    SPEECH  trish->mista: "I WAS THE FARTHEST FROM NARANCIA WHEN HE DIED."
+    SPEECH  trish->mista: "IT'S DEFINITELY NOT ME."
+  [Panel 2]
+    AUDIO  sound: "DRIP DRIP"
+  [Panel 3]
+    AUDIO  sound: "DRIP DRIP"
+  [Panel 4]
+    SPEECH  giorno: "IN THAT CASE... DRIP"
+    SPEECH  giorno: "I'LL CHECK YOU FIRST..."
+    SPEECH  giorno: "JUST TO MAKE SURE..."
+  [Panel 5]
+    SPEECH  giorno: "WE WERE ALL WITHIN RANGE OF NARANCIA WHEN HE DIED. DRIP"
+  [Panel 6]
+    SPEECH  trish->mista: "HEY! STOP RIGHT THERE! DON'T GET ANY CLOSER! I'M WARNING YOU!"
+    SPEECH  trish->mista: "I'M TELLING YOU, IT'S NOT ME! ISN'T THAT OBVIOUS BY NOW!? HEY!"
+
+--- PAGE 8 ---
+  [Panel 1]
+    SPEECH  trish->mista: "I TOLD YOU TO BACK THE FUCK OFF!"
+    SPEECH  trish->mista: "HOW CAN YOU BE SURE HE'S NOT IN YOU, HUH!?"
+  [Panel 5]
+    SPEECH  trish->mista: "IF DIAVOLO WERE TO BE INSIDE YOU RIGHT NOW..."
+    SPEECH  trish->mista: "WHAT WOULD HAPPEN TO ME!?"
+    SPEECH  giorno: "WHEN NARANCIA DIED,"
+    SPEECH  giorno: "HIS BODY WAS EMPTY."
+    SPEECH  giorno: "I WAS ABLE TO MOVE MY BODY INTO NARANCIA'S BODY, BUT IT WAS EMPTY."
+    SPEECH  giorno: "THERE IS NO CHANCE THAT I COULD BE POSSESSED."
+  [Panel 6]
+    SPEECH  trish->mista: "I'VE GOT NO WAY KNOWING WHAT YOUR ABILITY CAN DO!"
+    SPEECH  trish->mista: "OH, REALLY? AND WHY SHOULD WE TRUST YOU?"
+
+--- PAGE 9 ---
+  [Panel 1]
+    SPEECH  trish->mista: "BESIDES, GIORNO! DO YOU HAVE ANY WAY OF KNOWING IF YOU'VE ONLY GOT ONE SOUL IN YOUR OWN BODY!?"
+    SPEECH  trish->mista: "YOU ABILITY CAN'T DETECT YOURSELF, RIGHT!?"
+    SPEECH  trish->mista: "I CAN'T TRUST YOU!"
+    SPEECH  giorno: "YOU'RE BEEN ACTING WEIRD THIS ENTIRE TIME."
+    SPEECH  giorno: "DO YOU HAVE ANY IDEA WHO IT MIGHT BE?"
+    SPEECH  giorno: "EITHER WAY, MISTA, WE WON'T BE ABLE TO CHASE AFTER THE ARROW UNLESS WE CHECK!"
+  [Panel 2]
+    SPEECH  trish->mista: "I'M TELLING YOU, MAN! IT'S NOT ME!"
+    SPEECH  trish->mista: "ANY CLOSER AND I'LL BLOW YOUR ARMS AND LEGS OFF!"
+    SPEECH  diavolo->buccellati: "STOP IT!"
+  [Panel 3]
+    SPEECH  trish->mista: ". . . . . . . . . . . . . . . . . ."
+  [Panel 4]
+    SPEECH  diavolo->buccellati: "CHECK ME FIRST,"
+    SPEECH  diavolo->buccellati: "GIORNO."
+
+--- PAGE 10 ---
+  [Panel 4]
+    SPEECH  diavolo->buccellati: "HURRY UP AND DO IT."
+    SPEECH  diavolo->buccellati: "TIME'S TICKING."
+    SPEECH  diavolo->buccellati: "YOU'RE RIGHT. FROM A CERTAIN PERSPECTIVE, WE DO HAVE THE BOSS IN A CORNER."
+    SPEECH  diavolo->buccellati: "WE MUST KEEP THE BOSS FROM THE ARROW AT ALL COSTS. WE HAVE TO DO THIS..."
+  [Panel 5]
+    SPEECH  turtle->polnareff: "YES... YOU'RE RIGHT."
+    SPEECH  turtle->polnareff: "RIGHT NOW WE HAVE DO THIS ..."
+  [Panel 6]
+    SPEECH  giorno: ". . . . . . . . . . . . . . . . . ."
+
+--- PAGE 11 ---
+  [Panel 1]
+    AUDIO  sound: "DRIP"
+  [Panel 4]
+    AUDIO  sound: "DRIP"
+  [Panel 5]
+    SPEECH  trish->mista: "SOMEONE'S GONNA DIE..."
+  [Panel 6]
+    SPEECH  mista->trish: "WHEN THEY..."
+    SPEECH  mista->trish: "GET CLOSE TO EACH OTHER..."
+  [Panel 7]
+    AUDIO  sound: "DRIP"
+
+--- PAGE 12 ---
+
+--- PAGE 12 ---
+  [Panel 1]
+    SPEECH  mista->trish: "AH!"
+  [Panel 2]
+    SPEECH  turtle->polnareff: "B... BEHIND YOU, GIORNO-!"
+
+--- PAGE 13 ---
+  [Panel 5]
+    SPEECH  trish->mista: "GIORNO..."
+
+--- PAGE 14 ---
+  [Panel 1]
+    SPEECH  mista->trish: "MISTA'S SOUL!"
+  [Panel 2]
+    SPEECH  mista->trish: "IT'S MISTA! HE'S BEEN POSSESSED!"
+    SPEECH  mista->trish: "SPICE GIR-"
+  [Panel 3]
+    SPEECH  diavolo->buccellati: "NO, TRISH! IT'S YOU!"
+    SPEECH  diavolo->buccellati: "KING CRIMSON CAME OUT OF YOUR BODY!"
+    SPEECH  diavolo->buccellati: "HE MOVED YOUR ENTIRE BODY AND APPROACHED HIM!"
+    SPEECH  giorno: "AH!"
+  [Panel 5]
+    SPEECH  king_crimson: "YOU'VE FINALLY SHOWN YOUR STAND..."
+    SPEECH  king_crimson: "MY DAUGHTER... I'VE BEEN WAITING FOR THIS MOMENT, FOR YOU TO SHOW YOUR STAND TO ME!"
+    SPEECH  king_crimson: "I CANNOT COMPLETELY DOMINATE THIS BODY, BUT I CAN GRAB YOUR STAND! AND IF I GRAB YOUR STAND, THEN I CAN MOVE YOUR BODY AS I PLEASE!"
+
