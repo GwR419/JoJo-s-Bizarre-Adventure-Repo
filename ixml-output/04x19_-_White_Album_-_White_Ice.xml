@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Giorno</name>
+        <speech>We made it to Venice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'm diving into the canal!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista! Please hurry up and get out of the car!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>G-Giorno! You... Your body's already...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm sure you already know this, Mista,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but our priority is to obtain the item.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Getting that thing will lead to our victory.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The disc is in there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We're surrounded by water, so it'll take a while for it to freeze.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's why I drove into the canal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Don't worry about me! Hurry and get out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Got it, Giorno. But I don't like your idea of victory!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>k*lling him, and the both of us living to retrieve that thing...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That'll be our victory!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Like hell I'm gonna let you get away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Just try and jump in, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I don't mind making a wager on whether or not you can swim faster than my
+            ice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Sh-sh*t! Driving into the canal was a bad idea!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This guy has no weak point when it comes to ice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio White Ice</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Turn the car into a plant, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The hood of the car hasn't completely frozen over yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Nurture a plant to life while you still can!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You're trying to grow vines to use them as ropes?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>That's not happening!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I-It's no use.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We need the right temperature to grow a plant like a vine</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>that'll grow fast enough to reach the bank.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>In this low temperature,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the only plant that'll grow is the short grass you'd find in a tundra!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Who said anything about growing vines that reach the bank, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is perfectly fine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Short grass is exactly what I want!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But I need more! More! More!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you don't want to die, get me more!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you don't grow more, we're gonna die, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Gotcha! Too bad you couldn't grow it to the bank of the canal!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well done, Giorno! It froze over!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Now you won't die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Th-That b*stard! He froze some short grass to create a sled?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>N-No... A snowboard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's not going to let me get away so easily.</speech>
+    </dialogue>
+    <dialogue>
+        <name>MistA</name>
+        <speech>Of course not...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>White Ice! Undo the ice temporarily!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Th-Th ice...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>...melted!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>An extremely low temperature is a world of life or death!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Nothing can move in extremely low temperatures!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>They can stop everything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>That's what makes my White Ice perfect!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>It can even stop the raging ocean if I want it to!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Hurry and get up on the bank, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Gather up the grass that's floating in the water!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The grass you were using as a snowboard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>While you can fire the g*n in your right hand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Give it up, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Do you still not understand that attacking me is pointless?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HEAC&amp;\c&amp;HED&amp;}Stab</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Gathering up grass... I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno, if you release your ability, the short grass turns back into car
+            parts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Therefore, we can shoot them into you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>D-Did that do it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No, it's shallow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I think we can at least get away for now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but Mista, this just bought us some time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let's get the thing quickly, then get out of here fast.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That same strategy won't work again the next time he catches up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Please go, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The disc will show up somewhere if we destroy the lion statue.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll retrieve it, then hide somewhere in the city.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I have a few dozen seconds, I can do this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But will hiding be enough to get away from that guy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It might just work, but it might not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>More importantly, this guy's way too dangerous.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It'll be even worse if he ends up running into Bucciarati and the others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We need to end him now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is our only chance!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Wha— Mista! What are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Your ability is perfect? That's impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you've completely encased yourself in ice, how are you able to breathe?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There it is. I knew it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Air's leaking out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's breathing from there, the back of his neck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Take your positions, Six b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Number One and Number Two, go around and flank him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>Wah, he's looking over here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>He's gonna do another ice attack!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>No, first, he's probably going to go up for air.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Once he rises to the surface, I'm gonna put a b*llet in his head!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>He's trying to go up to the surface!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Let's go, b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>We're aiming for the moment he takes a breath of air!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Number One and Two are saying they can't see the hole!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>It must be due to his posture! He's facing up right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The hole's hidden!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>Sh-sh*t! Let's scram!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Oh, shut up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Stay in your positions, Number One and Number Two!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>How dare you do that to my forehead?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What the?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You shot some fish that were swimming around?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What the hell are you trying to do?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>He looked down! We can see it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>It's the hole! Now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Here it comes!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>We can do this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Gwooom</speech>
+    </dialogue>
+    <dialogue>
+        <name>Both</name>
+        <speech>We did it! Bullseye!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Th-That sound...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That sound... It can't be!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>So you found my breathing hole and went after that...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>But extremely low temperatures stop everything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Gases turn to liquids, and liquids turn to solids!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Take a closer look. Can't you see the air that's stopped?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The b*llet, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That's the sound of a ricocheting b*llet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>White Ice... Gently Weeps!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I'd already created a wall of frozen air!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>It uses up quite a bit of my Stand's power,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but now nothing can shoot a bolt into me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Anything that comes near me will stop!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>This is a lesson I learned from you, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno was right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is all my fault... This is my responsibility.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If only I'd prioritized getting that thing...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>It's not under any trash cans or benches.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I can't find anything of importance,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>and they wouldn't hide it out in the open, anyway.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>But considering how much Mista is hurrying,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I just realized it must be in the immediate area.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Where is it? This photo should be a hint...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>sh*t. This is the worst possible scenario.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista's currently acting out of despair.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's decided to take responsibility for this, even if it costs him his
+            life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But the only ones who can open up a path</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>in the darkness are those with resolve.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Things are getting interesting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We're going to have to make some sacrifices,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but my resolve, as well as Mista's,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>will open up a path in the darkness!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Ghiaccio</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>White Ice</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What the hell is this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It was embedded in there?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>In one of the cuts or gaps in the statue?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it! If I'm close enough,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I should be able to shoot into the hole in his neck again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I can just get close enough to aim through the wall of air...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista's getting reckless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He's willing to take responsibility for this at the cost of his own life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But this isn't just determinationresulting from him being cornered.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's resolve!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We need resolve right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Resolve doesn't mean sacrifice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>A computer disc!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I knew it! The thing you were trying to get was something to tell you</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>how to get to the boss!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I did it! Now we can find out who the boss really is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>All that's left now... is Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Right after I finish you b*stards off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Come at me with all your futile attempts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Let me finish you off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Having resolve is the ability to open up a path</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>we need to follow within the darkness!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Guido Mista: arrested at for m*rder.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The result of the trial:</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>they did not see his actions as self-defense,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>and he was sentenced to to years in prison.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>My happy-go-lucky youth...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Is this really my fate?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Mista always had an optimistic view of life,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but in this moment,he didn't know what to do.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guard</name>
+        <speech>Get up. You're being released.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're the one who bailed me out?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yes. I saw the incident on the news and decided you acted out of
+            self-defense.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It means you are incredibly skilled with a p*stol and full of life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But a guy like you probably wouldn't last two years in prison.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's why...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You pulled some strings.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Do you belong to some organization?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Come with me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>There's an excellent ristorante nearby.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I like the way you eat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The bruschetta here is great, too. Do you still have some room?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Pardon me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Yes, sir?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Could I get some bruschetta for him... I should get some for them, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Could I get four orders of bruschetta?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No, make that five. I guess I'll get an order for myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Right away, sir.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So, continuing our conversation...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I think you and I will get along great.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So, I'm in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>On one condition, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Treat me to some dolce, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Does this place have strawberry cake?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You sure are an odd one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I guess this must be fate, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This isn't so bad. Everything worked out in the end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Mista learned that people have predetermined destinies.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When they're young,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>people may find themselves at a standstill or taking the long way around at
+            times,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but they ultimately end up traveling the path they were destined to walk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I can see it! I can see the path perfectly!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I can see it for sure this time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's there, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I see the path I need to take through the darkness!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yeehaw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sfx</name>
+        <speech>Batoom</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sfx</name>
+        <speech>Bam</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sfx</name>
+        <speech>Bam</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sfx</name>
+        <speech>Shank</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sfx</name>
+        <speech>Crack</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sfx</name>
+        <speech>Crack</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You guys don't seem to understand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>The air is frozen because of the extremely low temperature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Just like this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>If I put air that's been frozen solid in my suit and melt it,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>the air turns back to normal!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>If I take it in like this...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Just like a diver who has an air tank on their back,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I don't need a breathing hole anymore!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>The hole!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>He deflected the b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Six of them! O-Oh, no!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I hope you have the resolve for this, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>It's over.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah, my resolve is there, Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you hadn't given me your resolve,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I wouldn't have been able to see this path.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The path toward the resolve to be willingly shot by my own b*ll*ts...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I-I can't see!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The blood's frozen to me and hardened...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The path through the darkness</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>isn't the path for the b*ll*ts to get through your wall of ice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I-It was to splash your face with my blood!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>sh*t! I can't get it off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Hey, the metal pole from earlier!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>Mista, your b*llet carved it into a—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Ow! That hurts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Something... Something... Something... Something lukewarm is—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You asked me if I had the resolve for this...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, let me show you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But you'll have to show me some resolve, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The resolve to be filled with holes and depart for the next world!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Th-That b*stard's still standing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>He's hell-bent on shoving me back even farther!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Is he insane?! He's determined to finish this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>sh*t! I need to get this out of my neck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>You're crazy! The b*llet's gonna come flying back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>You're not gonna last!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I have to make it through.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Starting now, I'm showing my true resolve!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Steel yourselves, b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>White Ice... Gently Weeps!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Y-You can't take any more, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>You're going to lose consciousness!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>We're also...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>...going to disappear!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>N-Not yet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm still conscious! I can still shoot him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>Y-You did it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>It went all the way in!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You're... wrong...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>The one with stronger resolve... is me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Guido Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I'll commend you for... pushing me this far...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>But the one who took better advantage of all the spurting blood... was me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I froze the blood that spurted out of my neck to support me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Now my neck won't get pushed farther onto the spike!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm totally secured!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>The spike won't go any farther in!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Also... Haven't you forgotten something?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>The b*llet you shot last is still...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Straight into your head!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I win!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>There's no wound?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Wha—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Your resolve is shining upon the path,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>even brighter than this rising sun.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And it's shining on the path...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>that we're meant to take!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What the hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gold</name>
+        <speech>Useless! Useless! Useless! Useless! Useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Recently, I... started noticing...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>that despite Giorno Giovanna...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>being a newbie...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>things always seem...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>to play out exactly how he says.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The resolve I showed just now was also partly Giorno's.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It was making its way into my heart before I even realized it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It almost feels like he's my capo, even more so than Bucciarati,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>and he kept me moving.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell is his deal?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, I guess that doesn't matter right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's not my style to think too much about stuff.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista, we safely retrieved the disc, thanks to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hurry and fix me up. I-I can't breathe...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I wouldn't have been able to show that resolve without your ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hurry and fix me up, before I actually die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Of course. But I'd like to clear something up first.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind doesn't exactly fix things.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It creates parts of your body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'll give life to the b*ll*ts embedded in your body</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>and plug up the arteries and other parts that were destroyed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Just shut up and do it already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Since I'm not exactly healing you, your pain will remain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Please don't complain to me later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Ow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>O-Ow! Be more gentle! Be more gentle, damn it, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I told you, I can't.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're a gangster, for crying out loud. Please quit fussing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There are about more wounds,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>so you'll have to remove some of your clothes for me to plug the rest.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bucciarati! I'm picking up two signals...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It doesn't look like there's anyone else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Proceed, but carefully.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm assuming it's Mista and Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sure they're bored out of their minds waiting for us since nothing's
+            happening.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Ack! Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There they are! Hey, Mista! Gio—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Be gentler! Gentler, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Don't take off my clothes! I'll feel it more!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well, Narancia? Did you find those two?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? W-Well, u-um...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>No! Huh?! Suddenly there's something in my eye?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno, no! Don't! N-No more! I-I can't!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I can't see! I can't see them clearly!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Be gentler, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto_s_wherea,Sign</name>
+        <speech>Risotto's whereabouts are unknown.Currently searching airports, train stations,and
+            the area around Naples.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Curse you, Risotto...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You must be heading to Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>If Bucciarati and his crew put an end to you, that's fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Regardless, I'm not worried.</speech>
+    </dialogue>
+</xml>

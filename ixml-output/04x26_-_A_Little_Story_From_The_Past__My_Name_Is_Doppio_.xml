@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio A Little Story From the Past ~My Name Is Doppio~</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>This is a little story from the past.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Summer, </speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>We're going back to the summer of .</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Prisoner ! What's going on here?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Prisoner !</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Did you eat something bad?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>She's pregnant?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>This is a women's prison on a remote island.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>There are only women here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>Not to mention, this prisoner</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>was sentenced to ten years for bank robbery and as*ault.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>She's been here for two years already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>Push! Just a little bit more!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>When could she have gotten pregnant?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>She wasn't big earlier today.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>And now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Hey, you! Who the hell's this kid's father?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Inmate</name>
+        <speech>He's... dead...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Inamate</name>
+        <speech>For over two years... now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>You can't be serious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>A barnacle growing in your knee would be more believable than that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Looks like the baby made it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>Yes... But something's strange.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>The baby's eyes have been open ever since he was born.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>And he's not crying at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>This goes without saying, but we can't raise a baby here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>We'll find someone to take him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady </name>
+        <speech>Where are you from?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Inmate</name>
+        <speech>Sar...di...nia...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>A priest at a small church there took the child in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Time passed, and the boy became known as someone</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>rather cowardly and a bit slow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\fad(,)\pos(,)\fs}June, </speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Well, I'll be going now. See you later, Mr. Frog.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Hey, watch it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Oh, it's you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man </name>
+        <speech>Walk closer to the edge, you dumbass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Don't you dare tell the priest about this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Th-That was close...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>But I'm glad you didn't get squished.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Do you like frogs?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>I like frogs, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>I hate bugs, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>I also don't like guys who smell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>I hate everything that's not beautiful.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Are you from around here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Y-Yeah...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Say, it's a bit hot out. Want to get something to drink?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>That's not a bad idea.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Then I want sparkling water.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Hard water from France.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>I hope you're treating.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>You want to become a sailor?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Yeah...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>Well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>You're a simple man.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>That's probably best for you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>Oh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>He walked all this way?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Good on him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>It might be a good idea to get him a car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>In order to build a garage next to his room,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>the priest started digging into the floor with a pick.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>What's this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>A corpse?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>No, it's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>As he carefully picked at the concrete...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The person he discovered was a woman.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It was the woman who gave birth to the boy the priest took in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>Sh-She's alive...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>She couldn't move nor talk, but somehow, she was being kept alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>How many years had it been?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>The woman had no sense of time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Hatred? Love?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Her heart was dark.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Priest</name>
+        <speech>This hair color...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>That night, the whole village burned,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>with strong winds carrying the fire to every single house.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>No one knows how it started.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Seven people died, and others went missing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>On the list of the deceased were</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>the names of the priestand the boy he'd taken in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\fad(,)\fs\pos(,)}Olbia, Sardinia: Present Day</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boy</name>
+        <speech>Why, you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hey, kid! Look out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boy</name>
+        <speech>Shut up. I know.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's a truck coming, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>You b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Where the hell do you think you're walking, you dumbass?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>O-Ow...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Aw, man... Ow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Guess I had the wrong idea.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Looks like you're down on your luck. Having a bad day?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Or have you been having a streak of bad luck?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I'd say so. I've had one problem after another.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Why not let me tell your fortune?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'll make it cheap.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Huh? Nah, I'll pass...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Sardinia is your home, isn't it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>And it's been a while since you've been back here, hasn't it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I wouldn't call that fortunetelling.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>You can tell I'm a traveler just by looking at me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Anyone could figure that out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You're... living with a secret.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Light and shadow, what's inside and what's out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You could probably call it two separate lives.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>But you take advantage of that secret and have an unyielding personality,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>which has earned you nothing but victories.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Oh, please forgive my rudeness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>There's something about your face that is very intriguing to someone in my
+            field.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please, let me tell you your fortune.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'll make it ,... no, , lire.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Everyone has their secrets.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That's a pretty broad statement.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You're looking for someone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're currently looking for someone very important to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Seriously...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Everyone spends their lives looking for someone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>A beautiful girlfriend or a good friend...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>But I guess it's nice to hear these things at times.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>How do you go about doing it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>With that crystal ball?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>No... I've already begun.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I can tell just by looking at the shape of the mud splatter on your pants.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>It's been said for thousands of years that in Romani fortunetelling,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the best results come from looking at the shape of something that formed
+            coincidentally.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Because that is the symbol of fate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Your daughter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Yes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The person you're looking for is your daughter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You came back to Sardinia to find the child of the woman you left fifteen years
+            ago...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Huh? Er... Something's strange.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're rather young...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I know what I just said, but this is strange...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Whose child? Mine?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>But you have one. I'm sure of it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Let me see your palm!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please! My pride as a fortuneteller is on the line here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Let go of my hand... Don't touch me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I won't ask for payment... Actually, I'll pay you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>... No, I'll pay you , lire!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>You're friggin' annoying! Don't touch me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>What good would it do for you to see it, huh?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Considering you're about to die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Your face... Your age...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>It appears you're not a Stand user.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>You have the wisdom to see people</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>for who they really are, and you made that your business.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>That was your greatest failing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>No one in this world is allowed to know who I really am.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>But I now know that you are indeed an excellent fortuneteller.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Out of respect for that, I'll be sure to k*ll you instantly so you don't feel any
+            pain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>So answer my question...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>This man's name is Risotto.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>He's a traitor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>He is also looking for my daughter and trying to find out my true identity.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>I want you to tell me where he is right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Where he is?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I can't tell that much...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>But I'm sure you'll encounter him soon.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>He's here in Sardinia...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>He is filled with vengeance,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and you will certainly encounter him here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>I see. Very well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>That's plenty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I knew it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I was right! Light and shadow, what's inside and what's out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Two personalities!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>As long as you bear this secret, the death of people will bring you good
+            fortune,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>and you will never lose your splendor!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What a beautiful palm!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I've never seen a hand like this before!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Huh? Something's wrong. It suddenly looks strange.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>The lifeline is totally different...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I see!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>This is my own hand! It changed before I even realized it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Emperor Crimson.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>You...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I'm so glad you weren't squished.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's dangerous to be on the sidewalk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Go on, shoo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Be careful. Go on.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>Where to, sir?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Costa Smeralda, please.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>You got it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>And now for our next story,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>the investigations involving the site of the crash off the Olbia coast in
+            Sardinia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>However...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Driver, do you have a cell phone?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Mine broke...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>No, I don't. Sorry.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>C-Could you stop for a sec, driver?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I'll get out here! This is fine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I'll get out here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>That's the building.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's no doubt about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I just have to keep an eye out over there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Costa Smeralda in Sardinia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>This area was forgotten by history until about half a century ago,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>when a certain millionaire from India was enamored by the scenery of this
+            coast,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>where the winds and cliffs met,and started living there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hey, wait a sec!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There seems to be an extra digit on your meter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>So you actually think I rigged the meter</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>because I wanted more money?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>Is that what you think? Huh?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>N-No... But , lire to get from the city to here seems a bit...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I don't have that much.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>Like hell a guy on vacation doesn't have money!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>I know you hid some in your pocket earlier.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>I saw you hide an envelope in your pants.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Don't—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>Come on, let me see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Don't touch me... I-I'm getting a headache...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>See? I knew it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>You friggin' idiot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Those who have seen what they shouldn't have seen</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>don't need to exist in this world!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>Y-You b*stard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hey... Did you just hear a phone ring?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Where did it come from?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hey! I asked you a question!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>That phone's busted, so there's no way it could've rung!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Taxi</name>
+        <speech>H-Hell if I know! What are you—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>There it is again! Where is it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Where is it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hey, what the hell? You have a car phone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hello? Yes, this is Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Boss... Yes, I just arrived.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's the spot in the photo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I just need to keep an eye on this place, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Huh? The driver didn't see what was in the envelope,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>so I don't need to finish him off?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>If I may interject, Boss,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I believe he saw the photo that he wasn't supposed to see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Right. I'm very sorry, Boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Yes, I'm about to start watching the building.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>You're about to watch the building?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>No, my Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Take a good look. Slowly... Naturally.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Don't do anything suspicious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>The one who's being watched...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>is you, Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Th-That's Risotto! The traitor assassin!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>He appeared just like the fortuneteller said!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Apparently, due to the plane crash,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>he came to notice the existence of this photo of Sardinia that was at Trish's
+            house.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>We need to take care of him first.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Otherwise, he'll interfere once Trish arrives.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>I'll be the one to finish him off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>We need to get close to him without him figuring out my true identity.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Risotto's ability is a mystery to me, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Draw him out about two meters away from you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>Then he'll definitely be within Emperor Crimson's range.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diavolo</name>
+        <speech>You can do it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm hanging up, my Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Yes, I understand, Boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Beep.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>What's this? My head... It hurts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>O-Oh, yeah. I don't have time to worry about a headache.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I just had a call from the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>My mission is to keep an eye on that building and... uh...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>What was it again?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Get closer?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Right! I have to get closer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>But to what?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>I won't get closer to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Look over here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Wh-What the?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>But I think I've seen him before...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Wh-Who is he again?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Move your hand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Otherwise, I can't see your face.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I-I don't have any money!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>B-Blood!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Why does this always happen to me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Maybe I just imagined it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The ignorance and fear in his expression are not an act.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>If he was from Passione, he wouldn't act like this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Not to mention, he's more unguarded than a baby.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>He must be a civilian.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Please don't!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Stop fussing. I'm just going to pick up my knife.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>I don't care about you anymore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I-I don't feel so good... My head hurts...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>T-Two meters...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>That's right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There was just one thing you did that seemed like an act.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>When you fell,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>you reflexively hid the envelope so I wouldn't see it, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>It's right under your left shoe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>What are you hiding?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>If I'm satisfied with what I see, I'll leave.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>What is your deal?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I-I don't have any money! Just let me go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>It wasn't murderous intent or hostility, but your expression there seemed
+            fake.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Stand up, move your left leg, and show me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>I told you to stand up! Stand up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Oh, so it's just an envelope.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>There's nothing in it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Your trembling certainly isn't an act,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and I can tell you're a coward who can't lie.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>But now... I'm even more interested in you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>You're definitely a Stand user.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>You heard that sound, too, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Just now, you glanced over toward that sound.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>That's the sound of scouting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>It's carefully scouting the area.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>That sound and shape...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>is Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>They've finally made it here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>And who are you to show up to such an important location?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>It must mean that the boss trusts you greatly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>But there is true fear in your heart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>You're a walking contradiction!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Shut your trap!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're the one who's about to be shaking in your boots!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Since you're running toward me, you must be a close-ranged power type.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Your range is around two to three meters.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>As long as I know that, I know how I'll k*ll you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>What... the... M-My throat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Th-These are...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>actual razor blades?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>T-Two meters, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I'll shove these razor blades right up your a*s!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>I told you, I know how I'll k*ll you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Impossible! I'm not done yet, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>H-He disappeared?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>That's his... That's his assassin ability...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>But how...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>There's a phone ringing somewhere!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>I can't believe it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There just happens to be a pay phone in a place like this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Click!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Beep!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Hello?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>My Doppio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Wh-Where are you, Boss?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Are you nearby?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>If you are, please come quickly!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I cannot.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I cannot go there until you get close enough to him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Because everything will be over</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>if he happens to see me and then manages to escape.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>B-But—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You need to get closer. You need to get within two meters of Risotto!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Boss! I don't know what his ability is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>He could attack me again at any second!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Doppio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Oh, Doppio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>My adorable little Doppio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Did you forget that I gave you a portion of my Emperor Crimson's power?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Now is the time to use it!</speech>
+    </dialogue>
+</xml>

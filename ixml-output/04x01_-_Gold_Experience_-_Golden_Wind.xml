@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, mister! This is the best deal you're going to find in town!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy </name>
+        <speech>That's exactly what the other guy said.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Then as a bonus, I'll give you a tour of the city!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy </name>
+        <speech>Seriously?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Hilarious!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Huh? What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy </name>
+        <speech>What's wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>My bag is gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy </name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Here you go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>So, any changes lately?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Not at all, thanks to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Sorry to bother you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>This is what you want, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Yeah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Oh, but this is all I have right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Then this is all I can sell you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Naples: a city located in southern Italy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It's a famous tourist spot so beautiful that</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>people say you should see it at least once before you die.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girls</name>
+        <speech>Pardon us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>How do you get to Santa Chiara?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Oh, to get to Santa Chiara, go straight, and then, at the first light—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>See? I told you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>I told you it was over there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>My bad...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Thanks so mu—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Whoa, there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Are you all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Th-Thank you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Um, I'm sorry about that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Be more careful.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Let's go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Hey.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You dropped this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Thank you so much!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No problem.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, wasn't that guy super cool?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>I should've asked for a picture.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Did those just come out of my bag?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>What? They probably just landed on it for a second.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Yeah, you're right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You can't let your guard down in this city.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Pardon me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Could I get a cone with a scoop of chocolate and a scoop of pistachio?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Make that two.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You got it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Golden Wind</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey! How many times do I have to tell you</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-top</name>
+        <speech>that you can't run your business here without a license?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Move your car!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Honestly...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>You only moved one car length away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>So, whaddya say? It's faster than lining up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What do you think?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>I'll get you into the city real cheap.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Really? How cheap?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>L-Luca!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Didn't I tell you that you need to pay</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the protection fees you owe me before doing any more business?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>You can't be serious!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>I told you that you need to pay the protection fees you owe me</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>before doing any more business, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Right?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>But I have a family...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>P-Please stop!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>You should think more about your friendship with me than your family...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Got it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>I'm not the only one ignoring you to keep doing business!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Well, who?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Who is it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>I-It's Giorno! Giorno Giovanna!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>That kid's been making a fortune lately!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luda</name>
+        <speech>Well, I'll deal with him later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You can't run your business here without a license!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Go somewhere else!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Buon giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kochi</name>
+        <speech>I'm finally here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That flight was so long!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The air sure is different here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Now, then, time to get to work.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Haruno Shiobana... That's an unusual name.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>First, I need to get to my hotel.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I want to dump my luggage so I can move around a bit more freely.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kochi</name>
+        <speech>Let's see... Where's the taxi pick-up...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>Whoa, that's amazing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>I know, right? That trick is amazing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>This shouldn't be possible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>How are you even doing that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>That's so gross!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>How'd you stuff your whole ear into your head?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>Man, that was entertaining!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Thanks.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>Don't attract too much attention with your job here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Looking for a taxi?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>No, n-not really...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You sure?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'm just finishing up my part-time job and about to head home, so I'll make it
+            cheap.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>How about , lire to get you into the city?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>? That's... about , yen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kochi</name>
+        <speech>That's way too expensive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The basic rate is about half that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Wow, you speak the language perfectly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Did you used to live in Italy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>No, I just had Rohan-sensei make it so I could speak... Never mind that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>M-More importantly, you're saying you'll drive?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>You look like you're only in middle school or high school.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>And I saw you give the security guys something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I'm pretty sure I saw some money. What's that about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Come on, now. You don't need to worry about those things.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Okay, how about for , lire?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I won't even ask for a tip.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'll take you into the city for exactly ,.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Huh? , would be about... yen?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>No, it's okay.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'll just wait at the taxi pick-up...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Are you sure?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>You'll really only charge ,?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Yup.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>But you'll have to load your luggage on your own.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Since I'm not asking for a tip.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Put your luggage up front. You can sit in the back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Just so you know,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>you'd better not think of me as some Japanese tourist who's not used to
+            traveling.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Just get me to my hotel in earnest.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Yes. I'll get you there in earnest.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Or should I say... I'll get your empty luggage there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Huh? Wait... I didn't even get in yet...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Keep your mouth shut!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Don't tell me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Hold it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Ciao!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Reverb Act !</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Too bad for you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Didn't I tell you not to underestimate me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>You can run if you want.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>As long as my luggage is safe, I don't care.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Look at that! Giorno actually screwed up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>That's what he gets for trying to trick</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>a Japanese tourist when he's half Japanese himself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop </name>
+        <speech>Though people would never be able to tell he's Japanese,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>with that hair color and a name like Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It couldn't be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Huh? It's gone! How?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Is this some kind of egg?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I-Is it a Stand?! But that's impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Would one show up the second I get to Italy?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That's not a Stand! The way that frog felt...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It's actually alive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But seriously, how'd my suitcase disappear?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>He didn't have any time to hide it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>This is horrible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>This is only a hunch, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Excuse me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Could I ask you some questions about that taxi driver?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I think it's about time...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Are you Giorno Giovanna?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>This is the first time we're meeting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Do you know who I am, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Leaky Eye Luca.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I heard that</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>even after someone stabbed a knife deep into your face, you didn't stop
+            fighting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>And because of that,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>even though your wound has healed, your eye is always watering.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Hey, why don't you have a seat right here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Come on, sit down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>It's tiring having to look up at you to talk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>How old are you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Fifteen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Fifteen?! Wow, you're just a kid!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Say, Giorno, there are three "yous" to remember in friendship.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Three "yous," got that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>The first one is you don't lie.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>The second one is you don't hold grudges.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>And the third is you respect the other.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Sounds good, right? Those are the three "yous" of friendship.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Can I help you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>I'm the one talking right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Who said you could ask questions, you dumbass?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>I heard you've been working part-time around the airport...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>I, Leaky Eye Luca, haven't received</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>any of the gifts that you should've given me out of respect yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>How do you expect our friendship to last like that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Let me take a peek at your wallet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Luca.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I already paid my protection fees. I don't have any money.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>To the security guards?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That has nothing to do with me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>What's this? A photo of a family member?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Where's my money?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I want the money! Show me your wallet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Luca...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Don't make me say the same thing twice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I told you, I already paid, so I don't have any.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Don't make me say it a third time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>You little sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>What the hell is that creature?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It came back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>Smack it off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This frog has nothing to do with this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I won't smack it off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>I gave you an order, and I told you to pay me a protection fee!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>So you're going to disobey both of those?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>You're going to tell me, Leaky Eye Luca, "no" to both of those things?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This is a living creature that has its own conscience,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and it's thinking on its own.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You really shouldn't.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>You're... You're...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I could never just smack it off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Don't! It's harmless as long as you don't do anything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Luca</name>
+        <speech>You're finished!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Whack,Sfx</name>
+        <speech>Whack</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I told you not to.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's not even that loyal to me yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's just trying to protect itself. It has its own life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Any attack on it becomes an attack on oneself, and it's fatal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>And...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I asked you not to make me say it a third time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Making me say the same thing over and over again</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>is useless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>And I hate that because it's useless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Totally useless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>A piece of this guy's skin?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>Yeah. I want you to get a sample of it and send it to me, Koichi,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>so the Speedwagon Foundation can check its composition.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Its composition? Who is this guy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>His father, who died, was a bit special.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>That's why we want to investigate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>It can be thin. I just need you to get me a piece.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>That's it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>I'll cover all your expenses for this trip.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>What?! All of them?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Hmm...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I'm sorry if this sounds rude, but this guy sort of looks like you, Jotaro.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The address on this picture is somewhere around here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>How careless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You don't need to worry about them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>No one around here is dumb enough to try and steal their briefcase.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Oh... I guess this is a nice neighborhood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Hey, can I sit next to you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Would you like to come in for a meal, sir?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>No, I'm going to sit next to him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>N-No, it's okay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>Hey, Giorno! Have some tea with me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>What? Wait, I'll pay for you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You guys are too loud.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl </name>
+        <speech>No, me! Me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I like being alone. Go away.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girls</name>
+        <speech>Fine...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>See you tomorrow, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girls</name>
+        <speech>Ciao!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Th-That's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Hey! Whose money is that?! Are you using my money?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You?! How'd you know I was here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Give me back my passport! Where's my luggage?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It hurts me to say this,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>but they're gone. I sold them off, unfortunately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So stop following me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>You're not getting away this time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What's with this weight?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Wait... So that wasn't a malfunction earlier?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Don't tell me... he has the same kind of powers as me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>What did you just say?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's heavy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Life, spring forth!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Bring forth new life!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I think I just caught a glimpse of something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Act !</speech>
+    </dialogue>
+    <dialogue>
+        <name>Act</name>
+        <speech>That b*stard disappeared.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That's impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's no way he'd be able to escape Freeze's range that easily!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'll say this one more time. Don't even think about coming after me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I hate saying things twice when I shouldn't have to.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Because it's useless to say it twice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'll say this for your own good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You shouldn't do things that are useless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Knock him down, Act !</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Th-The attack on the tree came back to me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I took something of yours,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>but I can tell you held back when you were trying to hit me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>when I see what that damage has done to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You're a good person.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>There's no doubt about it.Giorno Giovanna...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>He's a Stand user!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Giorno Giovanna</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Golden Wind</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>Hello?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Jotaro, it's me, Koichi!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>Oh, Koichi. Did you get to Italy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I found him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>The guy you asked me to find! Haruno Shiobana!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>That was fast.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Where do I even begin?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I immediately ran into him at the airport...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>And, yes, it's safe to say...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>He's a Stand user!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>He goes by the name Giorno Giovanna in Italy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>You mentioned before that</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Stand users are drawn to other Stand users, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>We seriously met by coincidence!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>He's a student, but he acts like a delinquent.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He stole my money and my luggage!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>And it appears his Stand's ability is</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>returning his opponent'sattack right back at them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>Sorry about all this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'll get you a hotel and wire you some money.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Thank you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Also, his hair was blond, unlike in the picture.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>After asking some people who knew him about it,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>they said that he didn't dye it. It just suddenly turned that color.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Something about his dead father's genes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Who's his father?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Are you and his father somehow related?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>I'm the one</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>who k*lled his father.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>His name is DIO Brando.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>DIO?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>You mean the one involved with the bow and arrow?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Glob</name>
+        <speech>Stab</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>I found out this year that DIO may have had a child.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>That's why I wanted to find out for sure</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>if Giorno Giovanna was really DIO's child, and if he's somehow inherited his
+            body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But doesn't DIO's body belong to the Joestar bloodline?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>The fact that his hair turned blond may be a sign that</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>the DIO blood in him, his Stand power, recently awakened.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>There might have been a trigger...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>like a powerful Stand user being in that city.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>A powerful Stand user?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>Don't go near him anymore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>It's dangerous to take this further.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>Understand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Just one last question...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Is he our enemy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Or is he a friend?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>What do you think?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>You're the one who actually met him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>What was your impression of him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I'm not sure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But, um...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>He seemed like a very eloquent person.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Did you drop this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Guess it's mine now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's say you found a bag with , lire inside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>would you take it to the authorities?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No way. I'd totally take it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well, aren't you honest?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But what if I was a plainclothes police officer and saw you take it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'd give you half and have you look the other way... probably.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wow, that's great!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And I'm sure that's actually what you'd do.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're not kidding or bluffing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can tell! You're telling the truth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You see... I can tell if people are telling the truth or not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm almost certain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You know how your skin gets shiny when you sweat?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's how I can tell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I think I'll have an even better idea if I taste your sweat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Who are you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Leaky Eye Luca was found on the ground near the airport after having</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>his own spade buried in the back of his head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's a rather serious injury. He won't be regaining consciousness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm trying to find out who's responsible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno Giovanna, no one knows why Leaky Eye Luca was at the airport.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But the airport security guards</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>let me know that you were at the airport.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's why I figured I'd come see you and ask you some questions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Are you actually a police officer?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Of course not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Luca's no ordinary crook. He's a g*ng member.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There are plenty of reasons he might've been taken out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He knew how to get people to hate him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But that's not what his boss is thinking about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The boss feels like his name was</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>personally tarnished since one of his own was taken out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's why he told me to find out who took him out and settle the score.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm asking you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Did you happen to run into Leaky Eye Luca at the airport?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No. I don't know who you're talking about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're not sweating.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>All right, I'll believe you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That does it for my questions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Sorry to have bothered you, Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What is that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>My hand was clenched the whole time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's Luca's right eye.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's unconscious anyway, so I just brought it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This taste... is the taste of someone who's lying, Giorno Giovanna!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well, well, well, well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I said I was done with my questions,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>but the situation seems to have changed, Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You told me a lie.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>And now, I'm going to have to find out why you lied to me, aren't I?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What are you looking at?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Are you jealous?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Did you want to hit him, too?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>My name is Bruno Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Answer me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Your questioning has already turned into t*rture.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well? This is a pretty creepy ability, isn't it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Th-That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Those are Luca's fingers.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>To tell you the truth...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Leaky Eye Luca was disposed of by our boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He said that there's no point in him living anymore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I took his fingers for torturing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's happening again! What the hell?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Is he also like that Japanese tourist?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Other than being able to tell if people are lying or not, I can also do
+            this...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can put whatever I want in your mouth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>For example...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can even put that fire extinguisher in your mouth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Though I'm afraid you'd die if I did that...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Talk!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You know who's responsible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Were you told not to tell anyone?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's have you tell me who did Luca in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>There's no doubt about it... He has a similar ability!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If you don't hurry up and tell me, your t*rture is just going to get worse,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno Giovanna!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This guy's bad news!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>In that case...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'll have to use Golden Wind and dodge his attacks!</speech>
+    </dialogue>
+</xml>

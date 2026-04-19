@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Abba</name>
+        <speech>Let me see the key we obtained again,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Wait! Don't throw it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You little sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Dang, talk about overreacting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Isn't the fact that you're feeling pain a good sign?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I just had it reattached thirty minutes ago...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It still hurts, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>"I thank you for protecting my daughter, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Go to the drinking fountain with a turtle on the sixth platform at Naples
+            Station,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>and use this key.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Then, take my daughter to Venice by train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>P.S. My missions for you will end once you get to Venice."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What's supposed to be by the drinking fountain at the station?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The boss mentioned a way for us to travel without being found by the enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The station is dangerous, but we'll just have to trust him and go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>D-Do you think the boss is actually in Venice?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Since it's mentioned in that note...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We don't need to think about that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We're just going to do as we're ordered.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There's a super express leaving for Florence in ten minutes. We'll take
+            that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista, is anyone following us?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So far, we're good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I can't say the same for the station, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There'll be plenty of paid guys who'll report information about us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>The boss's daughter, Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Her life is being targeted because of a father she's never met.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I wonder how that feels...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah, I get it, Fugo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I can't help but stare at her you-know-whats, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Th-That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Please forgive Fugo!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He didn't mean any harm!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He wasn't trying to take advantage of the sudden braking</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>to see your breasts or stroke your thighs under your skirt!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He just couldn't help himself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Hey, stop that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I actually lost my balance, but you're making it sound worse!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Please don't tell the boss!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Express Train to Florence</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narancia_s_Heigh,Sign</name>
+        <speech>Florence bound leaving at : from platform </speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>He's really here. That's Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I can't believe he actually showed up at a station where we could easily find
+            him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'm gonna k*ll him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Maybe he was pushed to his limits and lost his mind,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>or he's somehow confident that he'll be able to give us the slip.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Either way, I'm gonna k*ll him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>He k*lled Formaggio and Illuso! I'm gonna k*ll him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Hey, dumbass.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Drop the "I'm gonna k*ll him" crap already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>That phrase doesn't exist in our world.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Only weaklings use that phrase.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Because when I or my other team members so much as think those words,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>our target is already dead, and the job is over!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>So I've never uttered those words in my life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>You're gonna be that way too, right, Pesci?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>If you're truly one of us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Do you understand what I'm saying?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Yeah... I got it, Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>You can say, "I k*lled them!"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Prosciutto...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I'm going to head straight over there via the platform.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Pesci, you board the train and head to the lead car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Got it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>We'll flank him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>We need the boss's daughter alive, after all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, the train's about to leave.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Is something wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There's no other drinking fountain on this platform, is there?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This key won't fit into this keyhole.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Not to mention...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>you don't even need a key to open it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's just a stopcock.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, how about the lock on that fire hydrant?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The shape's completely different.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There aren't any locks or doors that this key will fit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They just aren't here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Should we pass on this train?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The next one departs in fifteen minutes and is bound for Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sure some of our enemies know we're here and are heading to the station
+            now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We have to leave here immediately!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The sixth platform...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The drinking fountain with the turtle...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This has to be the spot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Damn it! What's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The turtle...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Hey, Pesci, why the hell am I running into you here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I-I could ask you the same thing! Where did Bucciarati go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Bucciarati hopped onto the train right in front of me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>It makes no sense that he didn't bump into you in the hallway.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Well? I'm right, aren't I?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I didn't run into anyone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bucciarati, his crew, the newbie, and the boss's daughter definitely aren't
+            here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Something's strange...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bro, the train's about to leave.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>They must be hiding somewhere inside this station.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>They're gonna keep an eye on us tracking them and hop on another train to get
+            away.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Let's use some homeless guy or something to search the station!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>There was something placed at the drinking fountain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>He must've picked it up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>He picked up something that looked black!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Get on, Pesci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>But why?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I just have a hunch.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I don't know how,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>but I think Bucciarati and the others are somewhere on this train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You think?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You think?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I'm sure the boss is helping them out somehow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I have a feeling that if we don't board this train, we'll lose them
+            forever!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>A feeling?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Just shut up and get on, Pesci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It takes takes three and a half hours to get from Naples to Florence by
+            train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It's an hour and a half non-stop to the next stop, Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Aw, we ended up getting on...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Shut up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Hey, the gap between the door and floor...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What's on the other side of this door?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Isn't that the driver's cab?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>But there's no way seven guys are in there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>You never know.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Use your Fisher Man to attack that room.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Do it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Fisher Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>There aren't seven guys in here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>There are two!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Got 'em!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Damn it. It really is small in there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I guess there's only the driver.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>But they're definitely somewhere on this train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Huh? Hey, wait a second.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>There's only one?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I know I sensed two living things in there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I could've sworn there was one more...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Hey, Pesci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>We're going to search this train from end to end!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>We'll drag Bucciarati and his crew out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>But you stay here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>If they realize we're here, they might come to stop the train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You got it, Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>They have the girl with them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>so they shouldn't be able to just move around or jump off this train
+            easily.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>That's going to give us our advantage.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>We'll slaughter them all before we get to Rome and take the girl!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The key wasn't made to fit in a keyhole.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It actually fit right into this turtle's shell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That, in turn, somehowactivated the turtle's ability,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>creating this space and making the key itself the entrance so that we could hide
+            inside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Th-The turtle is a Stand user?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>O-Ow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Wh-Where the hell am I?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm under the seat?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Ow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>B-But man, this is awesome!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>This turtle is like some kind of spaceship!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>But this room isn't some kind of illusion.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>This is a real room.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Even the sofa and other furniture is real.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>There are some chilled drinks in here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I guess the boss left them in there for us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Turtles like being in the shade, they aren't loud, and they don't scuttle
+            about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This way, we should be able to get to Venice by train without worry.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I guess there's no way someone would be in the locker...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I just don't have my bro's intuition.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>B-Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>D-Don't tell me he...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>The Thankful Death!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>A-Are you really going to do it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're going to do in all of the passengers?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>We don't even know if they're on this train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I already told you</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>that I would be thorough about this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>They're definitely here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What's the big deal, anyway?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Every year, there are lots of train crashes all over the world.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>This won't be as brutal as those.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Mr. President</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Coco Large</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's probably because we're in a room inside a turtle,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but it's sorta muggy in here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You want a drink, too, Narancia?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There are only cold drinks, but there's cola, mineral water,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>carbonated, non-carbonated, apple juice, orange juice, and pineapple juice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, are you even listening?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? What was that?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm asking if you want something to drink!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Why don't you get some rest while you're at it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You look pretty tired.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll keep an eye on the ceiling.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Oh, okay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>My shoulders suddenly feel stiff, and my back hurts. There we go...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'd really like something warm...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Something that won't upset my stomach.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I told you, there are only cold drinks in here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You never listen, do you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'll just eat this banana, then.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Man, gardens like these make me sigh.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>They're so calming...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>They're so beautiful...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'd love to drown in nostalgia and think back on when I was a kid</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>while I just lay out in the sun in a garden like this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, stop that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Licking your finger before you turn the page is gross!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? Did I do that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Me? No way!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, there's something hanging from your mouth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Talk about gross. What the hell is that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>A tooth?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I can't eat this banana for some reason...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It's all hard and dry...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey... Are you messing with us?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Man, you startled me... That sort of looks like a tooth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm still pretty grossed out, so I can't really laugh...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What is that hanging from your mouth?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? Did you say something again... Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You're speaking too softly...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I couldn't hear you very well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm telling you, this banana is crumbling...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I-I can't eat it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Th-They're all dry...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>A-All the fruits are dry...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What the hell is wrong with you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Didn't you hear me? Okay, then...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There's something wrong with your face!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>N-Narancia, you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'll say it even louder this time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Are you paying attention?! I can't eat this banana!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Look. It's just crumbling...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It's old, damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I know! It's a Stand attack!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Th-There must be an enemy on this train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? What? What's this white stuff?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It came from my head...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell is this?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What's the matter?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Did something... happen?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Th-They've all aged!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Mama... Wake up... Wake up...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Mama... Mama...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Wake up...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Wh-Who the hell is th-this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What? No way... This can't be!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>This is me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>A-A Stand that makes people age?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Did they figure out we're in this turtle?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Calm down, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If they knew we were inside this turtle, they would've used a more direct
+            attack.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And since they haven't, that means we haven't been found yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy probably only knows that we're somewhere on this train</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and, in order to find her,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>they're attacking everyone on the train indiscriminately!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>D-Does that mean this train is running with everyone on board affected?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Probably.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They're desperate. I'm sure they'll do anything...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And without a second thought.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This leaves us two choices.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>One, take Trish and somehow get off this train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Two, we find this enemy, even though we don't know their range, and dispose of
+            them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Obviously, we'll go with the second choice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If we want to take her and run,we'll have to stop the train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's too dangerous.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Assassinating them is more definitive,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>with my Six b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yes, you're right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>But we don't have any time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We're aging at an alarming rate...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>B-Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>M-My hands...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Th-They're crumbling!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>They're falling apart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're right, Bucciarati. We really don't have any time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Wait a minute, Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's too early... to go...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell are you talking about, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm telling you... it's too early to go...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We don't have any time to waste!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wait.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hear him out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What are you trying to say, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Why are we all aging at a different rate than Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista's and my symptoms are light...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Trish's are even less!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But why?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Apparently, we're just aging at different rates! I'm going!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No... If they're attacking everyone indiscriminately with age...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>They might end up k*lling her as well, despite her being the target.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's some kind of prerequisite to how fast we're aging.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'll tell you what I think...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I think the enemy is differentiating between</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>men and women by the difference in their body temperature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I read somewhere that women have more fat in their bodies, which makes them</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>less susceptible to temperature fluctuations.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Apparently women also age better and live longer than men.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Don't you think it's been a little hot?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The enemy is differentiating the aging speed based on</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>slight differences in body temperature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>All that matters is that the men age faster and she ages slower.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah, that sounds about right,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but then why are you and I aging at different rates?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Are you insinuating that I'm a girl?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Change in body temperature...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Come to think of it, our bodies were slightly cooler...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Because we had something cold to drink.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Narancia didn't have anything to drink.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Th-That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno, it's exactly like you said!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We're aging slower because our bodies were slightly cooler!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Cool everyone down! Cool everyone down with ice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hold it, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're going to have to take that ice with you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Th-This is all that's left?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It doesn't change the fact that we have to dispose of this enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista, you're going to take that ice and defeat the enemy...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Before the ice melts and you lose your Stand power!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Just the driver... It doesn't look like anyone else is in here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's so muggy...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This Stand really is attacking indiscriminately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I wonder if this turtle is aging, too...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>But they say that turtles live for , years.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Guess they live longer than us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>What's Bro thinking? This is so dangerous.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>What's he gonna do if I get old, too? Damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The air conditioner?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>If I turn it on inside the driver's cab, everyone in the turtle will cool
+            down,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and that might slow down their aging!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There it is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Something took the bait!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What the hell is this needle-like thing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>A d-different Stand than the one that's aging us?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There's another one? There are two of them?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There are two enemies?!</speech>
+    </dialogue>
+</xml>

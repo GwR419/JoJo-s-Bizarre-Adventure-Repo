@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Because you're going to join me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I plan on defeating your boss and taking over this city.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>In order to get rid of gangs that sell drugs to children,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'm going to have to become a gangster myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you saying...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>that you're going to join our organization?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you serious?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Do you even know what that means?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What a great view...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Yes. If I'm going to take over this city,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'll have to join the organization that rules it and work my way up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Bucciarati,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'm going to become a g*ng-Star!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid </name>
+        <speech>Pass! Pass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kids</name>
+        <speech>Thanks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kids</name>
+        <speech>Thanks.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kids</name>
+        <speech>Thanks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll report back saying I couldn't find the one who attacked Luca</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and introduce you so you can join the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>However, if they find out at any time that you're going after the boss...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm not going to save you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Traitors can't be saved.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You'll have to deal with your own failure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Otherwise, I'll wager on your golden dream and</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the honorable, golden resolve it took to go so far as to rip off your own
+            arm,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Our organization oversees every industry in Naples.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Passione... That's the name of the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Passione means "passion," but that's not actually related to the boss's
+            name.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No one actually knows the boss's name, nor does anyone know what he looks
+            like.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We receive orders from a number of his capos.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, the capo who'll be deciding whether you'll join the organization</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>is a man named Polpo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's in this building.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But this building...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loom,Sfx</name>
+        <speech>Loom</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's a prison.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Correct. Polpo was convicted of a certain crime</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and won't be out for fifteen years.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But he gives me orders from the inside and commands the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He can leave this place whenever he feels like it, but he doesn't.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There's simply no reason to.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But why?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You'll understand once you go in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno Giovanna, you're going to be interviewed by him, and you have to
+            pass.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's basically like any other job interview.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What the interview actually entails will depend on his mood,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>but whatever you do, don't let him find out your true intentions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>All right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Oh, yeah. The Stand ability...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That's what you called it, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I never asked how you ended up with that ability,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>but are there others with it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That'll also be answered once you get inside...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If you pass, that is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>First, place your belongings, watch,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and everything in your pockets into the tray,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>then proceed to the next room for a body check.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Stand right there and raise your hands over your head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Once you go through that gate, please continue straight down the hall.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>N- is where Polpo's cell is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>The room is divided with reinforced glass, but you'll be able to talk to
+            him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Touching the glass, giving him anything,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and receiving anything from him are all forbidden.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>You have fifteen minutes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Once you pass through, the gate will close.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>If something happens, please yell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm going to meet him directly in his cell?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Not in some visiting room?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>You don't know who he is?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>That left arm of yours...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Is it injured?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That's no bed...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loom,Sfx</name>
+        <speech>Gwooo</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>It's just on your right hand,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>but the fingers are slightly red, like you were holding something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Like lines that would be left after holding a bag.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Which would mean that you were holding a bag in your right hand up until
+            now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Why's that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Well, uh... You're right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I was holding a bag in my right hand,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>because as you observed, I hurt my left arm.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>I envy your ability to be so reckless with your body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Would you like some wine?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have some exquisite Chianti Classico.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>It pairs perfectly with some Scamorza cheese and caviar on a cr*cker.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I've been told that I'm not allowed</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>to give you anything or receive anything from you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>They're just saying that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>What people say and what they do...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>are vastly different.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>That's the best and worst thing about people.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>The only downside to being in this cell is.... well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Polpo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>The fact that I can't admire Michelangelo's great painting in the Sistine
+            Chapel.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>It's not that he doesn't need to leave the prison.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Things would just be the same for him whether he left or not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>With that body, he might actually be safer in the cell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>More importantly, how did he get through the door?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Bucciarati's told me all about you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>So you want to join our organization?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Hmm... Giorno Giovanna, was it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Well, why don't we get this interview started?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What the hell was that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Did my eyes play a trick on me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>For a moment, it looked like he took a bite out of his finger along with the
+            cr*cker...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No... Maybe Polpo is also a Stand user, just like Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Either way, I can't let him find out that I'm one, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>What do you think is the most important thing</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>when it comes to choosing someone, Giorno Giovanna?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Is it what they're capable of?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Oh? And what exactly are you capable of?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I borrowed a few things when she was patting me down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I thought these would be useful for your test.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Of course, I'll be returning them to her when I leave.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Do you have anything else?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Other than that, the only skill I have</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>is being able to completely fold my ear into my head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>That's rather amusing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>But, you see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>There's something else that's far more important,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>and that's trust, Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>The most important thing when it comes to choosing people is trust.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>In comparison, being smart or being talented means as much</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>as this piece of cr*cker between my teeth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>This test is all about seeing how trustworthy you are...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>with this lighter's flame.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Take it, and make sure the flame doesn't go out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Whoa, there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Be extra careful to make sure the flame doesn't go out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Fuller, the th-century theologian, said,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>"He's my friend that speaks well of me behind my back."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>In order to join our organization,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>you'll have to show how trustworthy you are when we can't see you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>For hours, you will hold on to that lighter without letting the flame go
+            out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>If you can do that, I'll approve of you joining the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Simple, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The lighter has plenty of fluid in it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>All you have to do is sit quietly in your room until PM tomorrow</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and make sure the flame doesn't go out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>If you're a careful man who'll work hard to make sure it doesn't go out,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the flame shouldn't go out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Which means you're someone we can trust.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>However...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>If you're a man who is taking us too lightly,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>and you fall asleep, sneeze, or knock it over,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>or a sudden wind blows the flame out...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>It means that you're untrustworthy,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>and I can't allow you to join our organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Now, take the lighter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>This is your entrance exam.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>You have hours.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>I'm looking forward to seeing you come to visit me again tomorrow at PM.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>For hours...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>All visitors must go through another body check when they go through the
+            gate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Once you're told that you can leave the facility,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>please continue to the next room and grab your belongings.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Wait! Polpo didn't tell you anything?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>I'm going to pat you down now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Let me remind you that it's prohibited for you to accept anything from him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>sh*t! I was under the impression that Polpo bribed all these guys,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>giving me permission to take the lighter out of here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Visitor, put your hands up and proceed forward!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So Polpo's test for me has already started...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>And...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I have no choice but to go through with it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I have to pass this test and get into Passione!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Koichi Hirose</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Reverb Act </speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Visitor, hurry forward!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Just like I hid her ID in my hand where no one could see earlier,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Put your hands up and proceed forward! I will conduct a body check!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'll hide this flame!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>You're free to go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There are no problems here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>You may leave this facility.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>However...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Please open up your hand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Let me remind you that it's prohibited to accept anything from him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Visitor, open up your hand! I'm going to check it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>A flower?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>A real flower?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Very well. I'll allow you to take that out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>You are permitted to leave this facility.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I turned the lighter into a flower and hid the flame within it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That was too close.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But is this flame Polpo's Stand ability?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>The wind's definitely bad news!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, Giorno! Perfect timing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Could you push the shutter button on the camera?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Sorry, but could you help me out here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I finally made it back to my dorm.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Th-That was close...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Now the lighter won't fall over, and even if the air moves,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the flame will be protected.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Now, just as Polpo said, I just need to watch over this for the next hours.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I know.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'll make sure my window is locked, just in case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I need to make sure it doesn't randomly open and allow the wind to blow in
+            here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Who's opening my door without even knocking?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Th-That's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Looks like he's out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Now's my chance.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's that Japanese guy again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>His name was... Koichi Hirose!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>How did he find out my address?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Looks like my suitcase and belongings are long gone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But my passport might still be around.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It's probably harder to sell someone's ID.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I feel like a thief, sneaking into someone's room like this, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>No! He's the thief here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>What's so wrong with trying to find what belongs to me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>His passport? sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's in the documents case on top of my desk because</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I'd planned to return it to him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>At this rate, Koichi's going to see the lighter's flame!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Then he'll probably put it out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>He'll think it'll set the place on fire!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I have to hurry up and retrieve that lighter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I used Golden Wind to turn the light cord into a snake.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That bread is pretty delicious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Good job biting into it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Now I'll pull it up with the cord...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What? sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I can't believe this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>He found the lighter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>This isn't good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I have to make sure he doesn't blow the flame out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Oh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>This mark! The mark symbolizing Japan!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I found it! It's my passport!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I-It's burning!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Thank goodness...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That's strange. I could've sworn I saw a lit lighter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That was close.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He almost extinguished the flame.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I, Giorno Giovanna, have a dream!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>And to take my first step toward that dream,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I have to protect this flame, no matter what!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Whoa, that was close.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Sorry about that. I was cleaning the stairs.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>I'm glad it was just a slight mist and the water didn't actually hit you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>This must mean we've both done good things in our daily lives.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Your daily actions are very important.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>If you weren't careful, you'd probably be wearing that bucket of water on your
+            head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Seriously? This isn't good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The flame...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I wonder if I can ask Polpo to let me try again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>No...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>If he were that forgiving, he wouldn't have tested me with this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Flame?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Is that lighter not lighting up anymore?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Is it broken? Is it my fault?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No, it wasn't you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm actually trying to process what happened...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>But from what I can see, it doesn't look broken.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The lighter is still letting gas out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What did you just say?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Whoosh,Sfx</name>
+        <speech>Whoosh</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Yes, there's still gas coming out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Is this the switch?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>Did you try pushing it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No... It shouldn't be able to light.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>But look at this fine craftsmanship!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This whole test depended on if the flame was lit or not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>It's a very impressive lighter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>If I were able to just light it again, there's be no point in this test!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>I was startled by the size of the flame, but it looks like it's working
+            fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>See?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>By the way, since you have that lighter, you're not smoking cigarettes, are
+            you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Something's wrong.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>It actually lit up again... There has to be something wrong!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What the...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That couldn't be his Sta—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You relit the lighter, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>I'll give you one more chance. You have two possible paths.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Th-That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>The first path is to live and become a chosen one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>Your only other path is death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>A Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>That's gotta be Polpo's Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's no doubt about it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You relit the lighter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>This is your fate!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No way! You b*stard! What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>This soul...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>did not belong to one who should be chosen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>One who should be chosen?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>H-Hey, are you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>He's dead. He's uninjured, but he's dead...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Was it because...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That Stand pulls people's souls out and kills them with an arrow?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Is that it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But does "the one who should be chosen"</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>mean someone who can join the g*ng?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You relit the lighter, too, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>I'll give you one more chance. You have two possible paths...</speech>
+    </dialogue>
+</xml>

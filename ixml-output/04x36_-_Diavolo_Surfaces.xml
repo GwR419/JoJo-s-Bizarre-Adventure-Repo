@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So there you are... Boss...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's where... you were...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And that's... whose body you're using.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The moment I got tired and could feel my soul being sucked out,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>you said you had to go because things were going south...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's true...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>If you're there, Boss...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We're going to win for sure...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>I'm so lonely...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>Could you... call me again...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>like you always have?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>Boss...</speech>
+    </dialogue>
+    <dialogue>
+        <name>No_one_can_escap,Op subs</name>
+        <speech>No one can escape the fate that was chosen for them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>No_one_can_escap,Op subs</name>
+        <speech>All that remains is the end, where you will all perish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>No_one_can_escap,Op subs</name>
+        <speech>Eternal greatness exists only within myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>No_one_can_escap,Op subs</name>
+        <speech>Sing a song of sorrow in a world where time has vanished.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Diavolo Surfaces</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Mista! Hurry up and pierce your Stand with this arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What's going on? Requiem's suddenly heading toward us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Giorno! Stop Requiem!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I can't! It's too far away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HCCF&amp;\c&amp;HB&amp;}Crack</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Wha—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>My g*n...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What are you doing, Mista?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's because you're touching the arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>No way! Why is this...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let go of it, Mr. Polnareff!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let go of the arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Glad I took that cop's Beretta just in case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>But what the hell, b*ll*ts?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Why'd my revolver break all of a sudden?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>M-Maybe the boss got close?</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>You dumbass! Think before you talk, Number Five!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Are you saying you saw someone coming close to us in this big, open space?</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>We didn't see anyone at the moment the revolver broke.</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>It's metal fatigue.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's because he's been overusing the g*n.</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>The axis of the cylinder broke.</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>We haven't had a chance to doany maintenance or inspections!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>H-Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What the hell is this thing's problem? It's heading toward m-me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>No, Mista. It's heading towards me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Even though it has the arrow back...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HCBBC&amp;\c&amp;HEB&amp;}Batoom</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Requiem intends to finish me because I touched the arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista, run!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Reload, b*ll*ts! Reload the g*n!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>This isn't a revolver! We need another cartridge!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>It'll take time to reload it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>I-It's no use...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm finished...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm throwing it! Catch it, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm gonna throw the turtle to you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Mr. Polnareff!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You okay, Mr. Polnareff?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's okay. B-But... how?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Mista, do you remember what I said back at the Colosseum?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>There's still more to Requiem's ability that I'm not aware of.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>But I'm starting to understand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Requiem stopped because the starting time has come.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>The starting time?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Yes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>It's because</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>my body has started to change!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>That's why it stopped trying to k*ll me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>This is Requiem's true motive, now that it's gone berserk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>The ability to make beings swap souls,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>meaning the ability that makes them start to change into something else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>The prelude is over, and the actual piece is now starting to play,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>so it gave up on k*lling me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>The .-billion-year history of this world's creatures is starting to change</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>into something else within a matter of hours.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>All of it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>So that's what makes Requiem so truly frightening.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>However...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Thanks to them, I was able to see it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I'm starting to understand the answer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I'm close to figuring out how to get that arrow from Requiem!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I'm realizing the method!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Wh-What the hell is going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What's up with this ability?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>How far has this damn thing spread?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It doesn't look like they're dying or in pain...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Everyone just has these vacant stares.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But there is this fear of becoming something else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The fear that, slowly but surely, both my body and my soul are going to
+            disappear.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I-I'm fine. But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>The starting time is imminent.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>It will happen differently for each of us, but it'll start soon,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>for all of us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We don't have much time left...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That's what you're saying?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Polnareff! This is happening because you brought the arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You said it had the power to defeat the boss,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but instead, you basically ended us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Stop! This is far beyond anyone's expectations.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>It's more important that we find a way to defeat Requiem.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>That's right. Good. Get closer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Get closer to Requiem!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>If we get closer, I'll be able to fully see Requiem's secrets, because I'm right
+            here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>The arrow's power will become mine, and the world will grovel at my feet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>After it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Don't move, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Trish, Bucciarati! Both of you stay where you are!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Stay right there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Wha—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I just told you not to move, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We can catch up to Requiem in a second!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What the hell? Shut up, you dumbass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>My body's disappearing already!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I picked up your revolver.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The one that you said broke a moment ago.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This broken part doesn't match up correctly with the rest of it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If it just broke due to metal fatigue, they should still fit together.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What are you getting at, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, I need you to stay right there, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We need to keep a distance from each other!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You dumbass! Requiem is getting away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>The b*ll*ts said it was metal fatigue, so it's metal fatigue!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I have a new Beretta, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>The parts aren't matching up because a piece flew off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That could be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But it could be something more.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We'll be able to tell as soon as we see this lost piece.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I gave a part of the g*n life and let it loose.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Moles are basically blind, but their sense of smell is unparalleled.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Looks like it's returned, and it found its lost piece.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HBE&amp;\c&amp;HEF&amp;}Fit</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>H-Hey, wait a sec!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Are you saying someone just used immense force to tear the g*n apart?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Listen up! The b*ll*ts and I are very clear on this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>There's no one who got close to me in this square—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're exactly right. No one did.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's why we need to stay apart from each other,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>because his range is only a few meters!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Giorno, you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No one got close to Narancia when he was attacked, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No one... other than us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mr. Polnareff, if your guess is correct and the boss had two personalities,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>then he should be able to get in and out of another's mind freely.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Diavolo has inhabited one of us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Wha—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If he stays hidden, Trish can't detect his existence.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The reason he's staying hidden now</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>is because he's waiting for us to obtain the arrow for good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's why he also appeared for a brief moment to destroy the g*n.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>W-Wait a second!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I know I keep saying this, but stay away from me, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Stay out of his range!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>My g*n was destroyed!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're the one closest to the g*n.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I-It's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>It's not me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>O-Oh, yeah. When Narancia was attacked...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>The one closest to him was...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>sh*t. I must do something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Requiem keeps moving farther away.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>This rookie, Giorno Giovanna...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's hiding in one of us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But despite that, we have one advantage.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Diavolo can make Emperor Crimson appear,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but he doesn't have complete control of the body he's inhabiting right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If he had total control</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>of the body he's currently inhabiting, he wouldn't just stay quietly
+            hidden.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's because he can't manifest and move around freely</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>that we all still live and haven't been eliminated.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>In a sense, we have him cornered.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>It's the turtle!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It was the closest one to my revolver!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Polnareff is the one who's possessed!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's not possible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mr. Polnareff was almost k*lled by Requiem earlier,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>because the boss destroyed the revolver.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The boss won't let the body he's inhabiting be put in danger.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Plus...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I only sense one being's life force.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This turtle only has one soul in it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>You can tell that, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Only if I can get closer and touch their body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>How can you be so certain?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Life force is a mass.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If I actually touch someone, I can tell how many there are.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's no other way.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have to touch each one of you and find out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>But how are you going to get closer within Emperor Crimson's range?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I learned how to detect Emperor Crimson from Mr. Polnareff.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The moment the droplets suddenly increase is when time has skipped!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Correct.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>But whether you can avoid his attack or not will be a matter of luck,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>as is whether you'll be able to just barely dodge it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>It's definitely not me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>When Narancia was k*lled, I was the farthest away.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Then I'll check you firstso we can be at ease.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Stop right there! Stay away from me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>D-Don't come any closer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>If Diavolo is actually in you, what's going to happen to me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>When Narancia died, his body was empty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>My soul was able to travel from Narancia's body into my own,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but it was empty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's no chance that he's possessing me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Oh, really?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>That's just what you're saying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I have no way of confirming your ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Not to mention, Giorno,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>do you have a way to definitively confirm that you only have one soul?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You can't check yourself with your own ability, can you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista, we can't go after the arrow unless we find out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Come any closer and I'll blow your limbs off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Stop!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Check me first, Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Hurry up and do it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>We're losing more and more time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Just as you said,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>depending on how we look at the situation, we have the boss cornered.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>There's no other way.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Yes...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>We have to do this right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Someone's going to be attacked...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If we get closer to one another...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HD&amp;\c&amp;HCFFB&amp;}Slice</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He was the one possessed!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Spicy Lady—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>No, Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>It's you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>He got closer instantly by moving your body closer to him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I've been waiting for this moment, my daughter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>The moment you unleashed your Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Who_swapped_with,King</name>
+        <speech>Diagram of swapped souls</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bucciarati,Sign</name>
+        <speech>{\pos(.,.)}Bucciarati</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bucciarati,Sign</name>
+        <speech>{\an\fs\pos(,)}His body has died(which means Doppio has also died)</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bucciarati,Sign</name>
+        <speech>{\an\pos(.,.)}Trish Mista</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bucciarati,Sign</name>
+        <speech>{\an\fs\pos(.,.)}Diavolo(Emperor Crimsonhad possessed him)</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bucciarati,Sign</name>
+        <speech>{\pos(.,)}Giorno</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bucciarati,Sign</name>
+        <speech>{\an\pos(.,.)}Turtle Polnareff</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>My daughter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>If you hadn't revealed your Stand, I might've actually been cornered...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>If I can grab the Stand, I can also move the body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Now I can at least make this body run.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>We're going to be attacked! Brace yourselves!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>He's going to make time leap—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Wha—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>D-Don't tell me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Why's he running without attacking us?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Through observation, he's already found</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>a way to get the arrow away from Requiem!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>There's no time! That takes priority!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Shoot, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Don't let him get there first, no matter what!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Stop wasting time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>This isn't the time to hesitate because that's your own body!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>That's not it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I've already fired, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>It seems that... I've already fired six shots.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>He's running as he makes time leap!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>He predicted the course of the b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>After him! If he gets the arrow, we're finished!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>That shadow...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The reason no one can touch the arrow...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>If I'm correct...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>When I move, Requiem's shadow moves in the opposite direction from me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>despite the location of the sun.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>To that man, it should look like the shadow is stretching toward me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>In Bucciarati's eyes, the shadow is stretching in front of Requiem.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>This shadow is in different places depending on the viewer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>This is the mystery of Requiem!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>This is why it can control everyone's souls!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>This thing is the shadow of one's soul.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Requiem itself is the shadow of my soul!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>That's why attacking it will mean attacking yourself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>If we can get rid of this shadow, I can get the arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>And...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>If it has a shadow, then my own light should be somewhere, as well!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>He still doesn't have the arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>We're rushing in, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>The light is behind my own mind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>He just destroyed something behind his head!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What in the world did he do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Now I've got it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I, Diavolo, now have the arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If Diavolo found a way to grasp the arrow, we should take advantage of it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Because the arm he tore off of me and these droplets of blood are all just
+            particles.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind shall now</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>appear!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>These ants!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>What just happened?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This is good, so far.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let's go...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We have to hurry.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Blast the arrow away from him! Don't let him grab it, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm already shooting!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>They made it through!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Despite him predicting their movements, we're still far apart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>He can only knock the ones coming at him out of their trajectory!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>The rest of you knock that arrow back and bring it to me, b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bull</name>
+        <speech>H-He'd already thrown...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bull</name>
+        <speech>...a civilian into the air!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bull</name>
+        <speech>He figured out the b*ll*ts would land and returned the arrow to its place!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>The trash ability of an underling...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>There's no way your weak mind can surpass Emperor Crimson's predictions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>You will not be able to get through.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>You're still just trash.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I will admit though, Bucciarati,</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>your team has made me sweat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>I never dreamed you would be foolish enough to betray the organization,</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>nor did I ever think you'd find out my true identity.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>But the fact that I've been able to figure out this arrow's true power is a
+            blessing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>It's a gift granted to me by fate because I was able to defeat my past!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I need a*mo, b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>We told you, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>It takes time to reload that cartridge!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>We're finished!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Wh-What in the world?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Spicy... Lady...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You didn't deflect Mista's b*ll*ts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I just made them softer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>The b*ll*ts stretched out like chewing gum and stuck to your hand,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>and I had them use their elastic force to return and blow through it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Trish... You're still conscious!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm going to overcome this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm not going to live in fear and run away from the fate</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>that you've passed on to me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>If it's in my way, I'll just climb over it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>The arrow's flying toward me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm the closest!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>He can't get past me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Even if he predicts where it'll fall and erases time,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm still closer to it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>If only... My daughter,</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>if only you hadn't been born...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>Fear truly does come from the past.</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>You have genuinely angered me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HFD&amp;\c&amp;H&amp;}Booooom</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>You said you'd overcome this, did you not?</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>You were right, Trish. Now you can surpass not only the past...</speech>
+    </dialogue>
+    <dialogue>
+        <name>King</name>
+        <speech>but their heads.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Trish!</speech>
+    </dialogue>
+</xml>

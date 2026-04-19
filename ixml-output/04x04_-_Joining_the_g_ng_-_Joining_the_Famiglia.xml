@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Something's wrong.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It actually lit up again... There has to be something wrong!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You relit the lighter, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No way! You b*stard! What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>This soul...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>did not belong to one who should be chosen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>One who should be chosen?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>H-Hey, are you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>He's dead. He's uninjured, but he's dead...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You relit the lighter, too, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>I'll give you one more chance. You have two possible paths...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girono</name>
+        <speech>So it indiscriminately attacks anyone who happens to see the lighter relit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Th-This is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This b*stard... He's dragging my soul</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>out of me through my shadow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>I'll give you one more chance. You have two possible paths...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>The first path is to become a chosen one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's no use... It's stronger than Golden Wind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>The old man died after his soul was struck by that arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So what's going to happen to me</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>if my Stand is attacked?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>Your only other path is death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Th-This arrow...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>If I actually get stabbed by that arrow, I'm dead for sure!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I've got no choice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Even if Polpo is one of the capos,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>if he's going to stand in my way</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and even k*ll an innocent old man like he was a piece of trash...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I have to defeat him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Useless! Useless! Useless! Useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Golden Wind...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Only your senses will go berserk, and all movements will look slow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's gone! That's impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It shouldn't be able to control its own movements right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Even if it were able to move, it should be extremely slow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It shouldn't be able to disappear!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It has to be around here somewhere...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It has to be!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I have to find it before the slowed-time effect wears off,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>or it'll attack me again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>F-From within the shadows?! Sh-sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Its movements are slower, but it's still just as powerful!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I can't move at all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girono</name>
+        <speech>The shadows! It's in the shadows!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It can only move within the shadows, but at amazing speed...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Looks like it can't follow me into the sunlight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But the sun's going to set on the other side of the school soon.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Once that happens, I'll have nowhere to run.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What'll happen if I force it out into the sunlight?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's definitely worth trying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But how am I going to drag it out?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What should I do? It's waiting right there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's waiting there patiently</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>for the sun to go down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>What are you doing, Giorno Giovanna?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Koichi!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Who's that guy collapsed at the bottom of the stairs?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>What did you do to him?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Hey, don't get the wrong idea!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That wasn't me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That Stand right there atta—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The wrong idea?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I saw you talking to that old man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I was watching from the window!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You were... watching?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Then... did you see the lighter being relit, too?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Don't step into the handrail's shadow, Koichi!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Get out of the shadows!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Sh-sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You saw the lighter being relit, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You have two possible paths.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Wh-What's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>The first path is to become a chosen one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>Your only other path is death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>This arrow is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It hurts so much...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>This hurts like hell, but now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>it looks like I was able to drag you out into the sunlight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I turned part of the handrail</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>into morning glories and let them hang down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Now you're out of the handrail's shadow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So close!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There were more shadows nearby, so it managed to escape.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But it looks like if I can drag that thing completely out into the
+            sunlight,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I might be able to win.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Wh-What was...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>What was that Stand?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>As you saw, it's trying to attack us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>The old man who relit this lighter was k*lled.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Because we saw it being relit,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>both you and I are now its targets.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That's not what I meant.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That arrow... It's from the Bow and Arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I didn't know one was in Italy, too...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>What are you doing, Giorno Giovanna?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Is it because of you that another Stand with the arrow appeared?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It'll take too long to explain everything...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>But I don't know anything.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Do you know something about that Stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>And about that arrow?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Why did you save me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Telling me about that arrow is more important!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>The sun's going to set!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Why did you save me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Don't you dare assume that I feel like I owe a thief like you anything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>The lighter being lit is because of something I did.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>There was nothing I could've done for that old man.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I feel awful about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I believe what I did was right, but I feel dark and gross inside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>But despite that,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I, Giorno Giovanna, have a dream that I believe to be right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Two years ago, I was shot with a similar arrow and gained my Stand ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>If the person shot with the arrow doesn't awaken to that ability, they will
+            die.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Awaken to the ability?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That's it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That's what it meant by the "chosen one"!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Someone whose Stand awakened!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>And that must be the motive behind Polpo's test!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I don't know about the origin of the arrow,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>but I've met a Stand very similar to this one before.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It's a long-distance remote-controlled Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Long-distance and remote-controlled?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It can only carry out simple commands,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but it won't stop attacking until it's fulfilled its motive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Our best option is to find the Stand user and take them down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Sadly, that's not an option.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>The user is in a jail cell. We can't get to him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Anyway,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>that thing won't be able to leave the school building's shadow,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>so let's head into the sunlight while it's still available.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Then, before the sun goes down,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>we'll lure it into the shadow of something that can move,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>and then we'll get rid of that shadow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That way, we can drag it into the sunlight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Got it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I-It's gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>I've got you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You saw the lighter being relit, didn't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The crows!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It hid in the shadows of those crows and moved over there in them!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Th-This thing...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Sh-sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>While in the shadows, its power and speed are much higher!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Act ! Freeze!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>My Reverb Act 's ability is to make Stands or people heavier.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Reverb</name>
+        <speech>I've made its hands heavier,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Reverb</name>
+        <speech>so much that it won't be able to lift a finger from the ground.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It should let go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I made the entirety of its hands heavier!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It shouldn't be able to bend its fingers anymore!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>It's strong...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's determined to not let go, no matter what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Black</name>
+        <speech>You have two possible paths...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I-It's no use!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Any damage inflicted upon the Stand goes right back to the user!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>At this rate, Giorno's legs are going to break!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Act ! Undo Freeze...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>No.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Don't do that, Koichi.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This ability that makes things heavier... Don't you dare undo it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This is perfect.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>This is exactly the ability that I was looking for!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But your leg's going to shatter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Wh-What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That tree...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Golden Wind is an ability that continuously gives life,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>so that tree continued to grow, lived the extent of its life,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and is now starting to wither.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Ability?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But that tree's at least ten meters away...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>So you got to the tree's roots by digging that hole!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bam,Sfx</name>
+        <speech>Bam</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Y-You did it! The shadow's gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>It's been dragged out into the daylight!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You told me there were two paths,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>but sadly, you only have one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Koichi, could you move to the right a little?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Huh? Like this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Hmm...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Useless! Useless! Useless! Useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Bask in the sunlight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That's it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>That's your one possible path.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Still, I have to wonder</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>if I'm going to be able to join the g*ng now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What to do...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Polpo</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Shadow Sabbath</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>That arrow...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The fact that the Arrow is also in Italy means</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>that there'll be even more victims!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I need to hurry up and tell Jotaro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Wh-What are you doing?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Did you just say there'll be more?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>We defeated Polpo's Stand,which had the arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You saw it for yourself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Defeated? You've got this all wrong!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I'll admit that we managed to escape its attacks because of you,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>but that Stand only stopped attacking because of the sunlight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The user isn't hurt at all. They're perfectly fine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So Polpo's alive?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Not only that, but long-distance remote-controlled Stands</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>basically don't affect their users at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>He probably hasn't even realized there's been a battle here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So he has no idea at all?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He doesn't know I'm a Stand user, either?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Chill out, would you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>If he noticed anything, it was probably that his hand felt a bit heavier,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>but he'd have no way of knowing that you and I are Stand users.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Hey, could you move your finger?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Sorry, but I still can't let you make your call.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'm begging you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>This isn't just one enemy.They're an organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>If you tell someone, the organization might find out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Enemy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Organization?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'll tell you and only you, Koichi.</speech>
+    </dialogue>
+    <dialogue>
+        <name>The_Next_Day,Sign</name>
+        <speech>The Next Day</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Someone gifted me a special-order pizza.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Sorry to keep you waiting. Let's see, you were...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Giorno... Giorno, uh...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Ah, yes. Sorry about that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>My head goes blank when I eat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Perhaps it's because all my blood goes to my stomach.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>This might sound sudden, but are you a religious person, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I'm not sure... but I'm not very passionate about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>What I'm about to say may contradict God's teachings,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>but I'd like you to listen carefully.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>If the most important thing in this world is trust,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>the most despicable thing you can do is insult someone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Listen well... To insult or betray someone's trust</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>not only hurts their reputation,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>but puts them in a very sticky situation.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>We will not fight others or risk our lives over money, power,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>or having our seats taken at a theater or on the bus.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Fighting is truly foolish.Only idiots bother with it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I will risk my life over being insulted.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>I believe that God forgives even m*rder.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Don't forget that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Congratulations! I will allow you to enter the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>You did bring me the lighter still lit, as I trusted you would.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>You pass.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>That's our Passione organization's badge.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>It proves that you passed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>You'll be working under Bucciarati for a while.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>How about it? Why don't we celebrate your...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Did that brat actually protect the flame for hours?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Or did he relight it and become a Stand user?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>I couldn't care less about that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Young, clueless guys like him are easy to use.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Either way, we can use him however we want.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Oh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I could've sworn I closed that...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>The blood does flow to my stomach after I've eaten...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>You met him again?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I'm sorry, Jotaro.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But I can't help thinking</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>that he, Giorno Giovanna, isn't as dangerous as you think he might be.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>What makes you think that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Well, I'll tell you that in person.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Is that all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>All right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>If that's what you want to do, that's fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Jotaro</name>
+        <speech>I'll be waiting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Thank you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I'll talk to you later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Jotaro, back then, I really did think...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Does this Giorno kid really admire that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Is he sane?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>But I can feel it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I can feel that he has a righteous heart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I can tell...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Because I observed three members of the Joestar bloodline back in Morioh.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The three who exude righteousness from their hearts, as if it were their life
+            energy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>I could see the same thing in his eyes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Without a doubt, the blood that flows in his veins carries the will of the
+            Joestars.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>So I'm going to keep this to myself for a while, like he asked...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>The golden dream that Giorno Giovanna possesses.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Koichi</name>
+        <speech>Well, then, maybe I'll go do some sightseeing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>The_Next_Day,Sign</name>
+        <speech>The Next Day</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Come with me, Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>What was that noise?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Polpo</name>
+        <speech>Well, whatever.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>When someone insults you, even m*rder is forgivable?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I see. What you told me is very important.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You insulted that innocent old man's life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So I changed one of your g*ns into a banana.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>You should savor your last meal as best you can.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>So... Where are we going?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll introduce you to my team.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They're all Stand users.</speech>
+    </dialogue>
+</xml>

@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Form</name>
+        <speech>You're not leaving me with any choice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>My name's Formaggio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>How do you like that? And that?! And that?! And that?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm sure he plans to follow me all the way back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I just have to make it back without getting followed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm going to follow the orders I was given!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Did you hear that loud noise?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy </name>
+        <speech>I wonder what that was.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Come back for now, Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>That b*stard is somewhere nearby, but I should get away from here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>With all these people gathering, it'd be a bad idea to attack with my
+            Stand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? The bleeding's stopped already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I thought he cut me really good, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Where'd this knife come from?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>This isn't mine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>My knife's not this big.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Where'd mine go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>These shoes aren't mine, either! They're way too big!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Where the hell did my shoes go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There's something</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>weird about this seat...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>A-And this steering wheel.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I-I can't reach!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>My foot won't reach the pedals,and this seat is huge!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I can't see through the windshield!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell?! This car isn't mine, either!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Where'd it go? Where'd the car I came here in go?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I can't get back without it! Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Is he actually that stupid?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Get a damn clue! You're shrinking!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>The effects of the wound I gave you are finally starting to show!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>W-Wait, these are my shoes and knife.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Did you finally figure it out, you moron?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>But it's too late now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You won't be able to drive like that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>S-So this is that stalker guy's Stand ability?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>You're gonna tell me where the boss's daughter is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>The battle's already begun.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>No one can turn back now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Hitman Team</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Hey, did you guys get my mineral water yet?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm thirsty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm about to die from thirst.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'd actually like to have lunch soon myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I mean, I'm fine, but I need to feed these little guys.</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Feed us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia is indeed taking a while.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>This is why I was worried about him going.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Drop it, Fugo. How many times must you bring this up?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I'm not going to drop it! After I—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I-I apologize.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Anything cut by my Tiny Feet becomes small.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It does take a little while for the ability to go into effect, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>The clothes and bandana you have on now are shrinking with you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Your shoe and knife, which were separated from your body, have stopped
+            shrinking,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>which means that the more you shrink, the fewer things you'll be able to
+            use.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>O-Oh, yeah! I need to get a hold of Bucciarati and the others!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Ow! What the hell's with that automated door?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm still shrinking?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>This door...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I've become so light that it won't open!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Exactly, you moron.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Still...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I have to get to that phone as soon as possible so they can help me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It opened, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It's useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It looks like you haven't realized this, but your clothes and wallet are shrinking
+            with you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>You need a telephone card or coins to use the pay phone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It only takes coins that are the right size!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narancia_s_Heigh,Sign</name>
+        <speech>Narancia's Height: .cm</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>This guy might be smarter than I thought...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>This isn't good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Having his friends find out my ability is the last thing I need.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>And if Bucciarati finds out about this,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>he'll move the boss's daughter somewhere else!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>That definitely can't happen!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I'm not gonna let that happen!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>H-He's here! That b*stard's gotta be around here somewhere!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Where are you? Are you hiding under the phone?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Come out here, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>This is perfect.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Are you over here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>In a few more minutes, he'll shrink down to the size of a c*ck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Where are you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narancia_s_Heigh,Sign</name>
+        <speech>Narancia's Height: .cm</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>His Stand's size and power will get so small, it'll be powerless,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>and then I'll be able to t*rture the sh*t out of him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Then I'll win!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I guess I don't have a choice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>He shouldn't be able to find me, but I just have to wait a little longer...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I finally figured it out, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You're in my right a*s pocket!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Now I've got you! The ability to become smaller?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Were you in my pocket this whole time?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Damn it. But you sure are tiny...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Wait... How did he figure out I was in his pocket?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Shoot him dead, Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>T-Turn back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Wha—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>A b-ballpoint pen?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narancia_s_Heigh,Sign</name>
+        <speech>Narancia's Height: .cm</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Damn it! Where'd you go?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell did you do?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>That stalker b*stard! Where are you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>That was a close one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>When my Tiny Feet shrinks something other than myself,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>it takes a while because of the energy it needs,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>but when I turn things back to normal size,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I can do it instantly, like I did with that ballpoint pen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>The repulsion it created in that moment</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>was enough to send me flying over here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>But how'd he figure out that I was in his pocket?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Did I move around too much and tickle his a*s?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I-Impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I hid immediately! How'd it find me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There you are! You're not getting away, you stalker b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It's coming after me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Th-This is bad! Tiny Feet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Wh-Where'd that b*stard go?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>That was way too close.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>If the air pressure from the tire hadn't sent me flying, I would've been done
+            for!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>But I'm sure it won't find me down—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Y-You can't be serious! sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>This Stand's ability isn't just shooting endlessly!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It's somehow finding me, and it's definitely following me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>And it's not like it's seeing or hearing my movements.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>That wouldn't explain how it figured out I was in his pocket</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>or how it knew where the tire's air pressure sent me flying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I found you! You're down in that drain!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I-It can even find me underwater?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Tiny Feet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>D-Damn it! Think, think, think, think, think!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I can't die here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The Hitman Team has nine members.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Formaggio is one of them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narancia_s_Heigh,Sign</name>
+        <speech> years ago / Naples</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'm planning to address the trash problem at next week's assembly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Are you sure it'll be okay?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Don't worry. I'm just going to tell the Minister of Tourism the right
+            answer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>It's the same thing as usual.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>I always worry that you might be pushing yourself too hard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Dear, don't you think you're drinking too much today?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Formaggio</name>
+        <speech>What the hell, Pesci?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Are you drinking milk again?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>B-But my stomach sorta turns when I drink espresso.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Prosciutto</name>
+        <speech>That's why you're such a mammoni, Pesci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Prosciutto</name>
+        <speech>Just by drinking that milk, it's possible you're making us lamer by
+            association.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>Why do you think we even bring you along, anyway?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>You need to correct things like that first.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>O-Okay...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>So, Formaggio, how are things going?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>That's all yours, Pesci. A little gift from me to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>Looks like things went well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Yeah, the job's basically done.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Now we just have to watch it happen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Let's get this over with and watch a soccer match.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Narancia Ghirga</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Li'l Bomber</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>It was delicious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Thank you very much.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>We'll be waiting for your return.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>All right, let's finish things off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>That was wonderful.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'm glad I went with the white tod—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>What's the matter, dear? Are you in pain?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey! What the hell are you doing parking here?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Get outta the way!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>W-Wait, what's that coming out from underneath the car?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Th-Th-That's blood!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>All right, let's go home.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>What's the matter, Pesci? Did your knees give out?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>We're back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>How'd it go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Perfectly!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>The guy's been blown to bits.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>But you ended up k*lling the chick he was with in the process, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>I guess this job was perfect for your useless Stand ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Whatever, man. If you got a problem, take care of this yourself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>As much as I'd love to, the leader wants me to conserve</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiaccio</name>
+        <speech>Melone, how much was this job?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>my ability until we absolutely need to use it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Twenty million lire.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiaccio</name>
+        <speech>Damn, that's cheap!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Ghiaccio, calm down. We'll talk about money later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>More importantly...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Where are Sorbet and Gelato?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiaccio</name>
+        <speech>Are they playing hooky?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>Maybe they're getting it on somewhere.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>They're a couple, aren't they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>And you call my Stand ability useless?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>No, something's definitely wrong.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Gelato's one thing, but Sorbet would never miss out on a chance to get
+            rich.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>He's always made sure to show up to claim his share.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Once an organization is established and starts to mature as a group,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>there will always be people within that group who want to rebel.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When smuggling cheap drugs coming from Central Asia</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>to various countries in Europe as well as America,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>they make a profit that's tens to hundreds of times more.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Which means it's not the least bit strange</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>that there will be those who show up and try</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>to take over the boss's territory, even at the risk of their own lives.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashbackinternal,Melone</name>
+        <speech>Did you find them?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashbackinternal,Pros</name>
+        <speech>No, there's no sign of them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>They must've been dealt with because they were</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>trying to find out who the boss was!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashbackinternal,Illuso</name>
+        <speech>It's definitely possible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashbackinternal</name>
+        <speech>They're two crazy b*stards.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiacchio</name>
+        <speech>Polpo's in control of all the gambling,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>and the jerks selling the drugs are also making a fortune.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiacchio</name>
+        <speech>But the only thing that we, the Hitman Team, get is our pay from the boss!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiacchio</name>
+        <speech>This ain't fair!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>We're the best there is in the whole damn organization!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiaccio</name>
+        <speech>We deserve way better!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashbackinternal,melone</name>
+        <speech>He suffocated?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Yeah... Just Gelato, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Sorbet's corpse isn't here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\pos(,)\shad\c&amp;HEDEFEF&amp;}"Punishment"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Punishment...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>A few days later, a bunch of packages with no sender were delivered to the
+            team.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghiaccio</name>
+        <speech>Seriously? Again?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Who the hell's the sender?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Frames?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>They're not paintings, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Is this what they call modern art or some sh*t?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>There's something weird in them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Th-That's the same color nail polish that Sorbet always wears!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I-I've seen it before...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>He and Gelato use the same shade!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Get the frames out and line them up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>There were a total of of these art pieces.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>Oh, hell no...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>You can't be serious... This is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I don't want to see any more!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pros</name>
+        <speech>Shut up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>They were pieces of Sorbet's body, chopped up and preserved in formalin.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When they put his face together, they saw that it was distorted in fear.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>He was likely cut into pieces by a very sharp knife, starting with his
+            toes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It was a rather intense way of getting k*lled.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>That day, the Hitman Team came to a new understanding.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>D-Do you think that Sorbet</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>was sliced up right in front of Gelato?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Yeah. And he was so overcome with fear and despair</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>that he choked on his own gag and suffocated!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>This was a silent message from the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>All of you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Forget all about Sorbet and Gelato.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>From then on, they ended up getting the cold shoulder.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>They never tried to find out the boss's identity ever again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>At least, not until...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>they found out that the boss had a daughter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Damn it! I'm not going to die in a place like this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>We're gonna k*ll the boss and take over his drug route!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>We're gonna claw our way up from this hellhole!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It's riddled with holes?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>He shot that rat to death? Why?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>C-Could it be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It went the other way.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>It's looking around for me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Breathing?! So that's it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Narancia's Stand, Li'l Bomber, detects its target when they breathe!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Mosquitoes find animals to suck blood from by searching for</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>the CO{\fs} {\fs}that they exhale.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>This is the same thing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>So that's how he found out I was in his pocket!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Come to think of it, when all those randos showed up in the alleyway,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>he stopped searching for me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>There was a chance he would've shot one of those randos!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>It had detected my breathing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There you are!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>He shot again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Looks like he can't tell the difference between me and the rats.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>In that case...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Look at those creepy little shits...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Th-These numbers... and this movement pattern...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>The ones that are breathing must be rats!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Their speed is the same!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>They're all going the same direction!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>A threat... You were only a threat when I didn't know how you worked.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>How were you finding me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Now that I know that, you're more harmless than a mosquito,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I win, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I'm gonna get the hell outta here and wait for you to shrink into nothing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>H-How?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>The same movement...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>All of them are moving the same way,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>but there's only one rat who's breathing really hard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Are you tired? You're out of breath.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Is there something heavy on top of you that's making it hard to breathe?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I think it might be worth it to shoot the sh*t out of that fatty there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yes! A clean shot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>Th-That was close...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>If I hadn't returned to my normal size, I would've been done for!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>If time hadn't passed to the point of you becoming so small</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narancia_s_Heigh,Sign</name>
+        <speech>Narancia's Height: .cm</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>that your Stand power was rendered useless...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Form</name>
+        <speech>I would've been a goner!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I-I didn't get him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Did I become so small that Li'l Bomber's power also shrank?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>My attacks won't work anymore!</speech>
+    </dialogue>
+</xml>

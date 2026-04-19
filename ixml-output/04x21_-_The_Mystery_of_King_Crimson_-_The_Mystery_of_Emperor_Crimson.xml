@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Who do you think you are, trying to eat all the chocolates yourself?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Give them back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I bought them with my own money, so give them back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Narancia, I swear...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There are only three left!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What a greedy little sh*t.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We've all been waiting for these, and we're hungry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The ladybug brooch is moving from the top of the tower.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I can feel it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's heading to the charnel house below</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>to try to cross through there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati must've put the brooch somewhere on the boss's clothes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Sorry, Giorno, but could you grab that water?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I'm a bit thirsty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Also, you should be careful.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>We've been ordered to wait here on the boat for now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>and not set foot on the island.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh? Eh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Y-You ate them, didn't you, Mista?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Give them back, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And what the hell do you have on your mouth?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Ah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>"Ah," my a*s! You little sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>S-So sweet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>When did you stuff them in your mouth?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>By the way, I didn't thank you yet, did I, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>For grabbing the water.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Something's... bizarre...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I don't know what,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but something's strange.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Didn't you hear that the boss ordered us not to set foot on the is—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>...land?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This isn't normal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Something weird is going on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This isn't good! Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Where do you think you're going, Giorno?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Is that you, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Yes, I know he's on the move.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I know exactly where the boss is because of the brooch you put on him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Right now, he's at the bottom of the stairs to the charnel house.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's right by the pillar that's about two meters away from the stairs.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But wait, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Something is wrong!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Bucciarati, your mission to act as Trish's bodyguard</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>has now come to an end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Wh-Why, you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>He's trying to immobilize my arm.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>But... Emperor Crimson has already...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>...seen through it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Your movements in the future.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>The trajectory of your movements in the future.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Within Emperor Crimson's ability, this world's time disappears,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>and no one remembers the movements they made within this segment of time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>The clouds in the sky don't realize they've broken apart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>A flame that's extinguished doesn't even realize the moment it went out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>All that remains in this world are the results.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>In the world where time has been eliminated, all movement becomes
+            pointless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I am the only one who can react to these movements.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I can see every single one of your movements!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>This is Emperor Crimson's ability!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Th-This ability...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>No matter who you may be,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>everyone goes through their ups and downs.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You succeed, and you fail.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>But if you happen to find the pitfall known as the future that's right in front of
+            you</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>and manage to not fall in,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>you will never experience a setback in your life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You will remain in your best condition.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Don't you think so?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Now that I've actually met you, I can tell that we are indeed related.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I can sense that you are, without a doubt, my daughter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>When you are awake, you will feel the exact same way toward me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Trish...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I must fill any pitfall that threatens my path!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I will now sever this bond of blood that binds us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HEFFF&amp;\c&amp;HAEE&amp;}Dogyuuuuun</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HEFFF&amp;\c&amp;HAEE&amp;\clip(m l )}Dogyuuuuun</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That must be Giorno...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno's Golden Wind's ability...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He planted the turtle's cells in the brooch and gave it life,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and a turtle with Stand abilities was born.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Since our call was interrupted, he must've sensed something was wrong</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and activated his ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He always gives me courage...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I didn't think I could move anymore, but... Not yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I still...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>have to keep moving a little bit more.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>My mission's done? You're wrong, Boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's still ongoing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As for Trish...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I will protect her on my own order!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If he can read all of my attacks,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>and I can't even realize that he's dodged them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>then his ability surpasses all others in its invincibility.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This ability doesn't allow him to read one's movements for long!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's only a short time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It seems to be around five to ten seconds.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Distance...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>For now, I need to get as far away as possible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Burno</name>
+        <speech>I need to get far enough that the boss can't find Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I beg of you to keep moving, body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Don't let me waste this chance that Giorno gave me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Until I can get out of this basement...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>It seems there was another traitor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Must be the newbie.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Rumble</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>If my information is correct, I believe his name is Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Rumble</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>So he must've joined this organization with the intent to betray me from the
+            start.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>It seems you thought you could escape just by distancing yourself from me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>but it's nothing for me to escape that turtle an instant sooner.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>It appears that your efforts were futile, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>How are you still able to move?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Sheer willpower?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>If you just rest, you won't be able to get to the first floor,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>but you'll be able to die peacefully.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>First, I'm going to eliminate Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Don't you dare move, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The chance that Giorno gave me wasn't in vain!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If this is going to be about reading each other's moves,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I've already read yours!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I knew before you fell into the sewer</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>that you'd probably use your ability to escape!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Now, Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Emperor Crimson!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>That was close...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>But within Emperor Crimson's world,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>your efforts are still futile!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Take this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're finished!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It wasn't you that I was trying to attack!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It was this pillar!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper, close!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As I thought... Your ability is invincible...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But it appears that you can only read movements for a short time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're not reading ahead of time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Just try and read my future movements, Boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Try to figure out what I'm going to do in a few seconds.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Try to see beyond time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You should be able to see me</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>after I've reached the first floor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati! Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This wound...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What happened in the basement?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Where's the boss?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He should still be around...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Somewhere close by.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I don't know the whole situation, but there's no way</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>the boss is just going to let Bucciarati go after this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>N-No...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>His pulse...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I-Impossible! It's gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I created the parts needed for his recovery!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, please breathe!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>So this must be Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>His unknown ability gave Bucciarati the chance to escape.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>However...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I will not let them get away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This is impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I know I created the parts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's no way he shouldn't have a heartbeat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, it's me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Call Abbacchio and the others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Get out of here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That voice...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I told you to call Abbacchio and the others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Get out of here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Out of this church!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Hurry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>B-Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Th-Thank goodness!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're okay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hurry! Hurry up and call the others!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>B-But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We can't figure out who the boss actually is right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We need to get out of here, Giorno! While we're still far enough from him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>They're within my range!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Here I go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll explain later! Hurry up, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Giorno's over there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, Giorno, you b*stard! Come back here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>How are you gonna make up for disobeying orders and stepping onto the
+            island?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati's here, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>H-How the hell did you get so injured?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Why do you still have Trish with you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What's going on here, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll explain everything later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Right now, we need to get out of here as fast as we can.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I commend you, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I commend your precise and keen decision making.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Even though I have the ability to eliminate time,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>if I were to face all six of those Stand users,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>one of them would end up learning my true identity.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>For the moment,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>they've managed to escape my Emperor Crimson.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>But this is not the end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I will never...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>let you escape</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>from Venice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Now I understand why the boss is feared by everyone and how he ruled over all of
+            us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We can't defeat the boss... not now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As for his identity...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Assuming it even has one,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>we'll need to find his ability's weakness first!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Emperor Crimson</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What the hell's going on, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We need an explanation.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What the hell are you doing?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>All right. I'll just come out and say it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But I can't explain everything right now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>because there's no time and danger's right around the corner.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The reason I brought Trish back</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>is because I betrayed the boss just now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll be leaving you guys now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If you go with me, you will also become traitors.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I-I don't think I heard you right...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Wh-What did you just say?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He said... he betrayed the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>B-But why?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You probably shouldn't hear any more,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>because you guys have nothing to do with this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I think you should explain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Some of them might want to follow you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We need people on our side.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What the hell is your deal, Giorno?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>First, you go into the church without permission, and now—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What's wrong? Are you all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I lost a lot of blood, so I got a bit dizzy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That shouldn't be possible...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>When I created his parts, it should've also replenished the blood he lost.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Did I miss a wound?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I guess I've used up a good deal of energy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Does he not feel pain? There was no blood coming from the wound, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Was I just seeing things?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sorry.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You had me worried for a sec!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>For real.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Bucciarati, please...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Yeah, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We want to know the details.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The boss had us act as her bodyguards</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>so that he could k*ll his daughter with his own two hands.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Because she shares his blood, she could have figured out his true identity.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I found that out and...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I couldn't forgive him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I couldn't just come backpretending I didn't see that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's why I betrayed him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>How could you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Are you insane, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You know exactly what happens to traitors,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>no matter who it is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The boss never lets anyone get away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hell, Venice could already be surrounded by the boss's elite guard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're right, and that's why I'm going to need help.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If any of you are willing to accompany me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>come down these stairs and get on the boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But I will not order any of you to come with me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I won't even ask you to come with me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I did this all on my own.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So you don't need to feelobligated to come with me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This may come off as arrogant, but I'm going to say it anyway.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I did this because I believe I'm right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I have no regrets.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Despite the world we live in, I want to continue on the path that I believe
+            in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If we can just find his weakness...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Though we're only fleeing for now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I will defeat the boss, no matter what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I will find his weakness, no matter what!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I understand your reasons, and what you did was right, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>But I'm going to be blunt...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I hate to say it, but no one's going to get on that boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>How could you let your emotions take over like that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I owe you my life, but going with you now would be a different matter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You've lost sight of reality.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>No one can survive in this world on expectations alone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>We can't survive without the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo's absolutely right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What you did is basically suicide.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>No matter where in the world you might run to,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>you'll never find a safe haven again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Besides, I pledged my loyalty to the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's not like I pledged my loyalty to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That being said...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I never had a home or place I wanted to go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The only time I'm ever at ease</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>is when I'm with you, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Abbacchio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Y-You can't be serious, Abbacchio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If we actually manage to defeat the boss...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Considering my skills,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'd say I'm next in line to become a capo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati's smart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He never goes into a fight that he has no chance of winning.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We're gonna strike it rich for sure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Mista! Not you, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What are you going to do, Fugo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You've all l-lost your minds!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>We're going to be completely isolated!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Where are you going to run to?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>No, you won't even make it out of Venice alive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>what are you going to do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I-I... d-don't know what to do...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Tell me, Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Do you think I should go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you scared?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yeah... I'm r-really scared...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>B-But just order me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>If you order me to go with you, I'll be more confident!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Nothing scares me, as long as you order me to do it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is one thing I can't order you to do.You need to decide for yourself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You need to choose your own path.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>B-But I don't know what to do! I don't know!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But let me just give you this warning.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Don't come with me, Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're not cut out for this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Are you serious about this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You'll be k*lled, without a doubt.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>There are some things in this world that you just can't do, even if you're
+            right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Our job has always been dirty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>How is this any different?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Even then... I can't lie to myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Once the boat takes off, you're officially traitors!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Why? You're insane!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>All this for a woman you just met and barely talked to!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You don't even know what kind of music she likes!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Trish was abandoned by the people she trusted...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I was also abandoned before.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I was abandoned by my dad and the friends I trusted.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>We're sort of alike...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It's none of our business what the boss does with his daughter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Trish and I are sort of alike!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>All he had to do was close his eyes! I just don't understand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, give me the turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's put Trish inside it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Okay.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, please turn around.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'll go! I'll go, too! I'm coming with you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Don't order me not to go with you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Trish is me! She's me! The wound on her arm is my own!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Narancia... Not you, too...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You fool... You're going to be k*lled.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I can't go along with such a foolish betrayal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I can't become a righteous idiot...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You took way too long to make your decision.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You'd better not hold thisagainst us later on.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia, I have nothing but respect for your courage.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I guess Fugo didn't come after all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That was his choice to make.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I... I want to protect Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'll defeat the boss with you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>Squalo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We have some traitors... in Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>The names of the traitors are Bruno Bucciarati and Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>The boss's identity: UnknownStand name: Emperor CrimsonHas the ability to eliminate
+            a certain amount of time.Because of this, he can predict the future.
+            Invincible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Doppio</name>
+        <speech>They can be taken dead or alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>This is straight from the boss!</speech>
+    </dialogue>
+</xml>

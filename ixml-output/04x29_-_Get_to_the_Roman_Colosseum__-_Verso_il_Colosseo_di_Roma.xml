@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Any luck?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Try checking Interpol or even the Sardinian police records.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Do these fingerprints match any records?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's no use. There are no hits.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Even if the boss had a previous record, odds are he made sure it was
+            erased.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But it has to be somewhere...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's why he tried to eliminate</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>his own daughter and fears letting anyone know what he looks like.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Why don't we look through the records of the dead?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The boss might've faked his own death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's give it a shot.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>We can't let him get away with this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>A moment ago, just for a little while, I felt the same thing I felt in
+            Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>The one who got close to Abbacchio was...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>my father.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>This man finished Abbacchio with his own hands.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you saying that the boss is here, Trish?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Yes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I don't know where he is right now, but he's nearby.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Not right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If we don't find out the boss's identity for sure</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and k*ll him, we're going to lose.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We have to track down his identity first!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No hits.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's no use... The boss is meticulous.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's impossible to track him down any farther...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>That's not true!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>You have already tracked him down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>All that's left now is to find a way to defeat him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Get to the Roman Colosseum!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I've been waiting so long</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>for people like you, who'd do everything they could to track this man down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\c&amp;HBDBD&amp;\c&amp;HD&amp;}Screech</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Someone tracked us down instead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Giorno, cut the connection, quick!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Wait! Don't cut me off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I'm on your side!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>You want to defeat Diavolo, don't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Diavolo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Please believe me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I knew deep in my heart that someone who</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>wanted to defeat Diavolo would eventually show up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>That's why I always kept this line open.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I've been waiting for so long...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I waited for years, filled with hope.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I'm on your side!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I don't know about that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Diavolo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Just because you said that name</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>doesn't guarantee that you're on our side.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, cut the connection.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>His Stand is able to skip through time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Did you know that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Though I'm sure that</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>you're in a hurry to find out who he is because you know that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>He's on our side...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>This guy's on our side.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>No underling of my father's could've survived knowing his Stand ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Be quiet, Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We can't reveal more about ourselves just yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>All right. Let's hear what you have to say.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>First, tell us your name.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>My name doesn't matter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>My body is already in a state that prevents me from fighting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>What's important is whether or not you are actually able to defeat him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>His ability to erase time has no weaknesses.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I'm sure you're planning to assassinate him,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>but you are certain to fail!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you saying you know ofa way to defeat the boss?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>His Emperor Crimson is invincible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>But I do know of a slight possibility to defeat him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>It's just a possibility, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>You will have to obtain that possibility.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Obtain it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Come to me. Come to Rome!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>If you do that, I can give you this possibility!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Do you really think we'll go to you?We don't even know if we can trust you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I'm sure at least some of you know what this is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\c&amp;HBE&amp;\c&amp;H&amp;}Scr{\c&amp;HBA&amp;}e{\c&amp;HCFF&amp;}ech</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the arrow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>At least, it looks just like it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Why do you have that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I'll tell you that later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>You must come to my location to retrieve this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>He doesn't know the true way to use this arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>This arrow doesn't just awaken Stand abilities in people.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>There is hidden wisdom within it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I will tell you what it is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Come to Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>This arrow will defeat him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>It is your last and only hope!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Bring, ring, ring, ring, ring...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Hey, you there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>What the heck do you think you're doing, answering my phone?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>That call's for me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Give it here! You stupid brat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Hello? Yes, this is Doppio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>It's strange, Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>What is, Boss?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Bucciarati and his crew.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>They've lost Abbacchio, so they should be at a loss as to what to do now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>But that's not the case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>They've fled with no hesitation whatsoever.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>They're on that boat with a goal in mind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Look into it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Return to Abbacchio's last location and look around.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Something's not right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Look around?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>But what am I supposed to look for?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Fear is born</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>from an unexpected past.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>This is what I've been fearing</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>ever since I found out that I had a daughter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>There's nothing suspicious, boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>The statue's been destroyed, but that it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I know it. I can tell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Those traitors... There's no doubt about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>They figured something out that I don't know about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>They figured something out?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>What could it be? They didn't have that kind of time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>It's something that I'd never expect!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>That's enough, Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Go after them immediately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You have to track them down yourself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Yes, sir!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Also...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Cioccolata and Secco...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Have them stop Bucciarati and his crew.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I didn't want to ask for help from such filth, but I have no other choice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>This is the last time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Listen well, Doppio. One must destroy their fear.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>The moment is now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>We must get through this right now, no matter what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>That is what it means to be alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Who the heck is this guy waiting for us in Rome?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Can we really trust him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Who knows? But Bucciarati decided we're going.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What other options do we have?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Let me tell you a little story from the past.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>In Greenland, there's a place called Cape York where only Inuit people
+            live.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>It's famous for having a crater created by a meteorite.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>It's said to have fallen tens of thousands of years ago.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>In ...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Two men from a team that was surveying for natural resources within the
+            crater</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>contracted an unknown illness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>They both ended up with blisters all over their bodies,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>and eventually, they diedlooking like tomato sauce.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>On top of that, one of them suddenly shot a jolt like a stun g*n from his
+            finger</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>and accidentally burned a few fingers off the doctor treating him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>In later investigations, it was discovered that a virus,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>which was tens of thousands of years old, had been trapped</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>within the meteorite inside the crater.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>That virus may have flown here on the meteorite.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>A virus?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What about it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I tracked it down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>This arrow is made from the same material as the meteorite found in Cape
+            York!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Centuries ago, a man who craved absolute power like that of the gods</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>found out about this rock and created arrows from it. This is one of them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>This k*ller virus culls lifeforms.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>This is a theory called "viral evolution."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Most people who contract this virus will die,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>but some possess something that lets them survive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>And as if it were rewarding them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>the virus gives them a new life ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>This has already been proven, with your own bodies.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>So that's what Stands are...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>That is the root and principle of that arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I see. I understand that now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But what's this secret way of using the arrow</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>that we're supposed to retrieve?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>I can't tell you that until you come see me in Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>On top of that, I can only tell one of you what it is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Because no one else can ever find out about this secret power.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>But once you find out that method,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I guarantee that it will take you to another dimension.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>It is the only way to defeat Emperor Crimson.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There's no guarantee that your story is true.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But if the boss hears about this, he's definitely going to eliminate you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll trust you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>How do you want to meet?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Come to the Colosseum in Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Once you get there, you'll know.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>It doesn't matter what time. I'll be waiting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Man</name>
+        <speech>Everything will be revealed there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Come on! Get up, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Shut up! I'm gonna take a piss!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Seriously!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>I'm gonna do it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>This isn't the damn bathroom!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>There's no toilet here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk</name>
+        <speech>This is it, right here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk</name>
+        <speech>Damn, that feels good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>I'm gonna do it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Let's go up on land once those drunks leave.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Then we'll acquire a car immediately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>From there, we'll be in Rome within minutes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>All right, got it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Perfect timing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The moon's hidden behind the clouds, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Look, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There are some drunks sleeping over there, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it! Was there some kind of party tonight or what?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Come on! You're gonna get in trouble.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Come here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Let go of me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>I said I'm gonna do it, so I'm gonna do it, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>You can't! This isn't a bathroom!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>See? It's right here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Hey.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>How the hell am I supposed to reach like this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>How am I supposed to open my fly?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Wh-What the hell is that?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Drunk </name>
+        <speech>Don't touch me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\c&amp;HBE&amp;\c&amp;HEEF&amp;}Splash</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What'is going on?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's a Stand attack!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>They were waiting for us! There's an enemy here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Listen well, Secco.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>The thing you have to worry about most is running out of battery.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Finding out later that it didn't record pisses me off more than anything
+            else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You sure it's recording?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Excellent.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Eulogy_Predicts_ - Copy,Sign</name>
+        <speech>{\fad(,)\a&amp;HFF&amp;\pos(.,.)\clip(.,.,.,)}Eulogy Predicts the future a few dozen
+            seconds ahead.You are able to see what happens in the futureas though you're watching
+            footage on a TV. Youare also able to see beyond the time that's beenerased, and the
+            future seen in the footage isnever
+            wrong.\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h</speech>
+    </dialogue>
+    <dialogue>
+        <name>Eulogy_Predicts_,Sign</name>
+        <speech>{\fad(,)\pos(.,.)}EulogyPredicts the future a few dozen seconds ahead.You are able
+            to see what happens in the futureas though you're watching footage on a TV. Youare also
+            able to see beyond the time that's beenerased, and the future seen in the footage
+            isnever wrong.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Cioccolata, years old. A former doctor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>About two years ago, he let a patient die due to a simple mistake.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Once he was laid off from the hospital, Passione took him in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>He could be considered a failed elite,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but the boss found out his true nature after he became a Stand user.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It wasn't malpractice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>He had k*lled patients on purpose.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>He diagnosed countless people who were perfectly healthy</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>as being sick and operated on them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>He'd reduce the anesthesia so the patients would wake up during surgery, as
+            well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Ever since he was a young boy, he had always gotten top grades.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When he was fourteen, he volunteered to take care of the elderly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>However, in reality, he was administering</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>unknown drugs to the elderly people he looked after.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Also...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Your family hates you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>No one's going to come visit you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>He would say things like that every day,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>driving people to suicide.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>On his bookshelf at home,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>he had video tapes of the expressions the elderly made</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>when he told them those things.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>After driving nine elders to suicide,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>he decided he'd become a doctor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The thing that Cioccolata loved most was to observe people dying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The reason he became a doctor was so he could observe people's pain and
+            death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>While watching someone die,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>he felt superior to the rest of humanity,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>and felt as though he truly understood the psychology of the human race.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Cioccolata's one and only partner was Secco.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The only thing known about him is that he's Cioccolata's former patient.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>For some reason, they got along, and Secco only follows Cioccolata's
+            orders.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Even among the various Stand users that exist within Passione,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>this duo stands out as a pair of monsters.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>That's who Cioccolata and Secco are.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>It appears that their destination is Rome, boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>I just received word that they arrived at a local fishing village.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Listen well, Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Have Cioccolata stop and eliminate Bucciarati and his crew.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>But... you must catch up to those two, no matter what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Those two... yes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's rare that I ever feel repulsed by others,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>but Cioccolata is the worst piece of sh*t on the face of the earth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>He'll probably make a mess of Rome before he's done.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>So you think he'll go berserk?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>That's why you're going to catch up to them, Doppio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You must take control in the end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You must not let those two find out what Trish knows,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>nor what Bucciarati and his crew are looking for in Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You're the only one I can trust.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Do you understand? You're number one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>I understand, boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>That is what I live for.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Sorry, was that call too long?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Thank you very much, little girl.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Um, hewwo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell is that, Mista?! When did that get on you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;H&amp;\c&amp;HFD&amp;}Rum{\c&amp;HA&amp;}ble</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I have no idea!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Just hurry and find the user, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Find out where the enemy is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>This isn't good! There are a ton of civilians already down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>The enemy's range is basically the whole village!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>They actually involved innocent people in this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>This is going to make looking for the user...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Damn it! I can't tell them apart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Explain the situation, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>My hand just suddenly bubbled up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have no idea when this sh*t got on me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's almost like mold... It's making my skin rip open...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It looks like it's coming out from underneath my skin!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The same thing came out of the villagers, and their bodies have fallen
+            apart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Th-This isn't good, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>We can't go up on shore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There's no way we'll make it up the stairs to the parking lot.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>We're better off getting away from the shore on the boat for now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are there any signs of breathing on the shore?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There's no one on the shore!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Wait, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Until we know what attacked, it's too dangerous to move.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I know that if we go up on shore, we're gonna be attacked by whatever this thing
+            is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\c&amp;HEA&amp;\c&amp;H&amp;}F{\c&amp;H&amp;}w{\c&amp;HAA&amp;}o{\c&amp;HB&amp;}osh!!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It's on me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-Where the hell is it attacking from?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>M-Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Grab on to me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista! Don't stretch out your hand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This Stand has something like a switch that gives it the chance to attack!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Chance to attack?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What does that mean?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>As soon as I lowered my hand, the attack began!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Come to think of it, it first bubbled up on my hand</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>after I reached into my boot to get my g*n.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That drunk jumped down from the stairs and got attacked.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sign</name>
+        <speech>{\c&amp;HB&amp;\c&amp;H&amp;\c&amp;HADAB&amp;}Splash</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The other one had gone down the stairs...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And Narancia had jumped down into the boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\c&amp;HFA&amp;\c&amp;H&amp;\t(,,
+            \c&amp;HFFFFFF&amp;\c&amp;HFFFFFF&amp;\c&amp;HFFFFFF&amp;)}F{\c&amp;HA&amp;\t(,,
+            \c&amp;HFFFFFF&amp;)}w{\c&amp;HFA&amp;\t(,, \c&amp;HFFFFFF&amp;)}o{\c&amp;HBD&amp;\t(,,
+            \c&amp;HFFFFFF&amp;)}osh!!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;H&amp;\c&amp;HC&amp;}Menacing</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So the attack begins when our bodies move down to a lower location?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>B-But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HF&amp;\c&amp;H&amp;}Menacing</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HCE&amp;\c&amp;H&amp;}Guuush</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>At this rate, you guys will be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>He's not going down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>He's not boarding the boat to save the other one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I guess he's already figured out...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>exactly how...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>my Green Tea works.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mold...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I've read about this before...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's a particular type of mold that inhabits the inside of a bug.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>When that bug moves to a lower location, it propagates inside it and kills
+            it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Entomopathogenic fungus and caterpillar fungus.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This is very similar to that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If you move to a lower location from where you originally were, it reacts and
+            attacks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is a Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Why in the world would it work like that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>To expand the Stand's range even further!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Just as the mold spreads from within the dead bug,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>the corpses produce more corpses.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If the people move a bit further before dying, the mold's range just keeps
+            growing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's exactly what they want.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Because the Stand ability is the user's unconscious will.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Climb up, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Get off the boat and back on shore!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hurry up! Move forward more!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>My foot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Throw the turtle, Narancia! Throw it toward Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Plop</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Okay, Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's perfect. That spot's just fine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>ang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You and the turtle are in the absolute perfect spot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bom</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yee-haw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well done, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As long as we move upward, their attack won't begin.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>They made it back up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>All of those b*stards made it back onto the shore without a single one of them
+            dying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Interesting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Good. Excellent.</speech>
+    </dialogue>
+</xml>

@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Illuso</name>
+        <speech>What are you looking for here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I have no intention of telling you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Very well. There are still two others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I just need the last one standing to tell me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>You're finished. Take this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Footsteps... Someone outside the mirror is running.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Does that mean your friends decided to</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>abandon you so that they could go get something?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>They're heading toward the dog mosaic.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>That settles it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Fugo, you're basically done for already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'm going to go get whatever that thing is first!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>W-Wait, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Abbacchio... Giorno...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Where is it? Where is this key?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>There it is. That must be it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>A mirror?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Has that always been there?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What is that? A key?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I guess I just have to take that key from you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's... It couldn't be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Now that you've seen me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>you're finished, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Mirror Man and Purple Smoke</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Sh-sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm starting to understand the enemy's ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So he's inside the mirror...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Assuming that's even possible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo must've been dragged into the mirror and disappeared,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>separating him from his Stand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Regardless, right now, I need to grab that key!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Shattering the mirror actually worked in my favor, Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Anything reflected becomes an entrance to this world.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Now that it's in shards, I have even more entrances to grab you from!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>And I'll give you, and only you, permission to come into the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>There! I've brought you in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'll be taking that key, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>O-Only a Stand can grab the neck of another Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>There's no way you could grab Mirror Man's neckwhen I'm the one who dragged you in
+            here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Shattering the mirror didn't actually work in your favor!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It just means the space you can look outside from became smaller!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You couldn't see who you dragged in here, could you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You gave permission...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>for just me to enter?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Th-That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Grazie! I'll happily get dragged in!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Moody Jazz!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>sh*t! That's a Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Inside the mirror...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>So it's a world where everything's reversed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Of course we couldn't know.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's no way we'd comprehend this ability until we were actually
+            attacked.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo must be in here, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So, how do we get out of here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>If I have to k*ll you to get out of here, that's fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That's why I sent Moody Jazz in there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>The ability to transform into others...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Well, sh*t. You got me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Looks like your Stand itself isn't that strong.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So, what? Can it only defeat powerless humans?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Well, what are you waiting for? Get on your feet and come at me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Listen up... Like I said at the start, you're already done for.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I must say, I was a little surprised when it was your Stand that came in,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>but that doesn't change a thing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>The reason I'm not standing is so that I can crouch down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'm crouching because I need to!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Well, yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You're bent over to make it easier to kick you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I was crouching so I could pick up this shard of the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Hey, why are you so surprised?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Is it because I have this arm?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'm sure you're very familiar with this arm!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I told you! Anything that reflects becomes an entrance!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>If I can get your reflection with a different shard,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>that becomes another entrance!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Do you get it now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>It's your arm that I dragged in here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>To make sure you can't move about, I'll only allow half of your body to come
+            in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>As for your Stand, I permit half of it to get out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Now your Stand won't be able to move!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>The key's mine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Damn it. He's going to take the key.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That doesn't just mean we failed the mission.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It also means that Giorno will end up being correct!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And I humbly decline!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We're going to solve this mystery, save Fugo, and defeat the enemy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's the best way to ensure we're all safe!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Damn it... My pride's not going to stand for that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm not letting him have that key!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I swear on my pride and my dignity that I, Leone Abbacchio,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>will protect this key!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>It's true. Because Mirror Man uses all its energy to drag someone in,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>it doesn't have much destructive power. That is indeed one of its traits!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>But if I do this to you, we don't exactly need strength to k*ll you off
+            instantly!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>If we just stab this in with the strength of a four-year-old child, it's pretty
+            easy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I win! Thanks for telling me where the key i—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Something wrong? Go on, finish me off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What the hell are you doing, Abbacchio?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>How dare you hide it from me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Even if you can move with your current body, it won't be much!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'll be able to tell immediately! Get it?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hide?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What are you talking about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What exactly did I hide, and where?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What the hell are you doing, you b*stard?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Let me see that hand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Seriously, what the hell are you doing, you b*stard?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Did you lose something?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Did you find what you were looking for? Well?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Why did he do that to his own hand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Wait... If he chopped off his own hand,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>his Stand's hand outside the mirror is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>It can't be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Its hand is gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Don't tell me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I-It has the key!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>And it's going back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>If I remember correctly, a newbie named Giorno is just around the corner!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>He chopped off that hand to give him the key?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You should've sliced open my throat when you had the chance.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>If you had, my Stand's hand would've stopped moving.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Whoops, so close. But you're a bit too late.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That was the sound of the key falling to the ground.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The key is going to get picked up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>That's some bullshit you pulled off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>But I'm not letting that brat named Giorno get away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'll drag him in here, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Do you understand now, Giorno, you shithead?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>All that matters is that one of us returns safely.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>If you return safely with the key...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The most important thing is to fulfill the mission.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Hey, Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Can you even imagine what's going on over here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>You sure have a loyal companion.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>After you worked so hard to deliver the key...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What do you think's going on over here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Not a damn thing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>That brat's not running away at all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>It looks like he doesn't have a clue what's going on.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Giorno! Get the hell out of here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Take the key and run!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>He won't hear you when you're screaming inside this mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Sh-sh*t...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Now then, there are two possible actions I could take.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>First is disposing of Giorno after I get the key.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Second is slitting Giorno's throat first, then safely retrieving the key.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Let's see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I guess I'll slit Giorno's throat first!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>He's noticed me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'll allow only Giorno to enter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I've dragged him in!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Slice open his throat, Mirror Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Wh-Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>H-He's... That's impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>It's the virus! G-Giorno...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He's been infected by Fugo's Purple Smoke!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gior</name>
+        <speech>You're not getting the key!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And Fugo, Abbacchio, and I... will safely return to the others!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Pannacotta Fugo</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Purple Smoke</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Giorno Giovanna... That brat doesn't understand anything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You're going to die if you infect yourself with Purple Smoke's virus!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>My heart died along with him back then.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I don't feel anything anymore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I don't feel a damn thing, even though I've lost my hand...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The only time I can feel at ease</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>is when I'm following the orders of something great and absolute.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Because then, all I need to do is be a soldier who doesn't have to think for
+            himself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Meaning...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Getting the key and protecting the boss's daughter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Carrying out this mission is the most important thing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>And yet Giorno... That stupid brat...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He chose to put himself in danger to</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>save Fugo and me, rather than taking the key back safely!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Damn you, you stupid brat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>How dare you come in here infected?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Are you out of your damn mind?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Now I'm infected, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Ah, yes. You seem to be experiencing the same symptoms as me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Apparently Purple Smoke's virus infects your whole body within thirty
+            seconds.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's over now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It was over as soon as you dragged me in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Shards of the mirror that Purple Smoke shattered...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Did Giorno put them back together?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>When the enemy chased after Abbacchio, he took some shards with him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Giorno must've realized that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He then figured out the enemy's ability from that,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>then infected himself with the virus and</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>allowed himself to be dragged into the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Because there's no other way to defeat this enemy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Damn it! Of all the underhanded...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>But don't underestimate me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>It's not too late yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I need more resolve, but it's not too late yet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Mirror Man! Allow only me to leave this mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>But don't allow the virus!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>The part of me that's infected is not allowed to leave!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's not good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>If he gets outside, the virus will be separated from him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Abbacchio lopped off his own hand to get the key.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>So, I, Illuso, c-can do the same thing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>This is nothing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Giorno! Grab him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He got away...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Giorno... After you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>risked your own life to come in here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>So... he stepped outside the mirror.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Th-That was really close, but, ha!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>My resolve... My resolve wins in the end!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>This is nothing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>I figured he'd go outside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's for the best, though. He's going down, no matter what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Now that he's stepped outside, there's a chance I might survive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Fugo! Now that he's outside, Purple Smoke can follow him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Finish him off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I can't, Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I can't tell where he is from inside here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I have no way to attack him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I know where he is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind, who's outside, turned that brick into a snake.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's why it's moving.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Snakes can tell where humans are by sensing their body temperature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Got him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>A-After I built up the resolve to chop off my own arm and came out here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>This... This can't...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>S-Stop it! Stop! Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'm going to be infected! I-If that virus capsule bursts...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I-It looks like luck hasn't completely abandoned me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>If Mirror Man can stop this thing's punch even for a moment...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>If I can just block it once...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Let him have it, Purple Smoke!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Mirror Man! Use everything you have left!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I did it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I stopped it! Now I just need to take this arm...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>into the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>B-But I blocked its punch...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>After I built up the resolve... to leave the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>W-We did it! We're outside the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>We defeated him, so his ability disappeared!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>B-But Giorno, Purple Smoke's virus has already spread throughout your body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Once you've been infected, even I can't do anything about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yes, Fugo, and this is how it should be.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Him leaving the mirror worked out for the best.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Once I was infected and he dragged me into the mirror,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>his defeat was inevitable.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But I was glad when he refused to admit defeat and left the mirror.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Since the mirror world was undone before I died,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I was able to encounter this snake.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Th-That snake...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It's alive, even though it's surrounded by Purple Smoke's virus!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I created this snake from the brick where Purple Smoke's capsule was
+            broken.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Since it was born from a place that was covered with the virus, it won't get
+            sick.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Do you know what that means?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>That snake has immunity!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>And if we take blood or cells from something with immunity...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>We can create a serum that'll stop the virus from spreading!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Extract the serum from this snake and inject it into me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Giorno Giovanna...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I thought he was some newbie that I just couldn't figure out,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>but he comes up with the most insane ideas and pulls them off...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>And there's something I can trust behind that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It's not something that's spoken.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He has true loyalty within him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Just like Bucciarati did back then!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Giorno! You have my utmost respect after risking your life!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No, Fugo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm not the one who risked my life here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I just made a prediction and followed through.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The one who truly risked his life here... was Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>His hand is in grave condition right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's the one who risked his life to protect the key...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And if he hadn't carried the key all the way here,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>we couldn't have defeated the enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Please don't worry about me... and go tend to his wounds...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Are you okay, Giorno?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Damn it, Giorno...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I was going...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>to beat the sh*t out of you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>But with my hand like this, I guess I can't.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'll just have to do it later...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Thus, they got the key they were ordered to retrieve!</speech>
+    </dialogue>
+</xml>

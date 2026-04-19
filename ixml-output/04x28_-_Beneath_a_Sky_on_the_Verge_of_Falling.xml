@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Boss</name>
+        <speech>Which means that the only thing Li'l Bomber can track right now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>I was winning...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>I would've won...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>But you had thrown the scalpels at them...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>Boss...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He's down! Li'l Bomber finished him off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>All right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'll go find out who it was.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hold on, Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We don't know how many of the boss's men are on this beach right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I need you to hurry</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and replay the footage of the one who took the photo of Trish's mother</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>on this beach fifteen years ago.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We need to get out of here as soon as we can, or we'll be in danger.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>But there's only one of them on the cliff!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Bucciarati, I remember the Stand from the plane.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Despite Mista turning that guy into a corpse, we still went through hell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I have to confirm who's up on that cliff, or I won't be able to relax.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia, is the enemy up there dead?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He's barely hanging on.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>But his breathing has just about ceased.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He hasn't moved a millimeter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>All right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Narancia and I will be the ones to go and check.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Use your Moody Jazz to get the replay going right away.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>All right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We can't stay here for too long.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>How much time do you need?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Well, we're talking fifteen years ago.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It'll probably take eight to ten minutes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Do it in five.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, Trish, and Mista are standing by in the turtle, so I'll bring them out here,
+            too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And the moment we learn the boss's true identity from Moody Jazz's replay,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>we'll leave here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia, use Li'l Bomber to signal for Giorno and the others to get out
+            here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You got it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>I finally... figured it out...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>I know... your identity...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>Before I die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>show me... show me your face...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I will not allow you to continue this conversation any longer, Risotto
+            Nero.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>The last thing I wanted was for Bucciarati and his crew to find out we were
+            here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You should die with pride as the leader</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>of the Hitman Team, since you made it this far.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I'm sure your men who are waiting in the afterlife will be proud of you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>You're going to die at any second.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>And Bucciarati will come find you up here at any moment.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Before that happens, give me back all the iron you stole from my body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>If you do, I'll finish you off myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Wouldn't it be the worst embarrassment of your life if you were</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>to die slowly and miserably in front of Bucciarati</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and his men, who took the lives of your team?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Not to mention, they already consider you a pathetic enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>I... die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>What was that? I couldn't hear you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Hurry up and give me back the iron that was in my body, Risotto Nero.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>I'm saying... that I won't die alone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>Within the chunks of flesh that Li'l Bomber blew off...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>The parts of me that scattered...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>This time, I'll be the one using it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Rios</name>
+        <speech>Li'l Bomber, that is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>Die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the heck? Li'l Bomber is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>That b*stard stuck itself to my Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HE&amp;\c&amp;HF&amp;}F{\c&amp;HED&amp;}o{\c&amp;HCFFFB&amp;}o{\c&amp;HAE&amp;}m</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Emperor Crimson.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I blew away . seconds' worth of time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Everything that was in this world within that span disappeared,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and all that remains is what happened after those . seconds.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Just the results of the b*ll*ts hitting you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HDB&amp;\c&amp;HD&amp;}Rata tat tat tat tat tat</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Well done, Risotto Nero.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You died before you could lose your pride.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>But that also means I'm still facing this unfortunate predicament.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>This isn't good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have to do something...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you sure, Narancia?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Something made its way into Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>They're coming...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I have to hide... and somehow replenish my iron...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Stop right here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We need to assess the situation carefully from here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Got it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It's all right, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>His breath's completely stopped, and his Stand has disappeared.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He's definitely dead.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Though, I shot him in the face, so it might be hard to tell who he actually
+            was.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That man is probably the leader of the Hitman Team.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>How can you tell?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's here alone without a team, which means that either</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>he was a very confident k*ller someone sent after us,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>or he had no one left on his team.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And he was just k*lled by whoever this other very confident k*ller was</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>for getting in the way.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Uh, hello? Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It was my Li'l Bomber that turned him into a honeycomb—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're wrong. You were just being used.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There was someone else here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Look at his right foot.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Li'l Bomber's attacks would have left burn marks.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But there are no burn marks on that foot.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It was only torn off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>But... there was only one person on Li'l Bomber's radar!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm still not getting any other signal!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>And why would anyone need to do that, anyway?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Neither of them likely expected</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>the other to be as powerful as themselves, so the survivor is probably very badly
+            wounded.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Though, I don't know how they're hiding their breathing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia, you sent out a signal for Giorno and the others to gather, didn't
+            you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>They should be heading to the place the picture came from right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>All right, let's go after them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>From now on, don't overlook even the smallest hint of breathing,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>even if it's a lizard or a mouse.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The other k*ller is still nearby.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's an extremely dangerous k*ller sent by the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>To think I'd have to endure this hell</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>back home on Sardinia,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>all because of those b*stards...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I know this is a rocky area, but there are way more than I expected.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>When I'm tracking the breathing of things like frogs and field mice,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>there are just too many!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>And if I make the range too sensitive,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'll even pick up the breathing of the tourists and the exhaust from their
+            cars.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Damn it! Should I just light this whole place up?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Calm down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Frogs and field mice will try to hide in nearby holes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Those aren't the movements you're looking for.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Look for the movement of someone trying to get away from us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Movement of someone trying to get away from us...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I have to hurry...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Abbacchio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>I have to stop his Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That must be it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, where are Narancia and Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I only see Abbacchio on the beach.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>An enemy must've appeared.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>They're probably pursuing the enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And it seems that Abbacchio hasn't started his replay yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Trish remembered that the photo was taken fifteen years ago in June,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but she doesn't know the exact date.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Moody Jazz is searching with a timer for the exact time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>When it figures that out...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It'll be able to change into the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let's go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Hey, let's play over here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>You're the goalie today.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid </name>
+        <speech>What? No way!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Rock-paper-scissors, then!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well? Can you tell them apart?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I found it, Bucciarati! There's just one!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It's meters to our right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That must be it. It's not very fast,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>but it's headed toward the tourists!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia, don't attack just yet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>First, we have to determine exactly who we're dealing with.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>His movement stopped.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Blood?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You, there! I'm about to attack you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If you are unable to fight anymore, come out from behind that rock.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I promise not to take your life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll wait just three seconds. Got it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's been three seconds!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I take it you're prepared to fight!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HD&amp;\c&amp;HAB&amp;}R{\c&amp;HD&amp;}i{\c&amp;HDFAD&amp;}p</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Hey, come on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid </name>
+        <speech>Where the heck are you kicking the ball? You suck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Oh, come on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>It's your fault for not being able to get it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Just shut up and go get it already!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>You go get it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's already the th. June's going to be over soon.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>How long is this gonna take?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It better actually be June fifteen years ago, damn it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Higher! Higher, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Throw some rocks at it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Shake the branches! Climb up there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey! Pipe down, you little brats!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Go play someplace where there's more room!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Duh, we know that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Who the heck kicked it up there?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Hey! Stop throwing rocks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Reach out your hand a little more!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>I know, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>I can't reach any further!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Oh, hell. Go on, move out of the way!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell is this?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wait.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Don't attack, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's just a kid! He's one of the tourists!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>His mouth is sewn shut with the laces from his sneakers!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Only a Stand user could have done this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They must've switched places with him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And by the look of this kid, he seems to have lost a lot of blood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But where did all that blood go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell?! Where's the b*stard that did this to him?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>How the hell did he disappear?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He was super weak a second ago!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I don't know...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What in the world is going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Thanks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>All right!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>C'mon, let's hurry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Thanks, mister!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Thanks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Hey, wait up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dop</name>
+        <speech>Thanks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Nothing beats coming back home.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Boss</name>
+        <speech>Luck's on my side.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>Let's go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid </name>
+        <speech>Kick it right this time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>You're the one who kicked it over there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Kid</name>
+        <speech>I don't know what you're talking about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\c&amp;HFC&amp;\fad(,)}Leone Abbacchio</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\c&amp;HAC&amp;\fad(,)}Moody Jazz</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Uh... What are you doing under there, officer?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Sorry to bother you while you're eating.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>I'm conducting an investigation.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>I'm looking for fingerprints.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>There was a robbery across the street last night.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>The victim was struck with a bottle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>It shattered, and shards went everywhere.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>But all the shards weren't on the sidewalk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Particularly the part that was being held.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>We heard that the suspect threw something away here,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>so I thought I might find something in this recycling bin.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>I should be able to get some fingerprints.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>That's the part I'm looking for.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You're going to look through all that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Well, it's my job.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Yeah...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Say, uh...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Yes?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>For reference... I'm just curious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What are you going to do if you don't find the shards?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You might not get any fingerprints.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>No... Even worse, if you do find them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>and the suspect hires a crafty lawyer and is found not guilty...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What makes you keep working so hard despite all those problems?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm not just after the result.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>When all you want is the result, you start to look for shortcuts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>And if you take that shortcut, you might lose sight of the truth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>You'll become less motivated.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>I think the most important thing is the will to find the truth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>As long as you have that,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>even if the suspect gets away this time, you'll get them eventually, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Because that's what you're after.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Don't you think so?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I envy you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I used to think I wanted to become a police officer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Ever since I was a kid,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I wanted to become a distinguished police officer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>At some point, I even had that same will you have.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>But I messed up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You see, people like me</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>are worthless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We never see things to the end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We always mess up somewhere along the way.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>That's not true, Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>You're doing great.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>We have the same will.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>That will you had when you first became a police officer</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>resides within your heart again now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Why...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>do you know my name?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Come to think of it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I think we've met before.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Where are you going, Abbacchio?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm getting on that bus!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm starting to remember...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's right!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have to go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I need to get back to my comrades!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Did you forget, Abbacchio?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>You came here on that bus.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>This is the last stop.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>You can never return.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Y-You're...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's right! You're...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You're the one who died because I took that bribe...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Abbacchio, you did very well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>That's right...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>So well that I can say I'm proud of you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>No way...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>This can't be happening!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>God damn it! You can't be serious!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Hurry up and heal him, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I said hurry up and heal him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Don't make me kick your face in, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It happened in a moment...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It happened in a second at close range.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We were too late...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We were too late.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>How could someone like Abbacchio</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>let him get that close?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Don't let Trish out of the turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy will probably attack again, to try to finish Trish off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We have to leave here immediately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is my fault.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We can't gather any more clues about the boss here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Wh-What are you talking about, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Abbacchio is gonna wake up any second!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It's just taking a bit longer than usual!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He'll wake up if we just wait a little longer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Right, Giorno?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>That's what happened before, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>H-Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's enough, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's too dangerous here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You need to use Li'l Bomber to survey the area.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What are you talking about, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell are you talking about?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>If the enemy's gonna show up, I'll k*ll him right here, right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>If he's nearby, I'll face him head-on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Mista! Right, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Hey, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We have to go, Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Just as Bucciarati said!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Wh-What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What did you just say?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're probably just not trying hard enough!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bring him back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Give it all you have, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's enough, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Shut the hell up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Abbacchio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Are we just going to leave him here, Bucciarati?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Are we just going to leave Abbacchio all alone?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I don't want to leave him behind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is an order, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio knew that this was a possibility when he came here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We're leaving.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bucciarati, wait!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, wait. Just for a moment.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This must mean something. It has to.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's holding something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What is it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It looks like a piece of rock from somewhere.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It must mean something. Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Go back to where you came from!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, look!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Apparently, Abbacchio had completed his replay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is a death mask!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>A death mask from the replay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Right before Abbacchio's Moody Jazz disappeared...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It took the last of its Stand energy</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and pressed its transformed face into the stone pillar!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio left us this at the very end!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is the boss's true face!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Abbacchio, you did a great job.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>And your will to get to your truth...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>The ones left behind will get it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cop</name>
+        <speech>Because that's what important.</speech>
+    </dialogue>
+</xml>

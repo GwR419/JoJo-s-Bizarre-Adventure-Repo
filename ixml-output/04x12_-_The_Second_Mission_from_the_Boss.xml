@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Bruno</name>
+        <speech>"Head to the Pompeii Archaeological Park. I've hidden a key near the dog
+            mosaic."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>"That key is for a vehicle that'll bring my daughter safely to me."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Fugo! Abbacchio! Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You three head to Pompeii and get that key!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio The Second Mission from the Boss</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>The city of Pompeii was known to the Romans as a peaceful, prosperous health
+            resort.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It was then abruptly destroyed by the lapilli and lava</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>that came from the eruption of Mt. Vesuvius</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>on August th, AD.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Later, archaeologists discovered that all the houses, streets,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>wine bottles, and even carriage tracks left behind</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>were preserved as they were when the volcano erupted , years ago.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>The dog mosaic we're looking for</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>is located near the entrance of the House of the Tragic Poet in Pompeii.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Oh, Fugo,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>you were supposed to turn right at that corner, not left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You should've told me sooner, Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What point is there if you tell me that after I turn?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're exactly right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I apologize. I'll be more careful next time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>That's not the point here, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, Fugo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We're in a hurry, so don't lose it now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I know that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Well, Fugo's always like this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm more concerned about this newbie, Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>If Bucciarati insists that I treat him as one of us, I'll follow his
+            orders,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>but there's just something I don't like about him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>This guy's going to do something...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Something that might get us k*lled.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Pompeii, huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I haven't been here since I visited on a field trip as a kid.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Abbacchio, Giorno, let's hurry.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>The place we're looking for is about meters ahead.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It should take us about thirty minutes to get what we need</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and get back to the others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Abbacchio, Giorno, be on your guard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>To think we'd be found so soon...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>How many are there?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>One... for now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He's peeking around that stone pillar behind us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Pillar? Which one would that be?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Wake up, Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>There's only one pillar.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Can't you see it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo, there is definitely a single pillar,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>but I don't see anyone, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Quit messing around! He's heading right toward us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>There! The guy walking over here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>H-He was right there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>A guy came out from behind that pillar!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I saw him in this mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>There! He's right there! He's coming out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>H-He's inside the mirror?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He's revealed his Stand! Who's going to fight him?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hold on, Fugo. I have no idea what you're talking about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Is something wrong with the mirror?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>This isn't good! He's going to attack!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Get away from the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Giorno! Abbacchio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Wh-Where are you, Giorno? Abbacchio?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Where did you go?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>The guy who was in the mirror is gone, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What did he do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It was bizarre to have a mirror hanging in a place like this to begin with!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What in the world is this ability?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I don't...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I don't know what it is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>But there's something off about this scenery.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'm right here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Pannacotta Fugo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Highly intelligent, with an IQ of , and entered university at the age of
+            thirteen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>But he went berserk on a professor there</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and beat him senseless with a four-kilogram encyclopedia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>From then on, he spiraled down to where he is now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>The ones who accompanied him are the former cop Leone Abbacchio and...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>No documents on the other guy. He must be new.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I think I heard you call him Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What did you do to them?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Y-You b*stard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Where did you hide them?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>My watch is backwards?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Also, I was wearing it on my left wrist, but now it's on my right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>D-Don't tell me this place is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Your ability is—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I guess you're pretty quick on the uptake.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>One at a time, Fugo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>It didn't really matter who was first,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>but we'll start with you, since you were the first to look at the mirror.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I-It wasn't Abbacchio and Giorno that disappeared...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>W-We're inside the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It was me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm the one who was dragged in!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Where did you go, Fugo?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Didn't you see anything?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm not sure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It looked as though he suddenly disappeared to me, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo! Where did you go?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Before he disappeared, Fugo yelled at us to get away from the mirror.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And he asked whether we could see the man walking from behind the the
+            pillar.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This mirror...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Is there something... about this mirror?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>The question is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Where did you hide the boss's daughter?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>That's the most important question...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>But I'm pretty sure I also need to know why</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>you three came to Pompeii, the city of death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I figure you're here to look for something...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>And if that's the case, you came here to get something that'll help you protect the
+            girl,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>isn't that right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>If you turn just up the way, it'll lead you to the famous dog mosaic.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Is there something there?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Well?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'll be taking it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Tell me what you came here for, Fugo!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I refuse!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Then die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>No...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You'll be the one dying when you witness my ability!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Purple Smoke!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>My Stand won't appear?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I see... So your Stand is named Purple Smoke.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Something's wrong. My Stand did come out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I can feel it... So why?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, Giorno...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Slowly walk toward me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Slowly what?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Just come over here, you dumbass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Forget the "slowly" part! Just get over here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What?! Th-That's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Giorno! Forget about that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's not our enemy! That's Fugo's Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Just hurry up and get away from it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Don't get any closer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Fugo's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Get away from Purple Smoke!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hurry up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Your current location is inside the mirror.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'm sure you can figure out exactly why I dragged you in here alone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>If I'd brought you in here along with the others,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>who can fight, it'd put me in danger!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I control the inside of the mirror... That's my ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>All the things in here are objects that have no life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>You and I are the only living beings here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>That's because I didn't allow anyone else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I only allowed you, and you alone, to come in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Which means... your Stand ability was left outside!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>This is my Mirror Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Purple Smoke has appeared outside the mirror.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Then there should be some way to fight!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign bot</name>
+        <speech>Mirror Man</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign top</name>
+        <speech>Illuso</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Pannacotta Fugo was born into a wealthy family</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>that owned a huge home in the suburbs of Naples.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>On top of being born into a life of luxury,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>he was born with high intellect, having an IQ of .</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It appeared as though he lived the perfect life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>But the weight of the expectations that his parents and others</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>put on Fugo were slowly crushing his young heart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>At times, Fugo would experience fits of rage that even he didn't
+            understand,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but he would do everything he could to control them and get by.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Then, when he entered university just after turning thirteen,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>that rage went out of control in the worst possible way.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>Fugo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Professor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>What are you doing here so late?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I'm working on the assignment due next week. I couldn't find the right judicial
+            precedent...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>Oh, come on.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>I told you that if there's anything you didn't understand, you could come to me
+            anytime.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>No, I shouldn't keep bothering you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>My job is to teach and lead young people like you in the right direction.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>How about it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Why don't you come by my house again for dinner, and...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Please excuse me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>Now, wait just a moment.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>I wouldn't mind telling you what's going to be on the next test...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>It'll be fine. Just relax, now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Stop... Stop...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Stop. Stop. Stop. Stop!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Creep</name>
+        <speech>I'll be gentle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I told you to stop, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I looked up to you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You piece of sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Did you hear?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>Apparently Fugo's really close with one of the professors.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Are you sure he wasn't the one to lead him on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>That's probably how he got into this school, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Fugo's parents used their money to ensure he was found not guilty,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but they then treated him like filth and disowned him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>All alone, Fugo started shoplifting and picking pockets to survive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Ironically, this lifestyle actually let him use his intellect to its full
+            potential.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You little b*stard! How dare you try to dine and dash?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'm gonna make sure they throw you in jail!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>No, that won't be possible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Are you familiar with the De Sica vs. Argento case from ?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Going by that judicial precedent,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>there's a very good chance that the court will see this as me acting out of
+            necessity.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Mr. Bucciarati! Please say something to this brat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well, that sounds interesting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>That was right around the time Bucciarati was thinking about creating his own
+            team.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>That basically sums up my life story.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Please don't pity me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>I don't think of myself as unfortunate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I see. But, well... I think our meeting is fate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Would you like to join my team, Pannacotta Fugo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I want your intellect and knowledge.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Mr. Bucciarati, was it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Joining a g*ng doesn't sound so bad, but I've already made up my mind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I'm going to live on my own, not bothering with anyone else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Oh? And why is that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I told you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>When I lose my temper, I do horrifying things.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>If I were to join your team, I might even end up k*lling you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>In that case, let's see if that'll actually happen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Come with me, Fugo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll bring out the best in you,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-flashback</name>
+        <speech>including that fierce, impulsive rage of yours.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Those words moved Fugo's heart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>After that, Fugo underwent Polpo's test and gained Purple Smoke.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>So this is Fugo's Stand...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Fugo's not here, but his Stand appeared for some reason.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Since that thing appeared, Fugo must be okay for the time being, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Damn it! Where the hell is Fugo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>How's he protecting himself?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Get back, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Get back even further!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo rarely lets this guy out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He only does when he's in serious trouble.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Which means that Fugo's trying to fight somewhere!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Get further back, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He seems to be more worried about that Stand than about where Fugo is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He acts like he feels threatened.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What the? It just started attacking out of nowhere!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>This isn't good. We really shouldn't stay here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We're getting out of here! Come on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I don't know what you're talking about!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's something in that mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We need to find where Fugo is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That's far more important right no—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Stop talking back to me, you little sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I don't care what happens to you,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but I'm trying to be nice and warn you, since you don't know what's going
+            on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It punched it! Run, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>So you activated your Stand outside the mirror.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>But... that doesn't mean a thing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>It doesn't matter what your Stand tries to do with its ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It will never be able to hit me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>But I can hit you as many times as I like and finish you off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>A crow?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>Why did a crow fall?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>A crow just suddenly...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Stay back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>When Purple Smoke uses its fists, no one can stay nearby.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>What the hell is with these corpses?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's a k*ller virus.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's Fugo's Stand, Purple Smoke's ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>A virus?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Look at its hand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>When it hits something with its fist, that capsule breaks open,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>and the virus comes spilling out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The virus disperses into the air and enters your body</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>through inhalation or skin contact.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It then multiplies rapidly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It infects its host within thirty seconds, then kills them instantly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>And once the virus spreads, it doesn't matter who's nearby, be they friend or
+            foe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Just like those crows, all of your metabolic functions will shut down,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and you'll die as you rot from the inside out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That includes your Stand, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What's its range?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Five meters.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Right now, Fugo should be controlling his Stand</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>somewhere within five meters of his opponent.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's definitely important, but what's the range on the virus?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>How close do you have to be to be infected by the virus?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>At this distance, we should be safe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The virus that comes from that capsule dies</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>within a few dozen seconds of exposure to an average indoor level of light.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So those crow corpses will soon be disinfected by the sunlight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Savage!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It attacks like an expl*si*n, and then disappears like a storm.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's a Stand that personifies Fugo's violent nature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What's it doing?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I think it's trying to wipe off the drool that dripped on its leg.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It always looks pissed off, but it's apparently</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>really high-strung, and really cares about being clean.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I guess you could say that's the Stand's idiosyncrasy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It doesn't look like the Stand itself is very intelligent...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's just a reflection of his violent side.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That would also mean Fugo's isn't able to see Purple Smoke.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He's not controlling it properly at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>If he was, he wouldn't let it do that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>This corpse...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>This crow...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>Is it sick?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illuso</name>
+        <speech>Was it infected by some virus or bacteria?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I knew it... Fugo's unable to control it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It just attacked some random spot again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Wait, is it actually random?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There must be something in that mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Now the mirror got attacked from the outside...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>But it's no use, Fugo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>That's just a normal mirror,the kind you can find anywhere.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>No matter what your Stand is doing out there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>No matter what ability it may use...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Not even viruses can enter Mirror Man's world!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Abbacchio, Giorno, please get my message...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Please make sure you don't get dragged into the mirror!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We need to hurry, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Don't just stand there! Let's go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let me ask you this... Where are we going?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>To get the key?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're willing to abandon Fugo, who's in danger right now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Watch your mouth, you b*stard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Listen up. Our mission is to get the key and safely get that girl to the
+            boss!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I want to save Fugo as much as you do,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>but getting that key is paramount right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Even if I was the one currently being attacked instead of Fugo,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I would want you guys to abandon me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I beg your pardon...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but I don't believe that's true!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Fugo is indeed in danger, but he hasn't lost!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We should risk our lives and save him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And making any movements when we don't know the enemy's ability</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>is dangerous to us, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>No! All three of us being taken out is the worst possible outcome!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'll say it again! We're moving on! Come on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And I humbly decline!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We're going to solve this mystery, save Fugo, and defeat the enemy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's the best way to ensure we're all safe!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I have seniority here, so in this situation, what I say goes!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Are you still going to decline?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You'd better be prepared!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That is, if you manage to survive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I'll ask you one more time, Fugo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>What are you looking for here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I have no intention of telling you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>Very well. There are still two others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>I just need the last one standing to tell me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Illu</name>
+        <speech>You're finished. Take this!</speech>
+    </dialogue>
+</xml>

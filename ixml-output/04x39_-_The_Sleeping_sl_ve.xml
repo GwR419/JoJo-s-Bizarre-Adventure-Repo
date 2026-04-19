@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Op subs</name>
+        <speech>No one can escape the fate that was chosen for them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Op subs</name>
+        <speech>All that remains is the end, where you will all perish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio The Sleeping sl*ve</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati? This stone is definitely shaped like...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey! Are you the sculptor?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Who the hell are you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Don't you dare try anything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I didn't k*ll you because I was ordered not to,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but now that I know you're a Stand user,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>there's no guarantee that I won't add another hole between your eye
+            sockets!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Who the hell are you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>How do you know Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The florist's daughter falling to her death is concerning,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but why did you follow me from the restaurant?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Daughter?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Are you a police officer?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>No, the police wouldn't—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Listen up, you sick b*stard! I'll be the one asking questions here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You just need to answer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Just concentrate on that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Got that? Don't even think about saying or doing anything else!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That also includes lying to me. Got it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>All right... I'll ask you one question at a time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>First off, are you in a g*ng?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Do you belong to some organization?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I can find out later if I look into it, of course.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>N-No... I'm just a sculptor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I'm not famous, but I make a living off of it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Then how did you become a Stand user?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I don't even know what a Stand is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>If you mean this ability...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It just started happening while I was still a child.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Was it the same for you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Next question. Why did you follow me from the restaurant?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And how do you know Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Bucciarati... Is that his name?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Let me see him, please! He came with you to this building, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, hey, hey, hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You didn't answer my question, you moron!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I-It's probably not an answer you'll like...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>But this rock moves on its own, regardless of how I think or feel.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>It's been like that ever since I was a kid.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>It's a power that I have no control over.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>The rock didn't follow you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It was following him... Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Oh, is that so?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Do you want me to make it so you can never hold a chisel again?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sorry to break it to you, but Bucciarati's far away from here, you dumbass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>You're the one who's lying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Bucciarati should be in this apartment building.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Let me see him. His life depends on—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Don't mess with me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Why did you k*ll the florist's daughter? What are you after—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I told you to not try anything funny!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>The rock has left...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>One of the greatest sculptors in history, Michelangelo, once said...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>"I don't have any thoughts when I take hold of a marble slab.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Every block of stone already has a statue inside it,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>and it is the task of the sculptor to discover it."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell are you babbling about, you b*stard?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're going to die if you don't hurry up and bring that rock back here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Michelangelo was saying that the ultimate statue is not created from an
+            idea.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>It already dwells within the stone as its destiny.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>He was an artist who could seethat destiny as he sculpted.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>It's not that I sculpted that rock into the shape of Bucciarati,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>and neither did your b*ll*ts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>That is the shape of destiny.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>The statue had a hole in its chest that was gushing out blood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I don't know if it's in a few days or in a few months,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>but that's going to be how Bucciarati eventually dies.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>We're all slaves to fate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>That's the meaning behind my ability, Prophecy Stones.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is your last chance! Bring the rock back here now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you die, so will your Stand! You get that, don't you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>If he touches my Prophecy Stones,he can die without suffering.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I wanted to see him so I could at least hear his last words...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What the hell is this guy's problem?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Is he mocking me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>How the hell can he be so calm, damn it?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Fine! You want your brain splattered onto that rock so badly?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Look! There are three shots left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is how you use destiny!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're apparently trying to do something to Bucciarati,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>so bring that rock back here right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're the one who doesn't have time or chances!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I told you. There's nothing more I can do.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bring it back here right now, God damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>The florist had a hard time walking, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>He doesn't know it yet,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but it's an early symptom of some disease in one of his internal organs.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>He'll most likely survive, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>When his daughter died, her organs were preserved.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He'll receive them as transplants.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>The girl found out from the rock</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>that she'd contract the same disease in a few months.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>She understood that and believed it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>She decided to die while she was healthy for her father's sake,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>rather than die in pain later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>So she accepted the rock, and...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>The rock allowed her to die without suffering,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and in a way in which her organs weren't crushed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You have some nerve saying that when you're the one who k*lled her!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>It's a misfire, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>That b*llet was a dud!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>That b*llet is Number 's responsibility!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>Aw, why me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I cannot die yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Because the rock hasn't carved my death yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Y-You think you're going to get two duds in a row, you jackass?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>You caught a glimpse of destiny just now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>You no longer have any intention of shooting me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Am I wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What's with this guy? Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell is he talking about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Is he still messing with me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hello, Fugo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Tell Bucciarati that this sculptor is a Stand user!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This b*stard keeps mentioning Bucciarati,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but I can't really tell what's going on by myself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What are you talking about, Mista? You still haven't met up with him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Bucciarati headed to that apartment building a while ago.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He followed you right after you got out of the car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Hello? Mista? What's wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bad_luck,Sign</name>
+        <speech>Bad luck</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Prophecy Stones</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Scolippi</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What's the number, Fugo? I have to find him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What's the number to the phone Bucciarati has right now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Are you all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>The one you're calling right now is Bucciarati's.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Hello, Mista? Hello?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hurry, b*ll*ts! Find Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Mista? Hello?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, wake up, you sculptor b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>How can I stop that rock?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, wake up, would you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Answer me, God damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What do I need to do to stop that rock from getting to Bucciarati?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>P-Please... Tell me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm starting to understand what you told me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But what the hell am I supposed to do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I can't let Bucciarati touch that rock, no matter what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I can't.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Please, tell me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>It'd be better and easier...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>if you two didn't defy the rock...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>No one's been able to do it before, but if you're able to destroy that rock</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>or change its shape, then...</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>We found him, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>We found Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>We got a report from Number that he found him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Bucciarati's on the seventh floor!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>The stairs! Bucciarati used the stairs!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Th-This isn't good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>The rock! The rock is on the stairs, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>The rock is right in front of Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Stop him, Number !</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Tell him not to touch that rock!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>It's no use, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Number 's b*llet doesn't have enough power left to fly over there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yee-haw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>b*ll*ts?</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>We did it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>That was close!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Its shape is falling apart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>That's great and all...</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>B-But I have a feeling we might've made things worse...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>b*ll*ts, what in the world is going on here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Is that a Stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And its shape...</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Run, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Don't attack it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>It's bad news if you touch it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Run down here, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You can't touch that rock!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you lay even a finger on it, you'll die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What do you mean?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll explain the details later!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Is that rock a Stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hurry and get downstairs!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Get out of this building and get as far away as possible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What? This happened in the elevator earlier, too...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sh-sh*t! These stairs are dangerous!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We need to find another way down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Going down these stairs is a bad idea!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Go up, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-Where is it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's not here! Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Where did it go?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista, what's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sh-sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Above you, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wh-What's this face on this rock?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If we can destroy the rock or change its shape...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I just smash it into the pavement from here, it should break into
+            pieces!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're not getting away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's impossible! Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it... What that sculptor b*stard said...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>turned out to be true...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you don't appear in the rock, then it's not your time to die yet...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>What the hell have you been doing, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You left the tape recorder on the car seat, you dumbass.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey... It's you, Fugo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What was this rock?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista, what chain of coincidences led to this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Uh... You should be fine now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I, uh... don't even know how to explain all this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Anyway, about the florist's daughter's death...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The sculptor was sort of the suspect,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but not exactly the suspect...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I hurt him enough to land him in the hospital for a couple of months,
+            though...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I still have no idea what the hell you're talking about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Was he an enemy or not?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Was it suicide or not?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Explain it all in a more orderly fashion!</speech>
+    </dialogue>
+    <dialogue>
+        <name>MistA</name>
+        <speech>That's just it, though...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's really, uh... hard to sort everything out in my head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Msita</name>
+        <speech>Simply put, we destroyed the rock, so everything's over now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, Bucciarati, I'll look into the incident with Leaky Eye Luca.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No, it'd probably be quicker to look into it myself</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>than have you try to explain what happened.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's a job I can do on my own.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Fugo, try to get a decent explanation out of Mista so we can explain</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>what happened here to the florist.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Bucciarati, I'm willing to do anything for you,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm not sure how I should say this...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>but do you really think I can understand what he's saying?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You can stop thinking now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We'll just use Abbacchio's Moody Jazz.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Over...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Everything is over, you say?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>If you had just accepted Prophecy Stones, everything would've ended
+            peacefully...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>We're all slaves to fate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>We cannot change what has already taken shape.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I don't know who they are, but now they're going to face a difficult path,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>and some of them will lose their lives.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Are they all like this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>He jumped from up there to destroy the rock for his friend, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>The path filled with hardships that they're about to walk</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>might have some meaning.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Their hardships may end up being someone else's hope,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>and might be the beginning to some greater meaning.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>I can't wish for their safety, but I pray that they are sleeping slaves.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sco</name>
+        <speech>Sleeping slaves who will find some meaning once they awaken.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, hurry up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Who's gonna heal Bucciarati's injuries if you don't hurry up?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Whoa, be careful, Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Thanks. Something suddenly appeared near my feet...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HDCF&amp;\c&amp;HB&amp;}Menacing</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Trish?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, Trish! Wh-Where'd you go, Trish?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, Giorno! Where the hell is Trish?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Unbelievable... Trish is right there, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Mista, Giorno, I'm right here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I didn't trip on this rock. It's what was in its shadow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>Don't leave me behind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Turtle</name>
+        <speech>If you leave me behind,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I don't know how many days it'll take me to get to the Colosseum.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Polnareff?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mr. Polnareff.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You're still alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>But if all our minds were switched back,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>then your soul... and the turtle...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>My body is dead.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>But the moment my soul got sucked out,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I was able to hang on to this turtle Stand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>I can't leave this key, but I decided to live here for a while as a ghost.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, it's great and all that you're okay,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but it's not over yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We're going to the Colosseum to heal Bucciarati's wounds.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>Bucciarati? But his soul...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Hey, what are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Oh, uh, sorry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I was just thinking that you're right...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I think I might actually smell weird.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So this is what I smell like?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Maybe I'll start using cologne...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Really?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I might've said something weird back then,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>and maybe it's because I was panicked, but it doesn't bother me anymore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>It almost even feels nostalgic.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Really? Really?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Yes. But your fingers are still weird.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>What are you going to do with that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Those who carry on the will of those who have passed must keep moving
+            forward.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I won't destroy this arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>Keep the arrow inside the turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That will do, Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>That is the duty of those who have survived.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>Let's go</speech>
+    </dialogue>
+</xml>
