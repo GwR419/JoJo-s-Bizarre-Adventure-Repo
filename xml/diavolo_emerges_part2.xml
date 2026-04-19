@@ -8,12 +8,30 @@
         <fileDesc>
             <titleStmt>
                 <title>JoJo's Bizarre Adventure Part 5: Golden Wind - DIAVOLO EMERGES PART 2</title>
+                <author></author>
+                <author role="artist"></author>
+                <respStmt>
+                    <resp>translated by</resp> 
+                    <persName>Mistal</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>encoded in CBML TEI by</resp>
+                    <persName>Gavin Redding</persName>
+                    <persName>Micaiah Ross</persName>
+                    <persName>Brady Urbanowicz</persName>
+                </respStmt>
+                
+                 
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Information about the source</p>
+                <!-- See examples at https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html  -->
+                <bibl><!--Write up the bibl entry. --><ptr target="https://mangadex.org/title/fd917921-5e97-479f-b22c-5d7f00e1c830/jojo-s-bizarre-adventure-part-5-golden-wind"/>
+                    <note><!-- ebb: DESCRIBE YOUR SOURCE AND STORE A LINK TO IT HERE. COMMENT ON WHAT YOU KNOW ABOUT THE TRANSLATION TO ENGLISH. --></note>
+                </bibl>
+                
             </sourceDesc>
         </fileDesc>
     </teiHeader>
