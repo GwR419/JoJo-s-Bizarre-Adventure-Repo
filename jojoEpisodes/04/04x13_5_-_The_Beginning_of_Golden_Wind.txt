@@ -150,7 +150,7 @@ Polpo: What do you think is the most important thing
 
 
 
-nar: In order to join the organization, Giorno meets with the capo Polpo.
+Nar: In order to join the organization, Giorno meets with the capo Polpo.
 
 
 
@@ -482,7 +482,7 @@ Giorno: You should savor your last meal as best you can.
 
 
 
-nar: Polpo, who died, had a hidden fortune that he kept secret even from the organization.
+Nar: Polpo, who died, had a hidden fortune that he kept secret even from the organization.
 
 
 
@@ -494,7 +494,7 @@ Mista: What? Suicide?! Polpo did?
 
 
 
-nar: Bucciarati proclaims that he was ordered by Polpo to hide his fortune for him.
+Nar: Bucciarati proclaims that he was ordered by Polpo to hide his fortune for him.
 
 
 
@@ -510,7 +510,7 @@ Bruno: Polpo actually has a secret fortune.
 
 
 
-nar: Now that the crew is together, our story greatly changes.
+Nar: Now that the crew is together, our story greatly changes.
 
 
 
@@ -534,7 +534,7 @@ Bruno: No one can find out before we secure the money.
 
 
 
-nar: Members of the organization who heard about Polpo's fortune
+Nar: Members of the organization who heard about Polpo's fortune
 
 
 
@@ -838,7 +838,7 @@ Gio: Mista! He's already on the radio!
 
 
 
-nar: The enemy beats Giorno and the others to Capri, where the fortune is hidden.
+Nar: The enemy beats Giorno and the others to Capri, where the fortune is hidden.
 
 
 
@@ -846,7 +846,7 @@ JoJo-internal/narrator: ,In order to launch a surprise attack, Giorno and Mista 
 
 
 
-b*ll*ts: Shoot!
+B*ll*ts: Shoot!
 
 
 
@@ -914,7 +914,7 @@ Mista: His ability is to fix something he's touched into place.
 
 
 
-b*ll*ts: Hell yeah!
+B*ll*ts: Hell yeah!
 
 
 
@@ -930,7 +930,7 @@ JoJo-main: ,I only have four b*ll*ts!
 
 
 
-b*llet: Four is unlucky.
+B*llet: Four is unlucky.
 
 
 
@@ -1146,15 +1146,15 @@ Sale: That's—
 
 
 
-b*ll*ts: We did it!
+B*ll*ts: We did it!
 
 
 
-b*ll*ts: Yes!
+B*ll*ts: Yes!
 
 
 
-b*ll*ts: Yes!
+B*ll*ts: Yes!
 
 
 

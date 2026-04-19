@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Ghiaccio</name>
+        <speech>I should be able to meet up with Melone in about an hour.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>Ghiaccio, I'll leave the situation to you and Melone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>You can never be too careful.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>I'll stay here and try to figure out where they're headed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Got it, Risotto.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>How much longer are you going to make me wait? Hurry up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You should have no problem restoring this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Risotto.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Do you really think you can get away with betraying Passione?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>We're a bit short on time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>Next will be your left eye.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>As long as you have your right hand and right eye, you can still work.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You should know better than anyone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Anyone who betrays the boss will be erased...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Head to Venice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The hand that I cut off has already become another living creature</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>and invaded your body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>As you can see, it turned into a piranha!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's a huge hole that goes all the way to its head...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>and it can still move?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Wh-What's wrong, Babyhead?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Answer me! Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>This is turtle sh*t...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>This is literally sh*t that the turtle left behind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Why the hell do I have to go through this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>This pain in my heart...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>You're going to make up for this</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>by dying in disgrace! I'll see to that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If Bucciarati and Trish won't turn back to normal unless I destroy you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>then I'll do it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're not getting away. Next, I'll go for your head!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Go ahead and try it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>you dickhead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>DickheadI'll k*ll you...Go ahead and try it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>The only problem with auto-tracking is that it won't listen to me percent.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>You b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You got me three times already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I know the range of your attacks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That b*stard's range...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>just grew!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>It's gotten taller?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>It must've grown even more because it got pissed off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I knew choosing that woman as the mother was the right choice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Simple is best.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I'm going to k*ll this b*stard exactly how I want to k*ll him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bring it back, Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>GW</name>
+        <speech>Useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>A direct hit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>You should get your eyes checked.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>You didn't hit my head!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I've won! This is the end!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I told you, it's useless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Wh-What the hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Look again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The hand that Golden Wind brought back wasn't its own.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's the bike.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I gave the bike life and had it return to us as a hand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crush,Sfx</name>
+        <speech>Crush</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You just took that bike into your body,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>as a part of you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>This is nothing...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I'll just split apart and get away aga—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Think about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's gasoline in bikes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm pretty sure I can cause a big enough expl*si*n to keep you from splitting
+            apart</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>in time to escape.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crush,Sfx</name>
+        <speech>Kaom</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Sizzling... Burning...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Looks like doing what you wanted was useless...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>in the end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Burn burn burn burn burn burn burn...ing...!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I-It disappeared?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>My contact with it disappeared?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Damn it! This is unbelievable!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Curse you, newbie!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He did it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>It should be somewhere around here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old</name>
+        <speech>My car is gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Where's my car? Was it stolen?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>That's Melone's bike...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I was told to leave no stone unturned and</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>take a leaf out of someone's book if I have to, in order to find them...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I get the "leave no stone unturned" part.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I totally get it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I mean, you have to turn stones over to find stuff.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>But what the hell does it mean to take a leaf out of someone's book?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What's a leaf doing inside a book?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What's that supposed to mean?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Why the hell is there a leaf in a book?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You think I'm stupid?! Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Hey, Melone! Bucciarati and his crew are nowhere to be found!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Are you listening?! Hello?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I hear you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>But I haven't completely failed just yet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I still have Bucciarati's blood!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I can create an infinite number of Juniors!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I'll have them track Bucciarati down immediately!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You'd better, Melone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>We need to be extra careful with the newbie.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>We should get rid of him first.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I'll find an even better mother</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>and create an even more powerful and invincible</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Junior to go track them down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What the hell was that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It looked like a snake...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>What? What's wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What's a snake doing at a station in Rome?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I-It's burning!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>This is... that newbie's ability...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He must've used Junior's corpse to—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Hello?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Hey, Melone! What's wrong? Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The venomous snake I left at Roma Termini Station</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>reverted to being one of the enemy's components.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>We disposed of the user.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That makes five.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>If the information we have is correct,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>there are only two members of the Hitman Team left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Still, we can't let our guard down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Let's haul a*s to Venice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Now Melone, too?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>sh*t! sh*t! sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Hello?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Risotto</name>
+        <speech>It's me. I've managed to get that thing analyzed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Huh?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Riso</name>
+        <speech>I'm sending the data right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We've received a new order from the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio, could you come over here by this chair?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Here's the order.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>"Have Abbacchio use his Moody Jazz near the chair and rewind hours."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Someone was inside this turtle before we got here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I think that's what this suggests.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Got it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Then I'll search from around hours back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It transformed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Hey, I've seen that geezer before!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's the capo, Mr. Pericolo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So he was the one who placed the turtle</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>next to the water fountain at Naples Station.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>And approximately hours ago, he entered this turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm continuing the replay.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>Bucciarati and team, I will now give you your final order.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Final order?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>The reason we're using this method to give you information is to prevent
+            leaks.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>I'm about to tell you something of utmost importance that no one else must
+            learn:</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>how you're going to hand Trish over to the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>How we're going to...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>...hand Trish over?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>Well, here it is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Once you safely get to Venice,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>go to this sculpture and retrieve the OA-DISC that's inside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>It contains the data on how you're going to hand her over.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Hey! He set it on fire!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio, pause it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm pretty sure this is the entrance to Venice...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Right in front of Santa Lucia Station.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The lion statue is from there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>That is all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Make sure that you obtain the OA-DISC.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>They've already found out about me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>The most important thing is to deliver Trish safely to her father.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>We mustn't leave any kind of evidence.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>Thanks to the boss, I was able to live a very wealthy, blessed, and fulfilling
+            life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>My mission is now over.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Peri</name>
+        <speech>I pray from the bottom of my heart that you stay safe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mr. Pericolo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>They should've received the order by now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Obtain the disc, or getting to me is going to prove rather difficult.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>The most important thing is what awaits at the end...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Bring my daughter Trish here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>to Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The marine fortress city on the water, visible in the morning haze: Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>There is only one road by which one can travel there from the mainland by
+            car:</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>the Ponte della Libertà, which stretches for a length of . kilometers over a shallow
+            ocean.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The station lies just beyond the bridge.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The lion statue where the disc is hidden can be found in a square there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno, there's no one tailing us so far.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yes. There's no one coming from the front, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The city is still asleep.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We're the only car on this road.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Why do the windows keep fogging up so quickly?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Ow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I apologize.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The tires just slipped a bit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>On a straight bridge like this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Be more careful, damn it! Do you even have a license?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No. I'm only fifteen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What's that thing stuck on the window?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's on the inside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I didn't notice it when I was looking outside...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>No, wait...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That shape...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's a finger!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let's open the windows a bit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's morning, so the different temperaturesinside and outside the car are fogging
+            them up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Wh-What?! What's with this wind?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>At first, we were scared frozen... But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>With the help of a computer, it wasn't too hard to recreate</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>the ashes that were lying next to Pericolo in the photo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You guys are naïve!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>There's no way you can get away from the Hitman Team!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>An enemy?! They somehow got onto the roof of the car!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista, what are you doing?! Shoot the roof!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This car is being frozen at an insane speed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's so cold that my finger got stuck to the window</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and broke off before I even felt the cold.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I don't peel my face off of it, my brain's gonna freeze up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But I'm not sure if I want to sacrifice my face, either...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Where's the turtle?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I don't see the turtle inside the car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You two aren't with Trish and Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>If you're actually bothering to split up...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I got it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>That means you must be on a mission to get something extremely important.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>The location in the picture...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There must be something at the station in Venice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Blood finally spurted from my hand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yeehaw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crush,Sfx</name>
+        <speech>Bonk</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>I-Ice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>The guy's encased himself in ice and froze himself to the roof of the car!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>The b*ll*ts can't get through to him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>What's wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>C-Crap! We're starting to freeze, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>Save me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>Number Two!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Don't go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Number Two! Number Three!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crush,Sfx</name>
+        <speech>Fwooooo</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>A-All I did was blink... and now my eyelashes are stuck together!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He must've waited for this to happen before getting on the roof...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This car is currently going kilometers per hour.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's the same as being stuck in wind blowing at meters per second.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The effective temperature drops by ° Celsius for every meter of wind
+            velocity,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>so we're currently freezing at -° Celsius.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Then stop the damn car!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Why the hell are you still flooring it?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yes. I've been trying to stop it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But the brake pedal is frozen and won't go down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm losing the steering wheel, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The engine's running and doesn't seem like it's going to stop.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The surface of the car has reached -° Celsius for sure!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>And at incredible speed! So this is... the enemy's ability!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Th-The blood that was spurting out of my hand froze...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The moisture from my breathing caused my nostrils to freeze together...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And now, my lips...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>sh*t! I can't breathe!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>S-Stop the car, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You can turn the car into a frog or something, can't you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Do something with your ability!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I've already tried that, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But there are no organisms that can be born at -° Celsius!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You know Paris, France?In English, they pronounce it "Paris,"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>but everyone else pronounces it without the "s" sound, like the French do.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>But with Venezia, everyone pronounces it the English way, "Venice."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Like The Merchant of Venice and Death in Venice...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Why, though?! Why isn't the title Death in Venezia?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crush,Sfx</name>
+        <speech>Smack Smack Smack</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Are you friggin' mocking me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It takes place in Italy, so use the Italian word, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>That sh*t pisses me off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Bunch of dumbasses!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Looks like it's finally becoming a bit difficult to drive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>My Golden Wind needs heat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>So sadly, all I'm really useful for right now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>is picking up b*ll*ts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You won't be able to fill the car with any more holes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I'll just freeze you to an even lower tem—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>When you fire b*ll*ts, they heat up, don't they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So when I fire the b*ll*ts that Giorno picked up for me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It creates heat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I guess I'll go ahead and shout this for Giorno, while I'm at it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We did it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Plant roots have the energy to prop up asphalt in roads and even shatter
+            rocks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Keep hold of the steering wheel, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We're gonna get the hell outta here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crush,Sfx</name>
+        <speech>Shink</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Tch.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>So that must be the ability of the newbie Melone was talking about.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>But you're not getting away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Seriously? That b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's still coming after us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I'm gonna be the one who gets his hands on whatever's at the station, no matter
+            what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You're wasting your b*ll*ts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>My ability, White Ice, freezes the moisture in the air to an extremely low
+            temperature,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>which I then wear like armor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>This also allows me to skate,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but I'm also wrapped in something so strong that even b*ll*ts can't pierce
+            it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Go faster, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I can't go any faster!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The tires are still slipping.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Even worse, they found out about the station!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>They haven't found out aboutthe turtle where Trish is,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>so depending on how you look at it, that's kind of a bright side.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're always so optimistic, aren't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're very unusual.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's coming! Floor it! Faster!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I told you, I can't!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If we slip, we're going to lose even more spee—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Just do it, damn it! I said floor it, so floor it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>I told you! This is useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Number Three and Number Two up on the roof, come back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I hope you get to share a hot, passionate kiss with the road.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Your face will be well-acquainted with it at the speed you're going.</speech>
+    </dialogue>
+    <dialogue>
+        <name>All</name>
+        <speech>Yeah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Good. We managed to lose him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Now get us into the city andhead straight for the station!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Before he can catch up to us, we're going to get our hands on the thing and
+            hide!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>You're not getting away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's no way you guys are going to make it to the station!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's freezing the moisture from the car's exhaust!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What kind of temperature do you have to freeze it at to do this sh*t?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You b*stard! Eat lead again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He opened the trunk! Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sh-sh*t! He got into the trunk! Stop the car, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's gonna freeze the brake pedal so it'll be useless again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>There's no need for that...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Gunslinger Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Seeing as Trish isn't here, this is what I was planning to do in the first
+            place.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Ghia</name>
+        <speech>Shatter—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>G-Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It only cracked?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Is he invincible?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>How can I destroy this armor?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno! Get away from him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No! Not yet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We made it to Venice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm diving into the canal!</speech>
+    </dialogue>
+</xml>

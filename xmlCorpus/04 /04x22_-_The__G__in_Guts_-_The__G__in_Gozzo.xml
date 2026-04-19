@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Nara</name>
+        <speech>It doesn't look like anyone's following us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, are we not leaving Venice?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The boss has his own personal elite guards.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sure they've already learned of our betrayal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They're probably... going to be coming after us next.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>But we don't know what kind of abilities they have.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Correct. If we try to cross the sea unprepared,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>they might strike us there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's wait and see for now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Understood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Two</name>
+        <speech>We're hungry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>I'm starving!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>Feed us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Our guts are running on empty!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Calm the hell down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I know this is really bad timing,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but could we stop by a restaurant or something?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I guess we need to refill our guts, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio The "G" in Guts</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You guys have heard of vegetarians, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Are they allowed to eat, like, cheese?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Probably not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I mean, milk and eggs come from cows and chickens.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That means they probably can't have cake that uses whipped cream, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?! They can't have cake, either?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I wonder if their bodies actually function better, then.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Then what do those guys do about shoes or handbags?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Those are made from leather.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Well, if they're vegetarians because they feel bad for animals,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>they probably wear sneakers and carry backpacks instead.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Man, they're intense.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So would you have old ladies dressing like basketball players, then?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>They'd never let them into a restaurant looking like that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, being all scared won't make anything happen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's just eat for now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yes, I know... Still, we need to be on our guard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>For example, there's a possibility someone could've poisoned our food.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Y-You b*stard! What the hell do you think you're doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What are you gonna do about this, you little sh*t?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You think you can pay for this?! This suit cost four million lire!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Let's take this outside!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Smash</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You must be an enemy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You an enemy?! Huh?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, are you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You an enemy?! Take that! And that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hold it, Narancia, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I don't think this guy's an enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He's unconscious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He's totally just a random civilian.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What? Are you serious?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Crap! What am I gonna do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah, this stain's gonna be hard to get out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>A single drop of wine on a white suit really stands out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I can't pay for this sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, the location of the stain might make it look like a button.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If he puts a button there, he can hide it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>While we're at it, let's get him to make sure there isn't any poison in our
+            food.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's a great idea!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hey, that's enough.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>More importantly...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What's going on with Bucciarati right now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>After that battle with the boss, Bucciarati's heart definitely stopped.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And when he got hurt back there, there wasn't a single drop of blood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What about now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But right now isn't the best time to find out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'll keep this secret to myself for now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So, Bucciarati, what are we going to do now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The boss's Stand makes time disappear,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and the boss is the only one who can move freely in that state.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's invincible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It doesn't matter who it is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Anyone's attack becomes useless before that Stand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>However...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That'll change once we find out who the boss is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Because if we find out the boss's identity,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>we might be able to assassinate him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And to do that, we need to find out</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>who he really is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But how are we going to find him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The boss is the type of guy who's gotten rid of any trace of himself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>There must be some kind of hint involving Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Everyone was after Trish, and the boss was trying to eliminate Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>A-About that...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I don't really want to involve Trish in this anymore...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Th-This feeling sucks.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Trish doesn't know anything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>If she finds out her actual father tried to k*ll her, she'll be in shock.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Bucciarati, please!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Let's not talk about the boss's identity and stuff like that in front of
+            her.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>There's no need for that, Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I've already known that... for a while.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>T-Trish...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I remembered something when you said he got rid of any trace of himself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>My mother had mentioned that she met my father in Sardinia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Sardinia...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>When I was little, my mother told me</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>that they had met while she was vacationing,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>and he told her he'd be right back...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>But then he disappeared forever,leaving nothing behind,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>not even a photo or his name.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Before he became the boss of the organization...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fifteen years ago...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Then was he born and raised in...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm not sure about all that, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Sardinia. His past and true identity should be in Sardinia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Why are you telling us that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We might end up k*lling your father!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No, we are determined to defeat him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You defeating him or not isn't my problem.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>But... I want to know!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I want to know who I came from!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I'm not about to die before I find that out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Looks like she's way stronger than you thought.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Sardinia...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's our next destination after we escape from Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's where we'll find out who the boss really is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I was under the impression that Trish was like me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>but I guess she'd already made up her mind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I just followed on a whim, so I still don't know</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>if there's any hope in this trip or not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>An enemy! There's an enemy nearby!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There's a shark in my soup!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno! Get Trish inside the turtle!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio, cover the right! Mista, guard the left!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Where, Narancia? Where are they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Inside the soup! They were somehow already in it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Where are they now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>But they were there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There was something like a shark in my soup!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I don't see anything strange about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Does that mean we lost them?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Swoosh</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What happened?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Narancia! Were you attacked somewhere?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Where did they get you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Narancia, what's wrong? What's there?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm asking you what's wrong, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hold it, Mista. I don't think Narancia can talk...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What? You can't talk?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What's wrong, Narancia? What are you pointing at?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Water? You want a sip of water?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>H-Hey! Th-This is bad! Look!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Narancia's tongue! It's gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>On top of that, I don't think he's breathing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This isn't good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I can use Golden Wind to create parts for his tongue,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but it'll take time to finish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, come on! He's about to suffocate here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista, do you have a pen?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>A pen?! Y-Yeah, I have one...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Stab</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Looks like he's breathing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'll give life to this pen to create parts for his tongue.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That way, he can breathe while I create his tongue.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>I see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>So that's Giorno Giovanna.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>Now I'm starting to understand the information the boss gave us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>We're going to have to be the most careful around that newbie kid.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>Yeah... I'm a bit surprised he saved Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>I thought my Crush would be enough for this job,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>but apparently, I'm going to need your help eliminating all five of them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>Tiziano.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>As the boss's elite guards, we're going to have to defeat him here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>Are you ready, Squalo?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>All according to plan.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>As long as we can lure them to water, Crush is invincible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>Our plan will decide everything.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>We'll take care of them one at a time, Tiziano.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>Yeah, Squalo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>We'll use Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Crush</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Squalo</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you all right, Narancia?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yeah...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You guys saved me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What did you see?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>How did the enemy Stand attack?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It... c-came from the soup...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia, don't force it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I-I'm fine. I can talk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, Narancia, what's the enemy like?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Where'd he run off to?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He was...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He was like a pebble!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He was huge, and he ran into the restaurant!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh? Huge like a pebble?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But earlier, you were saying it was in your soup!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're contradicting yourself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? Did I just say that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So, then... is the enemy about this big?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Nope.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? No, wait!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Then, like, this big?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>U-Um...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>No? Then, like, this big?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yup, exactly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So something this big was in your soup,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>and it went running into the restaurant?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yup.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We can't get a clear picture of this enemy at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Does that mean it was really fast?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Nope! It was slow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If it was huge and slow, why didn't we see it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Did you actually see a Stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Of course I did... n—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You keep contradicting yourself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're not trying to act tough because the enemy got you, are you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I... I...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Answer me, damn it! You didn't actually see anything, did you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Of course I did...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>not...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So you didn't actually see anything, after all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is no time to screw around!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>There's no one suspicious nearby.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Apparently, it's a remote-controlled Stand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That must mean that the user is watching us from somewhere.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>In that case, we should leave here immediately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Let's follow the channel out to the sea.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yeah, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Let's do it! Let's use the channel!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yes, Narancia. That's what I just...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Narancia, why do you keep covering your mouth?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Let me see it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell? It's completely normal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yup! I'm totally fine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>There's no problem at all, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So, what are we going to do, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Are we going out to sea?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No. Let's not follow the channel just yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is our chance.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We're going to use it to defeat that enemy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The boss wasn't expecting our betrayal,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>which means there probably aren't that many members of his elite guard
+            here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If we defeat him now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sure we'll be able to get through the seas of Venice just fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I see. You have a point. I agree.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Yeah, I agree.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Very well, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If you say so.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio, could you use your Moody Jazz to replay what happened?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Yeah, sure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Where do you want to start?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>From when the soup was still on the table?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What the hell, Narancia?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Guys! The enemy's right over there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Over there? You mean inside the restaurant's bathroom?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Narancia, you damn well better have seen something this time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yup, I did!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>After them. We'll settle things with this enemy here and now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Come on, Giorno. Let's go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Right...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>Well done, Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>None of his friends realize that there's another Stand</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>besides Crush, which travels from liquid to liquid.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>Yes, they don't realize that my Stand,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>Talking Mouth, is attached to your tongue and making you say</speech>
+    </dialogue>
+    <dialogue>
+        <name>Tiziano</name>
+        <speech>the exact opposite of what you mean.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Squalo</name>
+        <speech>All right, I'm gonna go k*ll the rest of them. Grazie.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\shad\c&amp;HDDB&amp;}Sc{\c&amp;HFD&amp;}hw{\c&amp;HBD&amp;}in{\c&amp;HEADC&amp;}g</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>S-So that's what was going on! Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>They were using me to get everyone near the water, one by one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>How dare you underestimate me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I don't sense anyone here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Let's at least figure out what the enemy looks like.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Moody Jazz!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Transform into whoever was in here a few dozen seconds ago, and pursue
+            them!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Seeing who the enemy is through Moody Jazz is fine,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>but don't pursue them!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>If it gets into water, they don't stand a chance!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>In that case, I'll do everything I can to keep them away from water!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Over here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Moody Jazz is transforming.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Water's bad news! Don't look in there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Look at me! Look in here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What the hell? That's disgusting!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Come over here, Abbacchio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Look in here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What are you talking about? Have you turned into some kind of pervert?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We're trying to investigate because you said you saw the enemy in here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Did you really see them in here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Of course, I—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Seriously, what is your problem?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Bucciarati, there's a chance Narancia was just seeing things in here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Aba</name>
+        <speech>We might be better off looking at the table if we want to pursue them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Cut the crap, Narancia!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm not gonna let you take us all down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia, what happened to your finger?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Did you snag it somewhere?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Here, I'll stop the bleeding.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>That b*stard's going to try to use my blood to move.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>N-No! S-Stay back, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yeah! Fix me right up, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>There's definitely something strange.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giono</name>
+        <speech>Is something wrong with the inside of your mouth?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>They attacked your tongue earlier. Does that have anything to do with it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Great job, Giorno! You're so intuitive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Just a little more...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Just a little more, and Giorno will figure it out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But you're bleeding really badly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>First, let's take care of that wound.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Now, let me see it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>No! You can't touch the blood!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Come on, Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>This is bad! Stay back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Hurry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Li'l Bomber!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Damn it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Narancia,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>you seem to be under attack by something,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but there must be some reason you can't tell us the truth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yes! He figured it out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Was there something left in your mouth from the first attack?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Like, an ability that makes you say the opposite of what you mean?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Yes! That's it, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Sh-sh*t! There's water from the pipe!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+</xml>

@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's perfect. That spot's just fine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Bang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>Booom</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yee-haw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Well done, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As long as we move upward, their attack won't begin.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I think I understand how they survived so long after betraying the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You got the footage, didn't you, Secco?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>The desperate looks on their faces as they were fighting for their lives?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Good, good, good, good, good, good, good, good, good, good, good...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Well done, Secco!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>The more curious someone is, the stronger they become mentally.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Humans are far more curious than any other creature, and that's why they
+            evolved.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I can't wait to see it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I can't wait to see guys like him die.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Oh, right. Forgive me, I'd forgotten.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You get a treat for taking such a good picture.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>How does two sound?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Three, you say? You want three sweet ones?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You little glutton.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>All right. You can have three.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Here it comes, Secco. Here comes three!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Oh, my bad.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Good, good, good, good, good, good, good, good, good, good, good...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You're such a good boy, Secco!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Now, go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You go to Bucciarati and the others, Secco.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You and your Stand, Sanctuary.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Green Tea and Sanctuary, Part </speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What are we going to do, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We can't go back out to sea.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If that mold's range is extended by the corpses, as Giorno guessed,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>then instead of tracking down the user,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>we're better off finding a car and getting out of this village.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Our number one priority right now is to get to Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, how's Narancia's treatment going?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's hard to treat him in this village.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's living mold in his wounds.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>All right, Mista, climbing up is fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We're going to go up those stairs and get ourselves a car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>That's a bit cruel, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>He didn't even ask Narancia if he was okay or not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Not to mention, earlier,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>when you were trying desperately to get up from the boat,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>what did he say?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>He coldly ordered you to throw the turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What are you so mad about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Of course he said that. I was the one who went down into the boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>It's good that we made it out alive, but because of me, we almost died.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Besides, if Bucciarati hadn't told me to throw the turtle,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I might've dropped it into the ocean.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I know that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What I'm saying is that he's cold to everyone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Say... I don't really understand how girls feel, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Were you hoping he would ask you if you were okay?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I already know how Bucciarati is,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>but you're dying to know more about him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Excuse me? I'm dying to what?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Well, getting to Rome is what's most important right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>You can figure out your feelings later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm really not doing so great right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Let me rest for a bit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The only way we can go is up right now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but if we should ever have to go down any lower than where we are...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We'll be fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>This village is built on the side of a mountain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>All the roads are uphill.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And outside the village, there are cars still running.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That means the mold's range hasn't expanded yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We just need to acquire a car and get out of this village quickly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We need to hurry to Rome at all costs.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Which car should we take?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>One with a corpse next to it, because that corpse should have the key to that
+            car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It was just the mold breaking that corpse's hand apart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll watch our rear.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You hurry up and get a car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista, I take that back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Something... Something is wrong.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hurry and go up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>R-Right!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What are you doing, Mista?! I told you to go up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I already am, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We're sinking!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We're moving away from the wall!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The whole staircase is being pulled into the ground!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This must be a different Stand user than the one using the mold!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There's another one after us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This isn't good! We need to hurry and climb up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If we go down any further, the mold will attack us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Jump onto the wall!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>My g*n!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's not sinking...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The staircase itself is sinking into the ground, like it's melting!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What's that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy's down below, and he's coming for us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista! Climb onto the wall!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HC&amp;\c&amp;HDA&amp;}Zu{\c&amp;HB&amp;}bo{\c&amp;HBA&amp;}om</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's fast... This guy is fast.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And this is strange...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>The ground feels solid when I'mtouching it with Zipper Man's hands.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is a solid stone staircase, but I'm sinking into it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And this thing is moving around freely underneath the hard ground.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This isn't good! I can't tell where he is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where is he coming from?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Can you hear me, Six b*ll*ts?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Come back to me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yee-haw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>One coming at us from beneath the ground,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and a man-eating mold Stand...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They're both making the most of the other's Stand ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This duo is too compatible, more so than any other team we've encountered
+            before.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What are they, bound by the red thread of fate? Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I found one, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>A corpse that's still holding the car key.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I just caught a glimpse of our enemy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He jumped from the stairs and dove into the wall!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Th-This is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Run, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's fast! At this rate, we might make it to the car,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but we won't have time to start the engine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll hold them back! Keep going!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Don't stop, Mista! The ground is still hard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The b*ll*ts are going to ricochet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If the sinking ground is still hard somehow,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>our best chance is the moment I get pulled under.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This guy's the powerful, close-range type.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>His range is small.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I should be able to see it as soon as it tries to pull me in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's when I'll get him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There! It showed itself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Take this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I figured a powerful, close-range type might be able to deflect some
+            b*ll*ts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But you see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you're going to deflect b*ll*ts, my b*ll*ts can do that, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The first three shots I fired should...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's not going to finish me off?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So he thinks he can k*ll me at any time, now that I'm hurt?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hurry and pick up the key, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Start the engine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell are you doing?! Hurry up and get in the car!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If we can actually get out of this village by car, that's fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As long as we can all head for Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Where are you going, Bucciarati?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So you're going to track us from underground, no matter where we go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What a terrifying ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But do you have any idea where I'm headed?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Apparently you didn't, huh? You had no idea where we were.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Zip</name>
+        <speech>Arri, arri, arri, arri, arri...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Zip</name>
+        <speech>Arrivederci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\c&amp;H&amp;\c&amp;HBBD&amp;}Squish</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\c&amp;HB&amp;\fad(,)}Cioccolata</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\c&amp;HF&amp;\c&amp;H&amp;\fad(,)}Green Tea</speech>
+    </dialogue>
+    <dialogue>
+        <name>Zip</name>
+        <speech>Arri, arri, arri, arri, arri...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Zip</name>
+        <speech>Arrivederci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>My...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>My...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>My face!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Cioccolata!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Three days ago... You heard, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>The Stand that the boss sent into the airplane... Notorious Chase...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Hey, Secco. Aren't you tracking them down right now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Why are you calling me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Hey, Cioccolata... This is important. Very important!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Chase... Is that thing...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Is it alive? Or is it a dead Stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>What brought this on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>It's a simple question!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Answer me. If Chase was here,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>would your Green Tea's mold grow on it? On the dead Stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Notorious Chase...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Are you talking about the one where the user was k*lled, but his hatred</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>was so strong that the Stand somehow survived?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Who knows?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm curious about him, but I have no idea if the mold would grow on him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>But I do know for certain that my Green Tea will destroy any living
+            creature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>The mold doesn't grow on inanimate objects like rocks, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Forget about that! Quit wasting time and film those guys dying already!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>That's just it, though, Cioccolata!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Look up the hill. Look at the road.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Hey, Secco...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Why is there a car leaving the village?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Is the one driving the car one of them?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Why did you just let them go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Hey, Cioccolata... It's just unbelievable...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He hit me in the face.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>That Bucciarati guy... He didn't have any mold growing on him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Even though he jumped down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I can't believe he attacked me there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>It's totally unbelievable!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>His body won't grow mold! What the hell is going on?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I haven't the slightest.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I totally thought...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>that you had plummeted.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You scared me, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Did you hang on to the wall with zippers?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I guess it might've been a close call.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It doesn't look like the mold got you at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista, rest for a bit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I closed your wounds, but if you move now, they'll start bleeding again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'll look out for any cars that might be following us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Right...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, your wrist... Did you hurt it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Please, let me see it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Are you listening, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If the mold got to you, you're in danger.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Please, let me see it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Th-That's impossible...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Your skin is so cold...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>A-And your pulse...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, did you just say something to me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I couldn't hear you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What's... going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Impossible...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>It simply can't be!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>O-Oh, yeah... Something similar happened before.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I thought it was just my imagination back then...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>When we were leaving Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Apparently, I hurt myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Looks like there isn't much time left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm losing more and more feeling in my skin...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Or...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Maybe I never had any to begin with.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's impossible! Don't tell me, back then...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>When you saved Trish from the boss in Venice...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, don't tell me... back then...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's strange.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I've accepted this as fate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Just a tiny bit of fate, of chance, that Heaven had granted me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>When you healed my wounds in Venice,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>it appears the life force you gave me</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>allowed me to move for just a bit longer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Why... Why didn't you say anything?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>My Golden Wind completely healed your wounds back then!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm sure it can fix whatever you're going through now, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, I'm sure your Golden Wind</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>knows more about that than anyone else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That nothing can be done for those whose lives have already ended.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>By that time,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>my life...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>had already ended.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You won't tell the others about this, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's impossible... But that's impossible, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Y-You're—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Quiet, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Listen. What's that sound? Am I just hearing things?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>There's no car following us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I hear it. It's getting closer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's getting really close!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Above us! It's a helicopter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He dropped some mold on us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What the hell just happened?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giio</name>
+        <speech>Bucciarati, we're descending! This road goes downhill!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The mold is going to get us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, Mista! We're jumping out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Grab on to me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Climb up! Climb up, even if only a little bit!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Subconscious...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>In a way, Stand abilities are the users' subconscious abilities...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If there's any guilt in their heart,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>they might subconsciously hit the brakes...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But whoever this is enjoys cruelty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Actually, he lives for it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's how his ability became this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This guy doesn't have any brakes at all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He has no limits on how evil he can be!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, what's wrong?! I-I'll go get a doctor right away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, don't! Don't go down that way!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'll bring a doctor here right away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, what's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The mold...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's spreading instantaneously!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's impossible. There are three million people living in Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is nothing like that fishing village!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And there are members of the organization in Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This would be a hit to the boss, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This guy doesn't care.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's enjoying this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>At this rate, everyone in Rome will die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No, this guy's not going to stop, even if it spreads further than that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There's something else!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>At this rate, the mold's k*lling range will spread to the Colosseum</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>faster than we can get there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista! Is that helicopter within your g*n's range?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It doesn't matter! We have to hit it, no matter what!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Make sure you take it down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Got it! I won't let you get away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Go, Six b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yee-haw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The guy in the helicopter wanted me to shoot at it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So that the guy who can move around underground could safely get to us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>All right, Secco was able to splash down safely... or should I say land?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Now they're cornered.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>And whoever Bucciarati and his men were meeting in Rome</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>will be dealt with by Green Tea.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Th-That b*stard's coming from the top of the hill!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And we can't go back down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista, concentrate on the helicopter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We can't let it escape!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll deal with this guy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I-It's no use, Bucciarati! It's already too far away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I won't be able to hit the fuel tank or the propellers from here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You never know until you try!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's no use! They won't reach!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I know the b*ll*ts' range better than anyone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The helicopter got away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The guy underground is coming for us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The b*ll*ts hit their target, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Now, the two of us are going to go take care of the man in the helicopter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let's go after the helicopter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Go after it? The helicopter?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>What?! What is this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We have to take care of him before the mold's k*lling spree reaches the
+            Colosseum!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>we can leave the guy beneath the ground to you, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Go, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Run, Mista!</speech>
+    </dialogue>
+</xml>

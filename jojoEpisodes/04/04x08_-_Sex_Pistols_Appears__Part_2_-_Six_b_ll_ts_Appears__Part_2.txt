@@ -530,7 +530,7 @@ Sale: I told you it would be easy for my Stand to deflect your b*ll*ts!
 
 
 
-b*ll*ts: Yee-haw!
+B*ll*ts: Yee-haw!
 
 
 
@@ -554,7 +554,7 @@ Sale: I can still deflect it somewhat!
 
 
 
-b*ll*ts: Hell yeah!
+B*ll*ts: Hell yeah!
 
 
 
@@ -642,11 +642,11 @@ One: Mista, it's because you dropped some b*ll*ts!
 
 
 
-b*llet: You dropped them, dummy!
+B*llet: You dropped them, dummy!
 
 
 
-b*llet: Four is unlucky.
+B*llet: Four is unlucky.
 
 
 
@@ -1210,15 +1210,15 @@ Mista: I mean, if you're invincible enough to withstand that too, I'm sorta scre
 
 
 
-b*ll*ts: We did it!
+B*ll*ts: We did it!
 
 
 
-b*ll*ts: Yes!
+B*ll*ts: Yes!
 
 
 
-b*ll*ts: Yes!
+B*ll*ts: Yes!
 
 
 

@@ -18,7 +18,7 @@ JoJo-EpTitle,Sign: Episodio   The Second Mission from the Boss
 
 
 
-fugo: The city of Pompeii was known to the Romans as a peaceful, prosperous health resort.
+Fugo: The city of Pompeii was known to the Romans as a peaceful, prosperous health resort.
 
 
 
@@ -566,11 +566,11 @@ Gio: Fugo's—
 
 
 
-abba: Get away from Purple Smoke!
+Abba: Get away from Purple Smoke!
 
 
 
-abba: Hurry up!
+Abba: Hurry up!
 
 
 

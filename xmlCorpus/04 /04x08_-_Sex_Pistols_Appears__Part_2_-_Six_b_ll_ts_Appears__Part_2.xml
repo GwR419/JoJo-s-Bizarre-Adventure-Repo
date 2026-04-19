@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Gio</name>
+        <speech>All we need is someone to head to the island first and get rid of the guy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's perfect for situations like this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll be going, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista! He's already on the radio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Shoot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bazoo,Sfx</name>
+        <speech>Bazoo</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it! This isn't good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It'll be bad news if this truck gets away right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Mista</name>
+        <speech>Episode Six b*ll*ts Appears, Part </speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Guido Mista's way of life ever since</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>he was little was to live it as simply as possible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>He loved to sleep and found joy in looking at branches</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>in the morning sun, watching the clouds go by,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>the scent of wine, and having a bite of cheese.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Whenever he spotted cute girls,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>he would talk to them, even if they shot him down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>If he ran out of money,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>he would jump any jerk badmouthing movie stars</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>in front of the cinema and take their money.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>At times, he'd get his a*s whooped so badly that the police had to
+            intervene,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but Mista lived a very happy life nonetheless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Being simpleminded could be taken as an insult,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but Mista always felt that</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>overthinking things invited fear into one's heart, which was bad.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When Mista turned , he learned from a certain incident</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>that people have pre-determined destinies.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When they're young, people may find themselves</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>at a standstill or taking the long way around at times,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but they ultimately end up traveling the path they were destined to walk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>On a clear summer night, Mista was wandering around like he usually did.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, wanna go have some fun?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Sorry, we have plans.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Ciao!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>No! Let go of me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>Shut your mouth! There's no point in resisting!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>Shut up! Quit your screaming!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The woman being punched in the parked car was half-naked.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>She was bleeding from her nose and mouth, and about to lose consciousness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>For a moment, Mista hesitated to get involved, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>Y-You b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Because he's so simpleminded, his body acted on its own.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug </name>
+        <speech>You b*stard! What do you think you're doing to our bro?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>You little sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>No matter how close you may be, there is no guarantee</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>you'll hit your target just because you pulled the trigger.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When you're panicked or in a hurry,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>you end up pulling the trigger even if your g*n isn't facing your target.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Both of the shots the hooligan fired</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>went under Mista's arm and disappeared into the darkness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>The hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>S-Stay back! You hear me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Three, four, five, six shots!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Unbelievably, they all faded into the darkness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Then his panicked friends started shooting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>At this point, this is nothing short of a miracle,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but not a single shot hit Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Meanwhile, Mista was astonished at his own state of quiet concentration.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>What the hell's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>Wh-Who is this guy?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Thug</name>
+        <speech>Wh-What are you—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>After stealing one of the g*ns and some b*ll*ts,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Mista calmly loaded the cylinder,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>and pulled the trigger as calmly as a nurse inserting a shot</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>into a patient's arm.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>He pointed the g*n at their faces and shot four perfect shots.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Of course, this was his first time k*lling someone,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but he didn't hesitate or feel any remorse.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>In a helpless situation, Mista made the decision to cut through the
+            shadows.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Eat lead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The driver of the truck must be its owner,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>because...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>his right leg isn't injured.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I wasn't planning to k*ll you, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>O-Ow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Damn it! You shot me twice, you piece of sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Quit moving! I'm going to aim properly this time, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>How could I say something so lame?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's not what I meant!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I was supposed to ask how that b*stard didn't die</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>after I shot him in the head!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Did the b*llet just happen to miss his brain?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>That was so charming of you, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Your name is Mista, isn't it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I heard that you have even more friends on Capri,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but you're the only one who's seen my face.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Isn't that right, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>After that little trap you set for me with the radio,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I wound up getting shot twice in that surprise attack,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>but if I face you head-on with my Stand, Arts &amp; Crafts,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I can easily deflect a b*llet from a puny little p*stol.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>By the way, I was a bit too busy to count,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>but how many b*ll*ts was that in all, huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>You fired four on this truck...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>And I'm pretty sure you fired two back at the watchhouse in Marina Grande.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Right? I counted correctly, didn't I, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Now I can get close enough to beat the sh*t out of you safely, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>sh*t. I need to reload!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wh-What the?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Y-You're kidding me!My left hand won't let go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Whoa!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey! How long are you gonna keep driving?! Stop the damn truck, you
+            dumbass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Yeah... Someone stop it, please.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Someone stop this truck! This thing is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Think about it for a sec.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Why was I nice enough to let you know that you were out of b*ll*ts?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Did you think it was because I'm a nice guy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I only told you because I knew you could no longer escape from this truck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>The driver also can't let up on the gas pedal,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>nor can he let go of the steering wheel.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I told you because you won't be able to reload</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>with your left hand stuck to the truck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Those are the b*ll*ts that the b*stard's Stand deflected.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>They've stopped in mid-air, like they're fixed in place</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>and moving in conjunction with the truck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Fixed in place...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He must've used his ability to affix the b*ll*ts into place mid-air,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>and to affix the driver and me onto this truck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>His ability is to fix something he's touched into place.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The b*llet I shot at him was also affixed to his skin at the opening of the
+            wound</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>and hasn't actually penetrated his head. That's why he hasn't died!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>To tell you the truth, Mista,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I'm ecstatic that you attacked me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>So much that I'm willing to forget the fact that you shot a b*llet at my
+            head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I mean, it was up in the air if Polpo's fortune actually existed or not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>It's just a rumor among some thugs, after all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>But the fact that you attacked me means it actually exists!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I'm overflowing with hope and motivation! All right!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I can passionately steal the ten billion from that b*stard Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I told you it would be easy for my Stand to deflect your b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yee-haw!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Wh-What?! Another b*llet showed up from the shadows?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>He fired two b*ll*ts in a single shot?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Is that Mista's Stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I can still deflect it somewhat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Hell yeah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well done, Six b*ll*ts Number and Number !</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And now that we've thrown you from the truck,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>there's nothing more to worry about!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Ow! You shot me again, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>But... you're not getting away.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>This is for ten billion! You're not getting away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There is a way to defeat him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But he's strong... That's a fact.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Will I be able to do it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign top</name>
+        <speech>Sale</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign bot</name>
+        <speech>Arts &amp; Crafts</speech>
+    </dialogue>
+    <dialogue>
+        <name>Giorno</name>
+        <speech>Blood...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>A vehicle...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The enemy and Mista are in a car, heading toward the top of the island.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Will I be able to catch up with them?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Either way, I need to find a car to chase them in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Four b*ll*ts?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the hell's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I only have four b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Why do I only have four left? Seriously!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Mista, it's because you dropped some b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>You dropped them, dummy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Four is unlucky.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>Don't put all four in there. It'll just be bad luck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I-I can take my hands off the wheel!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Yes! My feet can move, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Now I can finally stop!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Don't you dare stop!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Huh? B-But you told me to stop the truck earlier!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And what I'm saying right now is more correct, at least when I'm talking to
+            you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Listen up. I want to go back to Marina Grande.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>My buddy's back at the marina.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There has to be another way back there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I won't harm you. I'll even thank you if you take me back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Got it?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That b*stard stops the b*ll*ts at the surface of his skin so they don't penetrate
+            his body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The ability to fix things in place...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>How am I supposed to beat him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I can just shoot into his mouth...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>The inside of his body should be defenseless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He might actually die.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But I only have four b*ll*ts left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Damn it, talk about unlucky!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Three would've been much better.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Now that I've seen his face and know who he is, I don't need to do anything
+            dangerous.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It'd be much safer to meet back up with Giorno at the marina.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I have extra b*ll*ts with the rest of my things, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Th-That b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Impossible! He scaled the cliff already?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, stop the truck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Huh? Now what?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Stop the truck, I said!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hurry it up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Th-That's the guy from earlier!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's no way in hell I'm going to let you tell your buddies who I am!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I'm not letting you get away, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He can affix rocks in the air, just like the b*ll*ts?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He climbed up here like he was using a ladder?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Why the hell did you stop the truck, you dumbass?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Drive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Huh? Wait, what?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Full speed ahead! You'll be sorry if you stop!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you want to settle things right here, right now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Let's do this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Driver, don't you dare stop the truck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Just gotta tap it slightly with my finger...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Even if it's just slightly, if I tap it over and over,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>it'll just keep building up force in the place where it's affixed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I can't hit it too hard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>It'll throw off my aim, and my enemy will figure out which way it's going to
+            fly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>And then... I let it loose!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bam,Sfx</name>
+        <speech>Bam</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>It came back to you, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Those three Stands of yours that you just fired lost control and flew off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Just a little at a time...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You just keep tapping it with just a little bit of force.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Just like tapping an SOS in Morse code.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>The aim's not perfect, so I can't use it on things that move around too
+            much,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>but I can definitely use it on you right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Th-This really sucks...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Talk about bad luck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Four is always the absolute worst for me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Ever since I was a kid...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There are just some misfortunes you can't see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Still, other than that, it's a good number.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I only have one b*llet left, but this means the worst is over, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Now the number's one, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>Number ! Number ! Group up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>We're all gonna group up on this last shot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>This is the the last of them, so give it your all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>All</name>
+        <speech>Yeah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Stay put, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Don't you try to shoot me again, you dumbass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Just look at this distance! No matter what abilities your Stand uses on the
+            b*ll*ts,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>or how many you fire,I clearly have the upper hand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have plenty of time to defend myself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>You've realized by now that it's impossible to beat me, haven't you, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I told you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>that I only have one b*llet left in this chamber, would you believe me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm telling you the truth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I only have one b*llet left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I shoot it and you somehow manage to deflect it,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll be out of b*ll*ts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You'll find out anyway, so I might as well tell you now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I miss this last shot, you'll see that I'm out of b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Though messing up is hypothetical right now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm definitely going to shoot you with this one, final b*llet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>What are you pointlessly rambling on about, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>It doesn't matter to me how many b*ll*ts you have left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Whether you fire a single b*llet or a hundred, you can't defeat me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's not pointless at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You're definitely going to let your guard down</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>now that you know I only have one b*llet left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>This is pointless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>He's gonna use his Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>Leave it to me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>Let's go! We only have one target!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Give it your all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>You're aiming for the inside of my mouth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Am I wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>He opened his mouth on his own!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>He's not going to defend himself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>We'll just have to charge right in!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I knew it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Ow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I knew you were aiming there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>At the inside of my mouth!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>That's what any normal person would think...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>That I shouldn't be able to use my ability to affix things inside my body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>It's a pain in the a*s to guard myself, so I opened my mouth for you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Impossible...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He can even affix things inside his mouth to guard against the b*llet?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Damn... This really freakin' hurts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>But... it looks like you weren't lying about that being your last b*llet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>I see you're not shooting again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>You done now, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>If you're finished...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>The launching power on this baby...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>is more than ready, Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Take this! Release!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>He really did let down his guard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>He let his guard down because Mista was out of b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>We just wanted to get closer to him,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Seven</name>
+        <speech>because the closer we get, the better we can aim!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Wh-What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Wh-When did they—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>sh*t! They're too close!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Here we go, boys!</speech>
+    </dialogue>
+    <dialogue>
+        <name>One</name>
+        <speech>Aim!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Arts &amp; Crafts! Defend!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>The b*llet split in two?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>It won't matter if he gets one more clean hit on me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>but... he's not aiming for that, is he?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>That's not good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Don't tell me... he's aiming for that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>That's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I aimed for the same wound.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If I shoot another round at the one that's stopped in your head,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>it's going to push it just enough to dig further into your skull!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I mean, if you're invincible enough to withstand that too, I'm sorta screwed,
+            but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>We did it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yes!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yes!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Come on, Number .</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I keep telling you to not bully Number , jeez...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's still somewhat alive, even though he's got a b*llet in his brain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Guess your Stand really is invincible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati told me not to k*ll you, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, we're going back! Back to the marina!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What do you want?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What the hell is with you guys?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Damn it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Who the hell do they think I am?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Telling me to stop, then go...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm not a freakin' taxi, you dumbasses!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>How dare you threaten me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'll let you off the hook for now, but next time I'm gonna let you have it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm terribly sorry, but I'm chasing someone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Could you take me to the top of the island in this truck?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Quit wasting time! I'm desperate here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're gonna drive! Got it?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Y-Yes, sir...</speech>
+    </dialogue>
+</xml>

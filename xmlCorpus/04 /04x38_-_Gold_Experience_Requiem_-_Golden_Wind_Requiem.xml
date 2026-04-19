@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Mista</name>
+        <speech>Come on, guys! Hear me out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Would you cool it already?Okay, what do you want?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I was thinking about this last night...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So, if you were to eat human flesh, would it taste good or bad?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Come on, Mista. Don't talk about stuff like that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Why the hell would you bring that up out of the blue?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Get outta here! Go eat by yourself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Useless! Useless! Useless! Useless! Useless! Useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\c&amp;HF&amp;\c&amp;HAA&amp;\pos(,)}Scrunch</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\fad(,)\pos(,)\c&amp;HF&amp;\c&amp;HAA&amp;}Kapow</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You won't be heading anywhere.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>In particular, you will never arrive at the truth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Why, you little brat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Useless! Useless! Useless! Useless! Useless! Useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Useless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>No_one_can_escap,Op subs</name>
+        <speech>No one can escape the fate that was chosen for them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>No_one_can_escap,Op subs</name>
+        <speech>All that remains is the end, where you will all perish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Golden Wind Requiem</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Y-You did it! At last!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Your Golden Wind evolved with the arrow, and...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I couldn't see what it did, so I don't really know how,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but you finally defeated him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>But... wait a sec.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Did he float up anywhere?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Hey, where is he? Where's his body?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Where is he?! Find him, Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Where is he?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I'm just...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>barely... still alive...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>somehow...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>What was that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>My prediction clearly showed my victory... and yet...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What in the world... was that Requiem?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I need to escape... into this sewer for now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I still... have enough strength left for that...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I did it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Was I just lucky?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You jackass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I-I'm not g-gonna let you s-snatch my precious c-coat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>It's not happening!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What? You wanna fight?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Well, do ya?! Don't mess with me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'll take you on anytime!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Come at me, ya dickhead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Come on! Come at me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I-Impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>This can't be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You're never gonna get my coat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I can't stand up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>S-Someone...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You ain't getting it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I-I can't... Not here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You ain't getting it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I-I'm Diavolo!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Not at the hands of a guy like him...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I'm fading...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Where am I?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Why am I sleeping on a bed?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I fell into the river, and then, when I got into that sewer...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Let's see... Today's date is the th.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>: AM.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>File number .</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>I, Dr. Monica Ultello, will be handling this case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>We have an adult male, between the ages of and .</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>His identity is unknown.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Judging from the state of his skin, it's been about to hours since his
+            death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>I will now begin the autopsy to determine his cause of death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Hey, woman... What are you talking about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Although his body was found near the river,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Where am I? What am I doing here?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>he had barely any water in him, so he couldn't have drowned.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Hey, woman!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I can't move...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>M-My fingers...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>My body...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What in the world is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Hey, woman! Are you listening to me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Who the hell are you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Why won't my body move?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>A-And this pain...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I-It hurts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>The cause of death is a stab wound reaching his liver.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>There are no marks indicating hesitation, so we can rule out suicide.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>Next, I'll dissect his abdomen and check inside, just in case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Lady</name>
+        <speech>His liver is very healthy. It's a very nice color.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I-It was just a dream?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Am I just dreaming?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I-It's happening again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What time is it? Where am I?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I was in the Tiber River in Rome...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>And that feeling...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>That unimaginable pain I experienced in the autopsy room...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I-It was too real to be a dream...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hello, sir?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Are you all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Why are you hunched over like that? Are you not feeling well?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HCBE&amp;\c&amp;HBD&amp;}Jump</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, stop that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>What in the world is this?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Something's wrong!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>I-I couldn't possibly die in such a stupid manner!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Don't tell me that this is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Golden Wind Requiem's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>We have to find him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I can sense that he's still alive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I can't relax until we know for sure!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No, there's no reason to look for him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Everything's already over.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I wasn't able to clearly see Requiem's ability myself,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but I know deep in my heart that it's true.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He won't be heading anywhere ever again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>In particular, he'll never arrive at the truth...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He'll never even arrive at the truth behind his death.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Why are you hunched over, mister? Does your tummy hurt?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Eternally.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>B-But he's alive...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>His end is that there is no end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's... Golden Wind Requiem's ability!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>H-How many times am I going to die?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Wh-When am I going to be attacked next, and from where?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>S-Stay back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Stay away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>S-Stay...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dia</name>
+        <speech>Stay the hell away from me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So we finally did it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>We're the ones who won?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, come on! Let's hurry back to the Colosseum.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati might've gotten his soul back, but his body is hurt.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's probably wondering what the hell happened to us at the Colosseum!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno, come on! We're going back to the Colosseum!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Let's heal Bucciarati's wounds and head home!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yeah...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Let's go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'll be right there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, that's how it should be.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Don't worry about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What we've accomplished up to this point is an absolute victory.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Fate is a sleeping sl*ve.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And we've set that sl*ve free.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's what our victory is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Giorno Giovanna</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Golden Wind Requiem</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Just hear me out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Taking time to really think about what you're eating</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>is connected to whether or not you're living a happy life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's why I think it's really important.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So, there are animals that are carnivores, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You know, like lions, cats, and vultures.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You won't find meat from carnivores like that at a restaurant.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Why is that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Because it's too smelly to eat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's disgusting!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Listen up, guys! Cats are too disgusting to eat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Are we on the same page so far?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'd never eat a cat, even if some culinary expert said it was the best thing
+            ever!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>On the other hand, have you heard of a fish called "sweetfish"?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sweetfish don't eat bugs. They only eat algae.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>They're vegetarian.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Usually, fish guts are too bitter to eat, but sweetfish guts are delicious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's because they're not carnivores.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So with that logic in mind,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>all the meat we consider delicious is from herbivorous animals!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Cows, pigs, and chickens!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The better their feed, the better they taste!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Which leads us to this conclusion...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Humans would taste gross because they eat meat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well? How do you like the opinion I came up with?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I see. That's actually rather convincing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That whole thing that comes up in novels about human flesh tasting good</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>is a flat-out lie!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I, uh... I actually eat a lot more vegetables and fruits than meat,
+            though...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Then you might actually be pretty tasty!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Narancia, don't egg him on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, you're late, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You know Leaky Eye Luca, who's in charge of the airport, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>His dead body was just discovered.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I've been ordered by the capo Polpo to check it out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I hate that guy. He deserved to die.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He had no qualms about tormenting the weak,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>and he sold drugs to kids.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He probably got high and hit his head or something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia, you may feel that way deep inside, but don't actually say it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Think about the world we live in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Do you want me to look into this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You're going to be a capo someday.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>You don't need to trouble yourselfwith such trivial matters.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No, I'll be looking into this myself.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>By the way, Fugo...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Oh, right. You have a guest.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He's been waiting for you all morning.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He's a civilian who runs a flower shop in Monsanto Plaza.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I've looked into him already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He's an ordinary, responsible gentleman,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>but he lost his only daughter six months ago.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Mr. Bucciarati... As you can see, my legs don't work so well,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>and I came here without my wife, who usually accompanies me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>so I apologize for coming here alone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Do you pay your taxes?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I beg your pardon?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Do you always honestly pay the taxes you owe to this country on time?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Of course I do...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I don't know what you came here to talk to me about,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but a civilian like you shouldn't be here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If you properly pay your taxes,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>you should go talk to the police or anyone else who deals with the law.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The moment you start talking to me, you'll end up in</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>far deeper debt to the organization than you can even imagine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I, just like everyone else in this country,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>have worked hard for my family, believed in the law,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and raised my child with proper morals.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>She was my only daughter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>She had turned seventeen last September.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I apologize if I sound overbearing,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but I'd like to continue this conversation with you in private.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If you want to continue this conversation...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>They all trust me greatly, and I also trust them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And you're asking me to interrupt their meal and tell them to go outside?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can't do that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>This happened a few months ago...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>My wife told me that my daughter had a boyfriend.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I heard that he was a young sculptor who was just getting started.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>That was fine and all, but despite the fact that he was older than my
+            daughter,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>he never came to introduce himself to us, her parents.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>That got to me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>And shortly after...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>my daughter jumped off the roof of his apartment building,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>holding a strange rock sculpture he had made, and plunged into the
+            courtyard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'm terribly sorry for losing my composure...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Why do my tears hurt so much?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>My daughter was my hope...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>My daughter shone with youthful beauty...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I want you to avenge my daughter!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please make that man pay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Hang on a second.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you saying this was m*rder?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you implying that this boyfriend pushed her off the roof?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If a m*rder happened in this town, I would have heard about it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>The police refused to look into it further and ruled it a suicide.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Even my lawyer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>But there's something that only her family knows...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>My daughter would never commit suicide!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Both my wife and I can say that with confidence!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please! I want you to settle this once and for all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please make him, the b*stard who's still living his life as usual,
+            experience</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>these tears of despair that I'm crying!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Life is full of hardships.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I feel for you, but I can't agree to this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you trying to imply that we're some assassins who would lynch just
+            anyone?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Everyone in this town relies on you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'm just asking for the rightful punishment!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The rightful punishment?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Florist, earlier, you asked if we could talk privately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That was because you knew how dangerous this conversation is, wasn't it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But what you said about something only her family would know...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I can't take that lightly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>To think that no one involved with the law was moved by</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>those words in the past six months...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I find that rather unbelievable.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can at least try to make this boyfriend talk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll only ask for that payment once we confirm that he's actually guilty.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Does that work for you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Mr. Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'd like you to look into this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bad_luck,Sign</name>
+        <speech>Bad luck</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What the heck...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bad_luck,Sign</name>
+        <speech>{\c&amp;HD&amp;\c&amp;HBBD&amp;\c&amp;HACFAD&amp;}Bad luck</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>is this rock?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bad_luck,Sign</name>
+        <speech>{\fad(,)\c&amp;HB&amp;\c&amp;HBE&amp;\shad\bord}k*ll me</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Mista, make sure you put that back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Uh... Did I knock this rock... off of its stand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Was it always here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Be careful when you stand up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Make sure you don't hit that rock.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Mista, Bucciarati says we can drive you partway.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Right...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Mista, here's the address to the apartment building.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Here's a picture of the boyfriend.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Find him and make him talk.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You can get a little rough with him if you need to.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Make sure you get a confession.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You've got a tape recorder, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah... But how far should I go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I mean, if he actually ends up being a m*rder*r and k*lled that girl...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We aren't assassins.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Make it so he can't walk for four or five years, and leave the rest to the
+            police.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sure that'll satisfy the florist's need for revenge.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HCC&amp;\c&amp;HDFB&amp;}Menacing</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Hey, where are you going?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Hurry up and get in the car. I'm gonna leave you behind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Mista! Do you want a ride or not? Are you taking a piss?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm not! Yes, I want a ride! I'll be right there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What's been bothering you, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, there's something that's been bugging me about the florist's story.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He mentioned that when his daughter jumped off the roof,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>she was holding some kind of rock, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Did he mention what kind of rock it was?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>A rock?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Like, the shape of it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>How big was the rock? The boyfriend is a sculptor, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>He said it was a strange-looking rock.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah, but what exactly did this strange-looking rock look like?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He only said it looked strange.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What are you getting at, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Wait, that stone back there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>S-Stop the car for a sec, Fugo! Stop the car!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Why?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Just stop the damn ca—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Why do you want me to stop the car?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>E-Er, never mind...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I was just seeing things.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's nothing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Are you all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>How much wine did you have earlier?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey! I'm not drunk!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sorry for saying something stupid!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm terribly sorry for all the trouble!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's his apartment building, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You can drop me off here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Oh, for crying out loud...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Shouldn't someone else go with Mista on this job?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Should I accompany him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No, I'll go with Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I just remembered the rumor about Stand users gathering in this town for some
+            reason.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You take care of the investigation of Leaky Eye Luca.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Understood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So the guy's apartment is on the seventh floor...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And above that is the roof.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>His name is Scolippi...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>The courtyard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>So this is where the florist's daughter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's a Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This incident involves a Stand user!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And what the hell is this rock?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+</xml>

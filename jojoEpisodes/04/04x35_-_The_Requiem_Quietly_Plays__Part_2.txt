@@ -238,11 +238,11 @@ Dia: Don't tell me that was...
 
 
 
-b*llet: Take this!
+B*llet: Take this!
 
 
 
-b*llet: I'll put a hole in your brain!
+B*llet: I'll put a hole in your brain!
 
 
 
@@ -270,15 +270,15 @@ Crunch,Sfx: {\c&HCA&\c&HBCD&}Blam
 
 
 
-b*llet: I'll splatter your brains on the ground!
+B*llet: I'll splatter your brains on the ground!
 
 
 
-b*llet: On the ground!
+B*llet: On the ground!
 
 
 
-b*llet: Let the ants swarm around you! The flies swarm around you!
+B*llet: Let the ants swarm around you! The flies swarm around you!
 
 
 
@@ -394,7 +394,7 @@ Five: Mista! Number Seven, the onekeeping watch, is freaking out!
 
 
 
-b*llet: Bucciarati's body...
+B*llet: Bucciarati's body...
 
 
 

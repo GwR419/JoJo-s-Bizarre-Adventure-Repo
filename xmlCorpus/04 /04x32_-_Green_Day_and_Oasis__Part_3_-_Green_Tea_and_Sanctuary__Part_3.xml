@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Secco</name>
+        <speech>Sanctuary!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Take this! I'm out of time!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>As I thought... There's no mold growing on you,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>even though you fell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Cioccolata's Green Tea will k*ll any living creature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>What the hell's going on with your body?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I mean, I guess I'll just have to pulverize</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>every last inch of your body until you can't move anymore...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>w-w-with my Sanctuary!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I don't think Ill be able to defeat him quickly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>In that case... I'll lead him away</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>from here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Green Tea and Sanctuary, Part </speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This should be far enough to lose that underground guy...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>There are accidents everywhere!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Look! Someone's unconscious over there, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hurry up and save them!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>An ambulance!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Over here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Under the stairs!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Wh-What's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Wh-What happened to the mold?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>C-Cioccolata?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The mold disappeared.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, Mista...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They must've taken care of the guy in the helicopter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Secco, it's me. Did you take care of Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Something rather unexpected has happened on my end.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I'm about to take care of Giorno and Mista,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>but I've taken a bit of a blow to the head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>So there's something I want to tell you now, just in case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Listen carefully, Secco.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Their destination is the Colosseum.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>I found that out from the b*ll*ts' conversation.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Apparently, someone's waiting for them there,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>and this mysterious figure knows how to defeat the boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>That's why Giorno and the others are trying to get to them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>and why the boss is trying to stop that from happening.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>Listen carefully. Figure out this mystery before anyone else.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Cio</name>
+        <speech>You're the only one I can count on.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What's with him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wait, that phone call... Was it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Cioccolata, you piece of sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Did you actually think I'd feel sad over you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You loser!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're super smart,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>you'd throw me sugar cubes and play with me,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>and you have a lot of money.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>On top of that, you're super strong... Or so I thought.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>That's why I thought I'd be safe if I listened to you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>But apparently, you're weak after all!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I mean, you lost!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I don't like you anymore, you scum!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I hate your guts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He knows!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He knows that we're trying to get to the Colosseum!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He intends to figure out the secret!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I won't let you go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Half...?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Take this! Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>By the way, doesn't "Colosseum"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>sound kinda like "k*ll them" (koroseyo) in Japanese?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Don't you think so, Mr. Language Teacher?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I thought I'd ask before I k*lled you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Up until now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I thought we'd be out of danger as long as we stopped the man in the
+            helicopter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But things are still getting worse...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The actual threat is this guy who can move freely underground!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>If I let him get to the Colosseum before we get there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's going to go on a rampage!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're... a bit annoying... Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You already know... don't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>At close range, I'm faster and stronger than you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're a nuisance! I'll take care of you here and now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You sure know how to think fast.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You got away again...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Just barely, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>But your body really is weird.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>What the hell is the deal with you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You have glass shards stuck in you, but you aren't bleeding much at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Did you... see that just now, too?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Hey... What do you think that is?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>It came from the second level of arches, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>There was something shining.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>It happened earlier, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Hey, something just hid in the shadows.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Was that...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I saw it... I saw a glimpse of it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>The light was reflecting! Someone was looking over here with binoculars!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>The guy you're going to go see is definitely there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He was in a wheelchair, wasn't he?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I think I saw some prosthetics, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Is he disabled?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I'm going to find out this secret!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>No matter what the deal with your body is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I'm going to end you, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Are you mocking me? You went into the ground with your zipper?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Are you copying me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Do you think you stand a chance against me</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>by going underground?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Take this! Sanctua—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He's not hiding. He's moving.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>These vibrations...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He's moving in some direction...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Y-Y-You copycat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Who the hell do you think I am?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You and your piss-stained zipper guy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>H-How dare you steal my technique?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>But the only thing that copying me is going to do</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>is ensure that you basically just doomed yourself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I won't let you get to the Colosseum!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The surfaces are getting softer...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So he is pursuing me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But this sound...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This sound that's heading right toward me with no hesitation...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They say that sound reverberates better in liquids than in solids.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's just like being under water.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Does that mean he can hear when I'm moving, too?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You got way further than I thought,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>but you can't run from me anymore!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I can tell... I can even tell how far you are from me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He's meters ahead and to my left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He moved to the right. Just more meters.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Just seven more meters...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Five meters...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I'm not going to strangle you. I'll bury you alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You can die in this grave youdug for yourself, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You think you can escape my punches</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>when you're surrounded by walls of dirt?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Just two more meters!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>A water pipe?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You cut it to try and trick me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Seriously?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>The fact that you're trying these stupid little tricks</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>proves that you're feeling cornered!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You basically just admitted that you'd lose,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>even with your abilities, when you have to face off with my Sanctuary!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I don't know where you are, but I do know that you're within meters of me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're staying as still as possible so I won't be able to find you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Or what?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Are you trying to come up with some kind of strategy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I mean, you are pretty quick-witted.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>But...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I'll make you lose your upper hand...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You and your quick wit...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's a different sound than before.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What is this sound?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm hearing it from all directions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>The stone pavement inside the ground...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>turns to mud because my Sanctuary touches it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>But the moment it moves away from my body,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>it hardens again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Say, Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>There might actually be a chance.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>If you stay perfectly still, you just might make it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I mean, there's that miraculous story</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>about the death row inmate who survived three hangings</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>because of the rope breaking or the gallows malfunctioning!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's no use... I can't stay underground any longer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But it's not like I can run along the surface, either!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>I was prepared for this, but if he doesn't make it here,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>I'm going to have to destroy the arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>Our only hope... is for them to encounter this arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>The only ones who can surpass Emperor Crimson, who has the ability to control
+            time,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>are those who know the true power behind the arrow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>And the one capable of that is not me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>It's them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>Twelve years ago, I acquired this arrow after fleeing Egypt.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>And the fear that this arrow brings</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>will never end until they come.</speech>
+    </dialogue>
+    <dialogue>
+        <name>J_P__Polnareff__,Sign</name>
+        <speech>J.P. Polnareff( years old, French)</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\fad(,)\an\fnArial\b\fs\shad\pos(,)}The Colosseum in Rome{\fs\bord}"Rome will exist
+            as long as the Colosseum does;when the Colosseum falls, so will Rome;when Rome falls, so
+            will the world. (A quote from acertain medieval monk who saw the Colosseum)</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>This brief history... is rather ironic.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>They joined a g*ng because society had cast them out,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>yet they're the ones trying to stop this world from falling into the hands of
+            evil.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>But in the end...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>Will Bucciarati actually be able to make it here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>There's no point if he doesn't come out the victor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>If he fails, I'll have to destroy this arrow and its secret.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>All I can do is wait for them to arrive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>Everything begins after that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>I've been waiting all this time...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pol</name>
+        <speech>just protecting this arrow's true power.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I-It's no use! I've reached my limit!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He moved! He couldn't take it anymore and moved!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Twelve meters to the right. Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>He's planning to hide beneath the Colosseum</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>so he can evade the barrage of stone spears!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>That's not gonna happen!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>H-He's coming!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can hear very clearly that he's catching up to me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I can feel the reverberations! He's ten meters straight ahead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Eight meters...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's moving faster than me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You know...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I knew he had something up his sleeve...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Bucciarati, is this the best you could do in your desperation?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Though you are the only one who was able</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>to hide from my Sanctuary for even a second.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>But now you're finished! I'm closer than before. I'll find you soon.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>The longer you hide,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>the closer you come to your defeat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wh-What...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>M-My skin...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Don't tell me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Even the stone pavement is turning into mud!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>It stands to reason that your body</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>will start turning into mud the closer I get to you underground.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I heard you! You're right there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Now I've got you for sure. I can tell.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I'm . meters away from you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>So you've already made it to the Colosseum...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You were so close.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Take this! The secret will be mine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>To be honest, I don't really know why, either...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But even after breaking some bones, I barely feel any pain.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>My heart has stopped, so I don't bleed very much, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The damage to my body is minimized.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's why I was waiting for this...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sure my eardrums can handle the damage they're about to endure, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I was waiting...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>for you to drag anything and everything into the ground.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Street lamps, street signs, parked cars...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And the tires on those cars.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Whoops. I guess you can't hear me anymore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You b*stard... N-Now you've done it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>But... This isn't a big deal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I can still hear!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I could hear that tire popping! I know where you are!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're right there, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>M-My leg! Wh-Where am...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Wh-Why? Wh-Where is he?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>What did he do to me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>How did I mistake a car for him?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Your eardrums have been destroyed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Your Stand that allows you to travel through the ground...Sanctuary, was
+            it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Now that your ability's lost its radar, your ears,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>it's completely useless.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I figured it out, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're planning to destroy my eardrums, aren't you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You think I can't travel through the ground if my ears are destroyed, don't
+            you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>What a stupid idea!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Stay back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Stay the hell away from me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I won't take your life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But now that you know about the man waiting for us at the Colosseum,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can't let you go, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I need you to stay put for a while.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're trying to put me out of commission, aren't you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Stay the hell away from me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Just stop talking now. This conversation isn't even coherent.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>S-Stay away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Score!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Th-The moment you attack me, I'm gonna turn this kid into mud!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Then I'll throw him at you and run!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You don't wanna k*ll a kid, do you, dumbass?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Change of plans! For a while, I was thinking about defeating the boss,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>but I'll settle for just reporting this</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>to the organization and getting a reward from the boss!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>It's easier for me to just work for the organization.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Hey, brat! Get me a taxi.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Raise your hand and flag down a taxi for me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're going to get one for me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Hey! Are you listening to me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You stupid brat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Hurry up... and get me... a taxi!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Bucciarati! Why the hell are you moving toward me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Can't you hear me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Your maximum range is two meters.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>I'm very aware of that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You're probably thinking I can't get away because I hurt my leg!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Don't underestimate me! I'll k*ll this brat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You couldn't reach me! I'm out of your range!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You stupid piece of sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>You just grazed my ha— Wh-What the hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>A zipper! sh*t, my throat!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>I didn't need to even bother predicting it,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>but in the prediction I saw,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>there was no way that Bucciarati would sacrifice a kid like me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>sh*t! I need to undo this somehow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\pos(,)\fs\c&amp;HFFFFFF&amp;}Burnable Trash PickupMon, Wed, Fri</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Ah, Cioccolata!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Secco</name>
+        <speech>Cioccolata!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>I came here after tracing the signal from Secco's cellphone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>But what's happening seems to be different from the boss's orders.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>To think that Secco had already lost...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>Since they're a pair, that probably means Cioccolata is also...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>It also appears that Bucciarati is here alone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Dopp</name>
+        <speech>Where are Giorno Giovanna and Narancia?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wh-What? My body suddenly... All my strength is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It can't be... My eyes are blurring, too...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Am I finally out of time?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I knew this moment would come...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But now?</speech>
+    </dialogue>
+</xml>

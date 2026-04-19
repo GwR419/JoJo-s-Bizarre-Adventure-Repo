@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Naranr</name>
+        <speech>O-Ow! Hey, right here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>Hey, Fugo... Could you take a look right here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Oh, dear. You've definitely got one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>It's pretty big.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>Ow! That hurts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>Quit it! Don't touch it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>God damn it, you b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>You're gonna pay for that, you piece of sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>I've got a bump on my head because of you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>I hope you're prepared!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>Take this! And this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Seriously! Who do you think you are?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Hey, something fell off him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Let's see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mario Zucchero. His home address is in Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>So he's a gangster from Rome.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>So is that thing on your face garbage?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>Or is it a piece of seaweed?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>It looks like it could be seaweed, but it also looks like it could be a piece of
+            plastic.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>It'd break my heart if it's actually garbage,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>because it'd mean that this beautiful ocean is polluted.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>Mind if I take a closer look at it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>Hey.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>I asked you if you'd mind if I took a closer look at that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mist</name>
+        <speech>Answer me when I ask you a question, would you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Capri.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>When the ancient Greeks colonized various lands in the Mediterranean Sea,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>they looked for places with the most beautiful scenery in the world.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>One of those locations happened to be Capri.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Its blue sea, its sparkling sky...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>But in sharp contrast, it also had a shoreline</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>made up of white precipices, making it look like a fortress.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>During the age of the Roman Empire, there was an emperor who made</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>this island his vacation home and didn't return to Rome for ten years.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Bruno Bucciarati and his crew are about to land on this island</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>in order to claim Polpo's secret fortune of ten billion lire.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Six b*ll*ts Appears, Part </speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, let's start to make a course toward land.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I've been looking for a while now, but there isn't a single boat following
+            us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No one should know that this boat is heading to Capri.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yeah, there are no boats, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The problem is whoever that guy heard about the secret fortune from.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I have a hard time believing he followed us on his own.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You seem very interested in these, but they're not mine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>They were inside the boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Which would you prefer me to use?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The glasses or the fishing line?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>We need some answers from you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If we don't get some, we'll be in danger.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You have a partner, don't you, Mr. Zucchero?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And they're also a Stand user, aren't they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's why I'll be using these.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You don't even want to bother telling me which one you'd like me to use?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you won't pick one...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll just have to use both!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well? Do you feel like talking now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Ma-ri-o Zuc-che-ro. Heaven, Hell, or the th Circle of Hell...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Heaven, Hell, or...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>The th Circle of Hell!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>He's headed for the th Circle of Hell, according to this name divination!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If you're not going to tell us the name of</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>your partner who's coming after us and their Stand ability...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You should probably start worrying about your other eye, Mr. Zucchero!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Quit playing around, you dumbasses.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Damn it, come here and look at this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He was using the radio on the boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Sounds like you found something with Moody Jazz's replay.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's have a look.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>This whole boat was flat, but we'll be able to see him</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>in -D now that it's back to normal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have no intention of showing you my Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Turn around.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'll do you a favor and let you hear its voice, at least.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>When I was watching the replay of him, he started using the boat's radio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He's contacting someone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I've already made four of them my hostages.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>All that's left is Bucciarati and one other.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I'll have this taken care of in no time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>They were heading...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>to Capri!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>They haven't mentioned where the money's hidden, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, what do we do about this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He told them where we're heading!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>After I get rid of his five friends, I'm gonna make Bucciarati cough it up.
+            Over.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Was that yacht named Lagoon?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>What's your current location?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>We're about two hours out from Capri.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Bucciarati is wary of anyone following him, so he's taking a very roundabout
+            route.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Got it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I'll take a high-speed boat and wait for you at Capri.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Dock at Marina Grande. Over and out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's the end of the conversation. The radio cut off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>How could this be?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>This isn't good. With a high-speed vessel,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>they can get from Naples to Capri in thirty minutes!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That means they're definitely already on the island!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Naran</name>
+        <speech>Who is it? Who the hell was on the radio?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm going to make this guy tell us who it is, no matter what!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No, he's a hardcore gangster.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It'll probably take some time to get anything out of him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He probably won't say anything today.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Besides, he might not know what his partner's Stand looks like.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's very possible his partner's kept it secret even from him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Then what are we supposed to do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What if we just come ashore like this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If they find out we're the ones on this boat instead of Zucchero...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Also, if this boat doesn't arrive at Marina Grande in about an hour...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>They guy on the radio is sure to think something happened to Zucchero.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>If that happens, who knows if we'll be able to get the money?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>In fact...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>I have my doubts we'd make it back to Naples in one piece!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What are we going to do, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There's no time to hesitate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We should at least outfox the guy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'll somehow get to the island first and—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Before this boat docks,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>all we need is someone to head to the island first and get rid of the guy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>What the hell are you talking about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Are you sure you're not stupid?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Get to the island before this boat?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What are we supposed to do? Swim there?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I can change this ring buoy into a fish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If I have it pull me, I'll be able to get to the island faster than this
+            boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Of course, since it's my Stand, I'll be the one going.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I, Giorno Giovanna, have a dream.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I want that ten billion lire.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We have to use that money to make Bucciarati a capo</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>and move our way up the ranks.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You're going to go? All right, fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You've got some good ideas, boy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>But sadly, you don't know this guy's name or what he looks like.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Capri is filled with tourists.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>How the hell are you going to find him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I agree with Giorno's plan.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Even if we don't know who this guy is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If he's waiting for Zucchero to arrive in this boat,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I think there's a high possibility that we can attack first</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>rather than wait for him to attack.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So how many people can that fish pull, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>My Stand, Six b*ll*ts, is made for k*lling.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's perfect for situations like this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll be going, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Six b*ll*ts</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Guido Mista</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It took us quite a while to swim from the yacht to the island.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We have minutes before the time</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Zucchero was supposed to meet up with the man on Capri.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That's about all the time we have left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno, how does the marina look?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Not good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Just as Abbacchio said, there are a lot of tourists.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And they all look like they're waiting for someone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>They're probably just waiting for sightseeing vessels, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista, you have a plan to find the guy among that crowd of tourists</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>in the next minutes, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What... are you doing?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It's way past lunchtime.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'd prefer to go to that restaurant over there,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but it's probably a bad idea to have lunch at a restaurant</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>right in front of the marina.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I don't know what this guy looks like,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but he probably knows what I look like since I'm on Bucciarati's team.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That goes for you, too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I have no idea what you're talking about,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>but listen, Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I know we said about minutes,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>but if he's the panicky type, we might only have about ten.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Maybe even five.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He may get suspicious when the Lagoon doesn't come into port</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and figure out that something happened to Zucchero.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If that happens, we won't have a chance to find him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>We have to make our move imme—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And I told you, this is my lunchtime!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Lunchtime is for lunch!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Even boutiques and bookstores in this country honor lunchtime.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>No one works if they don't have their lunch.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm not saying I'm like that,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but these little guys pretty much expect it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Lunchtime!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Give us food!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Here you go, guys. Lunch is served.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Tuscan salami is delicious!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Delicious!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>This is the best!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Hey, gimme that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, come on now, Number !</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Stop making Number cry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Stop fighting. There's enough for all of you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>They all believe that they do the most work,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>so they have the right to eat more than the others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I work so hard not to play favorites.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Number ! Quit crying already!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What are they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>How many of those things do you have?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, don't call them "things."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>They get pissed off when they're treated like pets.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There are six of them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and there isn't a Number because four is bad luck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There's one for each b*llet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>For each b*llet?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This guy here keeps rushing us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Could you guys take your nap after your work is done?</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Hell no!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Hey, Number !</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I keep telling you not to hit the others!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'll convince these guys to work.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>So, Giorno...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>You get the radio out of that plastic bag.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There'll be a feast after we do this job!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Let's do this, you guys!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Listen up. I'm going to sneak up to the security watchhouse</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and hide in its shadows so that no one sees me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Is there anyone waiting for a yacht named Lagoon?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>We've received a transmission from a Mr. Zucchero on the Lagoon!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please come to the boat watchhouse!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Is there anyone waiting for a yacht named Lagoon?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>We've received a transmission from a Mr. Zucchero on the Lagoon!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He might decide to be cautious and not answer the radio call...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please come to the boat watchhouse!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Or he might get excited and run out, thinking the hiding place</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>of the ten billion lire has been found.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is a gamble,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Is there anyone waiting for the Lagoon?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>but the one who comes to the boat watchhouse</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>to answer that radio call is our guy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>We've received a transmission from a Mr. Zucchero!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno, if anyone comes near the watchhouse, give me a signal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>If you're waiting for the Lagoon, please come to the boat watchhouse!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm gonna shoot the guy who takes the radio call!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But Bucciarati told me to not k*ll him, so I'll miss any vital points.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Or at least, I'll try.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No one's making a move yet...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No one's heading over there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Is there no one?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>No one's waiting for the Lagoon?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>There's a transmission from Mr. Zucchero!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No, there's no one. Nothing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's supposed to be somewhere on this island.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Is he just being too cautious to answer the radio call?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Did something happen, Zucchero?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Why did you request an announcement?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Is there a problem? Over.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>What's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No one's heading toward the watchhouse.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's there! How?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This isn't good. Does that watchhouse have a back entrance?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's already inside the watchhouse!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's too dark to see his face.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista hasn't realized he's in there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>At this rate, the guy's going to realize this is a trap and run!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I have to let Mista know!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>What? The guy's coming to answer the radio call?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Which one is it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Who's heading toward the watchhouse?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>N-No!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's not heading there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's already inside!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Don't come out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's by the window!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>That guy is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>one of Bucciarati's guys!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sale</name>
+        <speech>Didn't Zucchero take care of him on the yacht?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista! Behind you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's on the radio! Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Damn it! He can't hear me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's better than him not noticing!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>He's already there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista! He's already on the radio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Come on! Pass, pass, pass!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Go, Six b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Menace,Sfx</name>
+        <speech>Menacing</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Here we go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Shoot!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bazoo,Sfx</name>
+        <speech>Bazoo</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Heck yeah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*ll*ts</name>
+        <speech>Yeah! Yeah! Yeah! Yeah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>D-Did he get him?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Wh-Who the hell are you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Wh-What was that noise?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>g*nshots.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Did it bother you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It probably wasn't as loud as in the movies.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But if it did bother you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I'm sorta busy right now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>so I'll listen to your complaints later.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Guess Giorno just can't wait.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>So there was a rear entrance...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Meaning he came through this door and got on the radio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Either he was being cautious</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>or he's just used to always going through the back door.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Still...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Good job, b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Yay!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Leg!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>Leg! Hey, hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>We got his right leg!</speech>
+    </dialogue>
+    <dialogue>
+        <name>B*llet</name>
+        <speech>We shot him right through his right leg!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Yeah, you sure did.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Now he won't get away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There are a bunch of people outside...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>And this side is basically a cliff.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>There's no way he could climb up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He must be scurrying about right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If he were to hide somewhere...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He must be in that truck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If he's a Stand user, his Stand is probably close-range and extremely
+            powerful.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>If he was a remote-control type, he would've attacked me by now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>In that case, the guy who just got shot in the leg</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>is probably hiding behind the truck,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>trying to lure me as close to him as possible so that he can attack.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, it's not like he's going to get me, even if I get close to him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He's probably just beyond there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>But so long as we don't know what his Stand is,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>going over there alone isn't a safe plan at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I should wait for Giorno and—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Well, I guess that option's out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>The guy's in the driver's seat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>He must've jump-started the engine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>It'll be bad news if this truck gets away right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Damn it! This isn't good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I haven't seen his face yet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Giorno probably hasn't, either!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I don't know what his Stand is yet, but I don't have a choice!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>This is for the ten billion and Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Eat lead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Mista!</speech>
+    </dialogue>
+</xml>

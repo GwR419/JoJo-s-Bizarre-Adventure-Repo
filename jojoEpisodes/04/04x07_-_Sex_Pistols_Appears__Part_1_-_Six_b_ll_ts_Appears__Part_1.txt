@@ -306,11 +306,11 @@ Abba: He's contacting someone.
 
 
 
-mario: I've already made four of them my hostages.
+Mario: I've already made four of them my hostages.
 
 
 
-mario: All that's left is Bucciarati and one other.
+Mario: All that's left is Bucciarati and one other.
 
 
 
@@ -730,11 +730,11 @@ Mista: but these little guys pretty much expect it.
 
 
 
-b*llet: Lunchtime!
+B*llet: Lunchtime!
 
 
 
-b*llet: Give us food!
+B*llet: Give us food!
 
 
 
@@ -826,7 +826,7 @@ Mista: Could you guys take your nap after your work is done?
 
 
 
-b*ll*ts: Hell no!
+B*ll*ts: Hell no!
 
 
 
@@ -1106,11 +1106,11 @@ Menace,Sfx: Menacing
 
 
 
-b*llet: Here we go!
+B*llet: Here we go!
 
 
 
-b*ll*ts: Shoot!
+B*ll*ts: Shoot!
 
 
 
@@ -1118,15 +1118,15 @@ Bazoo,Sfx: Bazoo
 
 
 
-b*ll*ts: Yay!
+B*ll*ts: Yay!
 
 
 
-b*ll*ts: Heck yeah!
+B*ll*ts: Heck yeah!
 
 
 
-b*ll*ts: Yeah! Yeah! Yeah! Yeah!
+B*ll*ts: Yeah! Yeah! Yeah! Yeah!
 
 
 
@@ -1194,23 +1194,23 @@ JoJo-main: ,Good job, b*ll*ts!
 
 
 
-b*llet: Yay!
+B*llet: Yay!
 
 
 
-b*llet: Leg!
+B*llet: Leg!
 
 
 
-b*llet: Leg! Hey, hey!
+B*llet: Leg! Hey, hey!
 
 
 
-b*llet: We got his right leg!
+B*llet: We got his right leg!
 
 
 
-b*llet: We shot him right through his right leg!
+B*llet: We shot him right through his right leg!
 
 
 

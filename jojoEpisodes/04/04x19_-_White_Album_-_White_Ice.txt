@@ -170,11 +170,11 @@ Mista: He's not going to let me get away so easily.
 
 
 
-mistA: Of course not...
+MistA: Of course not...
 
 
 
-ghia: White Ice! Undo the ice temporarily!
+Ghia: White Ice! Undo the ice temporarily!
 
 
 
@@ -354,7 +354,7 @@ Mista: Number One and Number Two, go around and flank him!
 
 
 
-five: Wah, he's looking over here!
+Five: Wah, he's looking over here!
 
 
 
@@ -882,7 +882,7 @@ JoJo-main: ,I see the path I need to take through the darkness!
 
 
 
-b*ll*ts: Yeehaw!
+B*ll*ts: Yeehaw!
 
 
 

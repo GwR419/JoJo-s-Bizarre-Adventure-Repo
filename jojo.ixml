@@ -1,7 +1,7 @@
 xml: (dialogue)++newLine.
-dialogue: name, -" ", speech.
+dialogue: -"_"*, (name, -" "?)?, speech.
 -newLine: (-#d | -#a)+.
-name: ["A"-"Z"],  ~[":";#d;#a]+, -":".
+name: ["A"-"Z"],  ~[":";#d;#a]*, -":".
 speech: -","?, ~[#d;#a]+.
 -italic: -"{/i}".
 -marker: -"{\pos(,)\fad(,)}" | -"{\fs}" | -"{\pos(,)}".

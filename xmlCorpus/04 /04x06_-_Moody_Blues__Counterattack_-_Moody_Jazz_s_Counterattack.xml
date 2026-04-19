@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Nar</name>
+        <speech>Leone Abbacchio became a police officer after graduating from high school.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>This was due to his strong sense of justice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>But soon after he became a police officer, his lifelong dream,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Abbacchio realized there were many contradictions that came with this job.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The police were supposed to risk their lives to save others,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>while those very people they were risking their lives to protect</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>were the ones who were stealing, injuring others in hit-and-runs,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey, you two!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>and throwing rocks at police cars, breaking their windshields.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Honey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Are you all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You're a cop, aren't you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>The masses were unappreciative,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>demanding, and irresponsibly discredited and insulted the police,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>asking, "What are the police even doing?!"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Even if the police risked their lives to arrest criminals who were lower than
+            scum,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>"Serial Burglar Isacco Finally Arrested!"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>"A Whole Group Wiped Out"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>the law for the masses was rather lenient as long as they had money,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>"Isacco Releasedon Million Lire" "Victims Furious"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>and they would be released.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Quit causing us so much trouble.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Isacco</name>
+        <speech>My bad.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>It doesn't matter now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>We just have to find more people to rip off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Eventually, Abbacchio started to learn from these contradictions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Come on, Officer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Cut us some slack.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>That girl's father is swimming in debt, so she needs the cash.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>It's not like we're hurting anyone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>Hey, are you done yet?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Girl</name>
+        <speech>I've got a client waiting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>I know, I know.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Even if I were to arrest them, they'd just post bail and be released.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The only difference is they pay either me or the court and their lawyers.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>You're a very passionate man,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>and a very passionate police officer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>One night, they received a report that a shop was being robbed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Abbacchio! Go around the back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Freeze! You're under arrest!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>H-Hey, it's you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Looks like I messed up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You're...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>He's been shot in the head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Hey, couldn't you just pretend that you didn't see me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Come on, let me go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>I won't cause you any more trouble.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>No! You're under arrest!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Come on, think this through...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>If I get arrested, the fact that you took a bribe from me will get out,
+            too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>That g*n's really dangerous...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Could you point it somewhere else?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Abbacchio! He has a g*n!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>Ow! It hurts, God damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>I'm gonna die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>I'm gonna die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>I'm gonna die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pimp</name>
+        <speech>I'm really gonna die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>That moment was the end of Abbacchio's future.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>Not only was he charged for being a dirty cop,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>but he allowed his partner todie because of his actions,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>and that was a cross he'd have to bear for the rest of his life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>It was then that his body and soul plunged into darkness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>No matter who died, or even if he lost a limb or two,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nar</name>
+        <speech>his heart would probably never be moved again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio, wasn't it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Moody Jazz's Counterattack</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You can solve the mystery, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm counting on you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sfx</name>
+        <speech>Roar</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>G-Giorno!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno's in trouble!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Giorno Giovanna...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>You're one crazy b*stard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>All this to prove yourself...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What the hell is wrong with you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Y-You b*stard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Th-This Stand...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Use your Golden Wind to defend yourself!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I-Impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno... Where are you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Don't go down there, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Actually, stay back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's not that I trust Giorno Giovanna as one of us,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>but Giorno seems to believe that you won't abandon him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He does some pretty crazy sh*t.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Giorno Giovanna...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What if that had actually k*lled you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So, again, Bucciarati, don't go down there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Th-That fly...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia's shoe...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno's powers haven't disappeared yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Does that mean Giorno's alive?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>They're here, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Narancia and the enemy are below deck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia, Fugo, Mista, and Giorno aren't here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Maybe they're right under where the fly is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's just like Giorno said.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy's not just hiding in some locker or behind something to attack...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Hey. The fly's coming around now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That's strange...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where is the enemy going?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>How and where is the enemy hiding?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Regarding this enemy's abilities...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I hate to admit it, but it looks like I'll have to accept what Giorno was
+            saying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'll use my Stand to solve this mystery!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>But... This spot's bad news, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Moody Jazz!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Does Narancia from five minutes ago work?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yeah. That should be fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Is the fly all right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's heading toward the bow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Now's our chance. Do it quickly.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What's that noise?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>His headphones.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Five minutes ago, Narancia was listening to his boombox.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Huh? What's wrong with this thing?It just stopped working!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Why'd it stop?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This isn't it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I just bought it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Narancia was attacked a little after this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Damn it! How dare he sell me something like this?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'll try fast forwarding and searching.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>That stupid old guy from the electronics store is gonna regret this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That ten billion now belongs to us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>With that money, we can claim the rank of capo!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>A-Awesome!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Where is it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That was my voice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Where'd you hide that kind of fortune on Capri, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It was right after this conversation that Narancia was attacked!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno bg</name>
+        <speech>I can't tell you that yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We'd better be able to see just how he was attacked, Abbacchio.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>My Stand replays everything.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We'll be able to see everything, from Narancia's sweat to his pulse.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>And it'll follow him everywhere.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's about time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's get behind Narancia.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's about to be attacked!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>L-Look! It's the same wound Giorno had!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Crunch,Sfx</name>
+        <speech>{\c&amp;HFA&amp;\c&amp;HBAA&amp;}Roar!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's coming!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Th-This is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's deflating like a balloon losing air!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign top</name>
+        <speech>Mario Zucchero</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign bot</name>
+        <speech>Tender Machine</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Air is leaking from his wound, deflating him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Looks like we know what the enemy's abilities are now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's being pulled in!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Pause it, Abbacchio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I see... So he's inside the pipe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is the answer to our mystery.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>His nails, flesh, and bones are all floppy like a condom,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>even his shoe and his belt buckle,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>but he still has a pulse.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Just like Giorno said, he's alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So that's what's going on...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy is also doing this to his own body,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>hiding in pipes or between the planks or walls,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and he's dragged in Mista, Fugo, and Giorno, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>That explains why Giorno's fly can trace the general area,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>but can't pinpoint exactly where they are.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We figured out the enemy's ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Now all we have to do is chase the enemy,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>find out where Narancia and the others are and save them,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>and then beat the sh*t out of the guy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm resuming Moody Jazz's replay.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Chase? Wait a second, Abbacchio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>While you're replaying, you can't attack or defend yourself. You're totally
+            defenseless!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's dangerous to go into the pipe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I know exactly where Moody Jazz is going.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>When that b*stard is near, use your zippers to open the floor and get him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We can't defeat the enemy if we don't chase him, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It went left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's where he got Mista.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Moody Jazz is going right underneath that ring buoy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's going around toward the cabin where it got Fugo and Giorno.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So the enemy is moving them around while keeping them captured.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's moving much slower...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's where the b*stard was hiding earlier.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>On the inside of that rope fastener!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The enemy's right below the deck there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy's coming for us.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm not sure if he knows that we know his ability, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Bring it on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The pipes! Cut through them and get them outta there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Th-They're not there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where's the enemy, Abbacchio?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where's your Moody Jazz? Where are they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Right there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's my Stand. I know where it is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>It's right around there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Right around where?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm telling you, right where you opened up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>My Moody Jazz is definitely right there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where are they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Where are they?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Impossible... It's definitely right here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Does this mean there's a mystery we haven't solved yet?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This isn't good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Undo the replay and call your Stand back!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I already did.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Something's wrong...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>What wall is this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Where the hell are you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Did you hear that, Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That's the sound of the inside of a pipe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We can't see it, but Moody Jazz is definitely right there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>inside the pipe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What are you doing?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy's right there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The pipe's wide open, but it's in the pipe...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's coming closer...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>So it's right here...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We need to run!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Run?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That Giorno Giovanna, whom I hate, told me to solve this mystery.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>He's an annoying little brat,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>but I'm going to solve it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's coming!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>There's one more mystery surrounding this enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'm finally starting to see it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I'll solve this and k*ll that b*stard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>That awkward feeling I got when I saw the mast...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Back then...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bzzzzzz,Sfx</name>
+        <speech>B{\c&amp;HCDE&amp;}zzz{\c&amp;HAADA&amp;}zzz</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's right there! Call back your Stand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>I've figured out the other mystery!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>k*ll him... Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>This mystery...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>The place the enemy's hiding...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're being dragged in! Grab on to me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's not there...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where did he go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You b*stard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where did you take Abbacchio?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's not in the cabin or the drainage pipe...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Where are you hiding Abbacchio and the others?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>The fact that there are seagulls flying around...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>must mean we're getting close to shore.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Looks like you're finally all alone, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You bas—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Oh, hang on one sec.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Ah, ah, ah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I'm the one who's gonna do the talking here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Shut your trap until I tell you to answer my questions, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Very good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I can finish you off at any time, and your crew is still alive,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>but in suspended animation.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You should be grateful.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I could've k*lled them and thrown them into the sea,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>all chopped up nicely so the fishies could eat them easier.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Depending on your actions, I may even consider turning your crew back to
+            normal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>All you have to do is tell me where Polpo's secret fortune is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Are you from Passione?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>You really...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>don't get it at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I'll m*rder you, you little sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Listen up! All you're allowed to say is where the money is!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Just try and utter any other word from that as*h*le of a mouth!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>For every word you say, I'll k*ll one of your friends!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Say, "What?" and I'll k*ll them!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Stay silent, and I'll k*ll them!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>If I find out you're lying later, I'll k*ll them again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Got it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Speak cautiously and very carefully.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Now, then, let me ask you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Where's the money hidden?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Black-tailed gulls.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Sorry, where?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Those aren't seagulls.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They're black-tailed gulls.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>How do you tell them apart?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The ones that sound like they're meowing are black-tailed gulls.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You called them seagulls, but you were wrong.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>They're black-tailed gulls.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I'm gonna k*ll one now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Just try it! Better hope youdon't get dragged down!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Wh-What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I didn't punch the deck earlier to find where Abbacchio was.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It was to put a hole in the bottom of the boat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>A h-hole?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio figured out where you were,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>and he was kind enough to show me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>where you are and how to know for sure.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It was Abbacchio's blood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio intentionally hurt his hand and showed me the blood trail.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The blood trail didn't go down below the deck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It was cut off right on the deck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>So what does that mean, and where was he dragged to?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I rented the yacht that was on the left.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio realized that when he looked up at the sky.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I know where you are, so if you don't wanna drown,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>you'd best come out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>There were two boats!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baaaaaa,Sfx</name>
+        <speech>Bwaaaaa</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>You b*stard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You were hiding by thinly covering this yacht with another one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You were traveling through the thin gap between them and attacking us from
+            there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>No wonder we couldn't figure it out. You get points for that.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>Stay back, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mario</name>
+        <speech>I'll k*ll your friends!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You should know better than anyone that</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>you couldn't survive in a g*ng if a measly little threat like that scared
+            you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Give up, and I'll forgive you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But the moment you stab Abbacchio...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I will end your life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fwip,Sfx</name>
+        <speech>Fwip</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's just as Giorno said.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The fact that you had to hide to attack is your weakness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're way too slow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pop,Sfx</name>
+        <speech>Pop</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Well done...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Abbacchio,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>what's important isn't the end result.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's how you get there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Join my team.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Don't die bound by your past.</speech>
+    </dialogue>
+</xml>

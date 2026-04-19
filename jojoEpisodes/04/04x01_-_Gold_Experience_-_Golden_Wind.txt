@@ -222,7 +222,7 @@ Guy: What do you think?
 
 
 
-driver: I'll get you into the city real cheap.
+Driver: I'll get you into the city real cheap.
 
 
 
@@ -242,7 +242,7 @@ JoJo-main: ,the protection fees you owe me before doing any more business?
 
 
 
-driver: You can't be serious!
+Driver: You can't be serious!
 
 
 
@@ -462,7 +462,7 @@ Giorno: Come on, now. You don't need to worry about those things.
 
 
 
-giorno: Okay, how about for , lire?
+Giorno: Okay, how about for , lire?
 
 
 
@@ -1282,11 +1282,11 @@ Koichi: Are you and his father somehow related?
 
 
 
-jotaro: I'm the one
+Jotaro: I'm the one
 
 
 
-jotaro: who k*lled his father.
+Jotaro: who k*lled his father.
 
 
 
@@ -1699,6 +1699,7 @@ Bruno: Were you told not to tell anyone?
 
 
 Bruno: Let's have you tell me who did Luca in.
+
 
 
 

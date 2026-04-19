@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Phone</name>
+        <speech>You gonna be able to track them, Melone?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I've managed to collect a blood sample.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Bucciarati's, that is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, when's this train gonna get underway?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Please, just wait a little bit longer.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>We have another driver on the way right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What? What happened to the first one?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Ugh, talk about annoying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Especially that crying brat over there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I knew I shouldn't have gotten on this train with all these peasants.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Miss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>How's your health?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>H-Hey, what do you think you're doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>This is my compartment!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You can read what's written on the door, can't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Do you have anything with your birthdate written on it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Uh...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Oh.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Hey! What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Born March , . Twenty-four years old.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Very... bellissimo.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>A very good age.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Don't touch my things!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Get out!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Smack,Sfx</name>
+        <speech>Smack</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>So good...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What a magnificent slap.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>If you have the energy to produce such a strong slap, there's no doubt.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You are...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>in excellent health.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>"Health: excellent."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>And judging by the taste of your fingers, your blood type is O.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>What's your deal? Are you a thief?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Who do you think I am?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>My family—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Ah, I don't need your name.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I don't care about where you were born or your upbringing.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What's important is your current health condition,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>your birthday, and your blood type.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>A Pisces and type O!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Bucciarati is an Aries and type A,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and, according to horoscopes, is a terrible match for you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>And that's so perfect!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Looks like you drink and smoke, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Do you do any drugs?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>If you're doing any drugs...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're even more amazingly di molto great!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I-If you want money, I have it... If you want more, I have a credit card...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Listen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Could you be quiet and listen?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>This next question is the most important of all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What's important here is your preference.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Which do you prefer?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Apparently the Indian Karma Sutra, which was written , years ago,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>has more than positions in it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>And I think it's really important...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>as the beginning that leads to the birth of an excellent child.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Now, choose.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Babyhead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>H-H-Help me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Help me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Conception complete</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech> minutes until birth</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Analyzing the DNA from Bruno Bucciarati's blood sample.Would you like to integrate
+            the DNA into a body and nurture it so that it can be tracked?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Oh, yes. We're going to nurture it...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>: Yes. : No.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>into something atrocious.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-EpTitle,Sign</name>
+        <speech>Episodio Babyhead</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>As long as no one finds us,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>we should make it to Venice by tomorrow or the day after.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Man... Everyone seems super bummed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I wonder if Bucciarati said something harsh to Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>No... I think she's worried because Bucciarati hasn't told her anything.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Trish is probably a Stand user, but hasn't realized it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>And her mysterious father...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>She has all sorts of questions on her mind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But Bucciarati is forbidden to speak about any of those things.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'd like to look more into her abilities.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>They'd probably offer some hints about the mysterious boss.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>She's very strong-willed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>She doesn't cry or complain at all.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>Mista!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Five</name>
+        <speech>Tell Number Two and Number Three to share the hamburger with us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh? What are you talking about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's nothing to eat here right now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Where the hell did you get that?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>D-Don't tell me...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Why'd my hamburger disappear?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>There's something under the seat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Sh-sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>A turtle?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>There's something on its back...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>What are we going to do, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>It looks like some kind of jewel... Is it a key?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Three</name>
+        <speech>This seems bad.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What just happened?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Mista, you were keeping watch on the ceiling, weren't you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What happened?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh? Me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I-I haven't the slightest. I wasn't watching at that moment...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Huh? Maybe the truck stopped...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Birth complete</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Ow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>What happened?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Th-This...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>D-Don't tell me I—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Thank goodness. Nothing happened.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>That stupid as*h*le!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>What the hell was up with that creepy b*stard?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>How dare he make me think I was about to die?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I wanna k*ll him, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>That piece of sh*t!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Hello? Are you the conductor of this train?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Come to my compartment, right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>What does "k*ll" mean?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Looks like they were born.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>They're starting to learn from their mother.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Babyhead's child, that is...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>And this is great!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>They're already responding to their mother's desire to k*ll someone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Make us proud!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I'm telling you, some creepy b*stard attacked me here! He attacked me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>It's because you have that poor excuse for a lock on the door!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>There's even a bump on my head!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>Ugh, I'm so pissed!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That piece of sh*t! I hope you guys are prepared!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>What does... "k*ll" mean?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I'm going to sue the hell out of you guys! This is unbelievable!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>What does... "piece of sh*t" mean?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Would you like to learn some more?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Okay, pay close attention.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>This is Mr. Lion. He's the king of beasts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>The one with the long nose is Mr. Elephant,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and the one with the long neck is Mr. Giraffe.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>The one eating the grass is Mr. Zebra.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>And...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Oh, what's this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>This is what "k*ll" means. Do you understand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>It means to make them die, or to get rid of them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Next... Oh, we have some children's games.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>A spinning top and baseball.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>This is bowling, and these are ice skates.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Oh, dear! Look at how handy these things are when you use them like this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>The ones who died are the pieces of sh*t.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>You use "piece" when there's only one and say "pieces" when there's more than
+            one.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Do you understand?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>But you can k*ll them in whatever way your instincts tell you to.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>However, you are forbidden to attack this girl named Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>You need to capture her alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>There is also a newbiewhose face we haven't seen yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>They're with Bucciarati as well, so you need to find them and k*ll them.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>I have to pee.What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What should you do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I mean, just do it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Babies pee all the time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>But it doesn't look like the lock's been broken...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>H-Hey, what is this?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>There's something leaking from the ceiling of this stupid train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I don't see anything...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I-It stinks!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>What is this?! It's so dirty and gross!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Miss...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Mommy said that I stink.She's also screaming that I'm "dirty and gross."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>So it seems. And how does that make you feel about her?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>What a great mommy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Yes!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto! This is extremely wonderful!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>You're learning so well!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>I'm hungry...What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Not yet. You haven't learned enough yet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>It's too soon.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Let me drink! Hurry and let me drink!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Hey, not yet! I told you, not yet!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I can't take this anymore!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I can't spend another second on this train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I'll sue the train company and make sure they take responsibility for all
+            this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anita</name>
+        <speech>I'll tell them the bump on my head is a concussion, too...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Huh? I don't hear her anymore...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>She was too good of a mother!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>It's good that she taught him the desire to k*ll first, but this is too
+            early!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>H-Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Bucciarati's DNA is currently not moving...It's idle somewhere up north.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What am I going to do with you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I guess I can't deny your talents, though.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>It looks like the automatic tracking of Bucciarati's DNA has kicked in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>It's a hassle, but Babyhead's son is an invincible, remote-controlled
+            Stand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Nothing can defeat you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Melone</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Babyhead</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Let's just steal one already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Are you stupid?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Word would spread in no time and go right to the enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Then they'll just be waiting to ambush us!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That's true.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Fugo's got a good point.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Then let's hear what Bucciarati wants us to do.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Wh-What are you doing, Giorno?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If we steal only one, we'll be caught immediately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But if we steal a hundred...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>If it isn't just a single car that disappeared,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>and if they're all found in pieces at different locations,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>the search for the missing cars will be much harder,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>and it should give us plenty of time to get to Venice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I see...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>That definitely beats hitchhiking.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Whatever.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Giorno, you tell Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>We're going to go get a car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Please get down from the chair.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's very dangerous outside right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Listen, Mr. Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>If I were to ask you a dumb question, would you be able to answer it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It depends on the question.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What am I supposed to do if I need to go to the bathroom?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You aren't suggesting that I use a diaper, are you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I see... That's a very good question.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Good. I'm glad you understand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Let's make the closet a toilet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Please, go ahead.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Go ahead?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You said you had to go to the bathroom.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I don't know where it leads underneath that, but I'm sure the turtle will be
+            fine.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It might actually get nutrients from it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>I have no idea what you're trying to say...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, we've procured a car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>All right. Once we confirm that we're safe, let's head out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Understood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That bike... When did it show up here?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Where's the person who was riding it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Giorno, is something wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Trish?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What the hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I-Impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>sh*t... It's a Stand, and a remote-controlled one!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But this power isn't remote-controlled. What's—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati, please be on your guard.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>A strange bike has appeared.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Bucciarati?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Don't tell me... Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Where's Trish? Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I had the turtle in my hands this whole time...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'd know if they came outside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Could the enemy have already used some kind of attack?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\an\pos(,}I've captured the boss's daughter, Trish,and Bucciarati as well.What
+            should I do now?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto! Well done, Babyhead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Get away from there immediately, of course!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>I'm currently inside a turtle...There's one human waiting at the exit of the
+            turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\an\pos(,)\fs}I've never seen him before.He's going to find me on my way back. What
+            should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Someone you've never seen?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>That must be the newbie.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>If he finds you, you're going to have to get rid of him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\an\pos(,)\fs}Roger.{\fscx}I will get rid of the newbie who's waiting at the
+            turtle's exit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>But make sure you do it quietly so you aren't found by the others.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Capturing Trish takes top priority.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I'll have them head over there as well, just in case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I thought I felt a presence there, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>No, you were correct.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Everyone! There's an enemy here! We're being atta—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>D-Did it take... my throat?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fugo</name>
+        <speech>Are you done yet, Mista?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>Don't rush me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Abba</name>
+        <speech>Is something wrong?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>Nah. Giorno's waving.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Nara</name>
+        <speech>I'm pretty sure Bucciarati's telling us to hurry up and get the car.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mista</name>
+        <speech>I just told you not to rush me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\an\pos(,)\fscx}The attack was successful. It's very quiet,because I stole part of
+            his throat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto! Well done!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Impossible! I destroyed the cabinet, but it's still not showing itself?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>And how am I not able to see it the moment it attacks me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Where is it hiding, and how is it carving out pieces of me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Carving out pieces... Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Smack,Sfx</name>
+        <speech>{\c&amp;H&amp;}Shpang</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>So you've carved away his leg and eye, too?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto! Well done! Now, come back, Babyhead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>{\an\pos(,)\fs}The attack was unsuccessful.{\fscx}Obviously, he's figured out what I
+            am. What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>The newbie outside has removed the key from the turtle's back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Apparently, when someone removes the key, only living things can leave.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>My body is floating upward.What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I'm not sure what you're saying... Living things?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>You're a Stand! It doesn't matter if you're living or not.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>That's true, but right now,I have the eye that I stole from him.His eye is
+            living.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I knew it... It was that cabinet.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I see now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's not that I couldn't see the enemy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I'd seen them all along!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>This ability chops up humans and reconstructs them into something else!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Melone.What should I do?What should I do?What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Don't panic! Who cares if he figured out your ability?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>The newbie hasn't been able to breathe for a while, and he's missing a leg,
+            right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Just defeat him already and steal the turtle, along with Trish!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Roger.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>It's dodging by splitting itself apart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Which means...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>G-Guys...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I need to somehow... let them know...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>That had some effect!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>No, that was just a rock.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Sh-sh*t...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Trish is going to get taken...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>At this rate, Bucciarati will be eliminated!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I-It's strong...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Is it... invincible?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I will leave the newbie's corpse here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>As planned, I've quietly captured Trish.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Di molto! Good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I'm heading back to the train you're on now, Melone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Reconstructing humans into objects...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Your ability gave me an excellent hint.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Your ability is similar to my Golden Wind.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>They're very much alike in the way that they both recreate something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Due to the hint you gave me, and almost being k*lled,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>it would appear...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>that I've grown a little.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>M-Melone, did you hear that?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I totally forgot earlier, but now I know the newbie's Stand ability.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>What about the newbie?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>His button has become an eye! In his hand! It became an eyeball!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Hey, Babyhead, what are you talking about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>What's this about the dead newbie?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>He inserted the eye into his face!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Smack,Sfx</name>
+        <speech>{\c&amp;HDD&amp;\c&amp;HC&amp;}Rum{\c&amp;HACF&amp;}ble</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>He did the same with his throat and leg!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>His ability is to create life!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>He created his own parts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>His ability is the exact opposite of mine!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Hey, who the hell are you talking about?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You're not getting away! Golden Wind!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>The newbie... He...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>He's been revived!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>A-Are you listening, Melone?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>He made parts of the motorcycle into roots!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I can't separate them!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I have to get rid of the parts that are stuck!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I need to get away from the bike!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Did it turn into a rock again?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>This isn't good. He's going to try to pick up the turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I'll k*ll him before he picks it up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Calm down, Babyhead!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Let him pick up the turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>What do you mean?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>The moment he picks up the turtle, tear him apart for good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Oil's pouring out. That's not good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Make sure he can never get up again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I got him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>It was only a little bit, but how dare you freak me out, you b*stard?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Now, I'm going to rip your head—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I've learned a lot from your ability to turn humans into objects.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'm not sure if it's fate or if our Stands were attracted to each other</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>due to their similarities that we met.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>But because of you, my Golden Wind was able to grow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Wh-Where did it go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>I just tore off your wrist. Where did it go?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Tore off?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>That's incorrect.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I intentionally let it go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>I'd like to give you a little advice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>You should probably use your hand to defend yourself, rather than attack
+            me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>D-Don't you dare underestimate me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>Take this!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Baby</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>The hand that I cut off has already become another living creature</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>and invaded your body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>Yes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Gio</name>
+        <speech>As you can see, it turned into a piranha!</speech>
+    </dialogue>
+</xml>

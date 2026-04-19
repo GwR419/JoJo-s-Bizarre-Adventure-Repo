@@ -46,7 +46,7 @@ Two: We're hungry!
 
 
 
-b*llet: I'm starving!
+B*llet: I'm starving!
 
 
 
@@ -1118,7 +1118,7 @@ Mista: I don't sense anyone here...
 
 
 
-abba: Let's at least figure out what the enemy looks like.
+Abba: Let's at least figure out what the enemy looks like.
 
 
 

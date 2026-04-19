@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Pro</name>
+        <speech>Pesci! What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Pesci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Hurry up and stop the train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Pesci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>B-Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Stop the train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I-I don't know how to stop it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Now you and your aging ability will both disappear.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Then my crew will return to normal, and Trish will be safe!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>You b*stard...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Prosciutto!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>W-Well done, Pesci!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Excellent work! That was quick thinking!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>That was close...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I almost didn't make it, but thank goodness I managed to hook him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Now my hook will never let him go!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>B-But this is definitely the weight of two people!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bucciarati must be hanging on, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I seriously thought I was done for, Bucciarati.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I called you a failure of a capo, but I take that back now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I apologize for my rudeness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>You are able to make decisions impartially.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>You're even able to risk your own life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>The boss made the right decision, leaving Trish in your hands.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I'm actually astonished.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>However, Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>You're an unlucky capo!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Now, fall into the hell of kilometers per hour!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Did you forget?</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>You're still aging as we speak!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Too slow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You know... I was saved by that line your little bro sent out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>He wasn't aiming for me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>Could I actually be the unlucky one?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>There was no way Mista should have been alive!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>I fired three b*ll*ts straight into his head.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>The fact that he's alive</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>is as messed up as someone saying the sun rises in the west!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>I happened to let him know</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>that the energy from an attack on the line</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>gets sent back to the one who's hooked!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Impossible!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>It's one person lighter now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>We must've thrown Bucciarati off!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>We did it, Prosciutto!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Looks like the aging is wearing off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Now we just have to deal with the fishing hook guy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Earlier, my Fisher Man's hook definitely dug into Bro's right hand...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>His pinky was on the right side of the hook.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>But right now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>The pinky is on the left side of the hook.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>This is someone's left hand!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>What the heck's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Whose hand is on the other end?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>How did Bro's right hand switch to his left?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>N-Now that I think about it... Bro also seems just a bit heavier...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>H-Hey, you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Make them stop the train! I think everyone on this train is sick!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'm starting to feel much better, but...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I've lost some teeth!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Th-The aging has stopped!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Hey, are you listening to me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Have the driver stop the train, quick!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>It can't be...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Don't tell me the weight that was flung from the line was...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>It can't be!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>It can't be! It can't be true!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Don't tell me that Bro...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Are you listening to me, you dumbass?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I'm talking to you! You, right there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>My bro, Prosciutto!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>What should I do? What should I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>What am I supposed to do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>No way! The guys inside the turtle are going to come out, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Wh-What should I do? What should I...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>What the hell are you even saying?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I'm telling you to make them stop the train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Shut up! Shut up! Shut up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Shut up, damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>You some kind of mammoni?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Fine. I'm starting to feel better, so I'll tell them my—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Wh-What's going on?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>The aging hasn't stopped!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Bucciarati, y-you're...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Impossible...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Don't tell me... Don't tell me he...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Thankful... Death...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You were right, Bro... You were totally right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You said we should never</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>release our Stand ability once we've gotten a hold of them, even if we lose a
+            limb...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bro...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>With the mess his body's in, th-there's no way he can survive...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>He's going to die any second now,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>and yet he isn't releasing his Stand's ability!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>We have to get Trish, no matter what, right, Bro?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>We can't turn back now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I get it now, Prosciutto!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I understand your resolve</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>not as mere words,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>but within my heart.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Once we think of k*lling someone, Bro,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>the deed has already been done!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>That's the first time I did someone in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>But it wasn't as big of a deal as I thought it'd be.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>And now, there's no one left</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>to call me a mammoni.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Pesci</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Fisher Man</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'm going to settle this once and for all</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>before Bro's ability disappears!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Bucciarati! You need to hurry up and remove that hook!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You opened up your hand with a zipper.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He can tell what I'm trying to do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'll read all of his actions!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'll make the hook travel from his hand down his wrist and to his forearm!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>The hook's traveling further up your arm!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>The hook is out again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>It's no use. Whenever I try to get the hook out,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>he reads my moves within a few centimeters!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>And he's powerful!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'm not going to lose track of your body!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>And I'm going to get Trish and make sure Prosciutto's will is seen through!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Bucciarati! The b*stard down there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>If we finish him once and for all, Giorno and the others will stop aging</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>and take care of the fishing line guy!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I know, but that's provingquite difficult to do, too!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'll make you suffer the same agony my Bro is going through!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>He's hanging on to something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>In that case... You can just go up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>You're heading right for those electrical wires!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Get chopped in half!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I felt an impact, but he didn't get chopped in half or fall off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I feel a heartbeat through the line.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Bucciarati is still alive.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>He's entered the train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>That was close, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>At this point, we're gonna have to face him head-on!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Yes... But that's going to be difficult, as well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We won't make it in time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The hook has now entered my chest!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>The distance between the hook andyour heart is now twelve centimeters...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>Eleven centimeters...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I underestimated the situation.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The enemy that posed a greater threat on this train</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>wasn't the one who could age everyone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The one who's even more terrifying</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>is the guy using this fishing line!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>So what are you gonna do?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>The hook's gonna dig into your heart soon!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Nine centimeters, eight centimeters...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Then I don't have any choice.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>In order to defeat his ability,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm just going to have to show him</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>that my resolve is superior to his!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Zipper Man!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>What the hell are you doing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>He disappeared!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I can't feel his pulse or the vibration from his breathing...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Why?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>How did I lose his presence?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>How?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>How can you do something so insane, Bucciarati?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>I know there's no other way...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>But seriously, are you going to be okay?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Quiet... down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Wait until he goes away.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This is what it means to have resolve... Number Six.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Damn it, I can't find him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Bucciarati can go anywhere with his zippers!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Could he be heading here from s-some direction?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>No, wait. Calm down...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Jumping at shadows is a sign of weakness!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>That's what Prosciutto would tell me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Be more confident, Pesci.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>It doesn't matter if you're on a moving train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I'm sure you can find him by sensing his heartbeat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>That's what he'd say!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>There's no way Bucciarati can move quickly right now!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>He must still be somewhere near the hook!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>H-He's extending the line even further!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Quickly, pull yourself together and run!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>For now...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>he's lost sight of me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I can make it through this as long as I don't move.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The fact that I'm not doing anything right now</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>shows my resolve.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>His heartbeat, his pulse... Look for those two things.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Borgh,Sfx</name>
+        <speech>Borgh</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Got one! But that's not him!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>The weight isn't right.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>It must be another passenger!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>This is... It's weakened, but that's the sound of a heart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>N-No! He's going to find your heart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>How could you do such a thing?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>He said he wasn't going to do anything,</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>but he chopped his heart in half to stop it from beating.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>This is insane!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>How long can humans live when their heart and breathing have stopped?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>D-Damn it! It's not there!</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>I don't sense anything else moving in that room!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>D-Did he move somewhere else using his zippers after all?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Y-You're reaching your limit!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Where the hell did he go?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Don't tell me that Bucciarati</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>actually managed to finish off Prosciutto...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Once the aging stops, the rest of Bucciarati's guys will step out of that
+            turtle!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>God damn it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'm not gonna let that happen!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>W-We did it! He gave up on this cabin!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Your resolve made him search elsewhere!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>You managed to make it through!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Hurry up and zip your body back together! Hurry it up!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Un...believable...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>How unlucky...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Bucciarati! Pull yourself together!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>My only expertise is controlling b*ll*ts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>I don't have enough energy to move stuff that's bigger than me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He was more stubborn than I thought...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>He's... won...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Stop, you damned train!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>What the heck?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>B-Bro!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>This was definitely a difficult path</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>that I wouldn't have been able to traverse without some luck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>The path leading closer to you, that is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You're going to pay, Bucciarati...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>You got close to him! Your resolve won out, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>...right in front of Bro, before he's gone for good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>What the hell?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'm surprised you were able to see through that attack!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>His eyes and face...</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-internal/narrator</name>
+        <speech>They look as if they've come through ten years of endless bloodshed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I feel such intensity and calmness from his eyes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Trickery won't work against him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Do it... Victory is in your hands... Pesci...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pro</name>
+        <speech>Do it... I'm watching... over you...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I will m*rder you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I knew you'd do that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Going up someone's arm to get to their heart was a surefire plan</speech>
+    </dialogue>
+    <dialogue>
+        <name>JoJo-main</name>
+        <speech>I've been using because I was less confident and I thought I'd miss
+            otherwise!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>When I'm confident I won't miss, I go straight for the heart!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Right now, I'm going to go straight for everything!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'm gonna m*rder you! I'll rip your heart out, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're supposed to say that after you've actually done it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>In the world of gangsters, that is.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Did I... lose?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Am I... going to die?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>But... I'm not... just going to die!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Go ahead... and take her... and run...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'll let Trish live...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>He's got the turtle!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Wh-Where am I?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>But before I die...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'll leave your heart in despair!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>The despair of losing your crew!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>I'm going to smash this turtle to pieces!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Holy sh*t! That's not good!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Earlier, I saw nobility and resolve that was hardened like a diamond, shining in
+            your eyes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>But you've fallen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Now you're just a piece of sh*t.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>Fallen? Fallen, you say?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>The only ones who are going to fall and get crushed are these b*stards!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Pesci</name>
+        <speech>You won't make it in time! I hope you enjoy hell, Bucciarati!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>You're going to fail, no matter what, when you're a piece of sh*t.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Arrivederci.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Goodbye_,Sign</name>
+        <speech>"Goodbye"</speech>
+    </dialogue>
+    <dialogue>
+        <name>Prosciutto____De,Sign</name>
+        <speech>Prosciutto –Dead\h\h{\fs}Stand Name: The Thankful Death{\fs}Pesci
+            –Dead\h\h{\fs}Stand Name: Fisher Man</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As I figured, we won't be able to continue riding this train.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Six</name>
+        <speech>There's no way they haven't contacted the rest of their crew.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I'm sure they told the others about our destination and the turtle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>We'll have to use another form of transportation from here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>There's something I want to ask you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Are you willing to give me an answer?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>I haven't been given permission to answer any of your questions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>Our mission is solely to be your bodyguards.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>You are going to answer me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Who am I?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What the hell is this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>What's this on the ground?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Why can I suddenly see such bizarre things?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Why is my life in danger because of a father I don't even know?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bruno</name>
+        <speech>As I thought... The boss's daughter is a Stand user.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Trish</name>
+        <speech>Answer me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Bruno Bucciarati</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>Zipper Man</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>It's currently : PM.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>I got here twenty minutes after the train stopped.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Prosciutto is dead next to the tracks.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Parts of Pesci's body, which has been torn to pieces, are on the riverbank.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>Judging from the scene, the one who disposed of them is Bucciarati's Zipper
+            Man.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Phone</name>
+        <speech>I see. Where are those guys and the girl?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Guy</name>
+        <speech>They're long gone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Phone</name>
+        <speech>You gonna be able to track them, Melone?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Yeah.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Everything the two who have fallen managed to do will make tracking them
+            possible.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>I've managed to collect a blood sample.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Melone</name>
+        <speech>Bucciarati's, that is.</speech>
+    </dialogue>
+</xml>
