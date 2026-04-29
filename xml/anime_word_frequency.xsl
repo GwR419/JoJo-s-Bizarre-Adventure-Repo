@@ -5,6 +5,8 @@
   exclude-result-prefixes="xs">
 
   <xsl:output method="text" encoding="UTF-8"/>
+  
+  <xsl:variable name="animeColl" as="document-node()+" select="collection('../xmlCorpus/04/?select=*.xml')"/>
 
   <xsl:variable name="stopwords" select="(
     'a','an','the','and','or','but','in','on','at','to','for','of','with',
@@ -48,7 +50,7 @@
       </xsl:perform-sort>
     </xsl:variable>
 
-    <xsl:text>rank&#9;word&#9;count&#10;</xsl:text>
+    <xsl:text>word&#9;count&#9;episode&#9;targetDesc&#10;</xsl:text>
 
     <xsl:for-each select="$sorted[position() le 50]">
       <xsl:value-of select="position()"/>
