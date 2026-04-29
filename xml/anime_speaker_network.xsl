@@ -22,7 +22,7 @@
   </xsl:variable>
 
   <xsl:template match="/">
-    <xsl:text>anime_title&#9;nodeDescript&#9;speaker&#9;line_count&#10;</xsl:text>
+  <!--  <xsl:text>anime_title&#9;nodeDescript&#9;speaker&#9;line_count&#10;</xsl:text>-->
     <xsl:variable name="title" as="xs:string"><xsl:value-of select="base-uri() ! 
         tokenize(., '/')[last()] ! substring-before(., '.xml') ! 
         tokenize(., '^04x')[last()] 
