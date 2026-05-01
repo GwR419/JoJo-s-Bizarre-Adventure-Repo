@@ -6,6 +6,178 @@
         <title>Golden Wind</title>
         <link rel="icon" type="image/x-icon" href="images/web-log.png" />
         <link rel="stylesheet" type="text/css" href="jojo.css" />
+        <style>
+            /* ── Page intro ──────────────────────────────── */
+            .data-intro {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.95rem;
+                color: #333;
+                margin-bottom: 1.5rem;
+                line-height: 1.7;
+            }
+
+            /* ── Nav cards to sub-pages ──────────────────── */
+            .data-nav {
+                display: flex;
+                gap: 1.2rem;
+                flex-wrap: wrap;
+                margin: 1.5rem 0 2.5rem 0;
+            }
+
+            .data-nav-card {
+                flex: 1;
+                min-width: 200px;
+                display: block;
+                padding: 1rem 1.4rem;
+                background: linear-gradient(180deg, #00c6ff 0%, #00396c 100%);
+                color: white;
+                text-decoration: none;
+                border-radius: 6px;
+                box-shadow: 0 3px 8px rgba(0,0,0,0.18);
+                transition: opacity 0.15s, box-shadow 0.15s;
+                text-align: center;
+            }
+
+            .data-nav-card:hover {
+                opacity: 0.88;
+                box-shadow: 0 5px 14px rgba(0,0,0,0.28);
+                color: white;
+                text-decoration: none;
+            }
+
+            .data-nav-card .card-title {
+                font-family: 'Impact', 'Arial Black', sans-serif;
+                font-size: 1.4rem;
+                font-weight: 900;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
+                display: block;
+                margin-bottom: 0.3rem;
+            }
+
+            .data-nav-card .card-desc {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.78rem;
+                opacity: 0.9;
+            }
+
+            /* ── Comparison section ──────────────────────── */
+            .compare-grid {
+                display: flex;
+                gap: 1.2rem;
+                flex-wrap: wrap;
+                margin: 1.2rem 0 2rem 0;
+            }
+
+            .compare-card {
+                flex: 1;
+                min-width: 240px;
+                border-radius: 6px;
+                padding: 1.1rem 1.3rem;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.88rem;
+                line-height: 1.65;
+            }
+
+            .compare-card.anime {
+                background: #f0f8ff;
+                border: 2px solid #00396c;
+            }
+
+            .compare-card.manga {
+                background: #fdf8ee;
+                border: 2px solid #7a5500;
+            }
+
+            .compare-card h3 {
+                font-family: 'Impact', 'Arial Black', sans-serif;
+                font-size: 1.1rem;
+                font-style: italic;
+                text-transform: uppercase;
+                margin: 0 0 0.6rem 0;
+                text-align: left;
+            }
+
+            .compare-card.anime h3 { color: #00396c; }
+            .compare-card.manga h3 { color: #7a5500; }
+
+            .compare-card ul {
+                list-style: disc;
+                padding-left: 1.2rem;
+                margin: 0.4rem 0 0 0;
+            }
+
+            .compare-card ul li { margin-bottom: 0.35rem; }
+
+            /* ── Shared findings ─────────────────────────── */
+            .findings-box {
+                background: #f4f4f4;
+                border-left: 5px solid #00396c;
+                border-radius: 4px;
+                padding: 1rem 1.4rem;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.88rem;
+                line-height: 1.7;
+                margin: 1.2rem 0 2rem 0;
+            }
+
+            .findings-box h3 {
+                font-family: 'Impact', 'Arial Black', sans-serif;
+                font-size: 1.1rem;
+                font-style: italic;
+                text-transform: uppercase;
+                color: #00396c;
+                margin: 0 0 0.6rem 0;
+            }
+
+            .findings-box ul {
+                list-style: disc;
+                padding-left: 1.2rem;
+                margin: 0;
+            }
+
+            .findings-box ul li { margin-bottom: 0.4rem; }
+
+            /* ── Comparison table ────────────────────────── */
+            .comp-table {
+                width: 100%;
+                border-collapse: collapse;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.86rem;
+                margin: 1.2rem 0 2rem 0;
+            }
+
+            .comp-table th {
+                padding: 8px 12px;
+                text-align: left;
+                font-weight: 700;
+                border: 1px solid #ccc;
+            }
+
+            .comp-table th:first-child { background: #444; color: white; }
+            .comp-table th.anime-col   { background: #00396c; color: white; }
+            .comp-table th.manga-col   { background: #5a3e00; color: white; }
+
+            .comp-table td {
+                border: 1px solid #ddd;
+                padding: 6px 12px;
+                vertical-align: top;
+            }
+
+            .comp-table tr:nth-child(even) td { background: #f9f9f9; }
+            .comp-table tr:hover td           { background: #eef6ff; }
+
+            .comp-table td:first-child {
+                font-weight: 700;
+                color: #333;
+                white-space: nowrap;
+            }
+
+            /* highlight shared words */
+            .shared { color: #159a6e; font-weight: 700; }
+            .anime-only { color: #00396c; font-weight: 700; }
+            .manga-only { color: #7a5500; font-weight: 700; }
+        </style>
     </head>
     <body>
         <main class="main-content">
@@ -22,19 +194,150 @@
             <div>
                 <section id="table">
                     <h2 class="small-title">Data</h2>
-                    <p> For our data, we are comparing the word frequencies between the Manga and Anime. </p>
+                    <p class="data-intro">
+                        For our data, we are comparing word frequencies between the Manga and Anime
+                        versions of Golden Wind. The anime data is drawn from subtitle networks across
+                        all 39 episodes, while the manga data comes from a Cytoscape word network
+                        built from 10 selected chapters. Below is a side-by-side comparison of key
+                        findings, followed by links to the full datasets.
+                    </p>
                 </section>
-                
-                <a href="dataAnime.html">
-                    <h2 class="small-title">Anime Data</h2>
-                </a>
-                
-                <a href="dataManga.html">
-                    <h2 class="small-title">Manga Data</h2>
-                </a>
-                
-                
-                
+
+                <!-- ── Sub-page nav cards ─────────────────────────── -->
+                <div class="data-nav">
+                    <a class="data-nav-card" href="dataAnime.html">
+                        <span class="card-title"> Anime Data</span>
+                        <span class="card-desc">Word frequencies, character speaking lines &amp; network graph across 39 episodes</span>
+                    </a>
+                    <a class="data-nav-card" href="dataManga.html">
+                        <span class="card-title"> Manga Data</span>
+                        <span class="card-desc">Bold word tables, word network graph &amp; chapter frequency data across 10 chapters</span>
+                    </a>
+                </div>
+
+                <hr style="margin: 0 0 2rem 0;">
+
+                <!-- ── Comparison section ─────────────────────────── -->
+                <h2 class="small-title">Anime vs. Manga Comparison</h2>
+
+                <!-- Side-by-side highlights -->
+                <div class="compare-grid">
+                    <div class="compare-card anime">
+                        <h3> Anime Highlights</h3>
+                        <ul>
+                            <li><strong>Giorno</strong> is the most used word (455 times across 38 episodes), edging out <strong>bucciarati</strong> (428).</li>
+                            <li><strong>Bruno</strong> speaks the most lines (1,679) — far ahead of Mista (1,132), despite Giorno being the titular protagonist.</li>
+                            <li>Action words like <strong>damn</strong>, <strong>die</strong>, <strong>body</strong>, and <strong>hand</strong> appear heavily, reflecting the subtitle dialogue style.</li>
+                            <li>The word <strong>ink</strong> (254 uses, all 39 episodes) likely reflects censored subtitle language.</li>
+                            <li>Character names dominate the top words: giorno, bucciarati, narancia, trish, fugo all rank in the top 25.</li>
+                            <li>Data spans the full 39-episode season, giving broad coverage of the entire story arc.</li>
+                        </ul>
+                    </div>
+                    <div class="compare-card manga">
+                        <h3> Manga Highlights</h3>
+                        <ul>
+                            <li><strong>Requiem</strong>, <strong>king</strong>, and <strong>giorno</strong> all appear in all 10 chapters — the only three words with 100% chapter spread.</li>
+                            <li>The manga focuses heavily on Stand terminology: <strong>ability</strong>, <strong>gold</strong>, <strong>experience</strong>, <strong>stand</strong>, and <strong>crimson</strong> all rank in the top 15.</li>
+                            <li><strong>Arrow</strong> appears in 8/10 chapters, reflecting how central the Stand Arrow is to the selected chapters' plot.</li>
+                            <li>Bold emphasis (<code>rendition="#b"</code>) highlights key dramatic moments — <strong>ARROW</strong> is the most bolded word in both Diavolo Emerges and King of Kings.</li>
+                            <li>The 10 chapters are drawn from the climactic final arc, so vocabulary skews toward confrontation and power themes.</li>
+                            <li><strong>Buccellati</strong> (manga spelling) appears in only 6/10 chapters, compared to the anime where bucciarati is in 41/42 episode nodes.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Side-by-side comparison table -->
+                <h2 class="small-title">Top Word Overlap</h2>
+                <p style="font-family:Verdana,Geneva,Tahoma,sans-serif; font-size:0.88rem; color:#444; margin-bottom:1rem;">
+                    Words appearing in both the anime's top 30 and the manga's top 30 are shown in
+                    <span class="shared">green</span>. Words unique to one medium are shown in
+                    <span class="anime-only">blue (anime)</span> or <span class="manga-only">gold (manga)</span>.
+                </p>
+
+                <table class="comp-table">
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th class="anime-col">Anime (subtitle counts)</th>
+                            <th class="manga-col">Manga (chapter spread)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Top character name</td>
+                            <td><span class="shared">giorno</span> — 455 uses</td>
+                            <td><span class="shared">giorno</span> — 10/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Protagonist's gang name</td>
+                            <td><span class="anime-only">bucciarati</span> — 428 uses (41 eps)</td>
+                            <td><span class="manga-only">buccellati</span> — 6/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Villain reference</td>
+                            <td><span class="shared">boss</span> — 314 uses</td>
+                            <td><span class="shared">boss</span> — 6/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Stand ability word</td>
+                            <td><span class="shared">ability</span> — 186 uses (40 eps)</td>
+                            <td><span class="shared">ability</span> — 8/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Violence / stakes</td>
+                            <td><span class="shared">die</span> — 139 uses / <span class="shared">body</span> — 151 uses</td>
+                            <td><span class="shared">die</span> — 5/10 / <span class="shared">body</span> — 7/10</td>
+                        </tr>
+                        <tr>
+                            <td>Power theme</td>
+                            <td><span class="shared">power</span> — 104 uses</td>
+                            <td><span class="shared">power</span> — 5/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Survival theme</td>
+                            <td><span class="shared">live</span> — 115 uses / <span class="shared">life</span> — 102 uses</td>
+                            <td><span class="shared">life</span> — 5/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Anime-only top word</td>
+                            <td><span class="anime-only">ink</span> — 254 uses (all 39 eps)</td>
+                            <td>— not in manga network</td>
+                        </tr>
+                        <tr>
+                            <td>Manga-only top word</td>
+                            <td>not in anime top 30</td>
+                            <td><span class="manga-only">requiem</span> — 10/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Stand name (Gold Exp.)</td>
+                            <td><span class="anime-only">not in anime top 30</span></td>
+                            <td><span class="manga-only">gold + experience</span> — 8/10 &amp; 7/10</td>
+                        </tr>
+                        <tr>
+                            <td>Physical combat</td>
+                            <td><span class="shared">hand</span> — 138 uses</td>
+                            <td><span class="shared">hand</span> — 6/10 chapters</td>
+                        </tr>
+                        <tr>
+                            <td>Coverage scope</td>
+                            <td>Full season — 39 episodes</td>
+                            <td>Final arc only — 10 chapters</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <!-- Shared findings -->
+                <div class="findings-box">
+                    <h3>Key Takeaways</h3>
+                    <ul>
+                        <li><strong>Both media center on the same core vocabulary</strong> giorno, boss, ability, die, body, hand, power, and life all rank highly in both, suggesting these themes are consistent across the full story regardless of medium.</li>
+                        <li><strong>The anime gives Bruno more prominence than the manga.</strong> Bruno speaks the most lines in the anime (1,679) and "bucciarati" is the second most common word overall, while in the manga chapters "buccellati" only reaches 6/10 chapters likely because the manga sample focuses on the final arc where Diavolo comes out and tries to obtain requiem and buccellati isnt really in those chapters.</li>
+                        <li><strong>The manga's chapter selection skews the data toward the climax.</strong> "Requiem," "arrow," "crimson," and "forecast" dominate the manga because all 10 chapters are from the final confrontation. The anime's full-season data naturally dilutes these climax-specific words.</li>
+                        <li><strong>The manga emphasizes Stand naming more explicitly.</strong> "Gold Experience," "King Crimson," and "requiem" appear as distinct high-frequency words in the manga's bolded text, reflecting how manga panels use emphasis differently than spoken dialogue.</li>
+                        <li><strong>A direct comparison is limited</strong> because the anime covers the full season while the manga sample only covers 10 final-arc chapters. A fairer comparison would require either expanding the manga sample or restricting the anime to the same arc.</li>
+                    </ul>
+                </div>
+
             </div>
         </main>
     </body>
