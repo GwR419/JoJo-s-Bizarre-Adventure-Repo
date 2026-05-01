@@ -6,6 +6,277 @@
         <title>Golden Wind</title>
         <link rel="icon" type="image/x-icon" href="images/web-log.png" />
         <link rel="stylesheet" type="text/css" href="jojo.css" />
+        <style>
+            /* ── Bold-word tables (cleaned up) ───────────── */
+            .bold-section { margin-bottom: 2rem; }
+
+            .bold-section h3 {
+                font-family: 'Impact', 'Arial Black', sans-serif;
+                font-size: 1.15rem;
+                font-style: italic;
+                text-transform: uppercase;
+                color: #00396c;
+                margin: 1.2rem 0 0.4rem 0;
+                text-align: left;
+            }
+
+            .bold-section p.note {
+                font-size: 0.85rem;
+                color: #555;
+                margin: 0 0 0.6rem 0;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+
+            .bold-table {
+                width: 100%;
+                border-collapse: collapse;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.85rem;
+            }
+
+            .bold-table thead th {
+                background: #00396c;
+                color: white;
+                padding: 7px 12px;
+                text-align: left;
+                font-weight: 700;
+                border: 1px solid #002a50;
+            }
+
+            .bold-table thead th.count-col { text-align: center; width: 90px; }
+
+            .bold-table tbody td {
+                border: 1px solid #ddd;
+                padding: 5px 12px;
+                vertical-align: middle;
+            }
+
+            .bold-table tbody td.count-col { text-align: center; font-weight: bold; }
+
+            .bold-table tbody tr:nth-child(even) { background: #f0f8ff; }
+            .bold-table tbody tr:hover           { background: #d6eeff; }
+
+            .freq-high {
+                display: inline-block;
+                background: #00396c;
+                color: white;
+                border-radius: 10px;
+                padding: 1px 8px;
+                font-size: 0.78rem;
+                font-weight: 700;
+            }
+
+            .freq-med {
+                display: inline-block;
+                background: #2471a3;
+                color: white;
+                border-radius: 10px;
+                padding: 1px 8px;
+                font-size: 0.78rem;
+                font-weight: 700;
+            }
+
+            .freq-low { color: #888; font-size: 0.82rem; }
+
+            /* ── Network link button ─────────────────────── */
+            .network-link-wrap {
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+                flex-wrap: wrap;
+                margin: 1rem 0 0.5rem 0;
+            }
+
+            .network-btn {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.5rem;
+                padding: 0.5rem 1.2rem;
+                background: linear-gradient(180deg, #00c6ff 0%, #00396c 100%);
+                color: white;
+                font-family: 'Impact', 'Arial Black', sans-serif;
+                font-size: 0.95rem;
+                font-weight: 900;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
+                text-decoration: none;
+                border-radius: 5px;
+                box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+                transition: opacity 0.15s, box-shadow 0.15s;
+            }
+
+            .network-btn:hover {
+                opacity: 0.88;
+                box-shadow: 0 5px 14px rgba(0,0,0,0.28);
+                color: white;
+                text-decoration: none;
+            }
+
+            .network-btn-icon { font-size: 1.1rem; }
+
+            .network-btn-note {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.78rem;
+                color: #555;
+                font-style: italic;
+            }
+
+            /* ── Network link button ─────────────────────── */
+            .network-link-wrap {
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+                flex-wrap: wrap;
+                margin: 1rem 0 0.5rem 0;
+            }
+
+            .network-btn {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.5rem;
+                padding: 0.5rem 1.2rem;
+                background: linear-gradient(180deg, #00c6ff 0%, #00396c 100%);
+                color: white;
+                font-family: 'Impact', 'Arial Black', sans-serif;
+                font-size: 0.95rem;
+                font-weight: 900;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
+                text-decoration: none;
+                border-radius: 5px;
+                box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+                transition: opacity 0.15s, box-shadow 0.15s;
+            }
+
+            .network-btn:hover {
+                opacity: 0.85;
+                box-shadow: 0 5px 14px rgba(0,0,0,0.3);
+                color: white;
+                text-decoration: none;
+            }
+
+            .network-btn-icon { font-size: 1.1rem; }
+
+            .network-btn-note {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.78rem;
+                color: #555;
+                font-style: italic;
+            }
+
+            /* ── Network image ───────────────────────────── */
+            .network-figure {
+                background: #f7fbff;
+                border: 1px solid #cce0f5;
+                border-radius: 8px;
+                padding: 1rem;
+                margin: 1.5rem 0;
+                text-align: center;
+            }
+
+            .network-figure img {
+                width: 100%;
+                max-width: 900px;
+                height: auto;
+                border-radius: 4px;
+            }
+
+            .network-figure figcaption {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.82rem;
+                color: #555;
+                margin-top: 0.6rem;
+                font-style: italic;
+            }
+
+            /* ── Word chart ──────────────────────────────── */
+            .chart-subtitle {
+                font-size: 0.95rem;
+                color: #444;
+                margin-bottom: 1.5rem;
+            }
+
+            .bar-table {
+                width: 100%;
+                border-collapse: collapse;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.88rem;
+            }
+
+            .bar-table td { padding: 4px 6px; vertical-align: middle; }
+
+            .word-label {
+                width: 130px;
+                text-align: right;
+                font-weight: 700;
+                color: #111;
+                white-space: nowrap;
+            }
+
+            .bar-cell { width: 100%; }
+
+            .bar {
+                display: block;
+                height: 22px;
+                border-radius: 3px;
+                min-width: 4px;
+                background: linear-gradient(90deg, #7a5500, #f0c030);
+            }
+
+            .line-count {
+                white-space: nowrap;
+                color: #333;
+                font-size: 0.8rem;
+                padding-left: 6px;
+            }
+
+            .speak-table {
+                width: 100%;
+                border-collapse: collapse;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.88rem;
+                margin-top: 2rem;
+            }
+
+            .speak-table th {
+                background: #5a3e00;
+                color: white;
+                padding: 8px 12px;
+                text-align: left;
+                font-weight: 700;
+                border: 1px solid #3a2800;
+            }
+
+            .speak-table td { border: 1px solid #ccc; padding: 6px 12px; }
+
+            .speak-table tr:nth-child(even) { background: #fdf8ee; }
+            .speak-table tr:hover           { background: #f5e9c0; }
+
+            .rank-cell-gold {
+                text-align: center;
+                font-weight: bold;
+                color: #7a5500;
+            }
+
+            .chart-legend {
+                display: flex;
+                gap: 1.2rem;
+                flex-wrap: wrap;
+                margin-bottom: 1rem;
+                font-size: 0.82rem;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+
+            .legend-item { display: flex; align-items: center; gap: 6px; }
+
+            .legend-swatch {
+                width: 18px;
+                height: 12px;
+                border-radius: 2px;
+                background: linear-gradient(90deg, #7a5500, #f0c030);
+                flex-shrink: 0;
+            }
+        </style>
     </head>
     <body>
         <main class="main-content">
@@ -14,7 +285,7 @@
                     <h1 class="main-title" style="text-align: center;">JoJo's Bizarre Adventure:
                         Golden Wind</h1>
                     <a href="index.html">Home</a> | <a href="our_code.html">Methods</a> | <a
-                        href="chapters.html">Chapters</a> 
+                        href="chapters.html">Chapters</a>
                     | <a href="data.html">Data</a> | <a href="sources.html">Sources</a>
                 </div>
             </div>
@@ -24,454 +295,292 @@
                     <h2 class="small-title">Data</h2>
                     <p> Down below is our table. </p>
                 </section>
+
+                <!-- ═══════════════════════════════════════════════════ -->
+                <!--  BOLD WORDS TABLES (cleaned up)                     -->
+                <!-- ═══════════════════════════════════════════════════ -->
                 <h1>Most Used Bold Words</h1>
-                <p>Diavolo Part 1 Data : This table lists words found inside elements with
-                        <code>rendition="#b"</code>, ranked by frequency.</p>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Bolded Word/Phrase</th>
-                            <th class="count-col">Frequency</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>ARROW</td>
-                            <td class="count-col">5</td>
-                        </tr>
-                        <tr>
-                            <td>SNORT</td>
-                            <td class="count-col">3</td>
-                        </tr>
-                        <tr>
-                            <td>BODY</td>
-                            <td class="count-col">2</td>
-                        </tr>
-                        <tr>
-                            <td>ARROW!</td>
-                            <td class="count-col">2</td>
-                        </tr>
-                        <tr>
-                            <td>YES!</td>
-                            <td class="count-col">2</td>
-                        </tr>
-                        <tr>
-                            <td>REQUIEM!</td>
-                            <td class="count-col">2</td>
-                        </tr>
-                        <tr>
-                            <td>?</td>
-                            <td class="count-col">2</td>
-                        </tr>
-                        <tr>
-                            <td>WHAT ELSE COULD HAVE HAPPENED, HUH!?</td>
-                            <td class="count-col">2</td>
-                        </tr>
-                        <tr>
-                            <td>SOME-THING ELSE...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SOME-THING ELSE!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>ABILITY</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SOME-THING ELSE.</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>FEAR...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SOUL...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>TRISH!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>POWER</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>ALL YOU"VE DONE IS TIE A KNOT AROUND ALL OUR NECKS!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>THE BOSS</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>GOOD!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>HAHAHAH!!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>I SEE IT NOW!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>REQUIEM...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>I SEE HOW TO SEIZE THE ARROW!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>KING CRIMSON,</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SHADOW</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>EAST...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>S SECRET!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>TRISH, BUCCELLATI, YOU NEED TO STOP, TOO!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>RIGHT THERE!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>DON'T MOVE!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>!?</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>REVOLVER...!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>OUR BODIES ARE GONNA DISAP-PEAR!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>WHAT THE HELL IS YOUR PROBLEM!?</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>. . . . . . . . . . . .</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>. . . . . . . . . . . . . . . . . .</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>THE SURFACES DON'T LINE UP BECAUSE SOME OTHER BITS FELL OFF!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>I NOW WE DON'T HAVE ANY TIME, BUT I WANT YOU TO STAY STILL TOO
-                                TRISH!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>BUCCELLATI, STAY RIGHT THERE!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SURFACE</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>MISSING PIECES!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SCRITCH SCRITCH SCRITCH</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SCRITCH</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SCRITCH SCRITCH</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>SNORT SNORT</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>GOLD EXPERIENCE.</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>HUH...?</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>NOBODY EVER APPROACHED NARANCIA WHEN HE DIED, EITHER!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>NOBODY AT ALL, OTHER THAN US!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>"POSSESSION"!?</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>TWO PERSONALITES...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>COME AND GO!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>DIAVOLO HAS POSSESSED ONE OF US!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>APPEARED</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>PERSONALITY</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>AFTER I RAN INTO THAT POLICEMAN... FIRST, TRISH CAME UP TO ME, THEN
-                                YOU DID TOO, GIORNO!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>MY GUN GOT BROKEN, RIGHT!? I... IT MUST HAVE BEEN SOMEONE NEAR
-                                ME!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>REQUIEM</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>DAMN IT...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>REQUIEM IS...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>...GETTING AWAY...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>THE NEWCOMER... I SHOULD HAVE KNOWN...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>I ALWAYS THOUGHT HE WOULD BE MY GREATEST OBSTACLE...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>GIORNO GIOVANNA...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>WHAT SHOULD I DO? THERE'S NO TIME...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <ul>
-                    <li>King of Kings Data: This table lists words found inside elements with
-                            <code>rendition="#b"</code>, ranked by frequency.</li>
-                </ul>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Bolded Word/Phrase</th>
-                            <th class="count-col">Frequency</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>ARROW</td>
-                            <td class="count-col">5</td>
-                        </tr>
-                        <tr>
-                            <td>CRACK</td>
-                            <td class="count-col">3</td>
-                        </tr>
-                        <tr>
-                            <td>GOLD EXPERIENCE!</td>
-                            <td class="count-col">2</td>
-                        </tr>
-                        <tr>
-                            <td>WE ARE ALL SOLDIERS CHOSEN BY FATE?</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>ERASE TIME</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>PRECOGNIZE</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>KING CRIMSON</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>DAMN IT!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>HOW DARE THEY! THE ARROW!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>THE ARROW ISN'T IN MY HANDS!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>DAMN THEM!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>RETREAT...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>RETREAT</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>GIORNO!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>REMAIN THE CLIMAX.</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>POWER OF THE ARROW IS</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>NO, WRONG!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>TRYING TO RUN</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>PRIDE!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>FORECAST!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>KING CRIMSON EPITAPH!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>THE POWER OF THE ARROW</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>AHAHAHAHAAHAHAHAHAHAHAHA!!!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>DESPAIR</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>RIGHT!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>THOSE WHO ARE QUALIFIED TO MASTER THE ARROW!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>YOU'VE BEEN REJECTED BY THE ARROW!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>YOU'VE FINSIHED!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>I, DIAVOLO AM THE EMPEROR!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>CRACK CRACK</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <ul>
-                    <li>Gold Experience Part 1 Data: This table lists words found inside elements
-                        with <code>rendition="#b"</code>, ranked by frequency.</li>
-                </ul>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Bolded Word/Phrase</th>
-                            <th class="count-col">Frequency</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>GI...</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>GIORNO !?</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>ARROW!?</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>ARROW'S</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>D... DAMN!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                        <tr>
-                            <td>YOU'RE FINISHED GIORNO GIOVANNA!</td>
-                            <td class="count-col">1</td>
-                        </tr>
-                    </tbody>
-                </table>
+
+                <!-- Diavolo Part 1 -->
+                <div class="bold-section">
+                    <h3>Diavolo Emerges &mdash; Part 1</h3>
+                    <p class="note">Words &amp; phrases found inside <code>rendition="#b"</code> elements, ranked by frequency.</p>
+                    <table class="bold-table">
+                        <thead>
+                            <tr>
+                                <th>Bolded Word / Phrase</th>
+                                <th class="count-col">Frequency</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>ARROW</td><td class="count-col"><span class="freq-high">5</span></td></tr>
+                            <tr><td>SNORT</td><td class="count-col"><span class="freq-med">3</span></td></tr>
+                            <tr><td>BODY</td><td class="count-col"><span class="freq-med">2</span></td></tr>
+                            <tr><td>ARROW!</td><td class="count-col"><span class="freq-med">2</span></td></tr>
+                            <tr><td>YES!</td><td class="count-col"><span class="freq-med">2</span></td></tr>
+                            <tr><td>REQUIEM!</td><td class="count-col"><span class="freq-med">2</span></td></tr>
+                            <tr><td>?</td><td class="count-col"><span class="freq-med">2</span></td></tr>
+                            <tr><td>WHAT ELSE COULD HAVE HAPPENED, HUH!?</td><td class="count-col"><span class="freq-med">2</span></td></tr>
+                            <tr><td>SOME-THING ELSE...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SOME-THING ELSE!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>ABILITY</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SOME-THING ELSE.</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>FEAR...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SOUL...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>TRISH!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>POWER</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>ALL YOU'VE DONE IS TIE A KNOT AROUND ALL OUR NECKS!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>THE BOSS</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>GOOD!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>HAHAHAH!!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>I SEE IT NOW!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>REQUIEM...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>I SEE HOW TO SEIZE THE ARROW!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>KING CRIMSON,</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SHADOW</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>EAST...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>S SECRET!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>TRISH, BUCCELLATI, YOU NEED TO STOP, TOO!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>RIGHT THERE!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>DON'T MOVE!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>!?</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>REVOLVER...!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>OUR BODIES ARE GONNA DISAP-PEAR!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>WHAT THE HELL IS YOUR PROBLEM!?</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>. . . . . . . . . . . .</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>. . . . . . . . . . . . . . . . . .</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>THE SURFACES DON'T LINE UP BECAUSE SOME OTHER BITS FELL OFF!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>I NOW WE DON'T HAVE ANY TIME, BUT I WANT YOU TO STAY STILL TOO TRISH!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>BUCCELLATI, STAY RIGHT THERE!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SURFACE</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>MISSING PIECES!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SCRITCH SCRITCH SCRITCH</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SCRITCH</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SCRITCH SCRITCH</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>SNORT SNORT</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>GOLD EXPERIENCE.</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>HUH...?</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>NOBODY EVER APPROACHED NARANCIA WHEN HE DIED, EITHER!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>NOBODY AT ALL, OTHER THAN US!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>"POSSESSION"!?</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>TWO PERSONALITES...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>COME AND GO!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>DIAVOLO HAS POSSESSED ONE OF US!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>APPEARED</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>PERSONALITY</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>AFTER I RAN INTO THAT POLICEMAN... FIRST, TRISH CAME UP TO ME, THEN YOU DID TOO, GIORNO!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>MY GUN GOT BROKEN, RIGHT!? I... IT MUST HAVE BEEN SOMEONE NEAR ME!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>REQUIEM</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>DAMN IT...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>REQUIEM IS...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>...GETTING AWAY...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>THE NEWCOMER... I SHOULD HAVE KNOWN...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>I ALWAYS THOUGHT HE WOULD BE MY GREATEST OBSTACLE...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>GIORNO GIOVANNA...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>WHAT SHOULD I DO? THERE'S NO TIME...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- King of Kings -->
+                <div class="bold-section">
+                    <h3>King of Kings</h3>
+                    <p class="note">Words &amp; phrases found inside <code>rendition="#b"</code> elements, ranked by frequency.</p>
+                    <table class="bold-table">
+                        <thead>
+                            <tr>
+                                <th>Bolded Word / Phrase</th>
+                                <th class="count-col">Frequency</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>ARROW</td><td class="count-col"><span class="freq-high">5</span></td></tr>
+                            <tr><td>CRACK</td><td class="count-col"><span class="freq-med">3</span></td></tr>
+                            <tr><td>GOLD EXPERIENCE!</td><td class="count-col"><span class="freq-med">2</span></td></tr>
+                            <tr><td>WE ARE ALL SOLDIERS CHOSEN BY FATE?</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>ERASE TIME</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>PRECOGNIZE</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>KING CRIMSON</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>DAMN IT!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>HOW DARE THEY! THE ARROW!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>THE ARROW ISN'T IN MY HANDS!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>DAMN THEM!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>RETREAT...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>RETREAT</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>GIORNO!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>REMAIN THE CLIMAX.</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>POWER OF THE ARROW IS</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>NO, WRONG!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>TRYING TO RUN</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>PRIDE!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>FORECAST!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>KING CRIMSON EPITAPH!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>THE POWER OF THE ARROW</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>AHAHAHAHAAHAHAHAHAHAHAHA!!!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>DESPAIR</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>RIGHT!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>THOSE WHO ARE QUALIFIED TO MASTER THE ARROW!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>YOU'VE BEEN REJECTED BY THE ARROW!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>YOU'VE FINSIHED!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>I, DIAVOLO AM THE EMPEROR!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>CRACK CRACK</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Gold Experience Part 1 -->
+                <div class="bold-section">
+                    <h3>Gold Experience &mdash; Part 1</h3>
+                    <p class="note">Words &amp; phrases found inside <code>rendition="#b"</code> elements, ranked by frequency.</p>
+                    <table class="bold-table">
+                        <thead>
+                            <tr>
+                                <th>Bolded Word / Phrase</th>
+                                <th class="count-col">Frequency</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>GI...</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>GIORNO !?</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>ARROW!?</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>ARROW'S</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>D... DAMN!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                            <tr><td>YOU'RE FINISHED GIORNO GIOVANNA!</td><td class="count-col"><span class="freq-low">1</span></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <hr style="margin: 2.5rem 0;">
+
+                <!-- ═══════════════════════════════════════════════════ -->
+                <!--  NETWORK VISUALIZATION IMAGE                        -->
+                <!-- ═══════════════════════════════════════════════════ -->
+                <section id="network-section">
+                    <h2 class="small-title">Word Network Graph</h2>
+                    <p class="chart-subtitle">
+                        Cytoscape network visualization of the manga word network.
+                        <strong>Red/orange nodes</strong> are manga chapter hubs; <strong>blue nodes</strong>
+                        are individual words. Edges connect each word to the chapters it appears in &mdash;
+                        darker, thicker edges indicate higher co-occurrence across chapters.
+                    </p>
+                    <figure class="network-figure">
+                        <img src="images/manga-word-network_tsv_2.png"
+                             alt="Cytoscape word network graph showing connections between manga chapters (red nodes) and words (blue nodes)" />
+                        <figcaption>
+                            manga-word-network.tsv &mdash; 1,068 word nodes &amp; 2,175 edges across 10 manga chapters. Generated in Cytoscape.
+                        </figcaption>
+                    </figure>
+                    <div class="network-link-wrap">
+                        <a class="network-btn"
+                           href="Cytoscape_Manga_Network.zip"
+                           download="Cytoscape_Manga_Network.zip">
+                            <span class="network-btn-icon">&#11123;</span>
+                            Download Interactive Network
+                        </a>
+                        <span class="network-btn-note">
+                            .zip &mdash; open <code>web_session/index.html</code> in your browser to explore the full interactive Cytoscape graph.
+                        </span>
+                    </div>
+                </section>
+
+                <hr style="margin: 2.5rem 0;">
+
+                <!-- ═══════════════════════════════════════════════════ -->
+                <!--  WORD FREQUENCY CHART                               -->
+                <!-- ═══════════════════════════════════════════════════ -->
+                <section id="word-chart-section">
+                    <h2 class="small-title">Most Used Words (Network Data)</h2>
+                    <p class="chart-subtitle">
+                        Top 30 most frequent content words across the 10 manga chapters in the
+                        Cytoscape network, measured by how many chapters each word appears in.
+                        Chapters included: Diavolo Emerges parts 1&ndash;5, King of Kings,
+                        and Gold Experience chapters 1&ndash;4.
+                        Bar length is proportional to the top word (10/10 chapters).
+                    </p>
+
+                    <div class="chart-legend">
+                        <div class="legend-item">
+                            <div class="legend-swatch"></div>
+                            Chapters word appears in (out of 10)
+                        </div>
+                    </div>
+
+                    <table class="bar-table">
+                        <tr><td class="word-label">requiem</td><td class="bar-cell"><span class="bar" style="width:100%"></span></td><td class="line-count">10 / 10 chapters</td></tr>
+                        <tr><td class="word-label">king</td><td class="bar-cell"><span class="bar" style="width:100%"></span></td><td class="line-count">10 / 10 chapters</td></tr>
+                        <tr><td class="word-label">giorno</td><td class="bar-cell"><span class="bar" style="width:100%"></span></td><td class="line-count">10 / 10 chapters</td></tr>
+                        <tr><td class="word-label">eat</td><td class="bar-cell"><span class="bar" style="width:90%"></span></td><td class="line-count">9 / 10 chapters</td></tr>
+                        <tr><td class="word-label">self</td><td class="bar-cell"><span class="bar" style="width:90%"></span></td><td class="line-count">9 / 10 chapters</td></tr>
+                        <tr><td class="word-label">thing</td><td class="bar-cell"><span class="bar" style="width:90%"></span></td><td class="line-count">9 / 10 chapters</td></tr>
+                        <tr><td class="word-label">diavolo</td><td class="bar-cell"><span class="bar" style="width:90%"></span></td><td class="line-count">9 / 10 chapters</td></tr>
+                        <tr><td class="word-label">crimson</td><td class="bar-cell"><span class="bar" style="width:90%"></span></td><td class="line-count">9 / 10 chapters</td></tr>
+                        <tr><td class="word-label">ability</td><td class="bar-cell"><span class="bar" style="width:80%"></span></td><td class="line-count">8 / 10 chapters</td></tr>
+                        <tr><td class="word-label">gold</td><td class="bar-cell"><span class="bar" style="width:80%"></span></td><td class="line-count">8 / 10 chapters</td></tr>
+                        <tr><td class="word-label">arrow</td><td class="bar-cell"><span class="bar" style="width:80%"></span></td><td class="line-count">8 / 10 chapters</td></tr>
+                        <tr><td class="word-label">mista</td><td class="bar-cell"><span class="bar" style="width:80%"></span></td><td class="line-count">8 / 10 chapters</td></tr>
+                        <tr><td class="word-label">experience</td><td class="bar-cell"><span class="bar" style="width:70%"></span></td><td class="line-count">7 / 10 chapters</td></tr>
+                        <tr><td class="word-label">stand</td><td class="bar-cell"><span class="bar" style="width:70%"></span></td><td class="line-count">7 / 10 chapters</td></tr>
+                        <tr><td class="word-label">body</td><td class="bar-cell"><span class="bar" style="width:70%"></span></td><td class="line-count">7 / 10 chapters</td></tr>
+                        <tr><td class="word-label">everything</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">damn</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">try</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">never</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">forecast</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">hand</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">something</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">buccellati</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">lose</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">look</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">boss</td><td class="bar-cell"><span class="bar" style="width:60%"></span></td><td class="line-count">6 / 10 chapters</td></tr>
+                        <tr><td class="word-label">power</td><td class="bar-cell"><span class="bar" style="width:50%"></span></td><td class="line-count">5 / 10 chapters</td></tr>
+                        <tr><td class="word-label">life</td><td class="bar-cell"><span class="bar" style="width:50%"></span></td><td class="line-count">5 / 10 chapters</td></tr>
+                        <tr><td class="word-label">die</td><td class="bar-cell"><span class="bar" style="width:50%"></span></td><td class="line-count">5 / 10 chapters</td></tr>
+                        <tr><td class="word-label">time</td><td class="bar-cell"><span class="bar" style="width:50%"></span></td><td class="line-count">5 / 10 chapters</td></tr>
+                    </table>
+
+                    <table class="speak-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Word</th>
+                                <th>Chapters Appeared In</th>
+                                <th>% of Chapters</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td class="rank-cell-gold">#1</td><td><strong>requiem</strong></td><td style="text-align:center">10</td><td>100%</td></tr>
+                            <tr><td class="rank-cell-gold">#1</td><td><strong>king</strong></td><td style="text-align:center">10</td><td>100%</td></tr>
+                            <tr><td class="rank-cell-gold">#1</td><td><strong>giorno</strong></td><td style="text-align:center">10</td><td>100%</td></tr>
+                            <tr><td class="rank-cell-gold">#4</td><td><strong>eat</strong></td><td style="text-align:center">9</td><td>90%</td></tr>
+                            <tr><td class="rank-cell-gold">#4</td><td><strong>self</strong></td><td style="text-align:center">9</td><td>90%</td></tr>
+                            <tr><td class="rank-cell-gold">#4</td><td><strong>thing</strong></td><td style="text-align:center">9</td><td>90%</td></tr>
+                            <tr><td class="rank-cell-gold">#4</td><td><strong>diavolo</strong></td><td style="text-align:center">9</td><td>90%</td></tr>
+                            <tr><td class="rank-cell-gold">#4</td><td><strong>crimson</strong></td><td style="text-align:center">9</td><td>90%</td></tr>
+                            <tr><td class="rank-cell-gold">#9</td><td><strong>ability</strong></td><td style="text-align:center">8</td><td>80%</td></tr>
+                            <tr><td class="rank-cell-gold">#9</td><td><strong>gold</strong></td><td style="text-align:center">8</td><td>80%</td></tr>
+                            <tr><td class="rank-cell-gold">#9</td><td><strong>arrow</strong></td><td style="text-align:center">8</td><td>80%</td></tr>
+                            <tr><td class="rank-cell-gold">#9</td><td><strong>mista</strong></td><td style="text-align:center">8</td><td>80%</td></tr>
+                            <tr><td class="rank-cell-gold">#13</td><td><strong>experience</strong></td><td style="text-align:center">7</td><td>70%</td></tr>
+                            <tr><td class="rank-cell-gold">#13</td><td><strong>stand</strong></td><td style="text-align:center">7</td><td>70%</td></tr>
+                            <tr><td class="rank-cell-gold">#13</td><td><strong>body</strong></td><td style="text-align:center">7</td><td>70%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>everything</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>damn</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>try</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>never</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>forecast</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>hand</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>something</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>buccellati</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>lose</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>look</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#16</td><td><strong>boss</strong></td><td style="text-align:center">6</td><td>60%</td></tr>
+                            <tr><td class="rank-cell-gold">#27</td><td><strong>power</strong></td><td style="text-align:center">5</td><td>50%</td></tr>
+                            <tr><td class="rank-cell-gold">#27</td><td><strong>life</strong></td><td style="text-align:center">5</td><td>50%</td></tr>
+                            <tr><td class="rank-cell-gold">#27</td><td><strong>die</strong></td><td style="text-align:center">5</td><td>50%</td></tr>
+                            <tr><td class="rank-cell-gold">#27</td><td><strong>time</strong></td><td style="text-align:center">5</td><td>50%</td></tr>
+                        </tbody>
+                    </table>
+                </section>
             </div>
         </main>
     </body>

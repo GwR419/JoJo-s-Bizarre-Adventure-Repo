@@ -13,19 +13,19 @@
                 color: #444;
                 margin-bottom: 1.5rem;
             }
-
+ 
             .bar-table {
                 width: 100%;
                 border-collapse: collapse;
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
                 font-size: 0.88rem;
             }
-
+ 
             .bar-table td {
                 padding: 4px 6px;
                 vertical-align: middle;
             }
-
+ 
             .char-name {
                 width: 130px;
                 text-align: right;
@@ -33,29 +33,29 @@
                 color: #111;
                 white-space: nowrap;
             }
-
+ 
             .bar-cell { width: 100%; }
-
+ 
             .bar {
                 display: block;
                 height: 22px;
                 border-radius: 3px;
                 min-width: 4px;
             }
-
+ 
             .bar.protagonist { background: linear-gradient(90deg, #00396c, #00c6ff); }
             .bar.antagonist  { background: linear-gradient(90deg, #5b0000, #c0392b); }
             .bar.ally        { background: linear-gradient(90deg, #004d2e, #1abc9c); }
             .bar.other       { background: linear-gradient(90deg, #555, #999); }
             .bar.word        { background: linear-gradient(90deg, #7a5500, #f0c030); }
-
+ 
             .line-count {
                 white-space: nowrap;
                 color: #333;
                 font-size: 0.8rem;
                 padding-left: 6px;
             }
-
+ 
             /* ── Data tables ─────────────────────────────── */
             .speak-table {
                 width: 100%;
@@ -64,7 +64,7 @@
                 font-size: 0.88rem;
                 margin-top: 2rem;
             }
-
+ 
             .speak-table th {
                 background: #00396c;
                 color: white;
@@ -73,22 +73,22 @@
                 font-weight: 700;
                 border: 1px solid #002a50;
             }
-
+ 
             .speak-table td {
                 border: 1px solid #ccc;
                 padding: 6px 12px;
             }
-
+ 
             .speak-table tr:nth-child(even) { background: #f0f8ff; }
             .speak-table tr:hover           { background: #d6eeff; }
-
+ 
             .word-table th                  { background: #5a3e00; border-color: #3a2800; }
             .word-table tr:nth-child(even)  { background: #fdf8ee; }
             .word-table tr:hover            { background: #f5e9c0; }
-
+ 
             .rank-cell      { text-align: center; font-weight: bold; color: #00396c; }
             .rank-cell-gold { text-align: center; font-weight: bold; color: #7a5500; }
-
+ 
             .role-badge {
                 display: inline-block;
                 padding: 2px 8px;
@@ -101,7 +101,7 @@
             .badge-antagonist  { background: #c0392b; }
             .badge-ally        { background: #159a6e; }
             .badge-other       { background: #888; }
-
+ 
             /* ── Legends ─────────────────────────────────── */
             .chart-legend {
                 display: flex;
@@ -111,21 +111,89 @@
                 font-size: 0.82rem;
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
             }
-
+ 
             .legend-item   { display: flex; align-items: center; gap: 6px; }
-
+ 
             .legend-swatch {
                 width: 18px;
                 height: 12px;
                 border-radius: 2px;
                 flex-shrink: 0;
             }
-
+ 
             .swatch-protagonist { background: linear-gradient(90deg, #00396c, #00c6ff); }
             .swatch-antagonist  { background: linear-gradient(90deg, #5b0000, #c0392b); }
             .swatch-ally        { background: linear-gradient(90deg, #004d2e, #1abc9c); }
             .swatch-other       { background: linear-gradient(90deg, #555, #999); }
             .swatch-word        { background: linear-gradient(90deg, #7a5500, #f0c030); }
+ 
+            /* ── Network image ───────────────────────────── */
+            .network-figure {
+                background: #f7fbff;
+                border: 1px solid #cce0f5;
+                border-radius: 8px;
+                padding: 1rem;
+                margin: 1.5rem 0;
+                text-align: center;
+            }
+ 
+            .network-figure img {
+                width: 100%;
+                max-width: 900px;
+                height: auto;
+                border-radius: 4px;
+            }
+ 
+            .network-figure figcaption {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.82rem;
+                color: #555;
+                margin-top: 0.6rem;
+                font-style: italic;
+            }
+ 
+            /* ── Network link button ─────────────────────── */
+            .network-link-wrap {
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+                flex-wrap: wrap;
+                margin: 1rem 0 0.5rem 0;
+            }
+ 
+            .network-btn {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.5rem;
+                padding: 0.5rem 1.2rem;
+                background: linear-gradient(180deg, #00c6ff 0%, #00396c 100%);
+                color: white;
+                font-family: 'Impact', 'Arial Black', sans-serif;
+                font-size: 0.95rem;
+                font-weight: 900;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
+                text-decoration: none;
+                border-radius: 5px;
+                box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+                transition: opacity 0.15s, box-shadow 0.15s;
+            }
+ 
+            .network-btn:hover {
+                opacity: 0.85;
+                box-shadow: 0 5px 14px rgba(0,0,0,0.3);
+                color: white;
+                text-decoration: none;
+            }
+ 
+            .network-btn-icon { font-size: 1.1rem; }
+ 
+            .network-btn-note {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 0.78rem;
+                color: #555;
+                font-style: italic;
+            }
         </style>
     </head>
     <body>
@@ -140,22 +208,22 @@
                 </div>
             </div>
             <hr>
-
+ 
             <div>
                 <section id="table">
                     <h2 class="small-title">Data</h2>
                     <p>Down below is our table.</p>
                 </section>
-
+ 
                 <h1>Most Used Words In The Anime</h1>
                 <p>Do not have all of the data yet. We need to determine if we want to look at the
                     whole season, or specific episodes (like King of Kings). As well as if we want
                     to redo the Manga data, as it's focusing only on the bolded words in the TEI.
                     This would give us a better comparison.</p>
                 <table></table>
-
+ 
                 <hr style="margin: 2.5rem 0;">
-
+ 
                 <!-- ═══════════════════════════════════════════════════ -->
                 <!--  SECTION 1: MOST USED WORDS                        -->
                 <!-- ═══════════════════════════════════════════════════ -->
@@ -167,168 +235,48 @@
                         Common stop words (the, a, is, you, etc.) are excluded.
                         Bar length is proportional to giorno's total count (455 uses).
                     </p>
-
+ 
                     <div class="chart-legend">
                         <div class="legend-item">
                             <div class="legend-swatch swatch-word"></div>
                             Total word count across all episodes
                         </div>
                     </div>
-
+ 
                     <!-- BAR CHART — word counts. Max = giorno at 455 -->
                     <table class="bar-table">
-                        <tr>
-                            <td class="char-name">giorno</td>
-                            <td class="bar-cell"><span class="bar word" style="width:100%"></span></td>
-                            <td class="line-count">455 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">bucciarati</td>
-                            <td class="bar-cell"><span class="bar word" style="width:94.1%"></span></td>
-                            <td class="line-count">428 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">boss</td>
-                            <td class="bar-cell"><span class="bar word" style="width:69.0%"></span></td>
-                            <td class="line-count">314 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">ink</td>
-                            <td class="bar-cell"><span class="bar word" style="width:55.8%"></span></td>
-                            <td class="line-count">254 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">narancia</td>
-                            <td class="bar-cell"><span class="bar word" style="width:43.5%"></span></td>
-                            <td class="line-count">198 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">trish</td>
-                            <td class="bar-cell"><span class="bar word" style="width:41.1%"></span></td>
-                            <td class="line-count">187 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">ability</td>
-                            <td class="bar-cell"><span class="bar word" style="width:40.9%"></span></td>
-                            <td class="line-count">186 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">damn</td>
-                            <td class="bar-cell"><span class="bar word" style="width:35.2%"></span></td>
-                            <td class="line-count">160 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">son</td>
-                            <td class="bar-cell"><span class="bar word" style="width:34.1%"></span></td>
-                            <td class="line-count">155 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">body</td>
-                            <td class="bar-cell"><span class="bar word" style="width:33.2%"></span></td>
-                            <td class="line-count">151 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">age</td>
-                            <td class="bar-cell"><span class="bar word" style="width:31.9%"></span></td>
-                            <td class="line-count">145 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">die</td>
-                            <td class="bar-cell"><span class="bar word" style="width:30.5%"></span></td>
-                            <td class="line-count">139 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">hand</td>
-                            <td class="bar-cell"><span class="bar word" style="width:30.3%"></span></td>
-                            <td class="line-count">138 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">good</td>
-                            <td class="bar-cell"><span class="bar word" style="width:28.8%"></span></td>
-                            <td class="line-count">131 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">down</td>
-                            <td class="bar-cell"><span class="bar word" style="width:28.6%"></span></td>
-                            <td class="line-count">130 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">till</td>
-                            <td class="bar-cell"><span class="bar word" style="width:27.9%"></span></td>
-                            <td class="line-count">127 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">hear</td>
-                            <td class="bar-cell"><span class="bar word" style="width:27.5%"></span></td>
-                            <td class="line-count">125 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">live</td>
-                            <td class="bar-cell"><span class="bar word" style="width:25.3%"></span></td>
-                            <td class="line-count">115 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">under</td>
-                            <td class="bar-cell"><span class="bar word" style="width:25.1%"></span></td>
-                            <td class="line-count">114 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">daughter</td>
-                            <td class="bar-cell"><span class="bar word" style="width:24.0%"></span></td>
-                            <td class="line-count">109 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">power</td>
-                            <td class="bar-cell"><span class="bar word" style="width:22.9%"></span></td>
-                            <td class="line-count">104 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">life</td>
-                            <td class="bar-cell"><span class="bar word" style="width:22.4%"></span></td>
-                            <td class="line-count">102 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">fugo</td>
-                            <td class="bar-cell"><span class="bar word" style="width:22.4%"></span></td>
-                            <td class="line-count">102 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">give</td>
-                            <td class="bar-cell"><span class="bar word" style="width:22.0%"></span></td>
-                            <td class="line-count">100 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">must</td>
-                            <td class="bar-cell"><span class="bar word" style="width:21.5%"></span></td>
-                            <td class="line-count">98 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">new</td>
-                            <td class="bar-cell"><span class="bar word" style="width:21.1%"></span></td>
-                            <td class="line-count">96 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">around</td>
-                            <td class="bar-cell"><span class="bar word" style="width:21.1%"></span></td>
-                            <td class="line-count">96 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">turn</td>
-                            <td class="bar-cell"><span class="bar word" style="width:20.7%"></span></td>
-                            <td class="line-count">94 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">left</td>
-                            <td class="bar-cell"><span class="bar word" style="width:20.2%"></span></td>
-                            <td class="line-count">92 uses</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">doing</td>
-                            <td class="bar-cell"><span class="bar word" style="width:20.0%"></span></td>
-                            <td class="line-count">91 uses</td>
-                        </tr>
+                        <tr><td class="char-name">giorno</td><td class="bar-cell"><span class="bar word" style="width:100%"></span></td><td class="line-count">455 uses</td></tr>
+                        <tr><td class="char-name">bucciarati</td><td class="bar-cell"><span class="bar word" style="width:94.1%"></span></td><td class="line-count">428 uses</td></tr>
+                        <tr><td class="char-name">boss</td><td class="bar-cell"><span class="bar word" style="width:69.0%"></span></td><td class="line-count">314 uses</td></tr>
+                        <tr><td class="char-name">ink</td><td class="bar-cell"><span class="bar word" style="width:55.8%"></span></td><td class="line-count">254 uses</td></tr>
+                        <tr><td class="char-name">narancia</td><td class="bar-cell"><span class="bar word" style="width:43.5%"></span></td><td class="line-count">198 uses</td></tr>
+                        <tr><td class="char-name">trish</td><td class="bar-cell"><span class="bar word" style="width:41.1%"></span></td><td class="line-count">187 uses</td></tr>
+                        <tr><td class="char-name">ability</td><td class="bar-cell"><span class="bar word" style="width:40.9%"></span></td><td class="line-count">186 uses</td></tr>
+                        <tr><td class="char-name">damn</td><td class="bar-cell"><span class="bar word" style="width:35.2%"></span></td><td class="line-count">160 uses</td></tr>
+                        <tr><td class="char-name">son</td><td class="bar-cell"><span class="bar word" style="width:34.1%"></span></td><td class="line-count">155 uses</td></tr>
+                        <tr><td class="char-name">body</td><td class="bar-cell"><span class="bar word" style="width:33.2%"></span></td><td class="line-count">151 uses</td></tr>
+                        <tr><td class="char-name">age</td><td class="bar-cell"><span class="bar word" style="width:31.9%"></span></td><td class="line-count">145 uses</td></tr>
+                        <tr><td class="char-name">die</td><td class="bar-cell"><span class="bar word" style="width:30.5%"></span></td><td class="line-count">139 uses</td></tr>
+                        <tr><td class="char-name">hand</td><td class="bar-cell"><span class="bar word" style="width:30.3%"></span></td><td class="line-count">138 uses</td></tr>
+                        <tr><td class="char-name">good</td><td class="bar-cell"><span class="bar word" style="width:28.8%"></span></td><td class="line-count">131 uses</td></tr>
+                        <tr><td class="char-name">down</td><td class="bar-cell"><span class="bar word" style="width:28.6%"></span></td><td class="line-count">130 uses</td></tr>
+                        <tr><td class="char-name">till</td><td class="bar-cell"><span class="bar word" style="width:27.9%"></span></td><td class="line-count">127 uses</td></tr>
+                        <tr><td class="char-name">hear</td><td class="bar-cell"><span class="bar word" style="width:27.5%"></span></td><td class="line-count">125 uses</td></tr>
+                        <tr><td class="char-name">live</td><td class="bar-cell"><span class="bar word" style="width:25.3%"></span></td><td class="line-count">115 uses</td></tr>
+                        <tr><td class="char-name">under</td><td class="bar-cell"><span class="bar word" style="width:25.1%"></span></td><td class="line-count">114 uses</td></tr>
+                        <tr><td class="char-name">daughter</td><td class="bar-cell"><span class="bar word" style="width:24.0%"></span></td><td class="line-count">109 uses</td></tr>
+                        <tr><td class="char-name">power</td><td class="bar-cell"><span class="bar word" style="width:22.9%"></span></td><td class="line-count">104 uses</td></tr>
+                        <tr><td class="char-name">life</td><td class="bar-cell"><span class="bar word" style="width:22.4%"></span></td><td class="line-count">102 uses</td></tr>
+                        <tr><td class="char-name">fugo</td><td class="bar-cell"><span class="bar word" style="width:22.4%"></span></td><td class="line-count">102 uses</td></tr>
+                        <tr><td class="char-name">give</td><td class="bar-cell"><span class="bar word" style="width:22.0%"></span></td><td class="line-count">100 uses</td></tr>
+                        <tr><td class="char-name">must</td><td class="bar-cell"><span class="bar word" style="width:21.5%"></span></td><td class="line-count">98 uses</td></tr>
+                        <tr><td class="char-name">new</td><td class="bar-cell"><span class="bar word" style="width:21.1%"></span></td><td class="line-count">96 uses</td></tr>
+                        <tr><td class="char-name">around</td><td class="bar-cell"><span class="bar word" style="width:21.1%"></span></td><td class="line-count">96 uses</td></tr>
+                        <tr><td class="char-name">turn</td><td class="bar-cell"><span class="bar word" style="width:20.7%"></span></td><td class="line-count">94 uses</td></tr>
+                        <tr><td class="char-name">left</td><td class="bar-cell"><span class="bar word" style="width:20.2%"></span></td><td class="line-count">92 uses</td></tr>
+                        <tr><td class="char-name">doing</td><td class="bar-cell"><span class="bar word" style="width:20.0%"></span></td><td class="line-count">91 uses</td></tr>
                     </table>
-
+ 
                     <!-- DATA TABLE — words -->
                     <table class="speak-table word-table">
                         <thead>
@@ -373,9 +321,45 @@
                         </tbody>
                     </table>
                 </section>
-
+ 
                 <hr style="margin: 2.5rem 0;">
-
+ 
+                <!-- ═══════════════════════════════════════════════════ -->
+                <!--  CHARACTER NETWORK GRAPH                            -->
+                <!-- ═══════════════════════════════════════════════════ -->
+                <section id="network-section">
+                    <h2 class="small-title">Character Network Graph</h2>
+                    <p class="chart-subtitle">
+                        Cytoscape network visualization of the anime character network.
+                        Node colors indicate role &mdash; <strong style="color:#c0392b">red = Enemy</strong>,
+                        <strong style="color:#00396c">dark blue = protagonist</strong>,
+                        <strong style="color:#f0a500">orange = Stand</strong>,
+                        <strong style="color:#159a6e">green = SFX / Ally / Recurring</strong>,
+                        <strong style="color:#6ab0d4">light blue = Misc</strong>.
+                        Edge thickness reflects the number of shared subtitle lines between characters.
+                    </p>
+                    <figure class="network-figure">
+                        <img src="images/char-network.png"
+                             alt="Cytoscape character network graph for Golden Wind anime, color-coded by role" />
+                        <figcaption>
+                            char-network.tsv &mdash; episode character co-occurrence network across the full season. Generated in Cytoscape.
+                        </figcaption>
+                    </figure>
+                    <div class="network-link-wrap">
+                        <a class="network-btn"
+                           href="char-network.zip"
+                           download="char-network.zip">
+                            <span class="network-btn-icon">&#11123;</span>
+                            Download Interactive Network
+                        </a>
+                        <span class="network-btn-note">
+                            .zip &mdash; open <code>web_session/index.html</code> in your browser to explore the full interactive Cytoscape graph.
+                        </span>
+                    </div>
+                </section>
+ 
+                <hr style="margin: 2.5rem 0;">
+ 
                 <!-- ═══════════════════════════════════════════════════ -->
                 <!--  SECTION 2: CHARACTER SPEAKING FREQUENCY            -->
                 <!-- ═══════════════════════════════════════════════════ -->
@@ -387,7 +371,7 @@
                         included &mdash; sound effects, signs, and unnamed extras are excluded.
                         Bar length is proportional to Bruno's total (1,679 lines).
                     </p>
-
+ 
                     <div class="chart-legend">
                         <div class="legend-item">
                             <div class="legend-swatch swatch-protagonist"></div>
@@ -406,171 +390,43 @@
                             Minor / Other
                         </div>
                     </div>
-
+ 
                     <!-- BAR CHART — character lines. Max = Bruno at 1679 -->
                     <table class="bar-table">
-                        <tr>
-                            <td class="char-name">Bruno</td>
-                            <td class="bar-cell"><span class="bar protagonist" style="width:100%"></span></td>
-                            <td class="line-count">1,679 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Mista</td>
-                            <td class="bar-cell"><span class="bar protagonist" style="width:67.4%"></span></td>
-                            <td class="line-count">1,132 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Narancia</td>
-                            <td class="bar-cell"><span class="bar protagonist" style="width:50.6%"></span></td>
-                            <td class="line-count">850 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Giorno</td>
-                            <td class="bar-cell"><span class="bar protagonist" style="width:45.9%"></span></td>
-                            <td class="line-count">770 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Abbacchio</td>
-                            <td class="bar-cell"><span class="bar protagonist" style="width:33.5%"></span></td>
-                            <td class="line-count">563 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Trish</td>
-                            <td class="bar-cell"><span class="bar protagonist" style="width:30.7%"></span></td>
-                            <td class="line-count">516 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Fugo</td>
-                            <td class="bar-cell"><span class="bar protagonist" style="width:21.8%"></span></td>
-                            <td class="line-count">366 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">The Boss</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:19.7%"></span></td>
-                            <td class="line-count">331 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Diavolo</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:19.3%"></span></td>
-                            <td class="line-count">324 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Formaggio</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:18.3%"></span></td>
-                            <td class="line-count">308 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Pesci</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:14.1%"></span></td>
-                            <td class="line-count">236 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Secco</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:13.9%"></span></td>
-                            <td class="line-count">234 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Koichi</td>
-                            <td class="bar-cell"><span class="bar ally" style="width:11.8%"></span></td>
-                            <td class="line-count">198 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Prosciutto</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:11.2%"></span></td>
-                            <td class="line-count">188 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Doppio</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:10.7%"></span></td>
-                            <td class="line-count">179 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Illuso</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:10.2%"></span></td>
-                            <td class="line-count">171 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Cioccolata</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:9.3%"></span></td>
-                            <td class="line-count">156 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Sale</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:9.1%"></span></td>
-                            <td class="line-count">153 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Melone</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:8.8%"></span></td>
-                            <td class="line-count">148 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Ghiaccio</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:7.9%"></span></td>
-                            <td class="line-count">133 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Risotto</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:7.2%"></span></td>
-                            <td class="line-count">121 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Squalo</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:6.2%"></span></td>
-                            <td class="line-count">104 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Pericolo</td>
-                            <td class="bar-cell"><span class="bar ally" style="width:5.7%"></span></td>
-                            <td class="line-count">95 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Polpo</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:5.6%"></span></td>
-                            <td class="line-count">94 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Polnareff</td>
-                            <td class="bar-cell"><span class="bar ally" style="width:5.2%"></span></td>
-                            <td class="line-count">87 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">King Crimson</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:4.9%"></span></td>
-                            <td class="line-count">82 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Tiziano</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:4.2%"></span></td>
-                            <td class="line-count">71 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Scorpia</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:3.8%"></span></td>
-                            <td class="line-count">63 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Mario</td>
-                            <td class="bar-cell"><span class="bar other" style="width:3.2%"></span></td>
-                            <td class="line-count">53 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Luca</td>
-                            <td class="bar-cell"><span class="bar antagonist" style="width:2.4%"></span></td>
-                            <td class="line-count">40 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Anita</td>
-                            <td class="bar-cell"><span class="bar other" style="width:2.2%"></span></td>
-                            <td class="line-count">37 lines</td>
-                        </tr>
-                        <tr>
-                            <td class="char-name">Jotaro</td>
-                            <td class="bar-cell"><span class="bar ally" style="width:1.8%"></span></td>
-                            <td class="line-count">30 lines</td>
-                        </tr>
+                        <tr><td class="char-name">Bruno</td><td class="bar-cell"><span class="bar protagonist" style="width:100%"></span></td><td class="line-count">1,679 lines</td></tr>
+                        <tr><td class="char-name">Mista</td><td class="bar-cell"><span class="bar protagonist" style="width:67.4%"></span></td><td class="line-count">1,132 lines</td></tr>
+                        <tr><td class="char-name">Narancia</td><td class="bar-cell"><span class="bar protagonist" style="width:50.6%"></span></td><td class="line-count">850 lines</td></tr>
+                        <tr><td class="char-name">Giorno</td><td class="bar-cell"><span class="bar protagonist" style="width:45.9%"></span></td><td class="line-count">770 lines</td></tr>
+                        <tr><td class="char-name">Abbacchio</td><td class="bar-cell"><span class="bar protagonist" style="width:33.5%"></span></td><td class="line-count">563 lines</td></tr>
+                        <tr><td class="char-name">Trish</td><td class="bar-cell"><span class="bar protagonist" style="width:30.7%"></span></td><td class="line-count">516 lines</td></tr>
+                        <tr><td class="char-name">Fugo</td><td class="bar-cell"><span class="bar protagonist" style="width:21.8%"></span></td><td class="line-count">366 lines</td></tr>
+                        <tr><td class="char-name">The Boss</td><td class="bar-cell"><span class="bar antagonist" style="width:19.7%"></span></td><td class="line-count">331 lines</td></tr>
+                        <tr><td class="char-name">Diavolo</td><td class="bar-cell"><span class="bar antagonist" style="width:19.3%"></span></td><td class="line-count">324 lines</td></tr>
+                        <tr><td class="char-name">Formaggio</td><td class="bar-cell"><span class="bar antagonist" style="width:18.3%"></span></td><td class="line-count">308 lines</td></tr>
+                        <tr><td class="char-name">Pesci</td><td class="bar-cell"><span class="bar antagonist" style="width:14.1%"></span></td><td class="line-count">236 lines</td></tr>
+                        <tr><td class="char-name">Secco</td><td class="bar-cell"><span class="bar antagonist" style="width:13.9%"></span></td><td class="line-count">234 lines</td></tr>
+                        <tr><td class="char-name">Koichi</td><td class="bar-cell"><span class="bar ally" style="width:11.8%"></span></td><td class="line-count">198 lines</td></tr>
+                        <tr><td class="char-name">Prosciutto</td><td class="bar-cell"><span class="bar antagonist" style="width:11.2%"></span></td><td class="line-count">188 lines</td></tr>
+                        <tr><td class="char-name">Doppio</td><td class="bar-cell"><span class="bar antagonist" style="width:10.7%"></span></td><td class="line-count">179 lines</td></tr>
+                        <tr><td class="char-name">Illuso</td><td class="bar-cell"><span class="bar antagonist" style="width:10.2%"></span></td><td class="line-count">171 lines</td></tr>
+                        <tr><td class="char-name">Cioccolata</td><td class="bar-cell"><span class="bar antagonist" style="width:9.3%"></span></td><td class="line-count">156 lines</td></tr>
+                        <tr><td class="char-name">Sale</td><td class="bar-cell"><span class="bar antagonist" style="width:9.1%"></span></td><td class="line-count">153 lines</td></tr>
+                        <tr><td class="char-name">Melone</td><td class="bar-cell"><span class="bar antagonist" style="width:8.8%"></span></td><td class="line-count">148 lines</td></tr>
+                        <tr><td class="char-name">Ghiaccio</td><td class="bar-cell"><span class="bar antagonist" style="width:7.9%"></span></td><td class="line-count">133 lines</td></tr>
+                        <tr><td class="char-name">Risotto</td><td class="bar-cell"><span class="bar antagonist" style="width:7.2%"></span></td><td class="line-count">121 lines</td></tr>
+                        <tr><td class="char-name">Squalo</td><td class="bar-cell"><span class="bar antagonist" style="width:6.2%"></span></td><td class="line-count">104 lines</td></tr>
+                        <tr><td class="char-name">Pericolo</td><td class="bar-cell"><span class="bar ally" style="width:5.7%"></span></td><td class="line-count">95 lines</td></tr>
+                        <tr><td class="char-name">Polpo</td><td class="bar-cell"><span class="bar antagonist" style="width:5.6%"></span></td><td class="line-count">94 lines</td></tr>
+                        <tr><td class="char-name">Polnareff</td><td class="bar-cell"><span class="bar ally" style="width:5.2%"></span></td><td class="line-count">87 lines</td></tr>
+                        <tr><td class="char-name">King Crimson</td><td class="bar-cell"><span class="bar antagonist" style="width:4.9%"></span></td><td class="line-count">82 lines</td></tr>
+                        <tr><td class="char-name">Tiziano</td><td class="bar-cell"><span class="bar antagonist" style="width:4.2%"></span></td><td class="line-count">71 lines</td></tr>
+                        <tr><td class="char-name">Scorpia</td><td class="bar-cell"><span class="bar antagonist" style="width:3.8%"></span></td><td class="line-count">63 lines</td></tr>
+                        <tr><td class="char-name">Mario</td><td class="bar-cell"><span class="bar other" style="width:3.2%"></span></td><td class="line-count">53 lines</td></tr>
+                        <tr><td class="char-name">Luca</td><td class="bar-cell"><span class="bar antagonist" style="width:2.4%"></span></td><td class="line-count">40 lines</td></tr>
+                        <tr><td class="char-name">Anita</td><td class="bar-cell"><span class="bar other" style="width:2.2%"></span></td><td class="line-count">37 lines</td></tr>
+                        <tr><td class="char-name">Jotaro</td><td class="bar-cell"><span class="bar ally" style="width:1.8%"></span></td><td class="line-count">30 lines</td></tr>
                     </table>
-
+ 
                     <!-- DATA TABLE — characters -->
                     <table class="speak-table">
                         <thead>
@@ -583,230 +439,38 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td class="rank-cell">#1</td>
-                                <td><strong>Bruno</strong></td>
-                                <td>1,679</td>
-                                <td><span class="role-badge badge-protagonist">Protagonist</span></td>
-                                <td style="text-align:center">36</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#2</td>
-                                <td><strong>Mista</strong></td>
-                                <td>1,132</td>
-                                <td><span class="role-badge badge-protagonist">Protagonist</span></td>
-                                <td style="text-align:center">30</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#3</td>
-                                <td><strong>Narancia</strong></td>
-                                <td>850</td>
-                                <td><span class="role-badge badge-protagonist">Protagonist</span></td>
-                                <td style="text-align:center">25</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#4</td>
-                                <td><strong>Giorno</strong></td>
-                                <td>770</td>
-                                <td><span class="role-badge badge-protagonist">Protagonist</span></td>
-                                <td style="text-align:center">15</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#5</td>
-                                <td><strong>Abbacchio</strong></td>
-                                <td>563</td>
-                                <td><span class="role-badge badge-protagonist">Protagonist</span></td>
-                                <td style="text-align:center">23</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#6</td>
-                                <td><strong>Trish</strong></td>
-                                <td>516</td>
-                                <td><span class="role-badge badge-protagonist">Protagonist</span></td>
-                                <td style="text-align:center">21</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#7</td>
-                                <td><strong>Fugo</strong></td>
-                                <td>366</td>
-                                <td><span class="role-badge badge-protagonist">Protagonist</span></td>
-                                <td style="text-align:center">17</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#8</td>
-                                <td><strong>The Boss</strong></td>
-                                <td>331</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">10</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#9</td>
-                                <td><strong>Diavolo</strong></td>
-                                <td>324</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">8</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#10</td>
-                                <td><strong>Formaggio</strong></td>
-                                <td>308</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">7</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#11</td>
-                                <td><strong>Pesci</strong></td>
-                                <td>236</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">6</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#12</td>
-                                <td><strong>Secco</strong></td>
-                                <td>234</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">6</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#13</td>
-                                <td><strong>Koichi</strong></td>
-                                <td>198</td>
-                                <td><span class="role-badge badge-ally">Ally</span></td>
-                                <td style="text-align:center">5</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#14</td>
-                                <td><strong>Prosciutto</strong></td>
-                                <td>188</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">6</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#15</td>
-                                <td><strong>Doppio</strong></td>
-                                <td>179</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">5</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#16</td>
-                                <td><strong>Illuso</strong></td>
-                                <td>171</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">6</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#17</td>
-                                <td><strong>Cioccolata</strong></td>
-                                <td>156</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">4</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#18</td>
-                                <td><strong>Sale</strong></td>
-                                <td>153</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">4</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#19</td>
-                                <td><strong>Melone</strong></td>
-                                <td>148</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">7</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#20</td>
-                                <td><strong>Ghiaccio</strong></td>
-                                <td>133</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">6</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#21</td>
-                                <td><strong>Risotto</strong></td>
-                                <td>121</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">4</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#22</td>
-                                <td><strong>Squalo</strong></td>
-                                <td>104</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">4</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#23</td>
-                                <td><strong>Pericolo</strong></td>
-                                <td>95</td>
-                                <td><span class="role-badge badge-ally">Ally</span></td>
-                                <td style="text-align:center">3</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#24</td>
-                                <td><strong>Polpo</strong></td>
-                                <td>94</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">3</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#25</td>
-                                <td><strong>Polnareff</strong></td>
-                                <td>87</td>
-                                <td><span class="role-badge badge-ally">Ally</span></td>
-                                <td style="text-align:center">3</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#26</td>
-                                <td><strong>King Crimson</strong></td>
-                                <td>82</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">3</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#27</td>
-                                <td><strong>Tiziano</strong></td>
-                                <td>71</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">3</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#28</td>
-                                <td><strong>Scorpia</strong></td>
-                                <td>63</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">3</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#29</td>
-                                <td><strong>Mario</strong></td>
-                                <td>53</td>
-                                <td><span class="role-badge badge-other">Other</span></td>
-                                <td style="text-align:center">2</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#30</td>
-                                <td><strong>Luca</strong></td>
-                                <td>40</td>
-                                <td><span class="role-badge badge-antagonist">Antagonist</span></td>
-                                <td style="text-align:center">2</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#31</td>
-                                <td><strong>Anita</strong></td>
-                                <td>37</td>
-                                <td><span class="role-badge badge-other">Other</span></td>
-                                <td style="text-align:center">2</td>
-                            </tr>
-                            <tr>
-                                <td class="rank-cell">#32</td>
-                                <td><strong>Jotaro</strong></td>
-                                <td>30</td>
-                                <td><span class="role-badge badge-ally">Ally</span></td>
-                                <td style="text-align:center">2</td>
-                            </tr>
+                            <tr><td class="rank-cell">#1</td><td><strong>Bruno</strong></td><td>1,679</td><td><span class="role-badge badge-protagonist">Protagonist</span></td><td style="text-align:center">36</td></tr>
+                            <tr><td class="rank-cell">#2</td><td><strong>Mista</strong></td><td>1,132</td><td><span class="role-badge badge-protagonist">Protagonist</span></td><td style="text-align:center">30</td></tr>
+                            <tr><td class="rank-cell">#3</td><td><strong>Narancia</strong></td><td>850</td><td><span class="role-badge badge-protagonist">Protagonist</span></td><td style="text-align:center">25</td></tr>
+                            <tr><td class="rank-cell">#4</td><td><strong>Giorno</strong></td><td>770</td><td><span class="role-badge badge-protagonist">Protagonist</span></td><td style="text-align:center">15</td></tr>
+                            <tr><td class="rank-cell">#5</td><td><strong>Abbacchio</strong></td><td>563</td><td><span class="role-badge badge-protagonist">Protagonist</span></td><td style="text-align:center">23</td></tr>
+                            <tr><td class="rank-cell">#6</td><td><strong>Trish</strong></td><td>516</td><td><span class="role-badge badge-protagonist">Protagonist</span></td><td style="text-align:center">21</td></tr>
+                            <tr><td class="rank-cell">#7</td><td><strong>Fugo</strong></td><td>366</td><td><span class="role-badge badge-protagonist">Protagonist</span></td><td style="text-align:center">17</td></tr>
+                            <tr><td class="rank-cell">#8</td><td><strong>The Boss</strong></td><td>331</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">10</td></tr>
+                            <tr><td class="rank-cell">#9</td><td><strong>Diavolo</strong></td><td>324</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">8</td></tr>
+                            <tr><td class="rank-cell">#10</td><td><strong>Formaggio</strong></td><td>308</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">7</td></tr>
+                            <tr><td class="rank-cell">#11</td><td><strong>Pesci</strong></td><td>236</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">6</td></tr>
+                            <tr><td class="rank-cell">#12</td><td><strong>Secco</strong></td><td>234</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">6</td></tr>
+                            <tr><td class="rank-cell">#13</td><td><strong>Koichi</strong></td><td>198</td><td><span class="role-badge badge-ally">Ally</span></td><td style="text-align:center">5</td></tr>
+                            <tr><td class="rank-cell">#14</td><td><strong>Prosciutto</strong></td><td>188</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">6</td></tr>
+                            <tr><td class="rank-cell">#15</td><td><strong>Doppio</strong></td><td>179</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">5</td></tr>
+                            <tr><td class="rank-cell">#16</td><td><strong>Illuso</strong></td><td>171</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">6</td></tr>
+                            <tr><td class="rank-cell">#17</td><td><strong>Cioccolata</strong></td><td>156</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">4</td></tr>
+                            <tr><td class="rank-cell">#18</td><td><strong>Sale</strong></td><td>153</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">4</td></tr>
+                            <tr><td class="rank-cell">#19</td><td><strong>Melone</strong></td><td>148</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">7</td></tr>
+                            <tr><td class="rank-cell">#20</td><td><strong>Ghiaccio</strong></td><td>133</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">6</td></tr>
+                            <tr><td class="rank-cell">#21</td><td><strong>Risotto</strong></td><td>121</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">4</td></tr>
+                            <tr><td class="rank-cell">#22</td><td><strong>Squalo</strong></td><td>104</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">4</td></tr>
+                            <tr><td class="rank-cell">#23</td><td><strong>Pericolo</strong></td><td>95</td><td><span class="role-badge badge-ally">Ally</span></td><td style="text-align:center">3</td></tr>
+                            <tr><td class="rank-cell">#24</td><td><strong>Polpo</strong></td><td>94</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">3</td></tr>
+                            <tr><td class="rank-cell">#25</td><td><strong>Polnareff</strong></td><td>87</td><td><span class="role-badge badge-ally">Ally</span></td><td style="text-align:center">3</td></tr>
+                            <tr><td class="rank-cell">#26</td><td><strong>King Crimson</strong></td><td>82</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">3</td></tr>
+                            <tr><td class="rank-cell">#27</td><td><strong>Tiziano</strong></td><td>71</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">3</td></tr>
+                            <tr><td class="rank-cell">#28</td><td><strong>Scorpia</strong></td><td>63</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">3</td></tr>
+                            <tr><td class="rank-cell">#29</td><td><strong>Mario</strong></td><td>53</td><td><span class="role-badge badge-other">Other</span></td><td style="text-align:center">2</td></tr>
+                            <tr><td class="rank-cell">#30</td><td><strong>Luca</strong></td><td>40</td><td><span class="role-badge badge-antagonist">Antagonist</span></td><td style="text-align:center">2</td></tr>
+                            <tr><td class="rank-cell">#31</td><td><strong>Anita</strong></td><td>37</td><td><span class="role-badge badge-other">Other</span></td><td style="text-align:center">2</td></tr>
+                            <tr><td class="rank-cell">#32</td><td><strong>Jotaro</strong></td><td>30</td><td><span class="role-badge badge-ally">Ally</span></td><td style="text-align:center">2</td></tr>
                         </tbody>
                     </table>
                 </section>
