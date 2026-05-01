@@ -146,6 +146,29 @@
 &lt;/xsl:stylesheet&gt;</code>
     </pre>
             </div>
+            
+            <h2 class="small-title">How we scraped the episode files from the web.</h2>
+            <iframe
+                src="https://nbviewer.org/github/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/python/episodeScraper.ipynb"
+                width="100%"
+                height="800px"
+                frameborder="0">
+            </iframe>
+            
+            <h2 class="small-title">How we convereted our text files to XML.</h2>
+            <p> We first needed to capitalize every first letter of each line in order to run our XProc/ixml.</p>
+            <a href="https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/python/episodeCapitalizer.py" 
+                target="_blank">
+                Episode Captializer
+            </a>
+            
+            <h2 class="small-title">Coverting everyting to XML all at once.</h2>
+            <p>After our ixml was working on all of our files, we ran our XProc to convert everything to XML.</p>
+            
+            <a href="https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/jojo-pipeline.xpl" 
+                target="_blank">
+                Our XProc
+            </a>
         </main>
     </body>
 </html>
