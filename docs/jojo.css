@@ -181,7 +181,10 @@ figure {
     padding: 5px;
     width: 100%;
     text-align: center;
+    max-width: 800px;        
+    box-sizing: border-box;  
 }
+
 
 
 
