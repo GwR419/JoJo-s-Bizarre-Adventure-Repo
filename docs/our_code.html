@@ -146,33 +146,37 @@
 &lt;/xsl:stylesheet&gt;</code>
     </pre>
             </div>
-            
             <h2 class="small-title">How we scraped the episode files from the web.</h2>
+            <a href="https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/python/episodeScraper.ipynb"
+                target="_blank">
+                Link to GitHub if page is not loading.
+            </a>
+            
             <iframe
                 src="https://nbviewer.org/github/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/python/episodeScraper.ipynb"
-                width="100%"
-                height="800px"
+                style="width: 100%; height: 800px;"
                 frameborder="0">
             </iframe>
             
-            <h2 class="small-title">How we convereted our text files to XML.</h2>
-            <p> We first needed to capitalize every first letter of each line in order to run our XProc/ixml.</p>
-            <a href="https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/python/episodeCapitalizer.py" 
+            <h2 class="small-title">How we converted our text files to XML.</h2>
+            <p>We first needed to capitalize every first letter of each line in order to run our XProc/ixml.</p>
+            <a href="https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/python/episodeCapitalizer.py"
                 target="_blank">
-                Episode Captializer
+                Episode Capitalizer
             </a>
             
-            <h2 class="small-title">Coverting everyting to XML all at once.</h2>
+            <h2 class="small-title">Converting everything to XML all at once.</h2>
             <p>After our ixml was working on all of our files, we ran our XProc to convert everything to XML.</p>
             
-            <a href="https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/jojo-pipeline.xpl" 
+            <a href="https://github.com/GwR419/JoJo-s-Bizarre-Adventure-Repo/blob/main/jojo-pipeline.xpl"
                 target="_blank">
                 Our XProc
             </a>
             
             <figure>
-                <object data="jojo_mermaid.svg" type="image/svg+xml" style="width: 100%; height: 600px;"></object>
-                <figcaption>Figure 1: Our project workflow from web scraping to network visualization</figcaption>
+                <h2 class="small-title">Mermaid Workflow</h2>
+                <object data="jojo_mermaid.svg" type="image/svg+xml" style="width: 100%; height: 800px;"></object>
+                <figcaption>Figure 1: Our project workflow from web scraping to network and data visualization</figcaption>
             </figure>
             
             
